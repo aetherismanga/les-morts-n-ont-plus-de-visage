@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v1-clean';
+const CACHE_NAME = 'les-morts-v2-complete-novel';
 const CORE = [
   './',
   './index.html',
