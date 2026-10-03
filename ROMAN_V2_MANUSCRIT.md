@@ -11403,6 +11403,172 @@ Je souris.
 
 — C’est contagieux.
 
+Nous retournâmes dans mon immeuble.
+
+Je n’y étais jamais revenu avec une équipe depuis le début de l’affaire.
+
+Voir son domicile devenir une scène potentielle est une expérience particulière.
+
+Le hall que je traversais chaque jour fut photographié sous tous les angles.
+
+La caméra de 2 h 12 se trouvait au-dessus des boîtes aux lettres.
+
+Nadir reconstitua le trajet.
+
+L’homme sort de l’ascenseur.
+
+Tête baissée.
+
+Il porte un blouson qui ressemble au mien.
+
+Il s’arrête devant la porte vitrée.
+
+Deux secondes.
+
+Puis sort.
+
+— Qu’est-ce qu’il regarde ? demandai-je.
+
+Nadir agrandit non pas le visage, mais la direction.
+
+— À droite.
+
+À droite du hall se trouve un miroir décoratif.
+
+Je l’avais oublié.
+
+Nous récupérâmes le miroir.
+
+Poussière.
+
+Traces trop anciennes.
+
+Mais l’angle changeait tout.
+
+La personne pouvait voir quelqu’un dehors avant de sortir.
+
+Dans le reflet de la vidéo, les surchaussures blanches apparaissaient.
+
+Puis une main.
+
+Elle tenait quelque chose.
+
+Rectangle sombre.
+
+— Téléphone ?
+
+— Peut-être.
+
+Je souris.
+
+Nadir leva un doigt.
+
+— Ne m’encouragez pas.
+
+Nous cherchâmes dans les logs de la porte.
+
+À 2 h 11 min 48, le badge d’entrée du gardien avait été utilisé depuis l’extérieur.
+
+Le gardien dormait.
+
+Badge dans son appartement.
+
+Clonage RFID.
+
+— Hélène avait les compétences ?
+
+— Pas directement, dit Nadir. Mais ses prestataires, oui.
+
+Nous frappâmes chez le gardien.
+
+Il se souvenait d’une intervention de maintenance deux semaines plus tôt.
+
+— Une dame avait demandé où était la caméra.
+
+— Description ?
+
+— Cinquante ans peut-être. Masque. Cheveux cachés.
+
+Toujours ces déguisements qui n’en étaient pas.
+
+Tenue de travail.
+
+Masque banal.
+
+Personne ne regarde les gens qui ont une raison d’être là.
+
+Dans mon appartement, Sarah s’arrêta devant une photographie de mon père.
+
+— Tu l’avais déjà.
+
+— Oui.
+
+— Avant nous.
+
+— Donc ma mémoire n’a pas tout supprimé.
+
+— Non.
+
+Elle parcourut la pièce.
+
+— Tu as changé les meubles.
+
+— Depuis 2009 ? J’espère.
+
+Elle sourit.
+
+Puis ouvrit un placard.
+
+Au fond, une boîte en carton.
+
+— C’est quoi ?
+
+— Aucune idée.
+
+À l’intérieur, de vieux objets.
+
+Un billet de concert 2008.
+
+Une facture.
+
+Une photographie pliée.
+
+Sarah et moi à Collioure.
+
+Je la regardai.
+
+— Je croyais avoir tout jeté.
+
+— Moi aussi.
+
+Au dos, mon écriture :
+
+**NE PAS LAISSER LES AUTRES DÉCIDER DE CE QUE J’OUBLIE.**
+
+Nous restâmes immobiles.
+
+Date :
+
+2010.
+
+Un an après la carrière.
+
+— Tu savais, murmura Sarah.
+
+— Quoi ?
+
+— Que quelqu’un avait décidé à ta place.
+
+Je retournai la photo.
+
+Aucun souvenir.
+
+Mais une trace de moi-même s’adressait au futur.
+
+Pour la première fois, je sentis que le Gabriel de 2009 n’était pas seulement une victime muette de mes trous de mémoire.
+
+Il avait peut-être essayé de me laisser des défenses.
+
 Nous examinâmes les véhicules professionnels.
 
 Une anomalie.
@@ -11950,6 +12116,222 @@ Recherche.
 Aucun document ne mentionnait cette durée.
 
 — Continuez, dis-je.
+
+Hélène demanda une pause.
+
+Son avocat protesta.
+
+Elle refusa.
+
+— Non. Maintenant.
+
+Elle regarda la caméra de surveillance de la salle.
+
+— Vous voulez savoir ce qu’était Observer pour moi ?
+
+Je ne répondis pas.
+
+— Au début, une anomalie. Un compte dans les vieux systèmes de mon mari.
+
+— Antoine.
+
+— Oui.
+
+— Vous connaissiez ses accès.
+
+— Certains. Après sa mort, j’ai conservé des sauvegardes.
+
+— Illégalement.
+
+— Oui.
+
+Elle n’essayait plus de paraître respectable.
+
+— En 2019, quand le dossier Clara a été numérisé, quelqu’un a utilisé un de ces comptes. J’ai pensé à Mathieu.
+
+— Pourquoi ?
+
+— Parce qu’il avait les compétences et la motivation.
+
+— Vous l’avez confronté.
+
+— Oui.
+
+— Il a nié.
+
+— Bien sûr.
+
+— Vous l’avez cru ?
+
+— Non.
+
+— Erreur ?
+
+— Peut-être.
+
+Je laissai le mot passer.
+
+— Quand avez-vous compris que ce n’était pas lui ?
+
+— Après sa mort.
+
+— Les connexions ont continué.
+
+— Oui.
+
+— Donc vous avez eu peur.
+
+Elle sourit.
+
+— Enfin une émotion simple.
+
+— Observer vous menaçait ?
+
+— Pas exactement.
+
+— Que faisait-il ?
+
+— Il me donnait des informations.
+
+— Sur quoi ?
+
+— Des choses que j’avais cachées.
+
+— Donc quelqu’un avait vos archives.
+
+— Oui.
+
+— Puis ?
+
+— Des choses que je n’avais jamais écrites.
+
+— Comme la phrase de Clara.
+
+— Oui.
+
+Elle fixa la table.
+
+— Il connaissait aussi le prénom Noé.
+
+Je cessai de respirer.
+
+— Peu de gens le connaissaient.
+
+— Vous. Sarah. Cazeneuve. Moi, après l’hôpital.
+
+— Martin ?
+
+— Peut-être plus tard.
+
+— Mathieu ?
+
+— Clara pouvait lui avoir parlé de la grossesse de Sarah ? Peu probable.
+
+Je réfléchis.
+
+Le cercle des personnes ayant accès à certains détails était restreint.
+
+Mais chaque détail avait un cercle différent.
+
+Observer semblait se trouver à leur intersection.
+
+— Vous avez essayé de le piéger ?
+
+— Plusieurs fois.
+
+— Comment ?
+
+— En créant de fausses informations uniques.
+
+Elle expliqua.
+
+À un contact, elle faisait croire que le dossier original était à Béziers.
+
+À un autre, à Nîmes.
+
+À un troisième, à Montpellier.
+
+Puis elle observait quelle fausse piste revenait.
+
+— Résultat ?
+
+— Aucune.
+
+— Donc Observer avait une autre source.
+
+— Ou voyait mes pièges.
+
+— Vous avez commencé à soupçonner tout le monde.
+
+— Oui.
+
+— Sarah ?
+
+Hélène ferma les yeux.
+
+— Un temps.
+
+— Votre propre fille.
+
+— Oui.
+
+— Théo ?
+
+— Oui.
+
+— Mathieu ?
+
+— Toujours.
+
+— Moi ?
+
+Elle me regarda.
+
+— Jamais avant cette année.
+
+— Pourquoi cette année ?
+
+— Parce que certains accès se produisaient pendant vos propres connexions au dossier.
+
+Je me raidis.
+
+— Vous pensiez que j’étais Observer.
+
+— Je me suis demandé si votre amnésie était aussi complète que je le croyais.
+
+— Vous m’avez donc étudié.
+
+— Oui.
+
+— Et provoqué des souvenirs.
+
+— Oui.
+
+— Pour voir si je réagissais comme quelqu’un qui savait déjà.
+
+— Oui.
+
+Je me levai presque.
+
+— Toute cette enquête était aussi votre test.
+
+— Une partie.
+
+— Combien de morts dans votre test ?
+
+Elle baissa les yeux.
+
+— Trop.
+
+Je compris mieux son message :
+
+*Depuis le premier jour, j’enquête sur ce que tu es capable de croire.*
+
+Ce n’était pas seulement de la manipulation.
+
+Hélène cherchait elle-même Observer.
+
+Et elle avait envisagé que ce soit moi.
 
 — Observer connaissait la durée. Il connaissait aussi une phrase prononcée par Clara avant sa chute que je n’avais jamais racontée.
 
@@ -12689,6 +13071,112 @@ Une différence minuscule.
 
 Deux histoires totalement différentes.
 
+Nous fîmes venir deux experts extérieurs qui ignoraient presque tout du dossier.
+
+Le premier analysa le flux.
+
+Le second, les visages et mouvements.
+
+Aucun ne reçut nos hypothèses.
+
+Résultat :
+
+La vidéo de 2 h 53 était très probablement authentique jusqu’à la coupure.
+
+Pas de génération détectable.
+
+Pas de modification significative du timecode.
+
+Après la reprise, même source.
+
+Donc les onze minutes manquantes n’étaient pas un montage ultérieur.
+
+La caméra avait réellement cessé d’enregistrer.
+
+— Quelqu’un était sur place et a coupé, dis-je.
+
+— Ou commande distante.
+
+Nadir montra **G.VARENNE_LOCAL**.
+
+Nous recherchâmes la création de cet identifiant.
+
+Date : 2 octobre à 18 h 22.
+
+Six heures avant ma venue.
+
+Créateur :
+
+**M.VIDAL_SCRIPT.**
+
+— Mathieu était mort.
+
+— Script programmé avant.
+
+Le script créait l’utilisateur avec mon nom si un certain appareil entrait sur le réseau.
+
+— Quel appareil ?
+
+Nadir remonta.
+
+Adresse MAC partielle.
+
+Mon téléphone.
+
+Je le regardai.
+
+— Donc Mathieu avait prévu que mon téléphone se connecterait chez les Morel.
+
+— Oui.
+
+— Emma lui avait mon numéro.
+
+— Probable.
+
+— Mais comment le script savait que je couperais le flux ?
+
+— Peut-être qu’il ne savait pas. Il donnait simplement à ton téléphone le droit de le faire.
+
+Voilà une distinction essentielle.
+
+Mathieu n’avait pas nécessairement écrit notre comportement.
+
+Il avait préparé des outils pour certaines possibilités.
+
+La mythologie d’un plan omniscient commençait à se fissurer.
+
+Beaucoup de choses pouvaient être expliquées par des scénarios conditionnels.
+
+Si A arrive, faire B.
+
+Si la pièce 010 est authentifiée, ouvrir 25.
+
+Si 25 est vue, ouvrir 26.
+
+Pas besoin de prédire.
+
+Seulement anticiper plusieurs branches.
+
+— Comme un programme, dit Nadir.
+
+— Mais l’histoire reste linéaire pour nous.
+
+— Parce qu’on ne voit que le chemin emprunté.
+
+Je pensai à Mathieu.
+
+Spécialiste des systèmes.
+
+Il avait peut-être construit une enquête posthume non pas comme une suite d’événements certains, mais comme un ensemble de portes.
+
+Cela expliquait une partie de l’impression surnaturelle.
+
+Pas Observer.
+
+Mais la mécanique.
+
+Et cela rendait le tout beaucoup plus plausible.
+
 Nous examinâmes le fichier pendant six heures.
 
 Authenticité globale élevée.
@@ -12870,6 +13358,190 @@ Impossible.
 Martin me regarda.
 
 — Tu vois ? Tout le monde y est.
+
+Avant l’entretien avec Théo, Montels me demanda une chose.
+
+— Tu ne cherches pas une confession pour te rassurer.
+
+— Je cherche ce qui s’est passé.
+
+— Non. Tu cherches le moment où tu deviens innocent.
+
+Je la regardai.
+
+— Ça existe.
+
+— Juridiquement, oui. Psychologiquement, je ne sais pas.
+
+Elle avait compris.
+
+Même si Théo avouait la mort d’Emma, il resterait ma présence.
+
+Mon échec.
+
+Les minutes où j’avais été là.
+
+— Tu n’es pas responsable de tout ce que tu n’as pas empêché.
+
+— Dis ça aux familles.
+
+— Je leur dis souvent.
+
+Je n’avais jamais envié son métier.
+
+Théo entra ensuite.
+
+Avant les questions, il me demanda :
+
+— Vous vous souvenez maintenant ?
+
+— De certaines choses.
+
+— De moi ?
+
+— À la maison, non.
+
+Il hocha la tête.
+
+— Grand-mère disait que ça reviendrait dans le mauvais ordre.
+
+— Elle avait raison ?
+
+— Elle a toujours raison jusqu’au moment où ça détruit quelqu’un.
+
+La phrase me surprit.
+
+— Emma disait ça ?
+
+— Non. Moi.
+
+Pour la première fois, Théo exprimait une pensée qui ne semblait appartenir ni à Hélène ni à Mathieu.
+
+— Pourquoi tu as commencé ?
+
+Il fixa ses mains.
+
+— J’ai trouvé une photo de Clara dans les affaires de papa.
+
+— Quand ?
+
+— Deux ans avant.
+
+— Pas Hélène.
+
+— Non.
+
+Important.
+
+— Puis ?
+
+— J’ai demandé. Papa a dit que c’était personne. Maman a pleuré.
+
+— Et là Hélène intervient.
+
+— Je l’ai appelée.
+
+— Donc elle ne t’a pas choisi au départ.
+
+— Non.
+
+Toute notre narration changeait légèrement.
+
+Hélène avait exploité une obsession déjà née.
+
+Elle ne l’avait pas créée.
+
+— Qu’est-ce qu’elle t’a donné en premier ?
+
+— Le rapport des urgences.
+
+— Authentique.
+
+— Oui.
+
+— Puis les six pages ?
+
+— Plus tard.
+
+— Puis une vidéo.
+
+— Oui.
+
+— Celle de la carrière.
+
+Il acquiesça.
+
+— À quel moment tu as décidé de tuer tes parents ?
+
+Il resta silencieux.
+
+— Je n’avais pas décidé.
+
+— Tu avais acheté des sédatifs.
+
+— Je voulais les faire parler.
+
+— En les droguant.
+
+— Oui.
+
+— Tu avais préparé les photos mutilées.
+
+— Oui.
+
+— Les couverts.
+
+— Oui.
+
+— Donc tu préparais une scène.
+
+— Pas des morts.
+
+Je le regardai.
+
+C’était plausible.
+
+Pas exonératoire.
+
+— Laurent se réveille.
+
+— Il m’a reconnu.
+
+— Il t’a attaqué ?
+
+— Il m’a dit que Clara était une salope.
+
+Théo serra les poings.
+
+— Je l’ai frappé.
+
+— Combien de fois ?
+
+— Je sais pas.
+
+— Sophie ?
+
+— Elle a essayé de me tirer en arrière. Je lui ai donné une autre dose.
+
+— Trop forte.
+
+Il pleurait.
+
+— Oui.
+
+— Emma ?
+
+Il ne répondit plus.
+
+La suite viendrait.
+
+Mais déjà, une chose était claire :
+
+Le massacre n’avait peut-être jamais été prévu comme massacre.
+
+Un plan de confrontation avait basculé.
+
+Hélène avait poussé Théo vers un bord sans savoir — ou sans accepter — qu’il pouvait tomber.
 
 Nous retournâmes voir Théo.
 
@@ -13293,6 +13965,100 @@ Cinquante-deux secondes.
 
 Toujours absentes.
 
+Les semaines suivantes furent consacrées à ce que les séries montrent rarement : vérifier.
+
+Vérifier encore.
+
+Comparer une version à une facture.
+
+Une facture à une caméra.
+
+Une caméra à une donnée GPS.
+
+Réentendre les mêmes personnes.
+
+Accepter que certaines contradictions viennent simplement d’une mauvaise mémoire.
+
+Le réseau financier des meurtres de Marseille et de Cazeneuve fut cartographié.
+
+Trois sociétés écrans.
+
+Deux portefeuilles numériques.
+
+Un intermédiaire.
+
+L’argent initial provenait bien d’un compte contrôlé historiquement par Hélène.
+
+Mais un transfert avait été effectué pendant une période où les logs montraient l’accès d’Observer_01.
+
+— Ça n’innocente pas Hélène, dit Montels.
+
+— Non.
+
+— Ça empêche seulement d’affirmer qu’elle a payé.
+
+— Oui.
+
+Le tireur de Cazeneuve reconnut avoir reçu une photographie et une heure.
+
+Jamais de voix.
+
+Jamais de rencontre.
+
+L’homme recruté pour les Carmin était mort.
+
+Son ordinateur contenait une instruction :
+
+**Ne pas toucher au garçon si la mère parle avant.**
+
+Hugo avait pourtant été tué.
+
+— Donc le tueur n’a pas respecté ? demanda Martin.
+
+— Ou l’instruction a été ajoutée après.
+
+Nadir data le fichier.
+
+Avant le meurtre.
+
+Cela suggérait que le commanditaire ne voulait peut-être pas la mort de l’enfant.
+
+Le tueur avait dépassé l’ordre.
+
+Comme Théo.
+
+Encore un plan qui produisait davantage de violence que prévu.
+
+Si Hélène était derrière, cela n’excusait rien.
+
+Mais cela correspondait à son schéma : croire qu’on peut pousser des gens dangereux jusqu’à une limite précise.
+
+Et découvrir trop tard que les humains ne respectent pas les protocoles.
+
+Concernant Mathieu, la réanalyse toxicologique confirma un produit rare.
+
+Hélène y avait eu accès autrefois.
+
+Mais aussi plusieurs établissements.
+
+Nous retrouvâmes la prescription d’un lot disparu d’un service en 2025.
+
+Signature falsifiée.
+
+Compte utilisé : ancien accès d’Antoine Lemaire.
+
+Observer.
+
+Toujours cette porte.
+
+Nous n’identifiâmes jamais la main qui l’avait ouverte.
+
+Le dossier n’était pas incomplet parce que nous avions mal travaillé.
+
+Il était incomplet parce que certaines preuves n’existaient plus.
+
+Accepter cette limite fut probablement la partie la plus difficile de toute l’enquête.
+
 Le parquet annonça la fin de la phase principale.
 
 Les chefs étaient lourds.
@@ -13476,6 +14242,78 @@ Mais cette vidéo-là était antérieure à toute médiatisation.
 Il m’avait insulté.
 
 C’était devenu notre plaisanterie.
+
+Je repris aussi une thérapie.
+
+Je détestais le mot.
+
+Puis j’appris à détester davantage ce que je faisais sans elle.
+
+La psychologue ne cherchait pas à « récupérer » mes souvenirs.
+
+— Vous avez déjà assez de gens qui essaient de vous faire vous souvenir de choses, dit-elle.
+
+— Alors on fait quoi ?
+
+— On travaille avec ce que vous savez aujourd’hui.
+
+— C’est frustrant.
+
+— Oui.
+
+Elle refusait de regarder les vidéos du dossier.
+
+— Pourquoi ?
+
+— Parce que votre problème n’est pas que je tranche leur authenticité.
+
+— Pratique.
+
+— Vous êtes très mauvais patient.
+
+— On me l’a déjà dit.
+
+Un jour, elle posa une question :
+
+— Si vous ne récupérez jamais la mémoire de Sarah avant 2009, est-ce que votre relation actuelle est moins réelle ?
+
+Je n’eus pas de réponse.
+
+Cette question me suivit.
+
+Avec Sarah, nous décidâmes une règle.
+
+Pas de test.
+
+Elle ne me demanderait plus :
+
+*Tu te souviens ?*
+
+Je ne chercherais plus dans chaque lieu un flash comme preuve de ce que j’avais ressenti.
+
+Nous irions dans de nouveaux endroits.
+
+Le premier fut un restaurant où aucun de nous n’était jamais allé.
+
+À la fin, Sarah demanda :
+
+— Alors ?
+
+— Alors quoi ?
+
+Elle sourit.
+
+— Rien. Je testais notre règle.
+
+Je ris.
+
+Ce soir-là devint un souvenir neuf.
+
+Pas récupéré.
+
+Créé.
+
+Dans une histoire obsédée par les archives, c’était presque un acte de résistance.
 
 Sarah et moi nous voyions encore.
 
