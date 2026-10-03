@@ -5,15 +5,33 @@
 
 La fille courait sans savoir où aller.
 
-Elle avait perdu sa chaussure gauche quelque part derrière la maison aux volets bleus. Les pierres de la garrigue lui ouvraient la plante du pied, mais la douleur restait lointaine, presque étrangère. Tout ce qu’elle sentait vraiment, c’était sa gorge.
+Elle avait perdu sa chaussure gauche quelque part derrière la maison aux volets bleus. Elle ne se souvenait pas de l’avoir perdue. Seulement d’avoir senti son pied glisser, puis la terre froide sous sa plante nue.
 
-La brûlure sous la peau. Les quatre marques laissées par des doigts.
+Les pierres de la garrigue lui ouvraient la peau.
 
-Clara Vidal avait dix-sept ans et venait de comprendre une chose qu’aucun enfant ne devrait apprendre : les adultes pouvaient avoir peur de la vérité au point de préférer un cadavre.
+Elle ne sentait presque rien.
+
+Tout ce qu’elle sentait vraiment, c’était sa gorge.
+
+La brûlure sous la peau. Les marques laissées par des doigts. Chaque inspiration frottait contre quelque chose de gonflé à l’intérieur de son cou.
+
+Clara Vidal avait dix-sept ans et, cette nuit-là, elle venait de comprendre une chose qu’aucun enfant ne devrait apprendre : les adultes pouvaient avoir peur de la vérité au point de préférer un cadavre.
 
 Elle serrait un petit téléphone contre sa poitrine.
 
+Un appareil gris, rayé sur un angle, qui tenait mal la charge et dont l’écran s’éteignait parfois sans raison.
+
 À l’intérieur, une vidéo de moins d’une minute.
+
+Cinquante-deux secondes exactement.
+
+Elle l’avait regardée trois fois.
+
+La première fois, elle n’avait pas compris.
+
+La deuxième, elle avait compris.
+
+La troisième, elle avait eu peur.
 
 Assez pour détruire une famille.
 
@@ -25,23 +43,45 @@ Derrière elle, quelqu’un cria :
 
 Elle reconnut la voix.
 
+Son corps réagit avant elle.
+
 Elle accéléra.
 
-La garrigue avalait la lumière. Plus bas, la route apparaissait entre les pins. À droite, derrière la colline, la carrière n’était plus qu’à quelques centaines de mètres.
+La garrigue avalait la lumière. Les branches basses lui griffaient les bras. Plus bas, la route apparaissait entre les pins par intermittence, bande grise sous un ciel sans lune.
+
+À droite, derrière la colline, la carrière n’était plus qu’à quelques centaines de mètres.
+
+Elle savait qu’il y avait une ancienne baraque de chantier près de l’entrée. Peut-être un téléphone. Peut-être un gardien.
+
+Peut-être personne.
+
+Elle courait quand même.
 
 Son téléphone vibra.
+
+Clara faillit le lâcher.
 
 Un message.
 
 **REGARDE-MOI.**
 
-Clara s’arrêta une fraction de seconde.
+Elle ralentit.
 
 Le numéro n’existait pas dans ses contacts.
 
+Elle tourna sur elle-même.
+
+Les pins.
+
+Le chemin.
+
+L’obscurité.
+
+Rien.
+
 Une portière claqua derrière elle.
 
-— Je veux juste parler !
+— Clara ! Je veux juste parler !
 
 Elle se remit à courir.
 
@@ -51,7 +91,15 @@ Une seconde voiture apparut au loin.
 
 Des phares balayèrent les arbres.
 
-Clara quitta le chemin et glissa entre deux pins. Une branche lui fouetta le visage. Elle étouffa un cri.
+Pendant une seconde, Clara crut qu’on venait l’aider.
+
+Puis les phares s’éteignirent.
+
+Elle quitta le chemin et glissa entre deux pins.
+
+Une branche lui fouetta la joue.
+
+Elle porta la main à son visage. Ses doigts revinrent humides.
 
 Son téléphone vibra encore.
 
@@ -59,33 +107,93 @@ Cette fois, aucun texte.
 
 Une photographie.
 
-Elle, photographiée de dos.
+Clara fronça les sourcils.
 
-À l’instant même.
+L’image la montrait de dos.
 
-Clara se retourna.
+Même débardeur clair.
 
-Personne.
+Même jean.
 
-Puis une silhouette passa entre les arbres.
+Même téléphone serré contre elle.
 
-Elle reprit sa course.
+La photo venait d’être prise.
 
-Lorsqu’elle atteignit la carrière, le vent lui coupa le souffle. Le vide s’ouvrait devant elle, noir, immense. En contrebas, les parois de pierre disparaissaient dans l’obscurité.
+Elle releva la tête.
+
+— Qui est là ?
+
+Pas de réponse.
+
+Elle regarda l’heure affichée sous l’image.
+
+1 h 36.
+
+Puis l’heure du téléphone.
+
+1 h 36.
+
+Quelqu’un se trouvait assez près pour la photographier.
+
+Une silhouette passa entre les arbres.
+
+Clara repartit.
+
+Ses poumons brûlaient. Elle entendait maintenant plusieurs bruits derrière elle : des pas, une respiration, puis quelqu’un qui jurait après avoir glissé.
+
+Ils étaient plusieurs.
+
+Lorsqu’elle atteignit la carrière, le vent lui coupa le souffle.
+
+Le vide s’ouvrait devant elle, noir et immense.
+
+En contrebas, les parois de pierre disparaissaient dans l’obscurité.
+
+Elle regarda à gauche.
+
+La baraque de chantier était condamnée.
+
+À droite, une clôture éventrée ouvrait sur l’ancien front de taille.
+
+Mauvais choix.
+
+Elle n’avait plus le temps d’en faire un autre.
 
 Des pas approchaient.
 
-Plusieurs.
-
 Une lampe torche l’aveugla.
 
-— Ne faites pas ça, souffla Clara.
+Clara leva un bras.
+
+— Ne faites pas ça.
 
 Une voix répondit :
 
 — Donne-moi le téléphone.
 
+— Non.
+
+— Clara, donne-le-moi et on rentre.
+
+— Vous avez dit que personne ne saurait.
+
+— Baisse ta voix.
+
+— Tout est dessus.
+
+Un silence.
+
+Puis :
+
+— Tu ne comprends pas ce que tu as filmé.
+
+Clara eut un rire étranglé.
+
+— Si.
+
 Elle recula.
+
+Des cailloux roulèrent dans le vide.
 
 — Clara, écoute-moi.
 
@@ -101,13 +209,15 @@ Pendant une seconde, elle sembla reconnaître quelqu’un.
 
 Son visage changea.
 
-Pas de peur.
+La peur céda la place à quelque chose d’autre.
 
 Du soulagement.
 
 — Vous…
 
-Un bruit sec éclata derrière elle.
+Une lumière blanche passa derrière la silhouette.
+
+Un bruit sec éclata.
 
 Clara sursauta.
 
@@ -115,7 +225,37 @@ Son talon rencontra le vide.
 
 Quelqu’un cria son prénom.
 
+Elle tendit la main.
+
+Une autre main essaya de l’attraper.
+
+Les doigts se frôlèrent.
+
 Puis la nuit bascula avec elle.
+
+Le téléphone resta une seconde au bord.
+
+Son écran brillait encore.
+
+Une chaussure nue.
+
+Des pierres.
+
+Le vide.
+
+Puis quelqu’un le ramassa.
+
+L’image s’inclina vers le ciel.
+
+Une voix, très basse, dit :
+
+— Elle respire encore.
+
+Une autre répondit :
+
+— Alors dépêche-toi.
+
+L’écran devint noir.
 
 ---
 
@@ -127,9 +267,21 @@ Le téléphone vibra avant de sonner.
 
 Je ne dormais déjà plus.
 
-Je restai dans le noir, les yeux ouverts sur un plafond que je ne voyais pas. J’avais cette sensation désagréable d’avoir été réveillé une première fois, quelques heures plus tôt, sans parvenir à retrouver ni le bruit ni le rêve qui m’avait tiré du sommeil.
+Je restai dans le noir, les yeux ouverts sur un plafond que je ne voyais pas.
 
-L’écran s’alluma.
+Depuis quelques semaines, mes nuits étaient devenues des pièces dont quelqu’un déplaçait les meubles pendant mon sommeil. Je me réveillais avec des impressions sans images, des phrases dont j’ignorais l’origine, parfois une odeur.
+
+Cette nuit-là, c’était la vanille.
+
+Je l’avais sentie vers deux heures.
+
+J’en étais presque sûr.
+
+Ou j’avais rêvé que je la sentais.
+
+Le téléphone sonna.
+
+L’écran s’alluma sur la table de nuit.
 
 **MARTIN.**
 
@@ -147,7 +299,7 @@ Cette fois, rien.
 
 — Saint-Aunès. Lotissement des Amandiers. Numéro 17.
 
-Un silence.
+Il marqua une pause.
 
 — Trois morts.
 
@@ -155,7 +307,17 @@ Un silence.
 
 — Oui.
 
-J’attendis.
+— Enfants ?
+
+— Une fille.
+
+Je fermai les yeux.
+
+— Quel âge ?
+
+— Dix-sept ans.
+
+Je repoussai le drap.
 
 — Et ?
 
@@ -167,6 +329,10 @@ Il inspira.
 
 — Je sais pas.
 
+— Martin.
+
+— Je sais vraiment pas.
+
 La communication s’interrompit.
 
 Je regardai l’heure.
@@ -175,9 +341,31 @@ Je regardai l’heure.
 
 Sous le chiffre, une notification indiquait qu’une mise à jour de sécurité avait redémarré mon téléphone à 4 h 11.
 
-Je n’y prêtai pas attention.
+Je balayai l’écran.
 
-Je m’habillai, pris mon arme, mes clés et mon blouson. Dans l’entrée, ma main s’arrêta sur l’interrupteur.
+Un détail m’arrêta.
+
+La batterie était à soixante-huit pour cent.
+
+Je me souvenais l’avoir branchée avant de me coucher.
+
+Je tirai le câble.
+
+Il était connecté.
+
+Je vérifiai rapidement les applications ouvertes.
+
+Rien.
+
+Je posai le téléphone.
+
+Il existait des matins où l’on sent qu’un détail deviendra important plus tard.
+
+Celui-là ne m’avait pas encore appris à l’écouter.
+
+Je m’habillai, pris mon arme, mes clés et mon blouson.
+
+Dans l’entrée, ma main s’arrêta sur l’interrupteur.
 
 Je ne sais toujours pas pourquoi.
 
@@ -185,21 +373,89 @@ Je n’allumai pas.
 
 Il avait plu.
 
-Sur l’A709 presque vide, les pneus découpaient une pellicule d’eau noire. À la radio, un chroniqueur parlait d’une vidéo truquée devenue virale pendant la nuit. Un ministre y reconnaissait un délit qu’il niait avoir commis. Les experts parlaient de clonage vocal, de synthèse faciale, de guerre de l’information.
+Sur l’A709 presque vide, les pneus découpaient une pellicule d’eau noire. Les panneaux lumineux se reflétaient sur l’asphalte.
+
+À la radio, un chroniqueur parlait d’une vidéo devenue virale pendant la nuit.
+
+Un ministre y reconnaissait un délit qu’il niait avoir commis.
+
+— Les outils de synthèse permettent aujourd’hui de reproduire une voix à partir de quelques secondes…
+
+Je changeai de station.
+
+Même sujet.
+
+— …il devient extrêmement difficile pour le public de distinguer…
 
 J’éteignis.
 
+Le silence de la voiture me fit du bien.
+
+Puis une image me traversa.
+
+Une jeune fille.
+
+Pas Emma. Je ne connaissais pas encore Emma.
+
+Une autre.
+
+Cheveux noirs.
+
+Elle disait quelque chose.
+
+Je freinai légèrement.
+
+L’image disparut.
+
+À 4 h 34, Martin m’envoya un message.
+
+*Tu es où ?*
+
+*Deux minutes.*
+
+Il répondit immédiatement.
+
+*Ne rentre pas seul.*
+
+Je relus.
+
+*Pourquoi ?*
+
+Aucune réponse.
+
 Le lotissement des Amandiers ressemblait à tous les lotissements construits pour donner aux gens l’impression qu’une haie de lauriers pouvait les protéger du monde.
+
+Des maisons presque identiques.
+
+Des voitures endormies.
+
+Des jouets laissés dehors.
 
 La maison des Morel portait le numéro 17.
 
-Pavillon clair. Volets gris. Petite balançoire humide dans le jardin.
+Pavillon clair.
 
-Un fourgon de police scientifique bloquait la rue.
+Volets gris.
+
+Petite balançoire humide dans le jardin.
+
+Un chien aboyait derrière une clôture voisine.
+
+Le fourgon de police scientifique bloquait la rue.
 
 Martin m’attendait devant le portail.
 
-— Le voisin a appelé à trois heures quarante, dit-il. Le chien aboyait depuis presque une heure. Porte entrouverte. Il a vu le père depuis l’entrée.
+Il avait oublié de fermer sa veste.
+
+— Tu as une sale tête.
+
+— Toi aussi.
+
+— Le voisin a appelé à trois heures quarante. Chien qui aboyait depuis presque une heure. Porte entrouverte. Il a vu le père depuis l’entrée.
+
+— Il est entré ?
+
+— Deux mètres. Il a vomi sur le paillasson et il est ressorti.
 
 — Effraction ?
 
@@ -209,23 +465,59 @@ Martin m’attendait devant le portail.
 
 — Désactivée à 23 h 52 avec le code famille.
 
+— Caméras ?
+
+— Sonnette chez les voisins. On récupère.
+
 Je regardai la façade.
 
 Une sensation me traversa.
 
 Pas un souvenir.
 
-Quelque chose de plus rapide. Une certitude physique.
+Quelque chose de plus rapide.
+
+Une certitude physique.
 
 **Je connaissais cet endroit.**
 
+Je connaissais la distance entre le portail et la porte.
+
+Je savais qu’il y avait une marche juste derrière le seuil.
+
+Je savais que la cuisine se trouvait à gauche.
+
+Je ne pouvais pas le savoir.
+
 — Gabriel ?
+
+Martin me regardait.
+
+— Quoi ?
+
+— Ça fait dix secondes que tu fixes la fenêtre.
+
+— Je réfléchis.
+
+— À quoi ?
 
 — Rien.
 
 Je passai les surchaussures.
 
-Dans l’entrée, l’odeur me frappa avant les corps.
+À l’entrée, je levai le pied avant même de voir la marche.
+
+Je m’arrêtai.
+
+Martin me heurta presque.
+
+— Qu’est-ce qu’il y a ?
+
+— Rien.
+
+Encore.
+
+À l’intérieur, l’odeur me frappa avant les corps.
 
 Vanille.
 
@@ -241,17 +533,37 @@ Des rires.
 
 Une fille qui tournait la tête vers moi.
 
-Puis plus rien.
+*Tu es venu.*
+
+Puis rien.
 
 Je posai une main contre le mur.
 
-— Ça va ? demanda Martin.
+— Gabriel ?
 
 — Oui.
 
-C’était faux.
+— Tu veux sortir ?
 
-Dans la salle à manger, Laurent Morel, quarante-six ans, était assis devant une assiette blanche. Sa tête reposait légèrement sur le côté. Les mains avaient été posées avec soin de part et d’autre du couvert.
+— Non.
+
+La cuisine était bien à gauche.
+
+Je n’y entrai pas.
+
+Pas tout de suite.
+
+Dans la salle à manger, Laurent Morel, quarante-six ans, était assis devant une assiette blanche.
+
+Sa tête reposait légèrement sur le côté.
+
+Les mains avaient été posées avec soin de part et d’autre du couvert.
+
+Aucun désordre.
+
+Pas de lutte visible.
+
+Un repas interrompu sans nourriture.
 
 Trois morts, avait dit Martin.
 
@@ -261,25 +573,57 @@ Mais la table était dressée pour quatre.
 
 — Quatre normalement. Le fils, Théo, étudie à Lyon. On vérifie.
 
+— Il répond ?
+
+— Non.
+
 Quatre assiettes.
 
+Quatre verres.
+
 Devant la chaise vide, un verre contenait encore un fond de liquide ambré.
+
+Je me penchai sans toucher.
+
+— Whisky ?
+
+— Peut-être.
 
 Un technicien le photographiait.
 
 — On le scelle, dit-il.
 
-Je regardai l’étiquette posée à côté.
+Il posa l’étiquette dans le champ.
 
 **PIÈCE 010 — VERRE / PLACE 4.**
 
-Je ne savais pas encore que ce numéro me réveillerait des semaines plus tard.
+— Pourquoi dix ? demandai-je.
+
+— Les neuf premières sont déjà enregistrées.
+
+Je hochai la tête.
+
+Le technicien plaça le verre dans un sachet.
+
+Son collègue lut le numéro du scellé.
+
+Je l’entendis sans l’écouter.
+
+Plus tard, je donnerais beaucoup pour avoir été attentif à cet instant.
 
 Dans le salon, je vis les photographies.
 
 Toutes avaient été mutilées.
 
-Vacances. Noël. Anniversaires. École. Plage.
+Vacances.
+
+Noël.
+
+Anniversaires.
+
+École.
+
+Plage.
 
 Les corps étaient là.
 
@@ -287,11 +631,43 @@ Les visages, non.
 
 Quelqu’un les avait découpés proprement avec des ciseaux.
 
-Sophie Morel était assise dans le canapé, les mains jointes sur les genoux. À ses pieds, une paire de ciseaux et des dizaines de petits disques de papier photographique formaient un tas obscène.
+Pas déchirés.
 
-Je m’accroupis.
+Découpés.
 
-Un fragment plus ancien s’était retourné.
+Sophie Morel était assise dans le canapé, les mains jointes sur les genoux.
+
+À ses pieds, une paire de ciseaux et des dizaines de petits disques de papier photographique formaient un tas obscène.
+
+— C’est elle qui a découpé ? demandai-je.
+
+— Les ciseaux sont dans sa main sur les premières photos d’intervention.
+
+— Donc quelqu’un les lui a retirés ?
+
+Martin appela le primo-intervenant.
+
+Personne ne les avait touchés.
+
+Je regardai Sarah.
+
+Elle venait d’entrer dans la pièce.
+
+— Tu les as déplacés ?
+
+— Non.
+
+Elle s’accroupit près du corps.
+
+— Rigidité déjà installée. Je te donnerai une fenêtre plus sérieuse plus tard.
+
+— Sédation ?
+
+— Possible. Pas de défense évidente.
+
+Un fragment photographique s’était retourné sous la table basse.
+
+Je le récupérai avec une pince.
 
 Au dos :
 
@@ -299,15 +675,25 @@ Au dos :
 
 Mon ventre se contracta.
 
-— Tu connais ? demanda Martin.
+Sarah leva la tête.
+
+Elle avait vu ma réaction.
+
+— Tu connais ?
 
 — Non.
 
 Je mentis sans savoir à propos de quoi.
 
-À l’étage, les murs du couloir étaient couverts de cadres.
+À l’étage, le couloir était couvert de cadres.
 
-Une photographie montrait six personnes devant une maison aux volets bleus.
+Certains avaient été vidés.
+
+D’autres contenaient encore des photographies mutilées.
+
+Une seule avait été épargnée.
+
+Six personnes devant une maison aux volets bleus.
 
 Cinq visages avaient été découpés.
 
@@ -317,9 +703,41 @@ Emma Morel.
 
 Dix-sept ans.
 
-Dans sa chambre, elle semblait dormir.
+Je restai devant la photo.
 
-Jean, tee-shirt blanc, pieds nus.
+— Pourquoi elle ?
+
+Martin se plaça à côté de moi.
+
+— Peut-être parce qu’elle est la victime principale.
+
+— Ou parce que quelqu’un veut qu’on la regarde.
+
+Dans sa chambre, Emma semblait dormir.
+
+Jean.
+
+Tee-shirt blanc.
+
+Pieds nus.
+
+Une guirlande lumineuse était encore allumée au-dessus du lit.
+
+Sur son bureau, un contrôle de philosophie annoté.
+
+14/20.
+
+Un mug avec trois stylos.
+
+Une liste écrite au feutre :
+
+*Appeler Mamie.*
+
+*Rendre livre à Zoé.*
+
+*Parler à Théo.*
+
+Je lus la dernière ligne deux fois.
 
 Sarah Lemaire, la légiste, se redressa lorsque j’entrai.
 
@@ -329,15 +747,27 @@ Elle me regarda une seconde de trop.
 
 — Avant minuit. Je préciserai.
 
+— Cause ?
+
+— Pas ici.
+
 Je fixai Emma.
 
 J’avais l’impression de la connaître.
+
+Pas comme on reconnaît un visage.
+
+Comme on reconnaît une phrase déjà lue.
 
 — Son téléphone s’est allumé quand on est entrés, dit un technicien.
 
 — Tout seul ?
 
 — Notification locale. Une vidéo créée à 4 h 03.
+
+— Après sa mort.
+
+— Oui.
 
 Il me tendit l’appareil dans un sachet transparent.
 
@@ -347,11 +777,17 @@ Nous la lançâmes.
 
 Emma apparut vivante dans cette même chambre.
 
+Même tee-shirt.
+
+Même lumière.
+
 Elle regardait l’objectif.
 
 — Gabriel.
 
 Personne ne bougea.
+
+Ma nuque se raidit.
 
 — Celui qui regarde cette vidéo connaît déjà le meurtrier.
 
@@ -389,13 +825,57 @@ Elle avait prononcé la question comme si elle connaissait déjà la réponse.
 
 C’était presque vrai.
 
+Le technicien relança la vidéo.
+
+Je regardai le reflet.
+
+Une ombre.
+
+Rien de plus.
+
+— On peut agrandir ?
+
+— On peut essayer. Mais si je te montre quatre pixels agrandis cent fois, ton cerveau inventera le reste.
+
+— Fais-le quand même.
+
+Sarah se détourna.
+
+Je remarquai qu’elle avait les yeux humides.
+
+— Tu la connaissais bien ? demandai-je.
+
+Elle se figea.
+
+— Pourquoi ?
+
+— Ta réaction.
+
+— Je vois des morts tous les jours.
+
+— Pas comme celle-là.
+
+Elle rangea un instrument.
+
+— On parlera plus tard.
+
 À 5 h 26, je sortis prendre l’air.
 
-La pluie avait cessé. Derrière les rubans de sécurité, quelques voisins observaient déjà la maison.
+La pluie avait cessé.
+
+Derrière les rubans, quelques voisins observaient déjà.
+
+Un homme filmait avec son téléphone.
+
+Je lui demandai de reculer.
 
 Une femme en combinaison blanche sortit du pavillon avec une caisse de prélèvements.
 
-Masque chirurgical. Charlotte. Lunettes.
+Masque chirurgical.
+
+Charlotte.
+
+Lunettes.
 
 Je m’écartai pour la laisser passer.
 
@@ -407,7 +887,13 @@ Pas davantage.
 
 — Commandant.
 
+Sa voix me fit l’effet d’un courant d’air froid.
+
 Je répondis d’un signe de tête.
+
+Elle passa.
+
+Je fis deux pas.
 
 Mon téléphone vibra.
 
@@ -415,9 +901,13 @@ Numéro masqué.
 
 Une photographie apparut.
 
-Moi, devant la maison.
+Moi.
+
+Devant la maison.
 
 Prise quelques secondes auparavant.
+
+Je distinguais derrière mon épaule la silhouette blanche qui s’éloignait.
 
 **TU ES ARRIVÉ TROP TARD.**
 
@@ -441,13 +931,25 @@ Le rideau bougea.
 
 Je courus.
 
-Nous remontâmes l’escalier. Chambre vide. Salle de bains vide. Placards vides.
+Nous remontâmes l’escalier.
+
+Chambre vide.
+
+Salle de bains vide.
+
+Placards vides.
 
 Puis le technicien leva sa lampe vers le haut de la fenêtre.
 
 La bouche d’aération avait été démontée.
 
 Deux vis reposaient sur le rebord.
+
+— Récent, dit-il.
+
+— Comment tu sais ?
+
+— Pas de poussière sur les filetages.
 
 Quelqu’un avait regardé la chambre.
 
@@ -456,6 +958,50 @@ Ou nous avait regardés, nous.
 Dans le couloir, j’aperçus de nouveau la photographie aux six silhouettes.
 
 Pendant un instant, j’eus l’impression que l’un des trous découpés avait exactement la forme de mon visage.
+
+À 6 h 03, Martin me tendit un café de distributeur.
+
+— Tu trembles.
+
+— Il fait froid.
+
+— Non.
+
+Je bus.
+
+— Tu veux me dire ce qui se passe ?
+
+— Quand je suis entré, je savais où était la cuisine.
+
+— Tu es peut-être déjà venu ici sur une intervention.
+
+— Je m’en souviendrais.
+
+Il me regarda longtemps.
+
+— Pas forcément.
+
+Je levai les yeux.
+
+— Qu’est-ce que ça veut dire ?
+
+— Rien.
+
+— Tout le monde me répond « rien » ce matin.
+
+Martin jeta son gobelet.
+
+— Alors commence par ne pas faire pareil.
+
+Je ne répondis pas.
+
+À 6 h 21, nous quittâmes la maison.
+
+Je me retournai une dernière fois.
+
+La femme en combinaison blanche n’était plus là.
+
+Je ne demandai pas son nom.
 
 Ce matin-là, je pensais être arrivé après le meurtre.
 
@@ -471,13 +1017,29 @@ Et la première preuve fausse se trouvait déjà dans notre dossier.
 
 À neuf heures douze, la France connaissait déjà mon visage.
 
-La vidéo provenait d’une sonnette connectée située trois maisons plus loin. On m’y voyait traverser la rue à 2 h 41.
+Je n’étais pas encore revenu au commissariat quand Martin m’appela.
+
+— N’ouvre pas les réseaux.
+
+Je les ouvris.
+
+La vidéo provenait d’une sonnette connectée située trois maisons plus loin.
+
+On m’y voyait traverser la rue à 2 h 41.
 
 Même taille.
 
 Même blouson.
 
 Même façon de rentrer légèrement l’épaule gauche quand je marche vite.
+
+Le cadrage était mauvais, comme toutes les images qui deviennent soudain essentielles.
+
+Je la regardai une fois.
+
+Deux.
+
+Cinq.
 
 À 9 h 34, une chaîne d’information affichait :
 
@@ -487,7 +1049,21 @@ Même façon de rentrer légèrement l’épaule gauche quand je marche vite.
 
 À dix heures dix-sept, une femme du quartier affirmait m’avoir reconnu.
 
-À dix heures vingt-six, elle avait gagné vingt mille abonnés.
+Elle disait :
+
+— Je suis certaine. Je l’ai vu.
+
+À dix heures vingt-six, elle avait vingt mille abonnés de plus.
+
+Je passai la vidéo image par image.
+
+À 2 h 41 min 17 s, mon double tournait légèrement la tête.
+
+Je connaissais ce geste.
+
+Je le faisais quand quelqu’un prononçait mon prénom.
+
+Mais il n’y avait pas de son.
 
 — Bienvenue en 2026, dit Martin.
 
@@ -511,55 +1087,153 @@ Je relevai les yeux.
 
 — Apparemment.
 
+— Tu l’avais publiée ?
+
+— Jamais.
+
+— Donc quelqu’un a accès à ton téléphone aussi.
+
+— Ou à mes sauvegardes.
+
+Nous nous regardâmes.
+
+Le problème venait de changer de taille.
+
 Mon téléphone vibra.
 
 **PREMIÈRE LEÇON : UNE IMAGE N’A PAS BESOIN D’ÊTRE VRAIE. ELLE A SEULEMENT BESOIN D’ARRIVER AVANT LA VÉRITÉ.**
 
-La presse donna un nom à celui qui nous écrivait avant même que nous sachions s’il s’agissait d’un homme, d’une femme ou d’un groupe.
+Martin lut par-dessus mon épaule.
+
+— Charmant.
+
+— Trace le numéro.
+
+— Déjà fait.
+
+— Et ?
+
+— Il n’existe pas.
+
+À midi, la presse avait un nom.
 
 **L’Effaceur.**
 
-Le parquet me maintint dans l’enquête mais plaça mes accès sous surveillance.
+Je détestai immédiatement le mot.
 
-En une matinée, j’étais devenu enquêteur, témoin, cible et suspect potentiel.
+Il transformait quelqu’un que nous ne comprenions pas en personnage.
 
-L’expert vidéo arriva à quatorze heures.
+Le parquet me convoqua.
 
-— La vidéo d’Emma est composite, dit-il.
+Une procureure que je connaissais depuis six ans posa mon téléphone dans une pochette de preuve.
+
+— Je te maintiens dans l’enquête.
+
+— Merci.
+
+— Ce n’est pas un cadeau. Tes accès seront journalisés. Tes communications aussi.
+
+— Je deviens suspect ?
+
+— Tu es visible sur une vidéo à proximité d’un triple homicide avant l’heure officielle de ton arrivée.
+
+— Une vidéo fausse.
+
+— Probablement.
+
+— Probablement ?
+
+Elle me regarda.
+
+— C’est le mot qui va gouverner ta vie quelque temps.
+
+À quatorze heures, l’expert vidéo nous rejoignit.
+
+Il s’appelait Nadir Benhamou et avait la manière irritante des gens qui réfléchissent avant de répondre.
+
+— La vidéo d’Emma est composite.
 
 — Faux visage ?
 
-— Non. C’est justement le problème. Le visage est authentique. La chambre aussi. Le corps aussi. La plupart de la bande-son aussi.
+— Non. C’est justement le problème. Visage authentique. Corps authentique. Chambre authentique. Éclairage cohérent.
 
-Il lança plusieurs spectrogrammes.
+— Donc vraie.
 
-— Mais certains phonèmes ont été reconstruits.
+— Je n’ai pas dit ça.
+
+Il ouvrit un spectrogramme.
+
+— La bande-son a été reconstruite localement.
 
 Il isola le premier mot.
 
-Gabriel.
+*Gabriel.*
 
-Puis il nettoya la piste.
+Puis il fit apparaître une autre courbe.
 
-Le son changea.
+— Ici, les transitions acoustiques ne correspondent pas au reste.
 
-— Mathieu.
+— En français ?
 
-Je sentis Martin se raidir.
+— Quelqu’un a fabriqué ton prénom.
 
-La phrase originale devenait :
+Il lança la piste restaurée.
 
-**« Mathieu. Celui qui regarde cette vidéo connaît déjà le meurtrier. »**
+Emma inspira.
 
-— On connaît un Mathieu ? demanda Martin.
+— Mathieu. Celui qui regarde cette vidéo connaît déjà le meurtrier.
 
-Personne.
+Le silence tomba.
 
-Pas encore.
+— Mathieu qui ? demanda Martin.
 
-Le laboratoire appela à dix-sept heures.
+Nadir haussa les épaules.
 
-L’ADN relevé sur le verre de la quatrième place correspondait à Nicolas Fabre, ancien compagnon de Sophie Morel.
+— Ça, c’est votre métier.
+
+Je repensai au reflet dans la fenêtre.
+
+— Et la silhouette ?
+
+— Inexploitable.
+
+— Essaie.
+
+— Je peux te fabriquer une personne avec huit pixels si tu veux. Mais ce sera moi qui l’aurai créée.
+
+Cette phrase resta avec moi.
+
+À seize heures, Sarah passa devant la salle.
+
+Je la suivis.
+
+— Pourquoi tu m’as demandé si je connaissais Emma ?
+
+— Parce qu’elle a prononcé ton prénom.
+
+— Qui était faux.
+
+— Je ne le savais pas encore.
+
+— Tu avais l’air de savoir autre chose.
+
+Elle me fixa.
+
+— Tu cherches un suspect ou une réponse ?
+
+— Les deux.
+
+— Alors commence par dormir.
+
+Elle partit.
+
+À dix-sept heures, le laboratoire appela.
+
+ADN sur le verre de la quatrième place.
+
+Correspondance : Nicolas Fabre.
+
+Ancien compagnon de Sophie Morel.
 
 Deux condamnations.
 
@@ -571,21 +1245,53 @@ Une ordonnance d’éloignement ancienne.
 
 Le suspect idéal.
 
-Je regardai la photographie du verre.
+Trop idéal.
 
-L’étiquette PIÈCE 010 apparaissait au premier plan.
+Je demandai le dossier.
+
+Photographie du verre.
+
+Étiquette **PIÈCE 010** au premier plan.
 
 Quelque chose me gêna.
 
 Je zoomai.
 
-Le chiffre du scellé était presque illisible à cause d’un reflet.
+Le numéro du scellé était presque illisible à cause d’un reflet.
 
 — Gabriel ?
 
 Je refermai l’image.
 
 — Rien.
+
+À dix-huit heures trente, une notification apparut sur mon téléphone personnel.
+
+Une vidéo de la sonnette.
+
+La même.
+
+Cette fois, elle comportait du son.
+
+Au moment où mon double tournait la tête, une voix de femme murmurait :
+
+— Gabriel.
+
+Je montai le volume.
+
+Martin écouta.
+
+— Tu reconnais ?
+
+— Non.
+
+Je mentais.
+
+Je ne reconnaissais pas la voix.
+
+Mais mon corps, lui, semblait la reconnaître.
+
+Une odeur de vanille me revint.
 
 À cet instant, je voulais que Nicolas Fabre soit coupable.
 
