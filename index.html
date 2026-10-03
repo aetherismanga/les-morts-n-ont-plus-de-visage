@@ -550,6 +550,10 @@ body.immersive-fallback #fsPrevEdge{display:flex}
 .topbar .icon-btn.ui-approved:hover img,.topbar .icon-btn.ui-approved:focus-visible img{transform:translateY(-1px);filter:brightness(1.12) drop-shadow(0 0 7px rgba(240,183,63,.35))}
 .topbar .icon-btn.ui-approved:active img{transform:scale(.97)}
 @media(max-width:720px){.topbar .icon-btn.ui-approved{min-height:0!important;padding:0!important}.topbar .icon-btn.ui-approved img{width:clamp(62px,18.2vw,105px);max-height:58px}.topbar .actions{gap:2px!important}}
+/* Thriller button assets */
+.topbar .icon-btn.ui-approved{padding:3px;border:0;background:transparent;border-radius:50%;overflow:hidden}
+.topbar .icon-btn.ui-approved img{display:block;width:42px;height:42px;object-fit:contain}
+@media(max-width:640px){.topbar .icon-btn.ui-approved img{width:38px;height:38px}}
 </style>
 </head>
 <body class="theme-ivory">
@@ -557,12 +561,13 @@ body.immersive-fallback #fsPrevEdge{display:flex}
   <header class="topbar">
     <div class="brand">Le Scribe et l’Ombre de Pharaon</div>
     <div class="actions">
-      <button class="icon-btn ui-approved" id="chaptersBtn" aria-label="Chapitres"><img src="images/ui-chapitres.png" alt="Chapitres"></button>
-      <button class="icon-btn ui-approved" id="lexiconBtn" aria-label="Lexique"><img src="images/ui-lexique.png" alt="Lexique"></button>
+      <button class="icon-btn ui-approved" id="chaptersBtn" aria-label="Chapitres"><img src="Chapitre.png" alt="Chapitres"></button>
+      <button class="icon-btn ui-approved" id="lexiconBtn" aria-label="Lexique"><img src="Lexique.png" alt="Lexique"></button>
+      <button class="icon-btn ui-approved" id="indicesBtn" aria-label="Indices" title="Indices"><img src="Indices.png" alt="Indices"></button>
       <button class="icon-btn" id="installBtn" aria-label="Installer l’application" title="Installer l’application"><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
       <button class="icon-btn ui-approved" id="audioBtn" aria-label="Lecture vocale" title="Lecture vocale"><img src="images/ui-lecture.png" alt="Lecture"></button>
       <button class="icon-btn ui-approved" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="images/ui-plein-ecran.png" alt="Plein écran"></button>
-      <button class="icon-btn ui-approved" id="settingsBtn" aria-label="Réglages"><img src="images/ui-options.png" alt="Options"></button>
+      <button class="icon-btn ui-approved" id="settingsBtn" aria-label="Réglages"><img src="Paramètrereglage.png" alt="Réglages"></button>
     </div>
   </header>
 
@@ -590,6 +595,10 @@ body.immersive-fallback #fsPrevEdge{display:flex}
 <button type="button" id="fsExitBtn" aria-label="Quitter le plein écran" title="Quitter le plein écran">×</button>
 <button type="button" id="fsAudioToggle" aria-label="Activer la lecture vocale" title="Lecture vocale">🔊</button><button type="button" id="fsMusicToggle" aria-label="Couper la musique" title="Musique d’ambiance" style="position:fixed;right:72px;bottom:18px;z-index:50;display:none;border:0;border-radius:999px;width:46px;height:46px;font-size:20px">🎵</button>
 <div id="fsPrevEdge" role="button" aria-label="Page précédente" title="Page précédente"></div><div class="drawer-backdrop" id="backdrop"></div>
+<div class="drawer" id="indicesDrawer">
+  <div class="drawer-head"><h2>Indices</h2><button class="close-btn" data-close>×</button></div>
+  <div class="drawer-body"><p>Les indices de l’enquête apparaîtront ici au fil de la lecture.</p></div>
+</div>
 
 <aside class="drawer" id="chaptersDrawer" aria-label="Chapitres">
   <div class="drawer-head"><h2>Chapitres</h2><button class="close-btn" data-close>×</button></div>
@@ -967,7 +976,7 @@ body.immersive-fallback #fsPrevEdge{display:flex}
   $('pageJumpClose').addEventListener('click',closePageJump);$('pageJumpModal').addEventListener('click',e=>{if(e.target===$('pageJumpModal'))closePageJump();});
   $('pageJumpGo').addEventListener('click',()=>{const p=Math.max(1,Math.min(totalPages,Number($('pageJumpInput').value)||1));closePageJump();goTo(p-1,p-1<current?'prev':'next');});
   
-  $('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
+  $('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('indicesBtn').addEventListener('click',()=>openDrawer('indicesDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
   $('notifyClose').addEventListener('click',()=>{$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');});
   $('notifyModal').addEventListener('click',e=>{if(e.target===$('notifyModal'))$('notifyClose').click();});
   $('notifySave').addEventListener('click',()=>{const name=$('notifyName').value.trim(),contact=$('notifyContact').value.trim(),consent=$('notifyConsent').checked;if(!name||!contact){showToast('Indiquez votre prénom ou pseudo et votre contact');return;}if(!consent){showToast('Votre accord est nécessaire pour vous inscrire');return;}localStorage.setItem('scribe.release.subscription',JSON.stringify({name,contact,consent:true,updatedAt:new Date().toISOString()}));$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');showToast('Inscription enregistrée');});
