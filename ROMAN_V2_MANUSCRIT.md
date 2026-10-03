@@ -5119,93 +5119,387 @@ Je repris les vingt-sept pièces.
 
 Une par une.
 
-Trois nuits.
+Pas seulement les rapports.
 
-À la quatrième, je trouvai l’anomalie.
+Les originaux.
 
-**PIÈCE 010.**
+Les photographies de conditionnement.
+
+Les journaux d’accès.
+
+Les signatures.
+
+Les numéros de scellés.
+
+Pendant trois nuits, je ne trouvai rien.
+
+La quatrième, à 3 h 52, je revins à la **PIÈCE 010**.
 
 Le verre de la quatrième place.
 
-ADN attribué à Nicolas Fabre.
+Celui qui avait désigné Nicolas Fabre.
 
-Sur la photographie prise dans la maison, le numéro du scellé se terminait par 81.
+Sur la photographie prise dans la maison, l’étiquette du scellé se terminait par 81.
 
-Sur le rapport laboratoire :
+Sur le rapport du laboratoire : 87.
 
-87.
+Je pensai d’abord à une erreur de saisie.
 
-Le verre analysé n’était pas celui de la table.
+Puis je retrouvai la vidéo d’un technicien conditionnant le verre.
 
-Le véritable prélèvement existait encore au dépôt.
+— Stop.
 
-Je demandai une analyse urgente.
+Je zoomai.
 
-À 4 h 17, le laboratoire appela.
+81.
+
+Le sachet parti au laboratoire portait 87.
+
+Deux objets.
+
+Deux scellés.
+
+Même description.
+
+Je réveillai le responsable du dépôt.
+
+— Le scellé 81 ?
+
+Il consulta.
+
+— Attendez.
+
+Long silence.
+
+— Il est ici.
+
+Je cessai de respirer.
+
+— Depuis quand ?
+
+— Depuis le 3 octobre.
+
+— Il n’est jamais sorti ?
+
+— Non.
+
+— Ne le touchez pas. Je viens.
+
+Martin me rejoignit sur la route.
+
+— Dis-moi que tu as quelque chose.
+
+— Le laboratoire n’a jamais analysé le verre de la maison.
+
+Au dépôt, le sachet 81 reposait dans une caisse.
+
+Intact.
+
+Ou semblait l’être.
+
+Nous le fîmes photographier sous tous les angles avant ouverture.
+
+Une nouvelle équipe, indépendante, réalisa l’analyse.
+
+J’attendis.
+
+À 4 h 17, mon téléphone sonna.
 
 La même heure que le premier appel de Martin.
 
-— Commandant… on a une correspondance.
+Je regardai l’écran sans décrocher.
+
+Martin vit l’heure.
+
+— Mauvais humour.
+
+Je répondis.
+
+— Varenne.
+
+— Commandant, on a une correspondance complète sur le bord du verre.
 
 — Avec qui ?
 
 Silence.
 
-— Avec vous.
+— Vous.
 
-Mon ADN se trouvait dans le verre posé à la table des Morel.
+Je regardai Martin.
 
-Avant mon arrivée officielle.
+— Répétez.
 
-Je regardai l’historique de mon véhicule.
+— ADN nucléaire compatible avec votre profil. Salive. Probabilité de correspondance extrêmement élevée.
 
-4 h 37.
+Je m’assis.
 
-Puis la vidéo truquée qui me montrait dans le quartier à 2 h 41.
+Le dépôt sembla basculer.
 
-Pour la première fois, je cessai de la considérer uniquement comme un faux.
+— Contamination ?
 
-Et si l’heure était fausse…
+— On a travaillé en aveugle. Contrôles négatifs.
 
-mais pas ma présence ?
+— Date ?
 
-Un souvenir.
+— Impossible.
 
-Emma vivante.
+Je raccrochai.
 
-Un verre dans ma main.
+Martin resta debout.
 
-— Gabriel, demain tu ne te souviendras peut-être plus de moi.
+— Ton ADN.
 
-Une femme entra derrière elle.
+— Oui.
 
-Vanille.
+— Sur le vrai verre.
+
+— Oui.
+
+Il passa une main sur son visage.
+
+— Alors tu étais là.
+
+Je regardai la pièce 010.
+
+Le faux résultat Nicolas Fabre avait servi à deux choses.
+
+Nous donner un coupable.
+
+Et cacher la seule information qui comptait.
+
+Moi.
+
+Je repris la vidéo de sonnette de 2 h 41.
+
+Et si elle n’était pas entièrement fausse ?
+
+Le corps.
+
+La démarche.
+
+L’image réelle.
+
+L’horodatage remplacé.
+
+Ou l’inverse.
+
+Tout ce que nous avions fait consistait à demander si elle était vraie ou fausse.
+
+Mauvaise question.
+
+Une manipulation pouvait contenir une vérité.
+
+Je rentrai chez moi au lever du jour.
+
+Sur la table, je posai un verre.
+
+Même forme.
+
+Je le pris dans ma main droite.
+
+Un flash.
+
+Emma.
+
+Vivante.
+
+Assise à la table des Morel.
+
+Elle me tendait un verre.
+
+— Vous ne me croirez pas si je vous montre seulement une vidéo.
+
+Je lâchai le verre.
+
+Il se brisa.
+
+Le souvenir continua.
+
+Emma me regardait.
+
+— Mathieu dit que vous avez déjà été manipulé une fois.
+
+— Je ne connais pas Mathieu.
+
+— Lui vous connaît.
+
+Puis une voix derrière moi.
+
+Femme.
+
+Calme.
+
+— Gabriel.
+
+Odeur de vanille.
+
+Je me retourne.
+
+Impossible de voir le visage.
 
 — Regardez-moi.
 
 Noir.
 
+Je repris conscience à genoux dans ma cuisine.
+
+Un éclat de verre dans ma paume.
+
+Du sang coulait.
+
+Mon téléphone vibra.
+
+**PIÈCE 010 AUTHENTIFIÉE.**
+
+Puis :
+
+**ANOMALIE DÉTECTÉE : RAPPORT ADN ORIGINAL FALSIFIÉ.**
+
+La pièce fausse n’était pas le verre.
+
+C’était le résultat qui lui avait été attaché.
+
+Nuance essentielle.
+
+La preuve matérielle disait vrai.
+
+L’histoire qu’on avait écrite autour mentait.
+
+Je bandai ma main.
+
+Puis j’appelai Sarah.
+
+— Je crois que je me souviens d’Emma.
+
+Silence.
+
+— Vivante ?
+
+— Oui.
+
+— Quand ?
+
+Je regardai l’heure.
+
+— Avant que tout commence.
+
 ---
 
 ### CHAPITRE 21 — CE QUI MANQUE
 
-Sarah reprit mes analyses de 2009 et celles réalisées après le massacre.
+Sarah vint chez moi avec une mallette.
 
-— On a cherché les drogues habituelles. Pas certaines molécules anesthésiques à élimination très rapide.
+Pas comme médecin légiste.
 
-— Hélène ?
+Comme médecin.
 
-— Elle savait comment provoquer ou aggraver une amnésie chez quelqu’un déjà vulnérable.
+Et peut-être comme la seule personne qui connaissait l’état de mon cerveau en 2009.
+
+Je lui racontai le souvenir.
+
+Le verre.
+
+Emma.
+
+Hélène.
+
+La vanille.
+
+*Regardez-moi.*
+
+Sarah m’écouta sans m’interrompre.
+
+— Ça peut être réel, dit-elle.
+
+— Merci pour l’enthousiasme.
+
+— Ou reconstruit.
+
+— Voilà.
+
+— Gabriel, un souvenir n’est pas une vidéo stockée quelque part. Chaque rappel peut le modifier.
+
+— Je sais.
+
+— Non. Tu sais la phrase. Ce n’est pas pareil que vivre avec.
+
+Elle ouvrit d’anciens dossiers.
+
+Mes analyses de 2009.
+
+Puis celles réalisées après la nuit des Morel.
+
+— On a recherché les drogues habituelles. Benzodiazépines, opiacés, anesthésiques courants.
+
+— Et ?
+
+— Certaines molécules très rapides peuvent disparaître en quelques heures. Surtout si on ne les cherche pas spécifiquement.
+
+— Hélène aurait pu m’en donner une.
+
+— Elle avait les compétences.
+
+— Pour effacer ma mémoire.
+
+— Pas comme dans un film. Pour provoquer une amnésie antérograde, une confusion, puis profiter du terrain traumatique déjà existant.
+
+— Et en 2009 ?
+
+Sarah se figea.
+
+— Quoi ?
+
+— Même chose ?
+
+Elle regarda les résultats.
+
+— Possible.
+
+— Tu le savais ?
+
+— Non.
+
+— Ta mère ?
+
+— Je ne sais pas.
+
+Je me levai.
+
+— Tout revient à elle.
+
+— C’est peut-être exactement le piège.
+
+Je me retournai.
+
+Sarah continua :
+
+— Tu fais d’Hélène une explication universelle. Chaque trou, chaque faux, chaque manipulation. C’est confortable.
+
+— Confortable ?
+
+— Oui. Parce que si tout vient d’elle, alors rien ne vient de toi.
+
+La phrase me heurta.
+
+— Tu crois que j’ai fait quoi ?
+
+— Je ne sais pas.
+
+— Tu crois que j’ai tué quelqu’un ?
+
+— Non.
+
+— Tu hésites.
+
+— J’essaie de ne pas te mentir.
+
+Je détournai les yeux.
 
 Nous reconstruisîmes ma nuit.
 
-1 h 58 : mon téléphone cesse d’émettre depuis mon appartement.
+1 h 58 : téléphone hors réseau depuis mon appartement.
 
-4 h 11 : il se reconnecte au même endroit.
-
-Ma voiture ne bouge pas.
-
-Caméra de l’immeuble : à 2 h 12, un homme sort.
+2 h 12 : caméra du hall. Un homme sort.
 
 Casquette.
 
@@ -5215,63 +5509,277 @@ Ma taille.
 
 Ma démarche.
 
-Aucun expert ne put déterminer si la séquence était authentique.
+2 h 18 : aucune donnée de transport.
 
-— J’étais chez les Morel.
+2 h 41 : vidéo du quartier.
 
-Sarah répondit :
+2 h 53 : fichier vidéo retrouvé plus tard chez Mathieu.
+
+4 h 03 : création de la vidéo manipulée d’Emma.
+
+4 h 11 : mon téléphone redémarre chez moi.
+
+4 h 17 : Martin m’appelle.
+
+4 h 37 : lecture de plaque à l’entrée du lotissement.
+
+— Ma voiture n’a pas bougé.
+
+— Tu as pu prendre autre chose.
+
+— Taxi ?
+
+— Pas de trace.
+
+— Quelqu’un m’a conduit.
+
+— Ou la vidéo du hall est fausse.
+
+Nous la regardâmes.
+
+Nadir, l’expert, avait conclu : aucune anomalie démontrable.
+
+Pas authentique.
+
+Pas fausse.
+
+Indéterminée.
+
+Je zoomai sur la vitre du hall.
+
+Un reflet.
+
+Presque rien.
+
+Une silhouette à l’extérieur.
+
+— Là.
+
+Sarah se pencha.
+
+— On ne voit rien.
+
+— Les pieds.
+
+Une zone blanche.
+
+— Surchaussures.
+
+Elle ne répondit pas.
+
+Je fis défiler.
+
+Une seconde plus tard, le reflet disparaissait.
+
+— Quelqu’un m’attendait.
 
 — Peut-être.
 
+Je souris sans joie.
+
+— Tu t’y mets.
+
+— C’est contagieux.
+
+Nous cherchâmes le trajet le plus simple entre mon immeuble et les Morel sans utiliser ma voiture.
+
+Dix-sept minutes en véhicule.
+
+Une connaissance.
+
+Une ambulance.
+
+Un véhicule de police scientifique.
+
+Je me figeai.
+
+— Les équipes scientifiques étaient-elles déjà mobilisées avant l’appel ?
+
+Sarah comprit.
+
+Nous vérifiâmes.
+
+Un fourgon avait quitté un garage technique à 2 h 19.
+
+Motif enregistré : intervention maintenance.
+
+Retour 3 h 48.
+
+Conducteur identifié : badge temporaire.
+
+Nom :
+
+**A. DELMAS.**
+
+Anne Delmas.
+
+Alias d’Hélène.
+
+Je regardai Sarah.
+
+— Elle est venue me chercher.
+
+— Ou quelqu’un avec son badge.
+
+— Tu fais exprès ?
+
+— Oui.
+
+Elle avait raison.
+
+Nous devions rester rigoureux.
+
+Mais pour la première fois, une trajectoire apparaissait.
+
+Hélène pouvait être devant mon immeuble à 2 h 12.
+
+Me transporter chez les Morel.
+
+Revenir avant 3 h 48.
+
+Puis retourner sur la scène après l’appel officiel dans une autre tenue.
+
+Je posai la question que j’évitais.
+
 — Pourquoi ?
 
-— C’est la seule question qu’Hélène ne nous a pas laissé résoudre.
+Sarah murmura :
 
-Je regardai l’image de l’homme sans visage.
+— Parce qu’Emma t’a appelé.
 
-Puis je remarquai quelque chose.
+— Alors Hélène savait qu’Emma m’appellerait.
 
-Dans la vitre du hall, un second reflet.
+— Ou elle surveillait Emma.
 
-Une personne attendait dehors.
+Un nouveau souvenir.
 
-Trop floue pour être identifiée.
+Emma dans sa chambre.
 
-Mais elle ne portait pas de chaussures.
+— Si Théo revient, je dois appeler Mathieu.
 
-Seulement des surchaussures blanches.
+— Mathieu est mort.
+
+Elle me regarde.
+
+— Je sais.
+
+Puis :
+
+— C’est pour ça que je vous ai appelé, vous.
+
+Je me pris la tête.
+
+— Gabriel ?
+
+— J’étais là pour la protéger.
+
+— Oui.
+
+— Alors pourquoi je suis reparti ?
+
+Sarah ne répondit pas.
+
+C’était cela qui manquait.
+
+Pas onze minutes.
+
+Une décision.
+
+Quelque chose m’avait fait quitter Emma avant qu’elle meure.
+
+Ou quelqu’un m’avait forcé.
 
 ---
 
 ### CHAPITRE 22 — HÉLÈNE
 
-Je retournai voir Hélène en détention.
+Hélène m’attendait derrière une vitre.
+
+Pas de parfum.
+
+Pas de vêtements familiers.
+
+Même ainsi, j’eus l’impression de sentir la vanille.
+
+Le cerveau complète ce qu’il attend.
+
+Je m’assis.
 
 — Pourquoi mon ADN était-il dans le verre ?
 
-Elle sourit.
-
 — Vous avez enfin trouvé la bonne pièce.
 
-— J’étais chez les Morel avant quatre heures ?
-
-— Vous voulez que je vous donne un souvenir ?
-
-— Je veux la vérité.
-
-— Non. Vous voulez une version suffisamment solide pour dormir.
-
-Je frappai la table.
-
-— Emma était vivante quand je l’ai vue ?
-
-Son sourire disparut.
+— J’étais chez les Morel avant quatre heures.
 
 — Oui.
 
-Le mot me traversa.
+Le mot tomba sans détour.
+
+— Emma était vivante.
+
+— Oui.
+
+— Pourquoi m’avoir emmené ?
+
+Elle sourit.
+
+— Vous supposez que je vous ai emmené.
+
+Je sortis la copie du registre du fourgon.
+
+— Anne Delmas.
+
+— Un badge se copie.
+
+— Vous étiez là.
+
+— Oui.
+
+— Donc vous m’avez transporté.
+
+— Peut-être.
+
+Je la regardai.
+
+— Vous aimez ça.
+
+— Quoi ?
+
+— Me rendre chaque réponse inutilisable.
+
+— Je vous apprends à distinguer savoir et vouloir croire.
+
+— Emma m’a appelé.
+
+— Oui.
+
+— Mathieu lui avait dit de le faire si Théo revenait.
+
+Un bref changement dans son regard.
+
+— Vous avez trouvé la vidéo.
+
+— Pas encore.
+
+Je bluffais.
+
+Hélène comprit.
+
+— Non.
+
+— Mais elle existe.
+
+— Beaucoup de choses existent.
+
+Je me penchai.
+
+— Emma était vivante quand je l’ai vue ?
+
+— Oui.
 
 — J’aurais pu la sauver ?
+
+Cette fois, son visage perdit toute ironie.
 
 — Vous avez essayé.
 
@@ -5279,93 +5787,469 @@ Le mot me traversa.
 
 — Théo.
 
-— Pourquoi je ne m’en souviens pas ?
+— Ses parents ?
 
-Hélène se pencha.
+— Théo les a sédatés. Leur mort est plus compliquée.
 
-— Parce que vous m’avez demandé de vous faire oublier.
+— Expliquez.
+
+— Laurent s’est réveillé. Ils se sont battus. Théo l’a frappé. Sophie a tenté de l’arrêter. Elle a reçu une dose supplémentaire.
+
+— Donc Théo est responsable.
+
+— Oui.
+
+— Marseille ?
+
+Silence.
+
+— Élodie et sa famille ?
+
+— Pas Théo.
+
+Je sentis la pièce se resserrer.
+
+— Qui ?
+
+Hélène regarda la caméra de surveillance derrière moi.
+
+— Certaines vérités ont besoin d’un procès.
+
+— Cazeneuve ?
+
+— Pas Théo non plus.
+
+— Vous ?
+
+Elle sourit tristement.
+
+— Vous voyez ? Vous avez encore besoin d’un seul monstre.
+
+— Mathieu ?
+
+Son sourire disparut.
+
+— Je ne l’ai pas tué.
+
+— Qui alors ?
+
+— Je pensais que c’était Théo.
+
+— Et maintenant ?
+
+Elle baissa les yeux.
+
+— Maintenant, je ne sais plus.
+
+Je sortis les journaux de connexion posthumes.
+
+— Son compte continue à agir.
+
+— Oui.
+
+— Vous utilisiez ses identifiants.
+
+— Pour certaines choses.
+
+— Lesquelles ?
+
+— Le dossier transmis à Théo. Deux vidéos. Le faux rapport de la pièce 010.
+
+— Pourquoi Fabre ?
+
+— Parce qu’il était crédible.
+
+— Vous avez fait accuser un innocent.
+
+— Temporairement.
+
+— Vous entendez ce que vous dites ?
+
+— Parfaitement.
+
+— Et la tâche des 27 pièces ?
+
+Elle me regarda.
+
+— Pas moi.
+
+— Le scanner de scène de crime l’a déposée.
+
+— J’ai utilisé ce terminal.
+
+— Alors vous mentez.
+
+— Ou quelqu’un avait préparé le dépôt pour qu’il s’exécute lorsque je me connecterais.
+
+Je restai silencieux.
+
+C’était techniquement possible.
+
+Et terrifiant.
+
+— Pourquoi m’avoir fait oublier la nuit des Morel ?
+
+Hélène posa les mains à plat.
+
+— Parce que vous me l’avez demandé.
+
+Je sentis mon pouls monter.
 
 — Mensonge.
 
-Elle se rassit.
+— Vous aviez compris quelque chose.
 
-— Peut-être.
+— Quoi ?
 
-Puis elle sourit de nouveau.
+— Que si vous sortiez de cette maison avec tous vos souvenirs, vous ne pourriez plus savoir lesquels venaient de vous.
 
-— Voilà enfin la seule réponse honnête que je puisse vous donner.
+— Alors j’aurais demandé une drogue ?
 
-En quittant la prison, je reçus une notification.
+— Vous étiez paniqué. Emma était encore vivante. Théo n’était pas encore remonté.
+
+— Pourquoi je serais parti si elle était en danger ?
+
+— Vous n’êtes pas parti.
+
+Je me figeai.
+
+— Quoi ?
+
+— Vous êtes resté plus longtemps que vous ne croyez.
+
+— Jusqu’à quand ?
+
+Hélène regarda la table.
+
+— Jusqu’au moment où tout a changé.
+
+— Les onze minutes.
+
+Son regard revint au mien.
+
+— Vous ne les avez pas encore vues.
+
+— Non.
+
+— Alors ne me croyez pas.
+
+Je me levai.
+
+— Une dernière chose.
+
+Elle attendit.
+
+— En 2009, est-ce que je vous ai aussi demandé d’oublier ?
+
+Hélène inspira.
+
+Longtemps.
+
+— Non.
+
+— Alors vous l’avez fait sans me demander.
+
+Elle ne répondit pas.
+
+Je quittai la pièce avec cette absence de réponse.
+
+Dans le couloir, mon téléphone vibra.
 
 **PIÈCE 027 AJOUTÉE.**
 
-Le dossier était pourtant complet depuis trois semaines.
+Le dossier était censé être complet.
 
 ---
 
 ### CHAPITRE 23 — LA DERNIÈRE VIDÉO
 
-Mathieu avait laissé une sauvegarde protégée par une phrase retrouvée dans le vieux téléphone de Clara.
+La pièce 027 n’était pas un fichier.
 
-La vidéo datait du 3 octobre.
+C’était une clé.
+
+Une chaîne de caractères de trente-deux signes.
+
+Nadir la reconnut.
+
+— Chiffrement symétrique.
+
+— Ça ouvre quoi ?
+
+— Si je le savais, ce serait moins amusant.
+
+Martin lui lança un regard.
+
+— Mauvais public.
+
+La clé déverrouilla une sauvegarde dans l’ancien serveur de Mathieu.
+
+Un dossier invisible jusque-là.
+
+Nom :
+
+**PAS LA DERNIÈRE.**
+
+À l’intérieur, une vidéo.
+
+3 octobre 2026.
 
 2 h 53.
 
-Emma filmait en cachette.
+Caméra fixe dans la chambre d’Emma.
 
-Je me vis entrer dans sa chambre.
+Je la regardai apparaître.
+
+Vivante.
+
+Elle ajustait un téléphone caché derrière des livres.
+
+À 2 h 55, la porte s’ouvrit.
+
+J’entrai.
 
 Moi.
 
-Pas une reconstruction.
+Pas un double évident.
+
+Pas un personnage mal éclairé.
+
+Moi.
 
 — Commandant Varenne ?
 
 Je hochais la tête.
 
+— Emma ?
+
 — Mathieu m’a dit de vous appeler si Théo revenait.
 
-Je connaissais donc Emma depuis moins d’une heure avant sa mort.
+— Mathieu Vidal est mort.
 
-Mathieu m’avait contacté clandestinement.
+— Je sais.
 
-Dans la vidéo, je demandais à Emma de verrouiller sa porte.
+Elle me tendait un autre téléphone.
 
-Je descendais.
+— Il avait programmé un message.
+
+Je le regardais.
+
+— Pourquoi moi ?
+
+— Il dit qu’en 2009 vous avez essayé d’aider Clara.
+
+Je m’asseyais.
+
+— Je ne me souviens pas de Clara.
+
+Emma me fixait.
+
+— Alors il avait raison.
+
+Dans la salle d’analyse, personne ne respirait.
+
+Sur la vidéo, je disais :
+
+— Où est ton frère ?
+
+— En bas.
+
+— Tes parents ?
+
+— Je crois qu’ils dorment. Mais bizarrement.
+
+Je me levais.
+
+— Verrouille cette porte.
+
+— Vous allez où ?
+
+— Voir.
+
+Je sortais.
+
+Emma verrouillait.
+
+Deux minutes.
+
+Rien.
 
 Puis Hélène apparaissait dans le couloir.
 
-Combinaison blanche pliée sous le bras.
+Elle portait des vêtements sombres.
 
-Elle regardait directement la caméra cachée.
+Une combinaison blanche pliée sur le bras.
+
+Elle s’arrêtait exactement devant la caméra cachée.
+
+Regardait l’objectif.
+
+Pas par hasard.
 
 Elle savait.
 
-L’image sautait.
+Puis l’image sautait.
 
-**Onze minutes manquantes.**
+Écran gris.
 
-Lorsqu’elle reprenait, Théo montait l’escalier.
+Timecode :
+
+3:02:11.
+
+Reprise :
+
+3:13:28.
+
+Onze minutes dix-sept secondes.
+
+Manquantes.
+
+À la reprise, Théo montait l’escalier.
 
 Du sang sur sa manche.
 
+Il essayait la poignée.
+
 Emma reculait.
 
-Je surgissais derrière lui.
+— Théo ?
+
+— Ouvre.
+
+— Non.
+
+— Emma.
+
+Il frappait la porte.
+
+— Ouvre !
+
+Elle prenait son téléphone.
+
+La poignée bougeait.
+
+Puis la porte s’ouvrait.
+
+Pas par la serrure.
+
+Une clé.
+
+Théo entrait.
+
+Emma reculait.
+
+— Qu’est-ce que tu as fait ?
+
+— Ils ont menti.
+
+— Tu saignes.
+
+— C’est pas mon sang.
+
+Elle pleurait.
+
+— On devait partir.
+
+Théo s’arrêtait.
+
+Pendant une seconde, il redevenait son frère.
+
+— Je peux pas.
+
+— Si.
+
+— C’est trop tard.
+
+— Non.
+
+Elle avançait une main.
+
+Puis une silhouette apparaissait derrière Théo.
+
+Moi.
+
+— Théo.
+
+Il se retournait.
 
 Image noire.
 
-Les onze minutes n’existaient nulle part.
+Fin.
 
-Mais une chose était certaine.
+Martin frappa la table.
 
-Je n’avais pas tué Emma.
+— Pourquoi ça coupe là ?
 
-Je n’étais pas arrivé trop tard.
+Nadir regarda le fichier.
 
-J’étais arrivé avant.
+— Fin physique du flux. Pas une coupure propre.
 
-Et j’avais échoué quand même.
+— Caméra détruite ?
+
+— Possible.
+
+Je regardai l’écran noir.
+
+— Je n’ai pas tué Emma.
+
+Sarah était derrière nous.
+
+— Non.
+
+Je sentis mes jambes céder.
+
+Je m’assis.
+
+Pendant des semaines, je m’étais préparé à une vérité impossible.
+
+La délivrance ne vint pas.
+
+Parce qu’une autre phrase prit immédiatement sa place.
+
+— J’étais là.
+
+Personne ne répondit.
+
+— J’étais là quand Théo est entré.
+
+Martin posa une main sur mon épaule.
+
+— Tu as essayé.
+
+— On ne sait pas.
+
+— Hélène l’a dit.
+
+Je ris.
+
+— Voilà notre preuve maintenant ?
+
+Je repassai la dernière seconde.
+
+Moi derrière Théo.
+
+La vidéo coupait avant qu’on voie quoi que ce soit.
+
+Je regardai l’heure.
+
+3 h 14 environ.
+
+Puis mon téléphone se rallumait chez moi à 4 h 11.
+
+Presque une heure manquait encore.
+
+— Les onze minutes ne sont pas le seul trou, dis-je.
+
+Nadir hocha la tête.
+
+— Non.
+
+Je regardai Emma figée juste avant l’écran noir.
+
+Elle était encore vivante.
+
+J’étais à trois mètres d’elle.
+
+Et je n’avais aucun souvenir de la suite.
 
 ---
 
@@ -5381,27 +6265,65 @@ Sur les serveurs d’Hélène.
 
 Dans les caches réseau.
 
+Sur le téléphone de Théo.
+
+Dans les historiques du routeur.
+
 Rien.
 
-Puis Martin posa une question que personne n’avait posée.
+La coupure avait été préparée.
+
+Pas un fichier supprimé.
+
+Une absence.
+
+Puis Martin posa la question que personne n’avait posée.
 
 — Et si elles n’avaient jamais été enregistrées ?
 
-Le saut vidéo pouvait être une coupure volontaire.
+— La caméra était coupée.
 
-Quelqu’un avait su exactement quand interrompre la caméra.
+— Oui. Donc on cherche un fichier qui n’a peut-être jamais existé.
 
-Hélène.
+Je regardai la chronologie.
 
-Ou Mathieu.
+3 h 02 : coupure.
 
-Ou Emma elle-même.
+3 h 13 : reprise.
 
-Je repris la pièce 027 apparue après ma visite en prison.
+Pourquoi reprendre ?
 
-Un fichier audio de cinq secondes.
+Pourquoi exactement avant l’arrivée de Théo à l’étage ?
 
-Du souffle.
+— Pour nous montrer ce qu’on doit voir, dit Sarah.
+
+— Qui ?
+
+— Celui qui contrôlait la caméra.
+
+Mathieu avait installé le système.
+
+Mais il était mort.
+
+Hélène savait où regarder.
+
+Emma savait qu’elle filmait.
+
+Trois personnes.
+
+Une morte avant les faits.
+
+Une morte pendant.
+
+Une en prison.
+
+Sauf si une quatrième personne possédait l’accès.
+
+La pièce 027 contenait aussi un fichier audio.
+
+Cinq secondes.
+
+Souffle.
 
 Un choc.
 
@@ -5409,105 +6331,355 @@ Puis ma voix :
 
 — Coupez la caméra.
 
-Sarah l’écouta.
+Martin me regarda.
 
-— Ça peut être synthétique.
+— Là, c’est toi.
 
-— Tout peut l’être.
+Nadir leva immédiatement la main.
+
+— Non.
+
+— Tu viens de l’entendre.
+
+— J’ai entendu une voix extrêmement proche de la sienne.
+
+— Taux ?
+
+Nadir lança l’analyse.
+
+— Quatre-vingt-dix-neuf virgule un pour cent de similarité.
+
+Martin souffla.
+
+— Donc c’est lui.
+
+— Non. En 2026, quatre-vingt-dix-neuf pour cent signifie seulement que quelqu’un a fait du bon travail.
+
+Je regardai Nadir.
+
+— Tu peux savoir ?
+
+— Pas avec ce fichier seul.
+
+C’était presque comique.
+
+Cinq secondes.
+
+Peut-être les cinq secondes les plus importantes de ma vie.
+
+Et nous étions incapables de savoir si je les avais prononcées.
+
+Je retournai voir Théo.
+
+Il avait perdu du poids en détention.
+
+— Tu te souviens de moi dans la chambre d’Emma ?
+
+Son visage se ferma.
 
 — Oui.
 
-Je compris alors que nous étions revenus au commencement.
+— Qu’est-ce que j’ai fait ?
 
-Pas à la question *qu’est-ce qui est vrai ?*
+— Vous m’avez frappé.
 
-À une question plus dangereuse :
+— Et ensuite ?
 
-*qu’est-ce qui suffit pour que je croie ?*
+— Vous avez essayé de l’emmener.
 
-Le soir, le parquet clôtura la phase principale de l’enquête.
+— Emma était vivante ?
 
-Théo serait jugé pour les meurtres.
+— Oui.
 
-Hélène pour son rôle dans les manipulations, les falsifications et les faits que l’instruction pourrait établir.
+— Quand est-elle morte ?
+
+Il baissa les yeux.
+
+— Après.
+
+— Comment ?
+
+Silence.
+
+— Théo.
+
+— Je l’ai poussée.
+
+Je sentis ma gorge se fermer.
+
+— Elle est tombée contre le bureau.
+
+— C’est ce qui l’a tuée ?
+
+— Non.
+
+Il pleurait maintenant.
+
+— Elle s’est relevée.
+
+— Et ?
+
+— Elle a pris mon téléphone. Elle voulait appeler.
+
+— Qui ?
+
+— Je sais pas.
+
+— Et toi ?
+
+Il posa ses mains sur son visage.
+
+— Je l’ai étranglée.
+
+Long silence.
+
+— Moi, j’étais où ?
+
+— Par terre.
+
+— Inconscient ?
+
+— Je crois.
+
+— Hélène ?
+
+Il releva les yeux.
+
+— Elle était là.
+
+— Qu’est-ce qu’elle a fait ?
+
+— Rien.
+
+— Rien ?
+
+— Elle regardait.
+
+Je quittai la salle nauséeux.
+
+Hélène regardait.
+
+Le motif revenait.
+
+Mais Théo ajouta avant que la porte se ferme :
+
+— Après, elle a pleuré.
+
+Je me retournai.
+
+— Quoi ?
+
+— Grand-mère. Elle a pleuré quand Emma est morte.
+
+Cela ne l’innocentait de rien.
+
+Mais cela compliquait encore le monstre.
+
+L’instruction établit progressivement les responsabilités.
+
+Théo reconnut la mort de ses parents et d’Emma.
+
+Pour Élodie Carmin et sa famille, les traces menaient à un homme recruté via plusieurs intermédiaires, retrouvé mort dans un accident de voiture dix jours après Marseille. Les paiements provenaient d’un compte alimenté par une société écran liée aux infrastructures d’Hélène, sans preuve définitive qu’elle avait donné l’ordre.
+
+Cazeneuve avait été tué par un tireur professionnel identifié grâce à une caméra autoroutière. Même chaîne financière.
+
+Mathieu, en revanche, restait différent.
+
+Aucune trace de violence évidente.
+
+Mort classée initialement comme intoxication accidentelle.
+
+Mais une réanalyse décela un composé proche de celui susceptible d’avoir été utilisé sur moi.
+
+Quelqu’un avait neutralisé Mathieu.
+
+Quelqu’un ayant accès aux mêmes connaissances qu’Hélène.
+
+Elle nia.
+
+Et pour une fois, je ne savais pas si son déni était un mensonge.
+
+Le parquet annonça la fin de la phase principale.
+
+Théo serait jugé pour les meurtres reconnus et les faits connexes.
+
+Hélène pour falsifications, manipulations, complicité présumée et les homicides commandités que l’instruction pourrait établir.
 
 Je rentrai chez moi.
 
-Pour la première fois depuis des semaines, aucune notification ne m’attendait.
+Aucune caméra.
 
-Je m’endormis.
+Aucun journaliste.
 
-À 4 h 17, mon téléphone s’alluma tout seul.
+Pas de message.
+
+Je dormis trois heures.
+
+À 4 h 17, mon téléphone s’alluma seul.
 
 **ROMAN TERMINÉ.**
+
+Je restai immobile.
 
 Puis :
 
 **CHAPITRE 1 — SECONDE LECTURE DÉBLOQUÉE.**
 
+Je touchai l’écran.
+
+Un cadenas s’ouvrit.
+
+Le premier chapitre réapparut.
+
+Exactement comme je l’avais écrit.
+
+Puis certaines phrases commencèrent à se barrer.
+
 ---
 
 ### ÉPILOGUE — CEUX QUI REGARDENT
 
-Six mois plus tard, Théo Morel attendait son procès.
+Six mois plus tard, la ville avait oublié mon visage.
+
+Pas complètement.
+
+Assez pour que je puisse acheter du pain sans être filmé.
+
+Théo attendait son procès.
 
 Hélène aussi.
 
-Les experts se disputaient encore son rôle exact.
+Le dossier s’était épaissi jusqu’à devenir presque impossible à porter d’une seule main.
 
-Architecte.
+Les expertises continuaient.
 
-Manipulatrice.
-
-Complice.
-
-Instigatrice.
-
-Aucun mot ne suffisait.
+Les responsabilités, elles, étaient devenues plus nettes sans devenir simples.
 
 Laurent avait agressé Clara.
 
-Sophie avait protégé son mari.
+Sophie avait protégé son mari et accepté le silence.
 
-Cazeneuve avait enterré des preuves.
+Cazeneuve avait retiré des preuves parce qu’il croyait éviter un scandale et protéger ceux qui restaient.
 
-Hélène avait falsifié l’autopsie puis transformé la culpabilité de chacun en instrument.
+Élodie avait modifié un dossier médical à la demande d’Hélène.
 
-Théo avait tué.
+Hélène avait falsifié l’autopsie, manipulé Théo, fabriqué ou fait fabriquer plusieurs preuves et transformé la culpabilité de chacun en levier.
 
-Emma avait tenté de l’arrêter.
+Théo avait tué ses parents et Emma.
 
-Mathieu avait essayé de révéler la manipulation.
+Il avait kidnappé Sarah et Martin.
 
-Et moi, j’avais passé toute l’enquête à chercher ce que j’avais oublié.
+Il avait voulu faire de la vérité un châtiment.
 
-Un soir, l’application afficha une dernière notification.
+Emma avait essayé de l’arrêter.
+
+Mathieu avait essayé de comprendre qui manipulait qui.
+
+Et il était mort avant d’avoir fini.
+
+Concernant Clara, nous savions enfin presque tout.
+
+Presque.
+
+Elle avait survécu à la chute.
+
+Elle avait été remontée.
+
+Elle avait reçu un produit.
+
+Son cœur s’était arrêté ensuite.
+
+Mais nous ne pouvions toujours pas démontrer si l’injection avait été destinée à la tuer, à la calmer ou à la sauver maladroitement.
+
+Hélène refusait de répondre.
+
+Le dossier disait : **cause exacte de la mort non judiciairement établie**.
+
+Je détestais cette phrase.
+
+J’avais appris à la respecter.
+
+Sarah et moi nous voyions encore.
+
+Pas comme avant.
+
+Il n’existait pas d’« avant » pour moi.
+
+Seulement pour elle.
+
+Un soir, elle posa deux olives au bord de mon assiette.
+
+— Test.
+
+— Je déteste ça.
+
+Elle sourit.
+
+— Au moins quelque chose est revenu.
+
+Je pris une olive.
+
+— Toujours aussi mauvais.
+
+Elle rit.
+
+Je compris alors qu’un souvenir n’était pas la seule manière de retrouver quelqu’un.
+
+Parfois on pouvait recommencer.
+
+Martin avait repris le travail.
+
+Il n’avait toujours pas appris à frapper avant d’entrer dans mon bureau.
+
+Nadir envoyait régulièrement des articles dont personne ne lisait les titres jusqu’au bout.
+
+Et l’application des pièces était restée silencieuse.
+
+Jusqu’à un jeudi soir.
 
 **PIÈCE 010 — AUTHENTIFICATION ÉCHOUÉE.**
 
-Un texte se déverrouilla.
+Je fronçai les sourcils.
+
+Nous avions authentifié le verre.
+
+Puis je compris.
+
+Ce n’était pas l’objet.
+
+C’était le fichier historique.
+
+Le faux rapport Nicolas Fabre.
+
+Une fenêtre s’ouvrit.
+
+Texte blanc sur fond noir.
 
 *Vous cherchiez un meurtrier.*
 
+Une deuxième ligne.
+
 *Vous auriez dû chercher celui qui écrivait l’histoire.*
 
-Je crus reconnaître Hélène.
+Je pensai à Hélène.
 
-Puis une seconde ligne apparut.
+Puis une troisième apparut.
 
 **HÉLÈNE AUSSI.**
 
 Je me redressai.
 
-Le fichier n’avait pas été créé depuis la prison.
+Le fichier possédait une date de dépôt.
 
-Il avait été déposé le 2 octobre 2026.
+2 octobre 2026.
 
-Avant le massacre.
+La veille du massacre.
 
-Avant le premier message.
+Avant la première vidéo.
 
-Avant que Théo ne tue sa famille.
+Avant mon appel.
+
+Avant que Théo tue sa famille.
 
 Signature numérique :
 
@@ -5515,11 +6687,37 @@ Signature numérique :
 
 Mort depuis onze jours.
 
-Je restai devant l’écran jusqu’à ce qu’il s’éteigne.
+Je vérifiai trois fois.
 
-Mon visage disparut dans le reflet noir.
+Puis j’appelai Nadir.
 
-Mon téléphone vibra.
+— C’est possible de programmer une signature ?
+
+— Oui.
+
+— De la déposer après sa mort ?
+
+— Oui.
+
+— De prédire tout ce qui s’est passé ?
+
+Silence.
+
+— Non.
+
+— Donc quelqu’un a utilisé son compte.
+
+— Probablement.
+
+Je souris malgré moi.
+
+— Tu viens de dire probablement.
+
+— Tu déteins.
+
+Je raccrochai.
+
+Le téléphone vibra.
 
 Numéro masqué.
 
@@ -5533,17 +6731,69 @@ De dos.
 
 Prise à l’instant.
 
-Je ne bougeai pas.
+Mon premier réflexe fut d’agrandir.
 
-Depuis des mois, chaque fois qu’une image apparaissait, mon premier réflexe était de la regarder.
+Je m’arrêtai.
 
-Cette fois, non.
+Depuis des mois, chaque image me donnait le même ordre.
+
+*Regarde-moi.*
+
+Cette fois, je posai le téléphone face contre table.
 
 Je levai les yeux.
 
-Et je regardai autour de moi.
+Fenêtre.
 
----
+Couloir.
+
+Reflet de l’écran.
+
+Rien.
+
+Puis, dans la vitre, une forme sembla bouger derrière moi.
+
+Je me retournai.
+
+Personne.
+
+Quand je regardai de nouveau le téléphone, un dernier message était apparu.
+
+**MIEUX.**
+
+Je ne répondis pas.
+
+Je sortis sur le balcon.
+
+La rue était calme.
+
+Des gens rentraient chez eux.
+
+Une femme promenait un chien.
+
+Un scooter passa.
+
+Dans l’immeuble d’en face, quelqu’un ferma un rideau.
+
+Vingt-sept pièces.
+
+Vingt-six vérités.
+
+Un mensonge.
+
+Et peut-être, au-dessus de tout cela, quelqu’un qui avait compris avant nous que la différence entre vrai et faux n’était plus l’arme principale.
+
+L’arme, c’était notre besoin de choisir trop vite.
+
+Je rentrai.
+
+Éteignis l’écran.
+
+Pour la première fois depuis longtemps, je laissai une image sans la regarder.
+
+Mais je gardai les yeux ouverts.
+
+
 
 ## CHAPITRE 1 — SECONDE LECTURE
 ### Contenu caché — débloqué uniquement après l’épilogue
