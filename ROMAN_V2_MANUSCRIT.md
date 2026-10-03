@@ -37,6 +37,86 @@ Assez pour détruire une famille.
 
 Peut-être davantage.
 
+Moins de quatre heures plus tôt, Clara était assise sur un lit d’urgences.
+
+Elle avait refusé qu’on appelle sa mère.
+
+Le jeune médecin lui avait demandé trois fois qui avait serré son cou.
+
+Clara avait répondu trois fois :
+
+— Je suis tombée.
+
+À la quatrième question, elle avait demandé un stylo.
+
+Sur le formulaire, elle avait écrit un prénom.
+
+**Gabriel.**
+
+— C’est qui ?
+
+— Un policier.
+
+— Vous voulez qu’on l’appelle ?
+
+Elle avait hésité.
+
+— Oui.
+
+Puis :
+
+— Non. Enfin… dites-lui juste de venir.
+
+Le médecin était sorti.
+
+Clara avait sorti son téléphone.
+
+Batterie : douze pour cent.
+
+Dans la galerie, la miniature de la vidéo.
+
+Cinquante-deux secondes.
+
+Elle avait appuyé sur « partager ».
+
+Une barre avait progressé.
+
+Puis s’était arrêtée.
+
+Réseau faible.
+
+Elle avait juré.
+
+Un message de Sophie :
+
+*Reviens. Maman est là. Laurent s’est calmé.*
+
+Clara avait regardé longtemps.
+
+Puis un autre :
+
+*Gabriel vient aussi.*
+
+Elle s’était levée.
+
+— Mademoiselle, vous ne pouvez pas partir comme ça.
+
+— Je dois lui montrer.
+
+— À qui ?
+
+Clara n’avait pas répondu.
+
+Elle avait quitté l’hôpital avant mon arrivée.
+
+Ce détail ne figurait pas dans le prologue que personne ne pouvait connaître.
+
+Mais il existait dans les traces.
+
+Et il expliquait pourquoi elle était revenue vers la maison au lieu de s’en éloigner.
+
+Elle croyait qu’un adulte extérieur au cercle allait enfin regarder la vidéo.
+
 Derrière elle, quelqu’un cria :
 
 — Clara !
@@ -1839,6 +1919,104 @@ Le numéro du scellé était presque illisible sous un reflet.
 
 — Rien.
 
+À 17 h 42, Montels me fit auditionner comme témoin.
+
+Pas par Martin.
+
+Par une capitaine d’un autre service.
+
+— Où étiez-vous entre une heure trente et quatre heures ?
+
+— Chez moi, d’après moi.
+
+— « D’après moi » ?
+
+— Mon téléphone est hors réseau. Une vidéo me montre ailleurs. Je ne vais pas vous donner une certitude que je n’ai pas.
+
+Elle nota.
+
+— Avez-vous consommé alcool, médicaments, stupéfiants ?
+
+— Non.
+
+— Trouble du sommeil ?
+
+— Parfois.
+
+— Somnambulisme ?
+
+— Non.
+
+— Vous avez déjà conduit sans vous en souvenir ?
+
+— Non.
+
+Elle leva les yeux.
+
+— Avant 2009, vous auriez répondu comment ?
+
+La question était bonne.
+
+— Je ne sais pas.
+
+Elle me montra la vidéo de 2 h 41.
+
+— Reconnaissez-vous ce blouson ?
+
+— Il ressemble au mien.
+
+— Vos chaussures ?
+
+— Même modèle.
+
+— Démarche ?
+
+— Compatible.
+
+— Vous êtes donc incapable de vous exclure.
+
+— Oui.
+
+Le mot me coûta.
+
+À la fin :
+
+— Vous avez peur d’être coupable ?
+
+Je réfléchis.
+
+— J’ai peur qu’une image me convainque de l’être avant les faits.
+
+Elle posa son stylo.
+
+— Ce n’est pas la question.
+
+— Alors oui.
+
+Je sortis avec une copie de ma propre audition sous le bras.
+
+Pour la première fois de ma carrière, je compris physiquement ce que signifie voir chacune de ses hésitations transformée en ligne de procédure.
+
+À 18 h 05, un compte anonyme publia :
+
+**VARENNE “INCAPABLE DE S’EXCLURE” SELON UNE SOURCE.**
+
+La phrase venait de notre salle.
+
+Quelqu’un avait déjà fait fuiter mon audition.
+
+Montels pâlit.
+
+— Il y a une fuite interne.
+
+— Ou quelqu’un écoute.
+
+À partir de ce moment, nous cessâmes de considérer les systèmes policiers comme un refuge.
+
+L’enquête ne se déroulait plus à l’intérieur contre une menace extérieure.
+
+La frontière avait disparu.
+
 À dix-huit heures trente, une notification apparut sur mon téléphone.
 
 La vidéo de sonnette.
@@ -2535,6 +2713,82 @@ Fabre me regarda.
 
 Je ne pouvais pas lui reprocher.
 
+Nous retournâmes chez les Morel avec la chronologie de Fabre.
+
+La quatrième chaise se trouvait légèrement reculée.
+
+Le tapis portait quatre marques principales, mais une cinquième ancienne.
+
+Un expert refusa d’en tirer trop.
+
+— Les meubles bougent.
+
+Dans la cuisine, huit verres du même service étaient présents.
+
+Sur deux, d’anciennes traces ADN de Fabre furent retrouvées.
+
+— Donc Sophie n’avait jamais complètement séparé leurs objets.
+
+Sur le lave-vaisselle, une empreinte récente de Fabre.
+
+Il avait confirmé avoir aidé Sophie à ranger.
+
+Rien d’anormal.
+
+Ce qui devenait anormal, c’était la précision du faux rapport : celui qui l’avait fabriqué savait que Fabre était venu, savait qu’un verre de ce service existait et savait que son ADN serait crédible.
+
+— Théo l’a vu venir, dit Martin.
+
+— Oui.
+
+— Donc il peut préparer l’accusation.
+
+— Mais le faux rapport exige aussi l’accès au système.
+
+— Hélène.
+
+— Ou Mathieu. Ou Observer.
+
+Martin soupira.
+
+Nous récupérâmes la caméra miniature de la cuisine.
+
+La carte manquait, mais le routeur conservait des connexions.
+
+À 22 h 13, flux actif.
+
+À 22 h 51, coupure.
+
+Exactement quand Fabre part.
+
+À 23 h 04, reprise.
+
+À 23 h 11, transfert de 4,2 Mo vers un serveur externe.
+
+Puis plus rien.
+
+— Quelqu’un a regardé Fabre quitter la table.
+
+— Et a pu sélectionner ensuite son ADN comme faux quatrième convive.
+
+Le serveur externe appartenait à un hébergeur étranger.
+
+Compte payé en cryptomonnaie.
+
+Mais le nom du projet, laissé dans une en-tête :
+
+**JANUS-27.**
+
+Mathieu utilisait JANUS.
+
+Le faux contre Fabre avait donc été préparé depuis une infrastructure reliée au vocabulaire de Mathieu.
+
+Cela l’accusait.
+
+Ou accusait quelqu’un qui avait accès à son travail.
+
+Chaque fois que nous approchions un nom, le système nous renvoyait vers un autre.
+
 À 17 h 22, les caméras d’un parking confirmèrent son arrivée chez lui à 23 h 06.
 
 Aucune sortie jusqu’à 6 h 48.
@@ -3170,6 +3424,110 @@ Deux objets personnels contenant potentiellement sa version.
 — Mathieu. Moi. Peut-être Sophie.
 
 Encore une trace disparue.
+
+Le père possible de l’enfant de Clara devint une question toxique.
+
+Laurent était le suspect évident.
+
+Âge.
+
+Violence.
+
+Proximité.
+
+Théo le croyait.
+
+Mais rien ne le prouvait.
+
+Mireille nous autorisa à rechercher des prélèvements anciens conservés de Clara.
+
+Il existait un échantillon biologique dans les archives médico-légales.
+
+Après validation judiciaire, un profil fœtal partiel fut obtenu.
+
+Comparaison avec Laurent, dont le profil était disponible après sa mort.
+
+Résultat :
+
+**incompatible.**
+
+Je relus trois fois.
+
+— Laurent n’était pas le père.
+
+Martin s’assit.
+
+Toute la vengeance de Théo reposait en partie sur ce lien.
+
+— Nicolas ?
+
+Comparaison.
+
+Incompatible.
+
+— Gabriel ? demanda Martin.
+
+Je le regardai.
+
+— Fais-la.
+
+Incompatible.
+
+Un soulagement absurde, immédiatement suivi de honte.
+
+— Mathieu impossible biologiquement, frère.
+
+— Qui reste ?
+
+Beaucoup de monde.
+
+Clara n’avait peut-être jamais nommé le père parce qu’il n’était aucun des hommes centraux de notre histoire.
+
+Nous interrogeâmes Léa.
+
+Elle se rappela enfin d’un garçon.
+
+— Un étudiant. Maxime, je crois. Elle le voyait parfois à Montpellier.
+
+Nous retrouvâmes Maxime Derval, quarante ans, père de famille.
+
+Il pâlit à la mention de Clara.
+
+— J’ignorais qu’elle était enceinte.
+
+Prélèvement volontaire.
+
+Compatibilité probable.
+
+Il s’effondra.
+
+Aucun lien avec la carrière.
+
+Aucun lien avec Hélène.
+
+Une relation secrète entre deux jeunes.
+
+Voilà.
+
+La grossesse n’était pas nécessairement le moteur du meurtre.
+
+Elle avait été aspirée après coup dans les théories de tous.
+
+Théo avait cru qu’elle prouvait la culpabilité de Laurent.
+
+Hélène avait laissé cette croyance se développer.
+
+Pourquoi ?
+
+Parce qu’elle rendait Laurent encore plus haïssable.
+
+Une vérité biologique étrangère à l’affaire avait été utilisée comme carburant narratif.
+
+Je décidai que le nom de Maxime resterait hors des médias.
+
+Il n’avait rien à faire dans la punition publique d’un crime qu’il n’avait pas commis.
+
+Pour une fois, nous pouvions empêcher une vie périphérique d’être dévorée par le dossier.
 
 Nous cherchâmes dans les anciennes saisies.
 
@@ -4216,6 +4574,96 @@ Il baissa les yeux.
 Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
+
+Les meurtres de Marseille avaient une différence importante avec les Morel.
+
+Pas de conflit familial immédiat.
+
+Pas de Théo.
+
+Élodie était la cible centrale.
+
+Son mari et son fils semblaient avoir été tués parce qu’ils étaient présents.
+
+Cette froideur ne correspondait pas au massacre des Morel, né d’une confrontation qui dégénère.
+
+Elle ressemblait davantage à Cazeneuve.
+
+Professionnelle.
+
+Planifiée.
+
+Nous comparâmes les toxicologies.
+
+Chez les Carmin, un sédatif précis avait été administré dans une boisson.
+
+Dose calculée.
+
+Chez les Morel, produit vétérinaire choisi par Théo, dosage irrégulier.
+
+Deux méthodes.
+
+— Donc deux auteurs, dit Martin.
+
+— Au minimum deux modes opératoires.
+
+Le professionnel de Marseille avait nettoyé certaines surfaces.
+
+Théo avait laissé des traces partout.
+
+Le professionnel avait coupé les caméras avant d’entrer.
+
+Théo improvisait.
+
+La ressemblance de mise en scène — couverts, photos, visages — avait été ajoutée après les morts.
+
+— Pour nous faire croire à un même tueur.
+
+— Oui.
+
+Ou pour faire croire à Théo que quelqu’un poursuivait son plan.
+
+Nous retrouvâmes sur son téléphone un message reçu le lendemain de Marseille :
+
+*Ils commencent à payer.*
+
+Il avait répondu :
+
+*Je n’ai rien fait à Marseille.*
+
+Réponse :
+
+*Tu as commencé. D’autres peuvent finir.*
+
+Théo n’avait donc pas commandité les Carmin.
+
+Quelqu’un utilisait sa vengeance comme couverture pour éliminer des témoins.
+
+Cette distinction changea le cœur criminel de l’affaire.
+
+Théo était dangereux.
+
+Mais derrière sa colère, quelqu’un profitait du chaos pour nettoyer 2009.
+
+Hélène ?
+
+Elle avait le plus à perdre.
+
+Observer ?
+
+Il avait une raison encore inconnue.
+
+Ou les deux, à des moments différents.
+
+Pour la première fois, je séparai mentalement deux fils :
+
+**la vengeance de Théo** ;
+
+**l’élimination des témoins de 2009.**
+
+Ils se croisaient.
+
+Ils n’étaient pas forcément dirigés par la même main.
 
 Le fils d’Élodie, Hugo, avait treize ans.
 
