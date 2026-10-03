@@ -16,10 +16,10 @@ France, 2026. Gabriel Varenne enquête sur une famille massacrée tandis que des
 - Hélène doit rester ambiguë le plus longtemps possible : protectrice, falsificatrice, victime possible, manipulatrice, architecte probable, puis possibilité qu’elle ait elle-même été manipulée.
 - Conserver l’ambiguïté finale : une image peut être fausse ; ce qui est terrifiant est qu’elle puisse être vraie.
 
-## Les 47 pièces
+## Les 27 pièces
 Les preuves importantes sont numérotées dans le récit et pourront devenir interactives.
 Format prévu : PIÈCE 003, PIÈCE 010, etc.
-Canon : 47 pièces principales, 46 authentifiées, 1 falsifiée.
+Canon : 27 pièces principales, 26 authentifiées, 1 falsifiée.
 La pièce 010 reste centrale : le verre / ADN attribué à Nicolas Fabre puis découvert falsifié.
 Chaque pièce interactive aura plus tard un lien ouvrant photo, image, document ou vidéo.
 Après consultation, elle est automatiquement ajoutée à l’onglet INDICES.
@@ -45,7 +45,7 @@ Prologue — 17 août 2009 : Clara fuit, vidéo, carrière. Garder des informati
 16 — La carrière : Théo croit posséder la vérité ; Gabriel démontre que sa vidéo est fausse grâce à la météo.
 17 — Emma : son journal et son courage ; donner une vraie présence à Emma.
 18 — Le visage d’Hélène : confrontation, arrestation, mais pas de fermeture confortable.
-19 — Quarante-sept pièces : dispositif des preuves, annonce 46 authentiques / 1 falsifiée. Le système caché existe mais n’interrompt pas encore le roman.
+19 — Quarante-sept pièces : dispositif des preuves, annonce 26 authentiques / 1 falsifiée. Le système caché existe mais n’interrompt pas encore le roman.
 20 — La pièce fausse : ancien chapitre 21. Pièce 010, vrai prélèvement, ADN de Gabriel.
 21 — Ce qui manque : ancien chapitre 22. Trou horaire, hypothèse de drogue, présence possible de Gabriel.
 22 — Hélène : ancien chapitre 23. Entretien en détention ; « vous m’avez demandé de vous faire oublier » reste non vérifié.
@@ -66,10 +66,11 @@ Pendant la réécriture, baliser les emplacements narratifs des pièces pour fac
 Une pièce cliquée doit pouvoir rejoindre automatiquement INDICES.
 Photos/documents : affichage dans le lecteur.
 Vidéos : ouverture vers le média hébergé sur Le Grognard du Net ou TikTok selon le média final.
+Les vidéos doivent rester simples à produire : généralement 5 à 30 secondes maximum, sans tournage complexe ni acteurs indispensables. Privilégier caméra de surveillance fixe, écran qui grésille, silhouette ou ombre, porte qui bouge, reflet fugitif, téléphone posé, couloir vide, bruit hors champ, image qui saute, timecode, artefact numérique ou très court extrait de visioconférence. Chaque vidéo doit avoir une fonction narrative précise et pouvoir être fabriquée facilement avec montage/IA.
 
 ## Méthode
 1. Écrire toute la V2 avant la production des médias.
-2. Vérifier chronologie, indices, âges, déplacements, causalité, connaissances de chaque personnage et cohérence des 47 pièces.
+2. Vérifier chronologie, indices, âges, déplacements, causalité, connaissances de chaque personnage et cohérence des 27 pièces.
 3. Reprendre ensuite chapitre par chapitre avec l’utilisateur.
 4. À cette seconde passe, créer puis intégrer les photos, documents et vidéos.
 5. Ne jamais sacrifier une scène émotionnelle ou une fausse piste uniquement pour accélérer l’intrigue.
