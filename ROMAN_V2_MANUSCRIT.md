@@ -14727,6 +14727,118 @@ Revenir avant 3 h 48.
 
 Puis retourner sur scène après l’appel officiel dans une autre organisation.
 
+Le fourgon possédait un ordinateur de bord plus ancien que le système GPS.
+
+Il avait conservé des associations Bluetooth.
+
+À 2 h 20, un appareil se connecte.
+
+Nom :
+
+**GV-S23.**
+
+Mon téléphone.
+
+Je restai immobile.
+
+— Donc j’étais dans le fourgon.
+
+— Ton téléphone, corrigea Nadir.
+
+— Il était avec moi.
+
+— Probablement.
+
+Je lui lançai un regard.
+
+— Je le fais exprès maintenant.
+
+À 2 h 36, le Bluetooth se déconnectait près des Morel.
+
+À 3 h 29, nouvelle association.
+
+Même appareil.
+
+À 3 h 47, déconnexion au garage technique.
+
+Mais mon téléphone ne réapparaissait sur le réseau mobile chez moi qu’à 4 h 11.
+
+— Hélène me ramène.
+
+— Ou quelqu’un dans le fourgon.
+
+Nous retrouvâmes une donnée plus intime.
+
+À 3 h 32, le système multimédia lançait automatiquement une piste audio depuis mon téléphone.
+
+Titre :
+
+**voice_note_0317.m4a**
+
+Fichier supprimé.
+
+Pas de copie.
+
+— Note vocale créée à 3 h 17 ?
+
+— Le nom le suggère. Pas une preuve.
+
+3 h 17.
+
+Après la confrontation dans la chambre d’Emma.
+
+Je sentis ma gorge se serrer.
+
+Quelqu’un avait enregistré quelque chose juste après.
+
+Nous fouillâmes les sauvegardes du téléphone.
+
+La restauration de 4 h 11 avait supprimé les fichiers locaux, mais une miniature audio existait dans un cache.
+
+Trois secondes récupérables.
+
+Ma voix, très faible :
+
+— …je veux oublier ça…
+
+Puis du bruit.
+
+Sarah me regarda.
+
+— Hélène disait vrai.
+
+— Pas forcément.
+
+— C’est ta voix.
+
+— Oui.
+
+— Tu dis que tu veux oublier.
+
+— On ignore la phrase complète.
+
+Je me raccrochai à la méthode.
+
+Peut-être :
+
+*Je ne veux pas oublier ça.*
+
+Le début manquait.
+
+Trois secondes ne devaient pas décider du sens.
+
+Nadir tenta plusieurs restaurations.
+
+Impossible.
+
+Le fichier original avait disparu.
+
+Je compris ce que cela signifiait émotionnellement : Hélène pouvait avoir une base réelle pour dire que j’avais demandé l’oubli.
+
+Mais une base réelle n’est pas encore une version complète.
+
+Exactement le principe de toute l’affaire.
+
 Nous demandâmes les données du véhicule.
 
 Ancien système GPS supprimé automatiquement après trente jours.
@@ -15453,6 +15565,138 @@ Hélène cherchait elle-même Observer.
 
 Et elle avait envisagé que ce soit moi.
 
+Hélène demanda à faire venir un dossier de son avocat.
+
+À l’intérieur, des lettres qu’elle avait reçues entre 2019 et 2026.
+
+Aucune signature.
+
+La première :
+
+*Vous avez sauvé Sophie en falsifiant Clara. Combien de personnes peut-on sauver avec le même mensonge ?*
+
+La deuxième :
+
+*Antoine a gardé plus que vous ne pensez.*
+
+Puis, en 2024 :
+
+*Mathieu a trouvé la copie.*
+
+En 2025 :
+
+*Théo est prêt à savoir.*
+
+Hélène serra les mâchoires.
+
+— Observer me poussait aussi.
+
+Je lus.
+
+— Vous auriez pu aller à la police.
+
+Elle rit.
+
+— Avec quoi ? « Bonjour, j’ai falsifié une autopsie et simulé ma mort, quelqu’un m’envoie des lettres » ?
+
+— Oui.
+
+— Vous auriez arrêté qui en premier ?
+
+Je ne répondis pas.
+
+Elle aurait été arrêtée.
+
+Elle avait préféré conserver le contrôle.
+
+— Vous avez répondu ?
+
+— Parfois.
+
+— Comment ?
+
+— Dans les logs. Je savais qu’il les lisait.
+
+Elle avait laissé des fichiers texte dans ses propres serveurs.
+
+*Qui êtes-vous ?*
+
+Réponse apparue le lendemain :
+
+*Quelqu’un qui n’a pas eu la chance d’oublier.*
+
+Je relus.
+
+— Ça peut être Mathieu.
+
+— Je l’ai pensé.
+
+— Sarah ?
+
+Hélène détourna les yeux.
+
+— Aussi.
+
+— Martin ?
+
+— Un temps.
+
+— Cazeneuve ?
+
+— Avant sa mort.
+
+— Moi ?
+
+— Plus tard.
+
+— Pourquoi moi ?
+
+— Parce que cette phrase.
+
+*Quelqu’un qui n’a pas eu la chance d’oublier.*
+
+Je comprenais.
+
+Observer pouvait être une personne traumatisée par 2009.
+
+Ou seulement quelqu’un qui savait comment se présenter à Hélène.
+
+Une autre lettre :
+
+*Vous pensez toujours que contrôler le contexte vous rend responsable du résultat. C’est votre vanité.*
+
+Hélène la relut.
+
+— Ça, Mathieu aurait pu l’écrire.
+
+— Il vous le disait ?
+
+— Oui.
+
+— Alors pourquoi penser que ce n’est pas lui ?
+
+— Parce qu’une lettre est arrivée après sa mort.
+
+— Programmée.
+
+— Possible.
+
+— Usurpation.
+
+— Possible.
+
+Elle sourit sans joie.
+
+— Vous voyez ? Il vous a appris la même prison que moi. Chaque réponse possède une sortie.
+
+— La différence, c’est qu’on n’est pas obligés de sortir par la première.
+
+Hélène me regarda longtemps.
+
+— Vous auriez été un bon médecin.
+
+— Non. Je déteste les familles compliquées.
+
 — Observer connaissait la durée. Il connaissait aussi une phrase prononcée par Clara avant sa chute que je n’avais jamais racontée.
 
 — Laquelle ?
@@ -16140,6 +16384,88 @@ Martin posa une main sur mon épaule.
 Je ris.
 
 — Voilà notre preuve maintenant ?
+
+Nous analysâmes aussi le mouvement de ma silhouette dans la vidéo.
+
+À 3 h 13, lorsque j’apparais derrière Théo, ma démarche est instable.
+
+— Tu es déjà atteint, dit Sarah.
+
+— Ou blessé.
+
+Nadir agrandit la zone de ma tempe sans tenter de reconstruire le visage.
+
+Une zone sombre.
+
+Possible sang.
+
+— Théo t’avait déjà frappé avant de monter ? demanda Martin.
+
+Hélène disait que oui.
+
+Théo, lors de son premier entretien, pensait m’avoir frappé dans la chambre.
+
+Contradiction.
+
+Nous reprîmes son récit plus tard.
+
+— Tu m’as frappé où la première fois ?
+
+Il hésita.
+
+— En bas.
+
+— Avec quoi ?
+
+— Je sais plus.
+
+— Puis dans la chambre ?
+
+— Peut-être pas.
+
+La mémoire de Théo était elle aussi mauvaise.
+
+Un meurtrier n’obtient pas automatiquement une caméra parfaite dans le cerveau.
+
+À partir des traces dans la maison, nous trouvâmes une lampe cassée au rez-de-chaussée.
+
+Un fragment portait mon sang.
+
+Donc j’avais été frappé avant de remonter.
+
+Cela expliquait ma démarche.
+
+Dans la chambre, une autre blessure pouvait provenir de la chute pendant la lutte.
+
+La chronologie se précisa :
+
+Confrontation en bas.
+
+Premier coup.
+
+Théo s’échappe vers l’étage.
+
+Je le poursuis malgré la blessure.
+
+Emma ouvre ou la porte est ouverte.
+
+Deuxième confrontation.
+
+La vidéo coupe.
+
+Théo tue Emma.
+
+Hélène intervient trop tard ou pas assez tôt.
+
+Je suis neutralisé.
+
+Puis ramené.
+
+Chaque fait réduisait la place du mystère sans l’éliminer.
+
+Et c’était bien.
+
+Une bonne enquête ne doit pas terminer avec davantage de magie qu’elle n’en avait au début.
 
 Nadir rembobina.
 
@@ -17085,6 +17411,96 @@ Cinquante-deux secondes.
 
 Toujours absentes.
 
+Nous retrouvâmes finalement Marc Delaunay, le tireur de Cazeneuve, au Portugal.
+
+Il accepta l’extradition après une négociation.
+
+Son témoignage fut décevant.
+
+Pas de rencontre secrète avec Hélène.
+
+Pas de visage d’Observer.
+
+Un forum chiffré.
+
+Des instructions.
+
+Des acomptes.
+
+— Vous saviez qui était la cible ?
+
+— Un ancien flic.
+
+— Pourquoi ?
+
+— Je pose pas cette question.
+
+— Vous avez reçu ordre de ne pas me toucher.
+
+— Oui.
+
+— Pourquoi ?
+
+— Aucune idée.
+
+— Voix ?
+
+— Synthétique.
+
+— Vidéo ?
+
+— Non.
+
+Il avait reçu une photographie de Cazeneuve prise la veille.
+
+Angle depuis une voiture.
+
+Métadonnées supprimées.
+
+Une ligne :
+
+*La conversation avec Varenne doit avoir commencé.*
+
+— Donc le commanditaire savait que j’allais venir.
+
+— Oui.
+
+— Comment vous deviez savoir que la conversation avait commencé ?
+
+— Un voyant dans une appli.
+
+Nadir récupéra le programme.
+
+Le voyant s’activait quand le téléphone de Cazeneuve captait ma voix.
+
+Micro compromis.
+
+Nous avions cherché des micros dans la maison après.
+
+Le téléphone, pourtant placé dans une casserole métallique, avait enregistré avant d’y être mis.
+
+Cazeneuve avait été surveillé depuis longtemps.
+
+Le commanditaire n’avait pas besoin d’un complice sur place.
+
+Une explication concrète de plus.
+
+Pour les Carmin, l’intermédiaire avait utilisé le même forum.
+
+Même architecture.
+
+Les commandes avaient été signées par une clé différente.
+
+Pas de preuve que les deux venaient de la même personne.
+
+Le réseau criminel pouvait être une infrastructure achetée.
+
+Pas une organisation personnelle.
+
+Encore une tentation narrative à éviter : parce que deux meurtres se ressemblent, nous voulons un seul cerveau.
+
+Parfois, un même outil suffit.
+
 Les semaines suivantes furent consacrées à ce que les séries montrent rarement : vérifier.
 
 Vérifier encore.
@@ -17362,6 +17778,86 @@ Mais cette vidéo-là était antérieure à toute médiatisation.
 Il m’avait insulté.
 
 C’était devenu notre plaisanterie.
+
+Le procès médiatique avait disparu plus vite que prévu.
+
+Le vrai procès, lui, approchait.
+
+Sarah fut convoquée comme témoin pour le faux décès d’Hélène.
+
+Elle risquait elle-même des poursuites.
+
+Montels lui proposa une coopération.
+
+— Je ne veux pas d’immunité pour mentir mieux, dit Sarah.
+
+— Ce n’est pas ce qu’on vous propose.
+
+Elle reconnut tout.
+
+Le certificat.
+
+L’urne.
+
+Les documents.
+
+Je l’attendis dehors après son audition.
+
+— Comment ça s’est passé ?
+
+— J’ai raconté que j’avais aidé ma mère à être morte.
+
+— Phrase étrange.
+
+— Ma famille a un talent.
+
+Elle s’assit sur les marches.
+
+— Si je perds mon poste ?
+
+— Je ne sais pas.
+
+— Mauvaise réponse.
+
+— Honnête.
+
+Elle posa sa tête contre mon épaule.
+
+Geste simple.
+
+Mon corps ne recula pas.
+
+Je le remarquai.
+
+Elle aussi.
+
+Nous ne commentâmes pas.
+
+Certains souvenirs ne reviennent pas.
+
+Certains réflexes, peut-être, se reconstruisent.
+
+Quelques semaines plus tard, l’ordre des médecins suspendit Sarah temporairement le temps de la procédure.
+
+Elle encaissa mieux que je ne l’aurais cru.
+
+— Pour une fois, dit-elle, une conséquence arrive à la bonne personne.
+
+— Tu étais manipulée aussi.
+
+— Oui. Et j’ai signé.
+
+Cette capacité à tenir ensemble les deux idées me fit comprendre combien elle était différente de sa mère.
+
+Hélène voyait toujours la cause comme une manière de redistribuer la responsabilité.
+
+Sarah acceptait que les deux existent.
+
+Manipulée.
+
+Responsable.
+
+Peut-être que grandir, dans cette histoire, consistait simplement à supporter deux vérités à la fois.
 
 Je repris aussi une thérapie.
 
