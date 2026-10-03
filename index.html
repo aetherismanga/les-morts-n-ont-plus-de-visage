@@ -601,6 +601,45 @@ body.immersive-fallback .page.coldcase-frame .flow-viewport{position:relative;z-
 html:fullscreen .page.coldcase-frame::after,
 html:-webkit-full-screen .page.coldcase-frame::after,
 body.immersive-fallback .page.coldcase-frame::after{opacity:.42!important;}
+
+/* V7 — Premium thriller interface */
+:root{--thriller-bg:#07111b;--thriller-panel:#0b1621;--thriller-red:#a40d17;--thriller-red2:#e02a32;--thriller-metal:#aeb5ba}
+body{background:radial-gradient(circle at 50% 15%,#172431 0,#09131d 38%,#04090e 100%) fixed!important}
+.app{background:transparent}
+.topbar{background:linear-gradient(180deg,#07131f 0%,#06101a 100%)!important;border-bottom:1px solid rgba(185,21,31,.48);box-shadow:0 8px 24px rgba(0,0,0,.34);padding-top:5px!important;padding-bottom:5px!important}
+.stage{background:transparent!important}
+.resume-banner{background:linear-gradient(135deg,rgba(10,20,29,.96),rgba(20,22,24,.96))!important;color:#eef1f2!important;border:1px solid rgba(184,28,37,.42)!important;box-shadow:0 7px 22px rgba(0,0,0,.28)!important;border-radius:12px!important}
+.resume-banner button{background:linear-gradient(180deg,#b21c25,#730b12)!important;color:#fff!important;border:1px solid rgba(255,255,255,.22)!important;border-radius:10px!important;box-shadow:0 3px 10px rgba(0,0,0,.3)!important}
+.book-shell{filter:drop-shadow(0 16px 24px rgba(0,0,0,.3))}
+.nav{gap:10px!important;align-items:center!important}
+.nav button{background:linear-gradient(180deg,#17232c,#080e13)!important;color:#f3f3f3!important;border:1px solid rgba(197,31,41,.65)!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.06),0 5px 14px rgba(0,0,0,.34)!important;border-radius:999px!important;font-weight:700!important}
+.nav button:not(:disabled):active{transform:scale(.97)}
+.nav button:disabled{opacity:.3!important}
+#pageCounter{color:#d7dadd!important;text-shadow:0 1px 2px #000;font-weight:600}
+.progress-wrap{color:#9ca5aa!important}
+.progress{height:5px!important;background:#1c252c!important;border:1px solid rgba(255,255,255,.08)!important;box-shadow:none!important}
+.progress>span{background:linear-gradient(90deg,#6d080e,#e22b34)!important;box-shadow:0 0 8px rgba(225,30,42,.55)!important}
+#chapterLabel,#percentLabel{color:#9da5aa!important;font-size:.78rem!important}
+.page{box-shadow:0 14px 34px rgba(0,0,0,.38)!important}
+/* Keep prose safely inside decorative overlay */
+.page.coldcase-frame .flow-viewport{box-sizing:border-box;padding:22px 34px 26px!important}
+@media(max-width:640px){
+  .resume-banner{margin-bottom:8px!important;padding:8px 10px!important;font-size:.92rem!important}
+  .resume-banner button{padding:7px 11px!important}
+  .page.coldcase-frame .flow-viewport{padding:26px 34px 30px!important}
+  .nav{margin-top:9px!important}
+  .nav button{padding:10px 15px!important;font-size:.98rem!important}
+}
+/* Fullscreen = pure reading surface */
+html:fullscreen .page.coldcase-frame .flow-viewport,
+html:-webkit-full-screen .page.coldcase-frame .flow-viewport,
+body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:34px 42px 38px!important}
+@media(max-width:640px){
+ html:fullscreen .page.coldcase-frame .flow-viewport,
+ html:-webkit-full-screen .page.coldcase-frame .flow-viewport,
+ body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:38px 38px 42px!important}
+}
+
 </style>
 </head>
 <body class="theme-ivory">
