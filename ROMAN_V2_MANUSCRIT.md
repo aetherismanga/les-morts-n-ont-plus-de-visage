@@ -3047,6 +3047,164 @@ Martin lança le traçage.
 
 Impossible.
 
+Nous consacrâmes l’après-midi à Clara elle-même.
+
+Pas à sa mort.
+
+À ses dix-sept années avant.
+
+Lycée de Sommières.
+
+Anciennes camarades.
+
+Un professeur de français à la retraite.
+
+Une amie d’enfance, Léa, qui vivait maintenant à Toulouse et accepta une visioconférence.
+
+— Clara n’était pas fragile, dit-elle.
+
+— Personne ne l’a dit.
+
+— Si. Après sa mort, tout le monde disait qu’elle était instable, qu’elle buvait, qu’elle fréquentait des plus âgés. C’était une manière de rendre l’accident logique.
+
+Je notai.
+
+— Elle fréquentait Laurent ?
+
+Léa serra les lèvres.
+
+— Il lui tournait autour.
+
+— Relation sexuelle ?
+
+— Elle ne m’a jamais dit ça.
+
+— Grossesse ?
+
+Son visage changea.
+
+— Quoi ?
+
+Elle ne savait pas.
+
+Je n’insistai pas.
+
+— Mathieu ?
+
+— Très protecteur. Trop parfois.
+
+— Hélène ?
+
+— Clara l’aimait bien. Elle disait que c’était « la seule adulte qui écoute ».
+
+La phrase me surprit.
+
+Hélène avait donc été une figure de confiance pour Clara avant de falsifier sa mort.
+
+— Elle vous a parlé d’une vidéo ?
+
+— Une semaine avant. Elle disait qu’elle avait filmé « quelque chose de dégueulasse ».
+
+— Quoi ?
+
+— Elle refusait. Elle disait que si Mathieu voyait, il ferait une connerie.
+
+— Donc elle ne voulait pas lui montrer.
+
+— Au début.
+
+— Gabriel Varenne ?
+
+Léa me regarda à travers l’écran.
+
+— Vous.
+
+— Oui.
+
+— Elle avait votre carte.
+
+Je me figeai.
+
+— Comment ?
+
+— Vous étiez intervenu au lycée pour une histoire de harcèlement quelques mois avant. Elle vous trouvait « moins con que les autres flics ».
+
+Martin étouffa un sourire.
+
+— Merci.
+
+— Elle disait qu’elle vous appellerait si elle avait besoin d’un adulte extérieur à la famille.
+
+Voilà pourquoi Clara m’avait choisi.
+
+Pas parce que nous étions proches.
+
+Parce que j’étais extérieur.
+
+Exactement comme Emma choisirait plus tard Zoé pour cacher son téléphone.
+
+Les victimes cherchaient les bords de l’histoire.
+
+Les adultes du centre, eux, ramenaient tout à la famille.
+
+Léa ajouta :
+
+— Clara avait un carnet rouge.
+
+— Retrouvé ?
+
+— Non.
+
+Mireille confirma.
+
+Jamais rendu.
+
+Téléphone absent.
+
+Carnet absent.
+
+Deux objets personnels contenant potentiellement sa version.
+
+— Qui savait pour le carnet ?
+
+— Mathieu. Moi. Peut-être Sophie.
+
+Encore une trace disparue.
+
+Nous cherchâmes dans les anciennes saisies.
+
+Aucun carnet.
+
+Dans les photographies de la fête, pourtant, Clara portait un petit sac rouge.
+
+Sur une image prise à 23 h 14, le sac était là.
+
+Sur la photographie de son corps après la carrière, non.
+
+Quelqu’un l’avait pris entre les deux.
+
+Téléphone.
+
+Carnet.
+
+La même personne ?
+
+Nous ajoutâmes deux absences à notre tableau.
+
+C’était peu spectaculaire.
+
+Mais pour la première fois, Clara commençait à reprendre possession de son propre rôle dans l’histoire.
+
+Elle n’avait pas seulement fui.
+
+Elle avait collecté.
+
+Choisi qui appeler.
+
+Tenté de transmettre.
+
+Elle enquêtait déjà sur quelque chose avant nous.
+
 Mon portable vibra simultanément.
 
 Notification de connexion au serveur d’enquête.
@@ -4059,6 +4217,122 @@ Pour la première fois en quinze ans, je regardai mon ami comme un homme que j�
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
 
+Le fils d’Élodie, Hugo, avait treize ans.
+
+Je demandai qu’on ne lise pas ses messages sans filtre.
+
+Une équipe spécialisée examina d’abord.
+
+Une conversation avec un camarade attira pourtant l’attention.
+
+La veille du meurtre :
+
+*Ma mère est bizarre.*
+
+*Elle a brûlé des papiers.*
+
+Puis :
+
+*Elle dit qu’on va peut-être partir quelques jours.*
+
+Le camarade :
+
+*Vacances ?*
+
+Hugo :
+
+*Non. Elle a peur.*
+
+Une photo jointe montrait une cheminée.
+
+Au milieu des cendres, un fragment de papier.
+
+Nous agrandîmes seulement ce qui était lisible :
+
+**…VIDAL…**
+
+**…copie…**
+
+**…52 sec…**
+
+Je sentis mon cœur accélérer.
+
+Élodie connaissait donc la durée de la vidéo.
+
+Elle avait peut-être vu la copie.
+
+— Elle l’a brûlée ? demanda Martin.
+
+— Ou une impression à propos de la copie.
+
+Dans les cendres de la cheminée, les techniciens récupérèrent des fragments.
+
+Un numéro partiel.
+
+Une adresse mail.
+
+Le domaine appartenait à un ancien service de stockage fermé en 2013.
+
+Nous obtînmes, après procédure, une archive de compte.
+
+Utilisateur créé en août 2009.
+
+Nom :
+
+**CV_backup.**
+
+Aucun fichier encore disponible.
+
+Mais les logs anciens conservaient des tailles.
+
+Un upload de 4,8 Mo le 18 août à 2 h 03.
+
+Même taille que VID00052.3gp.
+
+Puis un téléchargement à 2 h 05 depuis une autre IP.
+
+La vidéo avait donc été sauvegardée puis récupérée presque immédiatement.
+
+— Par Mathieu ?
+
+— Possible.
+
+— Élodie ?
+
+— Elle était probablement déjà en route ou à l’hôpital.
+
+— Hélène ?
+
+— Peut-être.
+
+Le compte avait été consulté de nouveau en 2019.
+
+Puis 2024.
+
+Puis deux semaines avant les meurtres.
+
+Même identifiant technique que dans certains accès Observer.
+
+Je regardai Nadir.
+
+— Observer a peut-être vu la vidéo.
+
+— Ou au moins le compte.
+
+— Et nous, on n’a plus le fichier.
+
+— Non.
+
+Une trace numérique de quelque chose qui n’existait plus.
+
+C’était presque une définition de toute l’affaire.
+
+Élodie avait brûlé des papiers la veille de mourir parce qu’elle savait que quelqu’un remontait vers cette copie.
+
+Elle ne fuyait peut-être pas seulement Hélène.
+
+Elle fuyait celui qui, dix-sept ans plus tard, cherchait encore cinquante-deux secondes.
+
 Une voisine d’Élodie nous donna un détail supplémentaire.
 
 — Un livreur est venu vers dix-huit heures.
@@ -4625,7 +4899,111 @@ Un absent.
 
 La lettre disait de regarder les absents.
 
-Le Le Nokia possédait aussi un brouillon jamais envoyé.
+Le Nous cherchâmes Antoine Lemaire.
+
+Pas l’homme — mort en 2012 — mais ses archives professionnelles.
+
+Sa société avait été liquidée.
+
+Les disques de sauvegarde avaient été repris par un prestataire.
+
+Puis rachetés.
+
+Puis migrés.
+
+Un parcours bureaucratique parfait pour perdre la trace sans réellement supprimer les données.
+
+Après deux jours, Nadir retrouva une image disque.
+
+Dossiers techniques.
+
+Hôpitaux.
+
+Collectivités.
+
+Un répertoire protégé :
+
+**HL_PRIV.**
+
+Initiales d’Hélène Lemaire.
+
+— Son mari lui gardait des sauvegardes personnelles.
+
+À l’intérieur, des rapports médicaux, des photos familiales, des documents de Clara.
+
+Et un fichier texte daté du 20 août 2009.
+
+Antoine écrivait :
+
+*Hélène me demande de supprimer les journaux du serveur d’urgences. Refus. Elle dit que Sophie risque de perdre Théo. Cazeneuve insiste. J’ai exporté avant modification.*
+
+— Il a gardé l’original.
+
+Dossier suivant.
+
+**EXPORT_180809.**
+
+Des logs.
+
+À 22 h 31, connexion d’Hélène au dossier médical de Clara.
+
+À 22 h 44, compte Élodie.
+
+À 23 h 07, modification.
+
+À 2 h 26, nouvelle connexion Hélène.
+
+À 3 h 03, export complet par Antoine.
+
+Puis une anomalie.
+
+À 3 h 11, accès depuis un compte sans nom.
+
+Identifiant numérique qui, après migration de 2019, deviendrait Observer_01.
+
+— Le compte fantôme existait donc déjà cette nuit-là.
+
+Nadir hocha la tête.
+
+— Sous un identifiant technique différent, oui.
+
+— Qui pouvait l’utiliser ?
+
+— Administrateurs du système. Antoine. Quelques prestataires. Peut-être un compte de service automatique.
+
+Je sentis l’excitation retomber.
+
+Pas une preuve de personne.
+
+Un compte peut agir sans humain à cet instant.
+
+— Qu’a-t-il consulté ?
+
+Nadir ouvrit.
+
+Dossier Clara.
+
+Puis un partage réseau nommé **VIDEO_INCOMING**.
+
+— La vidéo ?
+
+Répertoire vide dans la sauvegarde.
+
+Mais le log montrait un fichier temporaire de 4,8 Mo.
+
+À 3 h 12 : copié.
+
+À 3 h 13 : supprimé.
+
+Destination externe inconnue.
+
+Observer, ou le compte qui deviendrait Observer, avait donc touché une copie de la vidéo dans la nuit même de 2009.
+
+Pour la première fois, le lien entre le mystère contemporain et la nuit de Clara n’était plus seulement narratif.
+
+Il existait dans un journal technique.
+
+Le Nokia possédait aussi un brouillon jamais envoyé.
 
 *Si quelque chose m’arrive, demandez à Mathieu ce qu’il a copié. Hélène croit que c’est le téléphone. Ce n’est pas le téléphone.*
 
@@ -5844,6 +6222,110 @@ Martin s’assit.
 — Et Mathieu savait qu’on allait usurper son identité.
 
 — Ou il pensait que ça arriverait.
+
+Inès nous donna accès à un ancien projet de Mathieu.
+
+Nom :
+
+**JANUS.**
+
+Deux visages.
+
+Le logiciel ne fabriquait rien.
+
+Il comparait plusieurs versions d’un même événement.
+
+Métadonnées.
+
+Cadres.
+
+Sons.
+
+Témoignages.
+
+Et produisait non pas un verdict, mais une carte des divergences.
+
+— Mathieu disait que les outils de détection cherchaient trop à dire vrai/faux, expliqua Inès. JANUS disait seulement : voici où les versions cessent de coïncider.
+
+Nous importâmes la vidéo de la carrière.
+
+Le résultat montra immédiatement les transitions météo.
+
+La vidéo Emma.
+
+Le prénom remplacé.
+
+La sonnette de 2 h 41.
+
+JANUS signala une incohérence plus subtile : fréquence d’éclairage public.
+
+— Qu’est-ce que ça veut dire ?
+
+Nadir expliqua que les lampadaires LED présentaient une modulation invisible à l’œil, dépendante de l’alimentation.
+
+À partir du réseau électrique local, il était parfois possible d’estimer une fenêtre temporelle.
+
+L’analyse plaça la séquence non pas à 2 h 41.
+
+Mais probablement entre 2 h 20 et 2 h 30.
+
+Je restai immobile.
+
+— Donc l’heure est fausse.
+
+— Très probablement.
+
+— Mais l’image ?
+
+— Rien ne montre qu’elle est générée.
+
+Mon double pouvait être moi.
+
+Plus tôt.
+
+Nous demandâmes les données électriques au gestionnaire.
+
+Une correspondance se dessina autour de 2 h 24.
+
+— J’étais donc dans le quartier à 2 h 24.
+
+— Si la méthode tient et si la vidéo n’a pas subi un traitement qui simule la fréquence.
+
+Toujours une réserve.
+
+Mais la possibilité se renforçait.
+
+Je pensai au fourgon blanc vu vers 2 h 30.
+
+À l’homme sortant de mon immeuble à 2 h 12.
+
+Trajet plausible.
+
+La fausse vidéo ne m’avait peut-être jamais inventé.
+
+Elle avait déplacé mon horaire de dix-sept minutes.
+
+Pourquoi ?
+
+Parce que 2 h 41 devait correspondre à autre chose ?
+
+Nous cherchâmes.
+
+À 2 h 41, le système d’alarme des Morel enregistrait une ouverture de porte intérieure.
+
+Pas extérieure.
+
+Une donnée obscure.
+
+Mais quelqu’un avait choisi précisément cette heure pour me placer dehors.
+
+Le déplacement temporel avait peut-être servi à masquer un autre événement survenu à 2 h 24.
+
+Ou à 2 h 41.
+
+La vidéo n’était plus une accusation.
+
+Elle devenait une horloge volontairement déréglée.
 
 Nous retrouvâmes une collègue de Mathieu, Inès Roux.
 
