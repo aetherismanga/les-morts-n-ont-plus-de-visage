@@ -1041,7 +1041,17 @@ Deux.
 
 Cinq.
 
-À 9 h 34, une chaîne d’information affichait :
+À la sixième, je cessai de regarder le visage.
+
+Je regardai les pieds.
+
+Ma jambe gauche partait légèrement vers l’extérieur.
+
+Exactement comme depuis une entorse mal soignée à vingt ans.
+
+— Merde.
+
+À 9 h 34, une chaîne d’information affichait déjà :
 
 **UN POLICIER SUR LES LIEUX AVANT LA DÉCOUVERTE DES CORPS ?**
 
@@ -1051,9 +1061,13 @@ Cinq.
 
 Elle disait :
 
-— Je suis certaine. Je l’ai vu.
+— Je suis certaine. Je l’ai vu. Il marchait vite.
 
 À dix heures vingt-six, elle avait vingt mille abonnés de plus.
+
+À dix heures trente-deux, un compte anonyme publiait mon ancienne photographie professionnelle avec le mot **MEURTRIER ?**
+
+Le point d’interrogation faisait tout le travail juridique.
 
 Je passai la vidéo image par image.
 
@@ -1065,7 +1079,9 @@ Je le faisais quand quelqu’un prononçait mon prénom.
 
 Mais il n’y avait pas de son.
 
-— Bienvenue en 2026, dit Martin.
+Martin entra avec deux cafés.
+
+— Bienvenue en 2026.
 
 Il posa son téléphone devant moi.
 
@@ -1095,9 +1111,25 @@ Je relevai les yeux.
 
 — Ou à mes sauvegardes.
 
-Nous nous regardâmes.
+— Ou au tien.
 
-Le problème venait de changer de taille.
+Il me regarda.
+
+— Merci, ça rassure.
+
+Nous vérifiâmes l’horodatage du message.
+
+2 h 41.
+
+Exactement la minute de la vidéo.
+
+— Un alibi, dit Martin.
+
+— Trop parfait.
+
+— Quelqu’un veut à la fois te placer sur place et te donner une trace numérique ailleurs.
+
+— Pour qu’on passe des semaines à décider laquelle est fausse.
 
 Mon téléphone vibra.
 
@@ -1105,15 +1137,23 @@ Mon téléphone vibra.
 
 Martin lut par-dessus mon épaule.
 
-— Charmant.
+— Il se prend pour un professeur.
 
-— Trace le numéro.
+— Trace.
 
-— Déjà fait.
+— Déjà.
 
-— Et ?
+Il appela l’équipe technique.
 
-— Il n’existe pas.
+Dix minutes plus tard :
+
+Numéro inexistant.
+
+Routage multiple.
+
+Message injecté via un service compromis.
+
+Rien.
 
 À midi, la presse avait un nom.
 
@@ -1123,17 +1163,27 @@ Je détestai immédiatement le mot.
 
 Il transformait quelqu’un que nous ne comprenions pas en personnage.
 
+Et les personnages finissent toujours par obtenir un public.
+
 Le parquet me convoqua.
 
-Une procureure que je connaissais depuis six ans posa mon téléphone dans une pochette de preuve.
+La procureure, Claire Montels, me connaissait depuis six ans. Elle avait cette façon de parler calmement qui donnait l’impression que les catastrophes étaient seulement des dossiers plus épais.
+
+Elle posa mon téléphone dans une pochette.
 
 — Je te maintiens dans l’enquête.
 
 — Merci.
 
-— Ce n’est pas un cadeau. Tes accès seront journalisés. Tes communications aussi.
+— Ce n’est pas un cadeau.
+
+— J’avais compris.
+
+— Tes accès seront journalisés. Tes communications aussi. Tu ne travailles jamais seul sur une pièce susceptible de te concerner directement.
 
 — Je deviens suspect ?
+
+Elle retira ses lunettes.
 
 — Tu es visible sur une vidéo à proximité d’un triple homicide avant l’heure officielle de ton arrivée.
 
@@ -1143,13 +1193,109 @@ Une procureure que je connaissais depuis six ans posa mon téléphone dans une p
 
 — Probablement ?
 
-Elle me regarda.
-
 — C’est le mot qui va gouverner ta vie quelque temps.
 
-À quatorze heures, l’expert vidéo nous rejoignit.
+Elle me montra une impression.
 
-Il s’appelait Nadir Benhamou et avait la manière irritante des gens qui réfléchissent avant de répondre.
+La sonnette connectée.
+
+Le fabricant confirmait qu’un horodatage pouvait être altéré si le compte administrateur était compromis.
+
+Mais aucune trace d’intrusion exploitable.
+
+— Donc vous ne pouvez même pas me dire si c’est la bonne heure.
+
+— Non.
+
+— Ou si c’est moi.
+
+— Non plus.
+
+— Super.
+
+Montels referma le dossier.
+
+— Gabriel, écoute-moi. Si tu découvres que tu es venu chez les Morel avant quatre heures, tu me le dis avant de chercher pourquoi.
+
+Je souris.
+
+— Tu penses que j’ai oublié d’aller sur une scène de crime ?
+
+— J’ai lu ton dossier médical de 2009.
+
+Le sourire disparut.
+
+— Qui te l’a donné ?
+
+— Il était déjà joint au dossier ce matin.
+
+— Par qui ?
+
+Elle me fixa.
+
+— C’est précisément une des choses qu’on cherche.
+
+En sortant, je trouvai Sarah près des ascenseurs.
+
+— Tu savais qu’ils avaient mon dossier de 2009 ?
+
+Son visage se ferma.
+
+— Non.
+
+— Qu’est-ce qu’il contient ?
+
+— Demande au médecin qui l’a rédigé.
+
+— Il est mort.
+
+— Alors lis-le.
+
+— Sarah.
+
+Elle appuya sur le bouton.
+
+— Pas dans un couloir.
+
+— Quand ?
+
+Les portes s’ouvrirent.
+
+— Quand tu arrêteras de me parler comme si j’étais déjà coupable de quelque chose.
+
+Elle entra.
+
+Je retins la porte.
+
+— Pourquoi tu m’as demandé si je connaissais Emma ?
+
+Sarah me regarda.
+
+— Parce qu’elle a prononcé ton prénom.
+
+— Il était peut-être faux.
+
+— Peut-être.
+
+— Tu me caches quelque chose.
+
+— Oui.
+
+Les portes commencèrent à se refermer.
+
+— Quoi ?
+
+Elle ne répondit pas.
+
+L’ascenseur disparut.
+
+À quatorze heures, l’expert vidéo arriva.
+
+Nadir Benhamou avait trente-cinq ans, une barbe mal taillée et l’air de quelqu’un qu’on dérangeait en permanence au milieu d’une pensée importante.
+
+Il refusa le café, demanda les fichiers natifs et passa quarante minutes sans nous parler.
+
+Puis :
 
 — La vidéo d’Emma est composite.
 
@@ -1159,9 +1305,17 @@ Il s’appelait Nadir Benhamou et avait la manière irritante des gens qui réfl
 
 — Donc vraie.
 
-— Je n’ai pas dit ça.
+Il leva les yeux vers moi.
 
-Il ouvrit un spectrogramme.
+— Vous êtes policier depuis combien de temps ?
+
+— Assez.
+
+— Alors ne me faites pas dire une chose que je n’ai pas dite.
+
+Martin étouffa un sourire.
+
+Nadir ouvrit un spectrogramme.
 
 — La bande-son a été reconstruite localement.
 
@@ -1169,15 +1323,15 @@ Il isola le premier mot.
 
 *Gabriel.*
 
-Puis il fit apparaître une autre courbe.
+Puis fit apparaître une autre courbe.
 
-— Ici, les transitions acoustiques ne correspondent pas au reste.
+— Ici, les transitions acoustiques sont différentes. Les consonnes viennent d’un autre échantillon vocal.
 
 — En français ?
 
-— Quelqu’un a fabriqué ton prénom.
+— Quelqu’un a remplacé un prénom.
 
-Il lança la piste restaurée.
+Il lança la restauration.
 
 Emma inspira.
 
@@ -1191,39 +1345,87 @@ Nadir haussa les épaules.
 
 — Ça, c’est votre métier.
 
-Je repensai au reflet dans la fenêtre.
+Je repensai au reflet de la fenêtre.
 
-— Et la silhouette ?
+— La silhouette ?
 
 — Inexploitable.
 
-— Essaie.
+— Agrandis.
 
-— Je peux te fabriquer une personne avec huit pixels si tu veux. Mais ce sera moi qui l’aurai créée.
+— Non.
 
-Cette phrase resta avec moi.
+Je le regardai.
 
-À seize heures, Sarah passa devant la salle.
+— Pardon ?
 
-Je la suivis.
+— Je peux agrandir. Mais si je vous montre quatre pixels transformés en visage, votre cerveau fera le reste. Je préfère vous donner une absence qu’un faux suspect.
 
-— Pourquoi tu m’as demandé si je connaissais Emma ?
+Cette phrase me plut.
 
-— Parce qu’elle a prononcé ton prénom.
+Elle allait à l’encontre de tout ce que quelqu’un essayait de nous faire faire depuis le début.
 
-— Qui était faux.
+— Fais quand même une analyse de mouvement.
 
-— Je ne le savais pas encore.
+— Ça, oui.
 
-— Tu avais l’air de savoir autre chose.
+Il travailla encore.
 
-Elle me fixa.
+— Taille entre un mètre soixante et un mètre soixante-dix-huit, selon distance. Probablement un adulte. Peut-être une femme. Peut-être pas.
 
-— Tu cherches un suspect ou une réponse ?
+Martin soupira.
 
-— Les deux.
+— Vous êtes d’une aide précieuse.
 
-— Alors commence par dormir.
+— C’est parce que la vérité est souvent moins nette que Netflix.
+
+À seize heures, nous reçûmes les premiers résultats toxicologiques sur les Morel.
+
+Sédatif non identifié précisément.
+
+Sophie et Laurent avaient absorbé quelque chose plusieurs heures avant leur mort.
+
+Emma, non.
+
+— Donc elle était consciente, dis-je.
+
+Sarah hocha la tête.
+
+Elle était revenue pour superviser le transfert, mais évitait mon regard.
+
+— Elle a pu se défendre ?
+
+— Je n’ai pas dit ça.
+
+— Tu ne dis jamais ce que j’ai besoin d’entendre.
+
+— Ce n’est pas mon métier.
+
+— Et le tien, c’est quoi exactement depuis hier ?
+
+Elle se raidit.
+
+Martin intervint.
+
+— On se calme.
+
+Sarah posa son dossier.
+
+— J’ai demandé à être dessaisie du dossier d’Emma.
+
+— Pourquoi ?
+
+— Conflit personnel.
+
+Je la fixai.
+
+— Quel conflit ?
+
+— Je te l’expliquerai.
+
+— Encore plus tard.
+
+— Oui.
 
 Elle partit.
 
@@ -1241,35 +1443,43 @@ Violences aggravées.
 
 Menaces.
 
-Une ordonnance d’éloignement ancienne.
+Ordonnance d’éloignement ancienne.
 
-Le suspect idéal.
+Martin posa sa tasse.
 
-Trop idéal.
+— On a quelqu’un.
 
-Je demandai le dossier.
+Je regardai le nom.
 
-Photographie du verre.
+Le soulagement fut immédiat.
 
-Étiquette **PIÈCE 010** au premier plan.
+Et honteux.
 
-Quelque chose me gêna.
+Un homme avec un passé violent.
+
+Un ADN.
+
+Une victime qu’il connaissait.
+
+Tout ce dont une enquête rêve quand elle ne veut plus avoir peur.
+
+Je demandai la photographie du prélèvement.
+
+Étiquette **PIÈCE 010**.
 
 Je zoomai.
 
-Le numéro du scellé était presque illisible à cause d’un reflet.
+Le numéro du scellé était presque illisible sous un reflet.
 
-— Gabriel ?
-
-Je refermai l’image.
+— Quoi ? demanda Martin.
 
 — Rien.
 
-À dix-huit heures trente, une notification apparut sur mon téléphone personnel.
+À dix-huit heures trente, une notification apparut sur mon téléphone.
 
-Une vidéo de la sonnette.
+La vidéo de sonnette.
 
-La même.
+Même séquence.
 
 Cette fois, elle comportait du son.
 
@@ -1291,19 +1501,65 @@ Je ne reconnaissais pas la voix.
 
 Mais mon corps, lui, semblait la reconnaître.
 
-Une odeur de vanille me revint.
+Une odeur de vanille me revint si nettement que je regardai autour de moi.
 
-À cet instant, je voulais que Nicolas Fabre soit coupable.
+— Gabriel ?
 
-Tout le monde le voulait.
+— Rien.
 
-C’est ce qui aurait dû nous inquiéter.
+Martin me fixa.
+
+— Tu vois l’ironie ?
+
+— Laquelle ?
+
+— On enquête sur des gens qui manipulent la vérité et tu me mens toutes les dix minutes.
+
+Je fermai le fichier.
+
+— Alors on commence demain par Fabre.
+
+— Et ce soir ?
+
+Je regardai la vidéo.
+
+Mon double continuait à marcher dans une rue où je n’avais aucun souvenir d’avoir été.
+
+— Ce soir, j’essaie de savoir si j’ai un alibi contre moi-même.
+
+Je rentrai chez moi.
+
+À 21 h 12, je regardai les journaux de mon téléphone.
+
+Il s’était déconnecté du réseau à 1 h 58.
+
+Reconnecté à 4 h 11.
+
+Entre les deux : rien.
+
+Je restai assis dans le noir.
+
+À 22 h 03, un message anonyme arriva.
+
+**DEUXIÈME LEÇON : L’ABSENCE EST AUSSI UNE PREUVE.**
+
+Je ne répondis pas.
+
+À 22 h 04 :
+
+**SURTOUT QUAND QUELQU’UN L’A PRÉPARÉE.**
+
+Je levai les yeux vers ma fenêtre.
+
+Pour la première fois, je fermai les rideaux.
 
 ---
 
 ### CHAPITRE 3 — LE QUATRIÈME COUVERT
 
-Nicolas Fabre habitait Palavas-les-Flots dans un deux-pièces à trois rues de la mer. À cette heure-là, les terrasses étaient encore vides et le vent poussait une odeur d’iode jusque dans la cage d’escalier.
+Nicolas Fabre habitait Palavas-les-Flots dans un deux-pièces à trois rues de la mer.
+
+À cette heure-là, les terrasses étaient encore vides et le vent poussait une odeur d’iode jusque dans la cage d’escalier.
 
 Il ouvrit avant que nous frappions.
 
@@ -1313,19 +1569,37 @@ Martin et moi échangeâmes un regard.
 
 — Comment saviez-vous que nous venions ?
 
-Fabre eut un sourire fatigué.
-
 — Parce que Sophie m’avait prévenu qu’un jour quelqu’un viendrait poser les mauvaises questions.
 
-Il avait cinquante ans, le visage creusé, les avant-bras couverts de tatouages anciens. Son dossier disait violences aggravées. Une photographie judiciaire montrait Sophie avec une pommette gonflée. Je m’étais promis de ne pas laisser cette image décider à ma place.
+Il avait cinquante ans, le visage creusé, les avant-bras couverts de tatouages anciens.
 
-Sur la table, une enveloppe attendait à côté d’un cendrier.
+Son dossier disait violences aggravées.
+
+Une photographie judiciaire montrait Sophie avec une pommette gonflée.
+
+Je m’étais promis de ne pas laisser cette image décider à ma place.
+
+Je n’y arrivais qu’à moitié.
+
+— Entrez.
+
+Son appartement était propre à l’excès.
+
+Pas de photographies.
+
+Pas de décoration.
+
+Une plante morte sur le balcon.
+
+Sur la table, une enveloppe attendait près d’un cendrier.
 
 À l’intérieur : une photographie de Sophie.
 
 Son visage avait été découpé.
 
-Au dos : **À TON TOUR DE MENTIR.**
+Au dos :
+
+**À TON TOUR DE MENTIR.**
 
 — Quand l’avez-vous reçue ?
 
@@ -1335,7 +1609,11 @@ Au dos : **À TON TOUR DE MENTIR.**
 
 — Évidemment. Je ne vis pas dans une série policière.
 
-Il alluma une cigarette. Martin lui demanda de l’éteindre. Fabre obéit avec une docilité qui ne correspondait pas au personnage que son dossier nous avait préparé.
+Il alluma une cigarette.
+
+Martin lui demanda de l’éteindre.
+
+Fabre obéit avec une docilité qui ne correspondait pas au personnage que son dossier nous avait préparé.
 
 — Vous étiez chez les Morel hier soir.
 
@@ -1367,7 +1645,9 @@ Fabre resta silencieux.
 
 — Ce qui m’inquiète, commandant, c’est que vous ayez exactement ce qu’il faut.
 
-Il se leva. Martin déplaça imperceptiblement sa main vers son arme.
+Il se leva.
+
+Martin déplaça imperceptiblement sa main vers son arme.
 
 — Je vais chercher mon téléphone, dit Fabre. Si je voulais vous sauter dessus, j’aurais choisi l’époque où j’avais encore des genoux.
 
@@ -1431,6 +1711,8 @@ Il ne répondit pas assez vite.
 
 — Pas ici.
 
+— Toujours pas ici. Toujours pas maintenant.
+
 Je retournai dans l’appartement.
 
 Fabre n’avait pas bougé.
@@ -1439,11 +1721,11 @@ Fabre n’avait pas bougé.
 
 Il écrasa sa cigarette froide.
 
-— En 2009, on faisait tous semblant d’être adultes. Laurent surtout. Clara avait dix-sept ans. Elle traînait avec nous parce que Sophie l’aimait bien. Moi, j’étais jaloux de tout le monde, Laurent se croyait intouchable, et votre uniforme vous donnait l’impression que vous pouviez réparer les gens.
+— En 2009, on faisait tous semblant d’être adultes. Laurent surtout. Clara avait dix-sept ans. Elle traînait avec nous parce que Sophie l’aimait bien. Moi, j’étais jaloux de tout le monde, Laurent se croyait intouchable et votre uniforme vous donnait l’impression que vous pouviez réparer les gens.
 
 — J’étais policier ?
 
-— Vous étiez surtout amoureux.
+— Vous veniez de passer officier de police judiciaire, je crois. Vous étiez surtout amoureux.
 
 Mon cœur ralentit.
 
@@ -1479,43 +1761,301 @@ Fabre sourit tristement.
 
 — Voilà. Même elle.
 
-Nous quittâmes l’appartement avec son téléphone placé sous scellé et davantage de questions qu’en arrivant.
+Je repris place.
 
-Dans la voiture, Martin fixa le pare-brise.
+— Pourquoi Sophie vous a appelé hier ?
 
-— Pourquoi tu ne m’as jamais parlé de 2009 ?
+— Parce qu’elle avait reçu une photo.
 
-— Parce que ce n’était pas mon histoire à raconter.
+Il fouilla dans ses messages.
 
-— J’étais dedans.
+Une image de la photographie de 2009.
 
-— Justement.
+Six personnes devant la maison aux volets bleus.
 
-Je tournai la tête vers lui.
+Une phrase ajoutée :
 
-— Clara est morte ?
+**LE COMPTE REPREND.**
 
-Martin serra le volant.
+— Elle m’a dit que quelqu’un connaissait tout.
+
+— Tout quoi ?
+
+— La carrière. Clara. Les pages retirées.
+
+— Vous saviez pour les pages ?
+
+— J’ai appris après.
+
+— Après quand ?
+
+— Après la mort.
+
+— Qui les a retirées ?
+
+— Cazeneuve, je suppose.
+
+Martin bougea légèrement.
+
+Fabre le vit.
+
+— Lui aussi sait.
+
+— Vous étiez à la carrière ? demandai-je.
+
+— Non.
+
+— Où ?
+
+— Chez Sophie.
+
+— Avec qui ?
+
+— Sarah, au début. Puis elle est partie.
+
+— Pourquoi ?
+
+Il hésita.
+
+— Pour vous chercher.
+
+Je regardai Martin.
+
+— Et moi j’étais déjà avec Clara.
 
 — Oui.
 
-— Comment ?
+— Laurent aussi.
 
-— Une chute.
+— Oui.
 
-— Accident ?
+— Qui d’autre ?
 
-Il démarra.
+Fabre regarda la fenêtre.
 
-— C’est ce que dit le dossier.
+— Hélène est arrivée plus tard.
+
+Premier prénom.
+
+À cet instant, il ne signifiait encore rien.
+
+— Hélène qui ?
+
+— La mère de Sophie.
+
+— Elle était médecin ?
+
+Il me regarda, surpris.
+
+— Vous vous souvenez ?
+
+— Non.
+
+— Alors comment…
+
+— Répondez.
+
+— Oui.
+
+Je notai.
+
+— Vous avez frappé Sophie.
+
+Le changement de sujet le surprit.
+
+— Oui.
+
+— Pourquoi ?
+
+— Parce que j’étais un connard.
+
+— Une fois ?
+
+— Non.
+
+Sa franchise me désarma.
+
+— Vous comprenez qu’avec votre ADN, votre passé et votre présence hier soir…
+
+— Je comprends exactement. C’est pour ça que j’ai peur.
+
+— De quoi ?
+
+— Sophie me disait depuis des semaines que quelqu’un préparait quelque chose. Elle avait recommencé à boire. Elle voyait des visages dans des voitures. Elle disait que les morts revenaient quand les vivants avaient trop bien dormi.
+
+Il se pencha.
+
+— Hier, elle m’a demandé pardon.
+
+— Pour quoi ?
+
+— Pour avoir menti sur Clara.
+
+— Quel mensonge ?
+
+— Elle n’a pas eu le temps de me dire.
+
+Son téléphone vibra.
+
+Nous nous figeâmes tous.
+
+Numéro inconnu.
+
+Fabre me le tendit.
+
+Message :
+
+**TU AURAIS DÛ RESTER LE COUPABLE.**
+
+Martin prit immédiatement une photo de l’écran.
+
+— Ça vous suffit ? demanda Fabre.
+
+— À quoi ?
+
+— À comprendre que je suis le décor.
+
+Je le regardai.
+
+— Pas encore.
+
+Nous le plaçâmes malgré tout en garde à vue.
+
+Pas pour satisfaire l’histoire.
+
+Parce que les éléments l’exigeaient.
+
+Je passai deux heures à l’interroger.
+
+À 14 h 08, il finit par frapper la table.
+
+— Je l’aimais encore, d’accord ?
+
+— Sophie ?
+
+— Oui.
+
+— Après tout ?
+
+— On peut être une mauvaise personne et aimer quelqu’un.
+
+— Vous lui faisiez peur.
+
+Il baissa les yeux.
+
+— Oui.
+
+— Vous l’avez frappée.
+
+— Oui.
+
+— Et hier soir ?
+
+— Elle m’a servi un verre. J’ai bu. Elle m’a dit de partir. Je suis parti.
+
+— Heure ?
+
+— Vers vingt-trois heures moins dix.
+
+— La quatrième place était pour vous ?
+
+— Non.
+
+Je me penchai.
+
+— Comment vous le savez ?
+
+— Parce qu’elle m’a dit : « Il va venir. »
+
+— Qui ?
+
+— Elle n’a pas dit.
+
+— Homme ? Femme ?
+
+— J’ai demandé. Elle a répondu : « Quelqu’un qui aurait dû être mort. »
+
+Je sentis un froid monter.
+
+— Clara ?
+
+— J’ai pensé ça.
+
+— Mais Clara est morte.
+
+— Je sais.
+
+— Vous avez cru Sophie ?
+
+Fabre me regarda.
+
+— Commandant, depuis hier soir, je ne sais plus ce que croire.
+
+Je ne pouvais pas lui reprocher.
+
+À 17 h 22, les caméras d’un parking confirmèrent son arrivée chez lui à 23 h 06.
+
+Aucune sortie jusqu’à 6 h 48.
+
+La fenêtre estimée des morts restait encore trop large pour l’innocenter totalement, mais son rôle de quatrième convive devenait douteux.
+
+Je le laissai en garde à vue.
+
+Dans le couloir, Martin m’attendait.
+
+— Il a parlé d’Hélène.
+
+— Je sais.
+
+— Tu te souviens du prénom ?
+
+— Non.
+
+— Alors pourquoi tu savais qu’elle était médecin ?
+
+Je restai immobile.
+
+Je n’avais pas remarqué.
+
+— Ça m’est venu.
+
+— D’où ?
+
+Je fermai les yeux.
+
+Une blouse.
+
+Un bracelet rouge.
+
+Une voix.
+
+*Regarde-moi.*
+
+Je les rouvris.
+
+— Je ne sais pas.
+
+Martin souffla.
+
+— Tu devrais peut-être voir un neurologue.
+
+— Et toi un avocat.
+
+— Pourquoi ?
+
+— Parce que tu savais tout ça.
+
+Il ne répondit pas.
+
+À 18 h 01, nous sortîmes.
 
 Le téléphone de service vibra.
 
-Une photographie de nous venait d’arriver.
+Une photographie de nous.
 
 Prise depuis l’autre côté de la rue.
 
-Fabre à sa fenêtre derrière nous.
+Fabre apparaissait à une fenêtre du commissariat derrière.
 
 Sous l’image :
 
@@ -1523,19 +2063,25 @@ Sous l’image :
 
 Je levai les yeux.
 
-Les fenêtres.
+Fenêtres.
 
-Les balcons.
+Balcons.
 
-Les voitures.
+Voitures.
 
 Personne.
+
+Le message continuait :
+
+**VOUS VENEZ DE LE PROUVER.**
 
 Pour la première fois, je compris que celui qui nous observait ne suivait pas seulement l’enquête.
 
 Il écrivait nos réactions.
 
-Et nous venions de lui en donner une excellente.
+Et nous venions de lui offrir une scène parfaite.
+
+---
 
 ### CHAPITRE 4 — CLARA VIDAL
 
@@ -1547,15 +2093,67 @@ Cent quatre-vingt-une dans la chemise.
 
 Six manquaient.
 
-Je demandai qu’on ne m’apporte rien d’autre. Pas de résumé. Pas de note contemporaine. Je voulais voir ce que le policier de vingt-sept ans que j’avais été avait vu.
+Je demandai qu’on ne m’apporte rien d’autre.
 
-Le problème était qu’il semblait n’avoir rien écrit.
+Pas de résumé.
+
+Pas de note contemporaine.
+
+Je voulais voir ce que le policier de vingt-sept ans que j’avais été avait vu.
+
+Le problème était qu’il semblait n’avoir presque rien écrit.
 
 Mon nom n’apparaissait nulle part.
 
-Clara Vidal, dix-sept ans. Décès le 18 août 2009. Chute accidentelle dans une ancienne carrière près de Sommières. Alcoolémie élevée. Plusieurs jeunes présents dans le secteur. Aucun élément criminel retenu.
+Clara Vidal, dix-sept ans.
 
-— Trop propre, dit Martin.
+Née à Montpellier.
+
+Parents séparés.
+
+Bonne élève.
+
+Aucune fugue.
+
+Aucune consommation régulière connue.
+
+Décès le 18 août 2009.
+
+Chute accidentelle dans une ancienne carrière près de Sommières.
+
+Alcoolémie élevée.
+
+Plusieurs jeunes présents dans le secteur.
+
+Aucun élément criminel retenu.
+
+J’arrêtai ma lecture.
+
+— « Alcoolémie élevée ».
+
+Martin s’approcha.
+
+— Oui.
+
+— Le prélèvement est à quelle heure ?
+
+Nous cherchâmes.
+
+3 h 48.
+
+— Après une perfusion ?
+
+— Apparemment.
+
+— Et aucune analyse de contrôle.
+
+— Non.
+
+— On bâtit une conclusion sur un chiffre sans chaîne claire.
+
+Martin s’assit.
+
+— Trop propre.
 
 — Tu le savais ?
 
@@ -1569,7 +2167,13 @@ Une photographie glissa d’une pochette.
 
 Six personnes devant une maison aux volets bleus.
 
-Sophie Morel. Laurent. Nicolas Fabre. Clara.
+Sophie Morel.
+
+Laurent.
+
+Nicolas Fabre.
+
+Clara.
 
 Un jeune homme que je ne reconnus pas.
 
@@ -1579,7 +2183,7 @@ Vingt-sept ans.
 
 Blouson noir.
 
-Mon bras disparaissait derrière quelqu’un dont le visage avait été rayé au stylo sur une copie, mais pas sur l’original.
+Mon bras passait derrière une jeune femme.
 
 Sarah.
 
@@ -1589,11 +2193,23 @@ La photo était horodatée 23 h 14.
 
 Deux heures environ avant la chute.
 
+Sur l’autre cliché, Clara ne regardait pas l’objectif.
+
+Elle regardait Laurent.
+
+Son visage n’était pas effrayé.
+
+Il était furieux.
+
 — Pourquoi j’étais là ?
 
 Martin passa une main sur son visage.
 
 — Je ne sais pas exactement.
+
+— Tu étais là aussi ?
+
+— Pas sur la photo.
 
 — Mauvaise réponse.
 
@@ -1621,7 +2237,9 @@ Le souvenir s’effondra.
 
 — Je ne sais pas.
 
-Nous examinâmes les registres annexes. Clara était passée aux urgences de Nîmes à 22 h 08.
+Nous examinâmes les registres annexes.
+
+Clara était passée aux urgences de Nîmes à 22 h 08.
 
 Ecchymoses.
 
@@ -1633,13 +2251,141 @@ Refus de plainte.
 
 Sortie 23 h 02.
 
-Les six pages manquantes correspondaient exactement à la plage du dossier où auraient dû figurer ces constatations.
+Je relus l’horaire.
 
-— Quelqu’un les a retirées proprement, dit l’archiviste.
+La photographie de la maison avait été prise douze minutes plus tard.
+
+— Elle revient directement à la fête après les urgences ?
+
+— Ça tient juste en voiture.
+
+— Pourquoi ?
+
+Martin n’avait pas de réponse.
+
+Les six pages manquantes correspondaient exactement à la plage où auraient dû figurer les constatations médicales et un complément d’audition.
+
+L’archiviste, un homme maigre proche de la retraite, vérifia les reliures.
+
+— Quelqu’un les a retirées proprement.
 
 — Quand ?
 
-— Impossible à dire.
+— Impossible.
+
+— Qui avait accès ?
+
+— À l’époque ? Beaucoup trop de monde.
+
+Il sortit un vieux registre papier.
+
+Les emprunts du dossier.
+
+Trois signatures revenaient.
+
+**A. CAZENEUVE.**
+
+Mon ancien supérieur.
+
+Une autre fois, une initiale :
+
+**H. LEMAIRE.**
+
+Je sentis quelque chose.
+
+— Hélène.
+
+Martin releva les yeux.
+
+— Le médecin ?
+
+— Je ne sais pas pourquoi je sais ça.
+
+Nous cherchâmes.
+
+Docteure Hélène Lemaire.
+
+Médecin légiste.
+
+Mère de Sophie Lemaire, devenue Morel.
+
+Et de Sarah.
+
+Je reculai de la table.
+
+— Sarah est la sœur de Sophie.
+
+Martin me regarda.
+
+Il n’avait plus de raison de cacher.
+
+— Oui.
+
+Je laissai échapper un rire sans joie.
+
+— La légiste venue sur le corps d’Emma est sa tante.
+
+— Oui.
+
+— Et personne n’a pensé à me prévenir ?
+
+— Elle s’est déclarée en conflit dès les premières constatations.
+
+— Après avoir examiné sa nièce.
+
+— Avant l’autopsie formelle.
+
+— Tu joues sur les mots.
+
+— Je t’explique la procédure.
+
+Je quittai la salle.
+
+Sarah répondit au troisième appel.
+
+— Tu es la sœur de Sophie.
+
+Silence.
+
+— Oui.
+
+— Emma était ta nièce.
+
+— Oui.
+
+— Et Hélène Lemaire est ta mère.
+
+Long silence.
+
+— Où es-tu ?
+
+— Aux archives.
+
+— Gabriel…
+
+— Depuis combien de temps comptais-tu attendre ?
+
+— Jusqu’à ce que je puisse te parler sans cinquante personnes autour.
+
+— Ça fait deux jours.
+
+— Ma sœur est morte il y a deux jours.
+
+Je me tus.
+
+La colère ne disparut pas.
+
+Elle changea seulement de forme.
+
+— Pourquoi je ne me souviens pas de toi ?
+
+Sarah raccrocha.
+
+Je rappelai.
+
+Messagerie.
+
+De retour dans la salle, Martin avait trouvé le dossier médical des urgences.
 
 Le médecin interne ayant examiné Clara s’appelait Élodie Carmin.
 
@@ -1647,23 +2393,49 @@ Marseille.
 
 Toujours en activité.
 
-Je photographiai la fiche.
+Son rapport original mentionnait quelque chose que la synthèse policière ne reprenait pas :
 
-Mon téléphone vibra.
+**Patiente affirme disposer d’un enregistrement vidéo. Refuse de préciser le contenu. Demande à parler à “Gabriel”.**
 
-Une notification de connexion au serveur d’enquête.
+Je restai immobile.
+
+— Voilà pourquoi tu étais là, dit Martin.
+
+— Elle m’a appelé.
+
+— Probablement.
+
+— Non. Elle a demandé moi.
+
+Le téléphone du bureau sonna.
+
+Personne au bout.
+
+Puis une respiration.
+
+Une voix féminine :
+
+— Vous aviez promis.
+
+La ligne coupa.
+
+— Qui ?
+
+Martin lança le traçage.
+
+Impossible.
+
+Mon portable vibra simultanément.
+
+Notification de connexion au serveur d’enquête.
 
 **Utilisateur : M.VIDAL.**
 
 Durée : deux secondes.
 
-— Vidal, murmurai-je.
+— Vidal.
 
 Même nom que Clara.
-
-Martin se rapprocha.
-
-— Un parent ?
 
 Nous cherchâmes.
 
@@ -1673,9 +2445,9 @@ Frère aîné.
 
 Quarante-deux ans en 2026.
 
-Spécialiste en synthèse audiovisuelle.
+Spécialiste en restauration numérique, synthèse audiovisuelle et modèles génératifs.
 
-Je sentis quelque chose se mettre en place.
+Je sentis les éléments se rapprocher.
 
 — Emma disait Mathieu.
 
@@ -1689,39 +2461,47 @@ Disparue.
 
 Martin recula.
 
-— Ça, c’est impossible.
+— Ça, ce n’est pas normal.
 
-— Depuis hier, ce mot a perdu beaucoup de valeur.
+— Depuis trois jours, « normal » n’est plus un critère.
 
-Avant de partir, je demandai l’accès au registre des pièces sorties du dossier depuis 2009.
+Je fis une capture.
 
-Une seule signature revenait trois fois.
+Cette fois, le téléphone la conserva.
 
-**A. CAZENEUVE.**
+Avant de partir, je repris la photographie de la fête.
 
-Mon ancien supérieur.
+Clara était là.
 
-Toujours vivant.
-
-Je notai son adresse.
-
-Puis je regardai une dernière fois la photographie.
+Moi aussi.
 
 Sarah et moi étions si proches que nos épaules se touchaient.
 
-Je ne me souvenais pas de cette soirée.
+Je ne me souvenais ni de cette nuit ni de la femme contre moi.
 
-Je ne me souvenais pas de Clara.
+Dans le reflet de la vitre des archives, j’aperçus mon propre visage.
 
-Et je ne me souvenais pas d’avoir regardé Sarah de cette manière.
+J’eus une pensée absurde.
 
-Je commençais à comprendre que mon enquête ne portait pas seulement sur des morts.
+Peut-être que le premier visage effacé de cette histoire avait été le mien.
 
-Quelqu’un avait enterré une partie de ma vie avec eux.
+Pas sur une photographie.
+
+Dans ma tête.
+
+---
 
 ### CHAPITRE 5 — MARSEILLE
 
 Élodie Carmin ne répondit jamais.
+
+Nous appelâmes son cabinet.
+
+Pas venue travailler.
+
+Son mari.
+
+Messagerie.
 
 À 18 h 32, la police marseillaise nous rappela.
 
@@ -1729,23 +2509,69 @@ Trois corps.
 
 Même mise en scène.
 
-Le trajet jusqu’à Marseille se fit presque sans paroles. Martin conduisait. Je relisais les informations disponibles sur Élodie : médecin urgentiste, mariée, un fils de treize ans, aucune condamnation, aucune plainte.
+Le trajet jusqu’à Marseille se fit presque sans paroles.
 
-Une vie entière réduite à une fiche parce que nous arrivions trop tard.
+Martin conduisait.
 
-La maison des Carmin était plus petite que celle des Morel.
+Je relisais les informations disponibles sur Élodie.
 
-Plus vivante aussi.
+Médecin urgentiste.
 
-Des dessins d’enfant couvraient le réfrigérateur. Une liste de courses était aimantée sur la porte.
+Mariée à François Carmin, professeur d’histoire.
 
-*Tomates. Lait. Piles. Parmesan.*
+Un fils de treize ans, Hugo.
 
-Et, en dessous :
+Aucune condamnation.
+
+Aucune plainte.
+
+Une vie entière réduite à trois fiches parce que nous arrivions trop tard.
+
+— Tu penses qu’elle allait parler ? demanda Martin.
+
+— Oui.
+
+— Alors celui qui nous regarde connaît nos recherches en temps réel.
+
+— Ou il savait qu’on finirait par elle.
+
+— C’est pire ?
+
+— Je ne sais pas.
+
+La maison des Carmin se trouvait dans une rue calme du neuvième arrondissement.
+
+Des voisins regardaient derrière des volets.
+
+L’odeur du dîner flottait encore dans certaines maisons.
+
+Chez les Carmin, tout était arrêté.
+
+Des dessins couvraient le réfrigérateur.
+
+Une liste de courses était aimantée sur la porte.
+
+*Tomates.*
+
+*Lait.*
+
+*Piles.*
+
+*Parmesan.*
+
+Puis :
 
 *Lasagnes samedi.*
 
 Le samedi n’arriverait jamais pour eux.
+
+Je restai devant la liste plus longtemps que nécessaire.
+
+— Gabriel ?
+
+— Oui.
+
+— On y va.
 
 Cinq couverts avaient été dressés.
 
@@ -1755,13 +2581,23 @@ Ils n’étaient que trois.
 
 — Chez les Morel, un couvert de trop. Ici, deux.
 
-— Ça compte ?
+— Symbolique ?
 
-— Tout compte jusqu’à preuve du contraire.
+— Peut-être des absents.
 
-Élodie se trouvait à la table. Son mari dans le salon. Leur fils dans sa chambre.
+— Clara ?
 
-Je restai sur le seuil de cette dernière.
+Je regardai les places vides.
+
+— Et quelqu’un d’autre.
+
+Élodie se trouvait à la table.
+
+Son mari dans le salon.
+
+Leur fils dans sa chambre.
+
+Je restai sur le seuil.
 
 Treize ans.
 
@@ -1769,15 +2605,35 @@ Une console encore allumée.
 
 Un casque sur le sol.
 
-Je pensai à celui qui avait préparé cette scène et à la quantité de temps nécessaire pour disposer les corps.
+Sur l’écran, un jeu en pause.
+
+Un personnage attendait devant une porte virtuelle.
+
+Je pensai à celui qui avait préparé cette scène.
+
+À la quantité de temps nécessaire pour disposer les corps.
 
 Pas de rage.
 
 De la méthode.
 
+— Il a été sédaté ? demandai-je.
+
+Le médecin marseillais acquiesça.
+
+— Probablement avant.
+
+— Comme les Morel.
+
+— On comparera.
+
+Dans la cuisine, un verre d’eau contenait un dépôt blanchâtre.
+
+Nous le scellâmes.
+
 Sur la table de la salle à manger se trouvait une photographie de Clara.
 
-**PIÈCE 014.**
+**PIÈCE 014 — PHOTOGRAPHIE / CLARA VIDAL.**
 
 Mon visage avait été découpé.
 
@@ -1785,17 +2641,27 @@ Au dos :
 
 **IL NE SE SOUVIENT TOUJOURS PAS.**
 
-— Ça t’est destiné, dit Martin.
+Martin lut.
+
+— Ça t’est destiné.
 
 — Je sais.
 
-— Tu devrais peut-être sortir de l’enquête.
+— Tu devrais sortir de l’enquête.
 
 Je me tournai.
 
 — C’est ce que tu veux ?
 
 — Je veux que tu restes vivant.
+
+— Quelqu’un tue les gens avant qu’on puisse leur parler. Sortir ne les fera pas revenir.
+
+— Ça peut t’empêcher d’être le suivant.
+
+Je posai la photo.
+
+— Je suis déjà dans l’histoire.
 
 L’autopsie préliminaire indiqua une sédation.
 
@@ -1807,39 +2673,111 @@ Quelqu’un qu’ils avaient laissé entrer.
 
 Ou quelqu’un qui savait les rendre incapables de résister.
 
-Sur le téléphone d’Élodie, nous trouvâmes un brouillon jamais envoyé :
+Nous fouillâmes les appareils.
+
+Sur le téléphone d’Élodie, un brouillon jamais envoyé :
 
 *J’ai fait ce qu’Hélène m’a demandé. J’avais vingt-quatre ans. Je croyais protéger une enfant. Je ne savais pas qu’elle était encore vivante quand…*
 
-La phrase s’arrêtait là.
+La phrase s’arrêtait.
 
-— Hélène qui ?
+— Hélène, dit Martin.
 
-Aucun contact.
+— La mère de Sarah.
 
-Aucune occurrence évidente.
+— Et de Sophie.
 
-Le soir, pendant que nous quittions Marseille, une vidéo apparut en ligne.
+Nous restâmes silencieux.
 
-On m’y voyait frapper Nicolas Fabre pendant son interrogatoire.
+Élodie avait donc obéi à la mère de l’une des personnes centrales de 2009.
+
+Je fouillai ses mails.
+
+Trois semaines plus tôt, elle avait reçu un message depuis une adresse chiffrée.
+
+Objet :
+
+**17 AOÛT 2009 — DERNIÈRE CHANCE.**
+
+Contenu :
+
+*Vous avez signé une version. Il reste l’originale.*
+
+Aucune pièce jointe.
+
+Le lendemain, Élodie avait recherché mon nom.
+
+Puis celui de Sarah.
+
+Puis « Hélène Lemaire décès ».
+
+— Elle pensait que Hélène était morte, dis-je.
+
+— Elle l’est ?
+
+Nous vérifiâmes rapidement.
+
+Certificat de décès en 2021.
+
+Je notai sans savoir encore pourquoi.
+
+Le soir, en quittant la maison, un journaliste m’attendait derrière le périmètre.
+
+— Commandant Varenne ! Pourquoi avez-vous frappé Nicolas Fabre ?
+
+Je m’arrêtai.
+
+— Quoi ?
+
+Il leva son téléphone.
+
+Une vidéo.
+
+Moi.
+
+Salle d’interrogatoire.
+
+Je me levais brusquement et frappais Fabre au visage.
 
 Le montage était remarquable.
 
-Mon visage.
-
 Ma voix.
 
-La petite cicatrice sur ma main.
+Ma main.
 
-Même le mouvement de recul de Fabre.
+La petite cicatrice.
+
+Même la chaise qui tombait.
 
 Cela n’avait jamais eu lieu.
 
-À minuit, deux millions de vues.
+— Coupez ça, dis-je.
 
-À 0 h 17, ma hiérarchie me demanda de ne plus apparaître devant les caméras.
+Trop tard.
 
-À 0 h 43, un message de Sarah :
+La vidéo circulait déjà.
+
+À minuit : deux millions de vues.
+
+À 0 h 17 : appel de ma hiérarchie.
+
+— Tu ne passes plus devant une caméra sans validation.
+
+— La vidéo est fausse.
+
+— On sait.
+
+— Alors dites-le.
+
+— L’expertise n’est pas terminée.
+
+— Vous venez de dire qu’on sait.
+
+— Nous savons qu’il y a des anomalies. Pas ce qui est synthétique.
+
+Je raccrochai avant de dire quelque chose d’irréparable.
+
+À 0 h 43, Sarah m’envoya :
 
 *Ne regarde pas les commentaires.*
 
@@ -1853,9 +2791,15 @@ Complice.
 
 Certains réclamaient mon arrestation.
 
-D’autres expliquaient que la vidéo était évidemment fausse.
+D’autres affirmaient qu’on tentait de me faire taire parce que j’avais découvert une « vérité d’État ».
 
-Puis ils se disputaient entre eux.
+Une troisième catégorie expliquait que j’étais mort depuis 2019 et remplacé par un acteur.
+
+À 1 h 11, quelqu’un publia l’adresse de ma mère décédée depuis huit ans.
+
+Ils n’avaient même pas vérifié qu’elle était morte.
+
+J’éteignis.
 
 À 2 h 03, je compris la méthode.
 
@@ -1865,7 +2809,55 @@ Le meurtrier ne cachait pas la vérité.
 
 Il la noyait sous des versions concurrentes.
 
-Notre serveur enregistra alors une nouvelle connexion.
+Le lendemain, Nadir confirma que la vidéo de Fabre mélangeait un véritable extrait de l’interrogatoire et une séquence générée.
+
+— La chaise tombe vraiment, dit-il.
+
+— Oui.
+
+— Vous vous levez vraiment.
+
+— Oui.
+
+— Le coup est faux.
+
+— Donc quelqu’un a pris exactement le mouvement réel pour fabriquer la suite.
+
+— Oui.
+
+— Avec combien de délai ?
+
+— La vidéo est sortie moins de quatre heures après votre garde à vue.
+
+Martin jura.
+
+— Accès interne.
+
+Nadir hocha la tête.
+
+— Ou caméra compromise.
+
+Nous vérifiâmes.
+
+Le système d’enregistrement de la salle avait été consulté par un compte technique.
+
+Nom du compte :
+
+**maintenance_media_27**.
+
+Créé la veille.
+
+Supprimé après usage.
+
+— Vingt-sept, murmurai-je.
+
+— Quoi ?
+
+— Rien.
+
+À cet instant, ce nombre ne signifiait encore rien.
+
+Notre serveur enregistra une nouvelle connexion.
 
 **M.VIDAL.**
 
@@ -1875,7 +2867,7 @@ Adresse IP impossible.
 
 Je fis une capture avant qu’elle disparaisse.
 
-Cette fois, elle resta dans mon téléphone.
+Cette fois, elle resta.
 
 Une minute plus tard, un message inconnu arriva :
 
@@ -1884,14 +2876,6 @@ Une minute plus tard, un message inconnu arriva :
 Je verrouillai l’écran.
 
 Dans le reflet noir de la vitre, Martin me regardait.
-
-— Quoi ?
-
-— Rien.
-
-— Arrête avec ce mot.
-
-Il soupira.
 
 — Cazeneuve nous attend demain.
 
@@ -1905,6 +2889,18 @@ Martin regarda la route.
 
 — Il a dit qu’il était temps que tu récupères ce qu’on t’a pris.
 
+— Qu’est-ce qu’on m’a pris ?
+
+Il ne répondit pas.
+
+Je regardai Marseille disparaître derrière nous.
+
+Pour la première fois, je ne savais plus si nous poursuivions quelqu’un.
+
+Ou si quelqu’un nous faisait remonter un chemin préparé dix-sept ans plus tôt.
+
+---
+
 ### CHAPITRE 6 — LES SIX PAGES
 
 Alain Cazeneuve vivait seul près d’Uzès dans une maison entourée d’oliviers.
@@ -1912,6 +2908,12 @@ Alain Cazeneuve vivait seul près d’Uzès dans une maison entourée d’olivie
 Il nous attendait devant la porte.
 
 Il avait vieilli comme certains policiers : le corps avait cédé, pas le regard.
+
+Canne dans une main.
+
+Chemise blanche.
+
+Aucun étonnement.
 
 — Je savais que tu reviendrais, dit-il.
 
@@ -1925,15 +2927,27 @@ Il observa Martin.
 
 — Si. Vous êtes venus exactement pour ça.
 
-À l’intérieur, Cazeneuve posa une chemise cartonnée sur la table.
+À l’intérieur, les volets étaient fermés.
+
+Cazeneuve avait débranché sa box internet.
+
+Son téléphone reposait dans une casserole métallique avec un couvercle.
+
+Martin regarda.
+
+— Sérieusement ?
+
+— Vous avez déjà trois morts de trop pour vous moquer.
+
+Sur la table, Cazeneuve posa une chemise cartonnée.
 
 Six pages.
 
 Les originales.
 
-Je ne les touchai pas tout de suite.
+Je ne les touchai pas.
 
-— Pourquoi ?
+— Pourquoi les avoir prises ?
 
 — Parce qu’en 2009 j’ai cru qu’on pouvait contenir une catastrophe en retirant six feuilles d’un dossier.
 
@@ -1941,15 +2955,17 @@ Je ne les touchai pas tout de suite.
 
 — J’ai seulement donné dix-sept ans à la catastrophe pour grandir.
 
-Clara avait été frappée avant sa chute.
+Les pages complétaient le passage aux urgences.
 
-Elle était enceinte de huit semaines.
+Clara avait été frappée.
 
-Je relus la phrase.
+Marques de strangulation.
 
-Une fois.
+Et un résultat biologique.
 
-Deux fois.
+Grossesse de huit semaines.
+
+Je relus.
 
 — Le père ?
 
@@ -1961,21 +2977,43 @@ Deux fois.
 
 — Vous ne savez pas ?
 
-— Je sais ce que les gens ont dit. Ce n’est pas la même chose.
+— Je sais ce que les gens ont raconté. Ce n’est pas la même chose.
 
-Les pages mentionnaient aussi une deuxième série de lésions.
+— Elle avait dix-sept ans, Laurent trente ?
 
-Postérieures à la chute.
+— Vingt-neuf.
 
-Je levai les yeux.
+Je serrai les mâchoires.
 
-— Elle a survécu.
+— Et vous avez enterré ça ?
 
-Cazeneuve ne répondit pas.
+— Pas cette partie.
+
+Il tourna une page.
+
+Les constatations postérieures à la chute.
+
+Clara avait été retrouvée vivante.
+
+Tension basse.
+
+Respiration spontanée.
+
+Réponse à la douleur.
+
+Puis, vingt-deux minutes plus tard :
+
+arrêt cardio-respiratoire.
+
+— Donc elle n’est pas morte de la chute.
+
+Cazeneuve me regarda.
+
+— Pas immédiatement.
 
 — Qui l’a remontée ?
 
-Il regarda Martin.
+Son regard glissa vers Martin.
 
 — Demande-lui.
 
@@ -1989,7 +3027,23 @@ Martin pâlit.
 
 — Qui ?
 
-Cazeneuve ouvrit la bouche.
+Cazeneuve ne répondit pas.
+
+Je posai les mains sur la table.
+
+— Qui ?
+
+— Laurent l’avait frappée avant.
+
+— Ça, on sait.
+
+— Mais ce n’est pas ce que je veux dire.
+
+— Alors dites-le.
+
+Il inspira.
+
+— Cette nuit-là, quelqu’un d’autre…
 
 La fenêtre explosa.
 
@@ -2001,7 +3055,17 @@ Martin me plaqua au sol.
 
 Une seconde balle traversa le mur.
 
-Je rampai jusqu’à la porte arrière.
+Bois.
+
+Plâtre.
+
+Silence.
+
+— Reste !
+
+Je rampai jusqu’à la cuisine.
+
+Porte arrière.
 
 Dehors, une moto noire démarrait au bout du chemin.
 
@@ -2009,13 +3073,13 @@ Je courus.
 
 Trop loin.
 
-Le pilote portait un casque intégral.
+Un casque intégral.
 
-Passager ou non : impossible à distinguer.
+Veste sombre.
 
-Mon téléphone vibra.
+Impossible de savoir s’il y avait un passager.
 
-**CERTAINS SOUVENIRS MÉRITENT DE MOURIR.**
+J’entendis Martin crier.
 
 Je revins.
 
@@ -2023,7 +3087,13 @@ Cazeneuve respirait encore.
 
 Du sang remplissait sa chemise.
 
-Il referma ses doigts sur mon poignet.
+J’appuyai.
+
+— Appelez les secours !
+
+— C’est fait !
+
+Cazeneuve referma ses doigts sur mon poignet.
 
 — Pas… la vidéo…
 
@@ -2033,11 +3103,15 @@ Il referma ses doigts sur mon poignet.
 
 — Qui a tué Clara ?
 
-Ses yeux cherchèrent les miens.
+Ses yeux cherchaient les miens.
 
 — Elle…
 
 Le souffle s’arrêta.
+
+— Qui ?
+
+Rien.
 
 Dans sa main, une petite clé.
 
@@ -2045,7 +3119,87 @@ Dans sa main, une petite clé.
 
 **17/08/09.**
 
-Martin resta debout devant la fenêtre brisée jusqu’à l’arrivée des secours.
+Les secours arrivèrent.
+
+Trop tard.
+
+Les techniciens mirent deux heures à déterminer l’axe probable.
+
+Tir longue distance depuis une parcelle au nord.
+
+Professionnel ou très expérimenté.
+
+Pas Théo dans l’image que nous avions alors de lui.
+
+Pas Fabre.
+
+Pas un geste improvisé.
+
+Quelqu’un avait attendu précisément le moment où Cazeneuve parlerait.
+
+— Micro dans la maison ? demanda Martin.
+
+Nous fouillâmes.
+
+Rien.
+
+— Téléphone ?
+
+Débranché.
+
+— Alors comment le tireur savait qu’on était là ?
+
+Je regardai ma voiture.
+
+Balise ?
+
+Aucune.
+
+Le véhicule de Martin ?
+
+Rien.
+
+Puis je pensai au message envoyé par Cazeneuve la veille.
+
+Il nous avait donné rendez-vous.
+
+Quelqu’un avait peut-être accès à ses communications depuis longtemps.
+
+Dans le bureau, je trouvai une photographie récente.
+
+Cazeneuve devant la carrière.
+
+Date imprimée au dos : deux mois plus tôt.
+
+Il n’était pas seul.
+
+Une femme se tenait à quelques mètres.
+
+Cheveux blancs.
+
+Visage de profil.
+
+Martin prit la photo.
+
+— Tu la reconnais ?
+
+— Non.
+
+Là encore, mon corps réagit avant ma mémoire.
+
+Vanille.
+
+Je m’assis.
+
+— Gabriel ?
+
+— Je vais bien.
+
+— Tu mens.
+
+— Je sais.
+
+Martin resta longtemps devant la fenêtre brisée.
 
 — Qu’est-ce qu’il voulait dire quand il m’a regardé ? demandai-je.
 
@@ -2075,9 +3229,55 @@ Le mot fut presque inaudible.
 
 — C’est bien le problème.
 
+— Pourquoi j’aurais demandé ça ?
+
+— Parce que tu avais peur de ce que tu pouvais raconter.
+
+— De quoi ?
+
+Martin regarda la pièce où Cazeneuve venait de mourir.
+
+— Pas ici.
+
+Je ris sans joie.
+
+— Tu sais que c’est devenu la phrase officielle de cette enquête ?
+
+Il baissa les yeux.
+
 Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
+
+Sur le chemin du retour, nous reçûmes l’analyse de la photographie de Cazeneuve.
+
+La femme aux cheveux blancs ne pouvait pas être identifiée.
+
+Mais le logiciel trouva une correspondance partielle avec une photographie administrative de 2018.
+
+Nom :
+
+**Hélène Lemaire.**
+
+Statut :
+
+**Décédée en 2021.**
+
+Je regardai Martin.
+
+— Les morts bougent beaucoup dans cette affaire.
+
+Il ne sourit pas.
+
+Mon téléphone vibra.
+
+**CERTAINS SOUVENIRS MÉRITENT DE MOURIR.**
+
+Puis un second message :
+
+**LES HOMMES AUSSI.**
+
+
 
 ### CHAPITRE 7 — LE CASIER
 
