@@ -11311,6 +11311,114 @@ Expéditeur : **M**.
 
 Je relus.
 
+Nous retournâmes au service et fermâmes la salle de travail.
+
+Pas symboliquement.
+
+Physiquement.
+
+Téléphones dehors.
+
+Ordinateurs coupés.
+
+Inspection électronique.
+
+Un technicien passa les prises, les luminaires, le détecteur de fumée.
+
+Rien.
+
+Puis Nadir demanda :
+
+— Qui fait le ménage ?
+
+Silence.
+
+Société prestataire.
+
+Badge permanent.
+
+Chariot entrant chaque soir.
+
+Nous vérifiâmes.
+
+Une employée apparaissait sur les caméras.
+
+Toujours la même.
+
+Sauf deux nuits.
+
+Remplacement intérimaire.
+
+Dossier d’agence complet.
+
+Pièce d’identité volée à une femme vivant à Lille.
+
+Sur la vidéo, masque sanitaire.
+
+Casquette.
+
+Silhouette moyenne.
+
+Le remplaçant était entré dans notre salle pendant quarante-sept minutes.
+
+Après son passage, aucune caméra n’était visible.
+
+Mais sous la table centrale, un câble réseau avait été remplacé.
+
+Nadir le démonta.
+
+Une minuscule dérivation passive.
+
+— Ça copie le trafic.
+
+— Depuis combien de temps ?
+
+— Difficile. Le câble a l’air neuf.
+
+Les dates concordaient avec plusieurs fuites.
+
+Pas besoin de pirater tous nos téléphones.
+
+Quelqu’un avait écouté la salle où nous pensions parler hors ligne.
+
+— Observer ?
+
+Martin posa la question presque par réflexe.
+
+— Quelqu’un utilisant sa méthode.
+
+Nous recherchâmes l’intérimaire sur les autres caméras.
+
+Il entrait.
+
+Il sortait.
+
+À un moment, dans un reflet, on voyait ses yeux.
+
+Nadir refusa l’identification faciale.
+
+— Trop mauvais.
+
+— On peut comparer avec Hélène ?
+
+— Je peux vous donner un chiffre mensonger si ça vous fait plaisir.
+
+Nous n’insistâmes pas.
+
+L’important était ailleurs.
+
+L’adversaire n’était pas omniscient.
+
+Il avait posé un dispositif.
+
+Une faiblesse concrète.
+
+Pour la première fois, découvrir le mécanisme réduisait sa puissance psychologique.
+
+Je pouvais cesser d’imaginer qu’il entendait mes pensées.
+
+Seulement nos câbles.
+
 — Celui qui a envoyé ça savait que j’avais vérifié la météo.
 
 Martin se figea.
@@ -11514,6 +11622,116 @@ Ils s’aimaient.
 C’était évident.
 
 Cela rendait ce qui suivait presque insupportable.
+
+Nous reconstituâmes les dernières vingt-quatre heures d’Emma à partir de ses différents appareils.
+
+18 h 12 : elle écrit à Zoé qu’elle « va peut-être partir cette nuit ».
+
+19 h 03 : elle prépare le sac.
+
+20 h 17 : appel manqué de Mathieu, qui était déjà mort depuis plusieurs jours — appel programmé via son système.
+
+20 h 18 : message automatique :
+
+*Si Théo revient, appelle Varenne. Si Varenne ne répond pas, appelle la police. Pas Hélène.*
+
+20 h 21 : Emma répond au message automatique :
+
+*Tu es mort, idiot.*
+
+Cette phrase me bouleversa plus que beaucoup de grandes révélations.
+
+Elle savait.
+
+Et pourtant elle répondait.
+
+Comme on parle à un absent parce qu’on voudrait qu’il puisse encore lire.
+
+21 h 46 : Théo rentre.
+
+21 h 51 : Emma filme discrètement son sac.
+
+22 h 07 : Sophie appelle Fabre.
+
+22 h 23 : Emma écrit à Zoé :
+
+*Ça commence.*
+
+22 h 41 :
+
+*Je crois que mamie regarde aussi.*
+
+23 h 12 :
+
+*Fabre est là.*
+
+22 h 51 selon la caméra, Fabre part.
+
+23 h 03 :
+
+*Papa crie.*
+
+23 h 38 :
+
+*J’ai le numéro de Varenne.*
+
+23 h 43 :
+
+*J’arrive pas à appeler.*
+
+0 h 11 :
+
+*Ils sont bizarres.*
+
+0 h 18 :
+
+*Je crois que Théo a mis quelque chose.*
+
+0 h 24 : photo d’un verre.
+
+0 h 31 : message non envoyé à Sarah :
+
+*Tata, réponds.*
+
+Pourquoi ne l’avait-elle pas envoyé ?
+
+Peut-être réseau coupé.
+
+Peut-être peur.
+
+À 1 h 02 : aucune activité.
+
+À 1 h 47 : le téléphone secondaire se connecte brièvement.
+
+À 2 h 09 : tentative d’appel vers mon numéro.
+
+À 2 h 10 : échec.
+
+À 2 h 12, je quitte mon immeuble.
+
+Je regardai Nadir.
+
+— Deux minutes.
+
+— Oui.
+
+— Elle essaie de m’appeler à 2 h 09 et je sors à 2 h 12.
+
+— Donc quelque chose t’a atteint.
+
+— Un autre canal.
+
+Le message programmé de Mathieu.
+
+Ou Hélène.
+
+La chronologie cessait d’être mystique.
+
+Elle devenait une suite d’actions humaines.
+
+Emma avait essayé plusieurs portes.
+
+Une avait fini par s’ouvrir.
 
 Une conversation texte avec Mathieu :
 
@@ -12048,6 +12266,128 @@ Paiement via une structure liée à un compte utilisé par Mathieu.
 Encore lui.
 
 La porte était entrouverte.
+
+Avant même de lui parler, je remarquai un détail.
+
+Sur la table, à côté de la tasse vide, un carnet.
+
+Rouge.
+
+Petit.
+
+Usé.
+
+Je cessai de marcher.
+
+— Qu’est-ce que c’est ?
+
+Hélène suivit mon regard.
+
+— Vous savez.
+
+Le carnet de Clara.
+
+Disparu depuis 2009.
+
+Martin se précipita pour le placer sous sachet.
+
+— Où l’avez-vous eu ?
+
+— Cette nuit-là.
+
+— Vous l’avez pris sur elle ?
+
+— Non.
+
+— Alors ?
+
+— Quelqu’un me l’a donné après.
+
+— Qui ?
+
+Hélène regarda la fenêtre.
+
+— Antoine.
+
+Le père de Sarah.
+
+— Pourquoi ?
+
+— Il pensait qu’il contenait des noms.
+
+— Il les contenait ?
+
+— Des impressions. Des peurs. Pas une confession.
+
+— Vous l’avez gardé dix-sept ans.
+
+— Oui.
+
+Je sentis la colère.
+
+— Mireille a cherché ce carnet.
+
+— Je sais.
+
+— Vous avez laissé une mère croire qu’il avait disparu.
+
+— Oui.
+
+— Pourquoi le mettre devant nous aujourd’hui ?
+
+— Parce que certaines choses doivent revenir à la fin.
+
+Je refusai la formule.
+
+— Ou parce que vous voulez qu’on lise exactement ce que vous avez choisi de ne pas détruire.
+
+Hélène sourit légèrement.
+
+— Bien.
+
+Le carnet serait analysé, photographié, comparé.
+
+Plus tard, nous lirions les dernières pages.
+
+Clara y écrivait :
+
+*L. me fait peur.*
+
+Puis :
+
+*H. dit qu’elle va parler à S.*
+
+Puis :
+
+*M dit qu’il a copié.*
+
+Et enfin :
+
+*G est le seul qui n’est pas de la famille.*
+
+G.
+
+Moi.
+
+La raison de m’appeler.
+
+Dernière ligne, datée du 17 août :
+
+*Si je montre la vidéo, ils vont tous dire que j’ai mal compris.*
+
+Aucun nom du père de son enfant.
+
+Aucune preuve d’un meurtre planifié.
+
+Pas de réponse finale.
+
+Hélène avait conservé le carnet, mais il ne résolvait rien.
+
+Il confirmait seulement que Clara avait déjà identifié le problème central :
+
+elle craignait moins que les adultes nient les images.
+
+Elle craignait qu’ils lui expliquent ce qu’elles signifiaient à sa place.
 
 Hélène nous attendait dans la cuisine.
 
@@ -13029,6 +13369,84 @@ Martin entra avec deux cafés.
 
 — On n’en a que vingt-quatre matérialisées, dit Martin.
 
+Nadir analysa la manière dont les trois dernières pièces étaient verrouillées.
+
+— Ce n’est pas un serveur qui décide tout seul.
+
+— Alors quoi ?
+
+— Une chaîne de conditions locales.
+
+Il dessina.
+
+Si la pièce 010 change de statut d’authentification, une clé est libérée.
+
+Cette clé permet d’ouvrir un fragment de la 25.
+
+La lecture complète de 25 produit un hash nécessaire pour 26.
+
+La validation de 26 libère 27.
+
+— Une chasse au trésor.
+
+— Plutôt un protocole.
+
+— Mathieu.
+
+— Ça ressemble à son travail.
+
+Chaque étape dépendait de l’intégrité de la précédente.
+
+Si nous trichions en modifiant le système, la chaîne pouvait échouer.
+
+— Donc celui qui a construit ça veut qu’on passe réellement par les preuves.
+
+— Oui.
+
+— Pourquoi ?
+
+Nadir haussa les épaules.
+
+— Pour être sûr qu’on ait le contexte avant la révélation suivante.
+
+Je pensai à Hélène.
+
+Elle aussi contrôlait le rythme de la vérité.
+
+Mathieu et elle avaient peut-être développé des méthodes opposées avec le même instinct : ne jamais donner un fait sans préparer ce qui vient autour.
+
+La différence était que Mathieu semblait vouloir garantir l’ordre par cryptographie.
+
+Hélène par manipulation humaine.
+
+— Et Observer ?
+
+— Peut avoir greffé des choses sur le protocole.
+
+— Lesquelles ?
+
+— Impossible à savoir sans signature de référence.
+
+Nous retrouvâmes chez Inès un ancien certificat de Mathieu.
+
+Comparaison.
+
+Les mécanismes de 25 et 26 portaient bien sa signature cryptographique.
+
+La pièce 27, non.
+
+Elle utilisait sa clé.
+
+Mais le format différait.
+
+Quelqu’un avait ajouté la dernière porte à son système.
+
+Mathieu avait probablement construit les vingt-six premières étapes.
+
+Un autre avait ajouté la vingt-septième.
+
+C’était la première frontière technique relativement nette entre son plan posthume et ce qui l’avait prolongé.
+
 Trois nouvelles entrées apparurent.
 
 25 : **VIDÉO 02:53.**
@@ -13444,6 +13862,86 @@ Nous offrir un coupable.
 Et cacher la seule information qui comptait.
 
 Moi.
+
+L’origine du faux rapport Fabre fut reconstituée.
+
+Le 3 octobre à 5 h 11, un scanner mobile de scène de crime se connecta au système.
+
+À 5 h 12, il consulta le vrai numéro de scellé.
+
+À 5 h 13, création d’un doublon 87.
+
+À 5 h 15, import d’un ancien profil ADN de Nicolas Fabre.
+
+À 5 h 17, génération du rapport.
+
+Tout en quatre minutes.
+
+— Automatisé, dit Nadir.
+
+— Préparé à l’avance.
+
+— Oui.
+
+— Déclenché par quoi ?
+
+— La saisie du verre.
+
+Donc quelqu’un avait prévu qu’un verre de la quatrième place serait prélevé.
+
+Pas nécessairement son numéro.
+
+Le script attendait un objet correspondant à certains critères.
+
+— Qui connaissait la scène avant nous ?
+
+— Théo.
+
+— Hélène.
+
+— Emma.
+
+— Et celui qui surveillait.
+
+Le scanner utilisé était celui porté par la femme en combinaison blanche que j’avais croisée.
+
+Journal de session :
+
+**M.VIDAL.**
+
+Hélène admit plus tard avoir utilisé les identifiants de Mathieu.
+
+Mais le script de falsification avait été créé cinq jours avant.
+
+Mathieu était déjà mort depuis six jours.
+
+Date de création incompatible avec lui.
+
+Hélène ?
+
+Elle nia avoir écrit le script.
+
+Nadir compara le code avec ses outils.
+
+— Niveau supérieur à ce qu’on voit dans ses scripts.
+
+— Observer.
+
+— Peut-être un prestataire.
+
+Encore une fois, ne pas transformer la compétence en identité.
+
+Mais le fait restait :
+
+la pièce fausse avait été préparée avant la nuit des Morel.
+
+Quelqu’un savait qu’un quatrième verre existerait.
+
+Ou avait conçu un système suffisamment flexible pour falsifier n’importe quelle pièce correspondant au bon type.
+
+La différence entre prédiction et programmation conditionnelle revenait.
+
+Nous étions peut-être moins face à un prophète qu’à un développeur qui avait prévu plusieurs scénarios.
 
 Nadir confirma ensuite la fraude.
 
