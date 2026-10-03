@@ -11759,6 +11759,98 @@ Nadir imprima la liste.
 
 — Le papier ne m’appelle pas à trois heures du matin parce qu’un mort vient de se connecter.
 
+Je décidai que chaque pièce aurait une fiche d’une page.
+
+Pas un résumé narratif.
+
+Quatre colonnes.
+
+**CE QUI EST CERTAIN.**
+
+**CE QUI EST PROBABLE.**
+
+**CE QUI EST INCONNU.**
+
+**CE QU’ON A D’ABORD CRU.**
+
+La quatrième colonne devint la plus instructive.
+
+Pièce 003.
+
+Certain : Emma a enregistré une vidéo dans sa chambre. Le fichier saisi a été modifié.
+
+Probable : « Mathieu » est le prénom original.
+
+Inconnu : auteur exact de la substitution.
+
+D’abord cru : Emma m’accusait directement.
+
+Pièce 012.
+
+Certain : le fichier provient bien de la sonnette compromise.
+
+Probable : la silhouette a une source réelle.
+
+Inconnu : heure exacte et identité.
+
+D’abord cru : faux complet destiné uniquement à m’incriminer.
+
+Pièce 020.
+
+Certain : le fichier a été donné à Théo. Il mélange images authentiques et reconstruites.
+
+Probable : Hélène est impliquée dans sa fabrication ou sa diffusion.
+
+Inconnu : si les défauts étaient volontaires.
+
+D’abord cru : document montrant la mort de Clara.
+
+Puis la pièce 010.
+
+Certain : un verre a été prélevé sur la quatrième place.
+
+Probable : quelqu’un a bu dedans cette nuit-là.
+
+Inconnu : qui, avant l’analyse du vrai prélèvement.
+
+D’abord cru : Nicolas Fabre.
+
+Je restai devant.
+
+Notre erreur initiale n’était pas d’avoir suivi un résultat ADN.
+
+C’était rationnel.
+
+Notre erreur avait été de laisser ce résultat organiser toutes les questions suivantes.
+
+Une preuve ne ment pas toujours en étant fausse.
+
+Elle peut mentir en arrivant au bon moment.
+
+Nous créâmes une cinquième catégorie, hors numérotation :
+
+**ABSENCES.**
+
+Téléphone de Clara.
+
+Vidéo originale de cinquante-deux secondes.
+
+Onze minutes.
+
+Identité Observer.
+
+Qui frappe Gabriel en 2009.
+
+Qui finance exactement les contrats criminels.
+
+Les absences formaient presque la charpente de l’enquête.
+
+Je compris qu’un dossier n’est jamais constitué seulement de ce qu’on possède.
+
+Il est aussi sculpté par ce qui manque.
+
+Et le danger commence quand quelqu’un remplit le manque à notre place.
+
 Nous étalâmes les vignettes sur une grande table.
 
 01 : photographie initiale de la maison.
@@ -12544,6 +12636,94 @@ Pour protéger quelqu’un d’autre ?
 Ou parce qu’elle participait encore, jusqu’à la fin, à la vieille habitude familiale :
 
 décider ce que Gabriel avait le droit de se rappeler.
+
+Avant de partir, je demandai à voir le verre seul.
+
+Pas l’étiquette.
+
+Pas le rapport.
+
+L’objet.
+
+Un verre banal.
+
+Aucun symbole.
+
+Aucune intention visible.
+
+Le laboratoire avait trouvé mon ADN sur le bord, une empreinte partielle compatible avec Sophie sur la base et un résidu de whisky.
+
+Une trace infime d’un composé médicamenteux apparaissait aussi.
+
+— Le sédatif ?
+
+La biologiste secoua la tête.
+
+— Métabolite compatible avec plusieurs produits. Concentration trop faible.
+
+— Si j’ai bu dans ce verre, j’ai pu ingérer quelque chose ?
+
+— Possible. Pas démontrable.
+
+Sarah demanda une estimation.
+
+Aucune.
+
+Je regardai l’objet.
+
+Un souvenir revint.
+
+Emma.
+
+— Ne buvez pas ça.
+
+Moi :
+
+— Pourquoi ?
+
+Coupure.
+
+Je fermai les yeux.
+
+— Quoi ? demanda Sarah.
+
+— Une phrase.
+
+— Note-la avant de l’expliquer.
+
+J’écrivis :
+
+**Emma : « Ne buvez pas ça. »**
+
+Pas de lieu certain.
+
+Pas d’heure.
+
+Pas de cause.
+
+Le lendemain, un autre fragment :
+
+Ma main pose le verre.
+
+Une femme dit :
+
+— Trop tard.
+
+J’écrivis exactement.
+
+Pas « Hélène ».
+
+Pas « elle m’a drogué ».
+
+Simplement les éléments bruts.
+
+Ma mémoire devint à son tour une scène de crime.
+
+Je compris enfin pourquoi la méthode scientifique était lente.
+
+Elle ne sert pas seulement à découvrir.
+
+Elle sert à empêcher celui qui observe de déposer ses propres empreintes partout.
 
 Je rentrai chez moi au lever du jour.
 
