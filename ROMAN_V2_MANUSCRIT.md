@@ -6881,6 +6881,112 @@ Sur une photo de Mathieu :
 
 — Et elle essayait de le ramener.
 
+Le téléphone secondaire de Théo contenait ses échanges avec « grand-mère ».
+
+Pas tous.
+
+Certains avaient été effacés.
+
+Nadir reconstruisit des fragments.
+
+Au début, le ton d’Hélène était presque maternel.
+
+*Ne cherche pas seul.*
+
+*Parle à Emma.*
+
+*Ne confronte pas ton père.*
+
+Puis, au fil des mois :
+
+*Tu as le droit de savoir.*
+
+*Ton père ne parlera que s’il n’a plus de sortie.*
+
+Puis :
+
+*La vérité exige parfois une mise en scène pour devenir visible.*
+
+Je relus.
+
+— Elle lui apprend à scénariser.
+
+Martin hocha la tête.
+
+Un échange me dérangea.
+
+Théo :
+
+*Et si papa n’a pas tué Clara ?*
+
+Réponse :
+
+*Alors il dira enfin ce qu’il a fait.*
+
+Ce n’était pas la réponse de quelqu’un certain de sa culpabilité.
+
+Hélène savait donc que Laurent pouvait ne pas être le meurtrier.
+
+Pourtant elle laissait Théo avancer.
+
+Un mois plus tard :
+
+Théo :
+
+*Mathieu dit que la vidéo est trafiquée.*
+
+Hélène :
+
+*Mathieu confond une altération avec un mensonge.*
+
+Théo :
+
+*Ça veut dire quoi ?*
+
+Hélène :
+
+*Qu’une image peut être fausse et conduire à une vérité.*
+
+Je sentis un malaise.
+
+Cette phrase pouvait résumer tout son système moral.
+
+Le moyen n’avait plus besoin d’être vrai si le résultat révélait, selon elle, quelque chose de vrai.
+
+Plus loin :
+
+Théo :
+
+*Emma veut que j’arrête.*
+
+Hélène :
+
+*Emma a peur de perdre sa famille.*
+
+Théo :
+
+*Moi aussi.*
+
+Long silence dans l’historique.
+
+Puis Hélène :
+
+*Alors demande-toi quelle famille tu veux sauver : celle qui existe ou celle qui aurait existé sans le mensonge.*
+
+Martin posa le téléphone.
+
+— C’est violent.
+
+Oui.
+
+Hélène n’ordonnait jamais : tue.
+
+Elle construisait un cadre où Théo pouvait finir par croire que détruire sa famille revenait à réparer une autre famille imaginaire.
+
+Manipuler sans donner l’ordre.
+
+Toujours laisser l’autre accomplir le dernier pas.
+
 Dans un tiroir, deux billets Montpellier–Barcelone.
 
 Théo.
@@ -7717,6 +7823,106 @@ Mais je le notai.
 
 Dans cette affaire, les détails inutiles avaient tendance à devenir importants lorsqu’il était trop tard pour se souvenir de les avoir vus.
 
+Après leur libération, Sarah et Martin furent interrogés séparément.
+
+Pas parce qu’on les soupçonnait.
+
+Parce que deux souvenirs séparés se contaminent dès qu’ils se racontent.
+
+Sarah décrivit l’enlèvement.
+
+Sur le parking, une femme en tenue médicale l’avait appelée par son prénom.
+
+— Docteure Lemaire ? Votre mère a fait un malaise.
+
+— J’ai cru…
+
+Elle s’arrêta.
+
+— Tu as cru qu’Hélène était là.
+
+— Oui.
+
+Elle était montée dans le fourgon volontairement.
+
+À l’intérieur, quelqu’un lui avait appliqué un masque.
+
+Réveil dans la cave.
+
+Martin, lui, avait reçu l’appel cloné.
+
+— La voix était parfaite.
+
+— Une phrase de huit secondes.
+
+— Elle savait quoi dire.
+
+— Parce qu’elle utilisait ce que tu espérais.
+
+Martin hocha la tête.
+
+— Trouver Hélène.
+
+Pendant la captivité, Théo avait parlé sans caméra au début.
+
+— Il était paniqué, dit Sarah. Plus que violent.
+
+— Il vous a menacée ?
+
+— Oui. Puis il s’est excusé.
+
+— Pour quoi ?
+
+— Pour Emma.
+
+Je me penchai.
+
+— Elle était déjà morte.
+
+— Il disait : « Ce n’était pas prévu. »
+
+Martin confirma séparément.
+
+Même phrase.
+
+— Il a parlé d’Hélène ?
+
+— Il disait qu’elle ne répondait plus directement, répondit Martin. Qu’elle lui envoyait des fichiers.
+
+— Après quand ?
+
+— Après la mort de Mathieu.
+
+Important.
+
+Si Hélène avait cessé le contact direct après la mort de Mathieu, quelqu’un pouvait avoir repris son identité numérique auprès de Théo.
+
+— Il pensait toujours parler à elle ?
+
+— Oui.
+
+Sarah ajouta :
+
+— À un moment il a dit : « Grand-mère ne fait plus de fautes de frappe. »
+
+Je regardai Nadir.
+
+— Un détail humain.
+
+— Quelqu’un imite la voix, le style, mais oublie les erreurs.
+
+Nous cherchâmes les anciens messages authentifiés d’Hélène.
+
+Elle inversait souvent deux lettres dans « vérité ».
+
+Après la mort de Mathieu, plus jamais.
+
+Soit Hélène s’était mise à corriger.
+
+Soit une autre personne écrivait sous son nom.
+
+Pour la première fois, nous disposions d’un petit indice comportemental en faveur d’un relais posthume ou d’une usurpation.
+
 Nous trouvâmes la cave coopérative grâce au rythme des trains, au type de maçonnerie et à une ancienne carte des canalisations.
 
 Cinquante-deux minutes.
@@ -8271,6 +8477,84 @@ Peut-être pas.
 
 Pour la première fois, nous avions une preuve que les cinquante-deux secondes n’étaient pas seulement un souvenir fantôme.
 
+Avant la carrière, Montels me força à consulter une spécialiste de la mémoire traumatique.
+
+Docteure Aurore Leclerc.
+
+Je m’attendais à une séance d’hypnose.
+
+Elle refusa immédiatement.
+
+— Dans votre contexte, ce serait irresponsable.
+
+— Pourquoi ?
+
+— Vous êtes exposé à des centaines d’images, vraies et fausses. Toute technique suggestive risque de fabriquer des ponts entre elles.
+
+— Donc je fais quoi ?
+
+— Rien pour « récupérer ». Vous documentez ce qui revient spontanément.
+
+Je lui montrai mes notes brutes.
+
+*Emma : ne buvez pas ça.*
+
+*Femme : trop tard.*
+
+*Regardez-moi.*
+
+Elle approuva.
+
+— Pas d’interprétation dans la même colonne.
+
+Elle dessina deux cases.
+
+**FRAGMENT.**
+
+**HYPOTHÈSE.**
+
+— Votre cerveau confond les deux plus vite que vous ne le pensez.
+
+Je souris.
+
+— Ça ressemble à une fiche d’enquête.
+
+— Votre cerveau est une scène d’enquête très mal sécurisée.
+
+Elle me demanda un détail sensoriel de 2009.
+
+— Pierre humide.
+
+— Était-il en train de pleuvoir ?
+
+— Non, pas avant 2 h 06.
+
+— Vous voyez ? Vous venez déjà de vérifier le souvenir avec une donnée connue.
+
+Je compris.
+
+Même mes fragments les plus spontanés pouvaient être contaminés par tout ce que j’avais appris.
+
+— Donc je ne peux faire confiance à rien.
+
+— Mauvaise conclusion.
+
+— La bonne ?
+
+— Vous pouvez faire confiance à différents éléments à différents degrés.
+
+Même le soin me ramenait à la nuance.
+
+Avant de partir, elle dit :
+
+— Le but n’est pas de transformer votre mémoire en caméra. Elle ne l’a jamais été.
+
+Cette phrase m’aida plus que toutes les tentatives de « réveiller » 2009.
+
+Je cessai de vouloir une projection complète.
+
+Je commençai à accepter les morceaux.
+
 Le lendemain, je retournai à la carrière en plein jour avec Martin.
 
 Aucune reconstitution.
@@ -8464,6 +8748,72 @@ Et au lieu de réparer, elle avait hérité de la forme même du mensonge.
 ---
 
 ### CHAPITRE 13 — LA PREMIÈRE AUTOPSIE
+
+La fausse mort d’Hélène avait demandé plus qu’une signature.
+
+Nous reconstituâmes la procédure.
+
+Un dossier de clinique privée.
+
+Un transfert funéraire.
+
+Une crémation.
+
+Chaque étape comportait un document plausible.
+
+Aucun faux spectaculaire.
+
+Seulement de petites validations que personne n’avait de raison de recouper.
+
+Le véhicule funéraire avait réellement circulé.
+
+Le cercueil avait réellement été scellé.
+
+Mais le corps appartenait à une femme non réclamée, décédée sous identité provisoire.
+
+Sarah pâlit.
+
+— Je ne savais pas ça.
+
+— Tu pensais quoi ?
+
+— Qu’elle avait arrangé une urne vide.
+
+Hélène avait donc utilisé le corps d’une autre morte pour fabriquer sa disparition.
+
+La femme fut identifiée plus tard.
+
+Samira K.
+
+Soixante-sept ans.
+
+Sans famille connue à l’époque.
+
+Je restai longtemps sur son nom.
+
+Une personne entièrement extérieure à Clara avait été absorbée par l’histoire sans même que nous le sachions.
+
+— Il faut corriger son dossier, dis-je.
+
+Montels acquiesça.
+
+— Et prévenir sa nièce. On en a retrouvé une.
+
+Sarah demanda à le faire.
+
+Elle revint de l’entretien dévastée.
+
+— Sa nièce croyait qu’elle avait disparu volontairement.
+
+Encore une conséquence.
+
+Les mensonges ne restent jamais dans le cercle qu’on voulait protéger.
+
+Ils débordent.
+
+Hélène avait cru mettre en scène sa propre mort.
+
+Elle avait aussi volé celle de quelqu’un d’autre.
 
 Le certificat de décès d’Hélène Lemaire était daté du 4 février 2021.
 
@@ -9155,6 +9505,92 @@ Quelqu’un écrivait dans le système d’Hélène.
 
 Ou Hélène changeait volontairement de style.
 
+Nadir proposa un piège.
+
+Nous créâmes trois faux fichiers dans l’environnement cloné d’Hélène.
+
+Même apparence.
+
+Trois informations différentes.
+
+Dans le premier : la vidéo originale de Clara aurait été retrouvée à Nîmes.
+
+Dans le deuxième : à Béziers.
+
+Dans le troisième : chez Mireille.
+
+Chaque fichier n’était visible que via un chemin d’accès distinct.
+
+Puis nous attendîmes.
+
+Huit heures.
+
+Rien.
+
+Seize.
+
+Toujours rien.
+
+À vingt-deux heures, Observer_01 se connecta.
+
+Il n’ouvrit aucun leurre.
+
+Il créa un fichier texte.
+
+**VOUS AVEZ REPRIS SON VIEUX JEU.**
+
+Puis :
+
+**ELLE L’A DÉJÀ ESSAYÉ.**
+
+Nadir pâlit presque.
+
+— Il voit qu’on le piège.
+
+— Ou il connaît Hélène et sa méthode.
+
+Nouvelle ligne :
+
+**LA VIDÉO N’EST DANS AUCUNE DE VOS TROIS VILLES.**
+
+Je m’approchai.
+
+— Il sait ce qu’on cherche.
+
+Puis :
+
+**ELLE N’EST PLUS EN FRANCE.**
+
+Connexion coupée.
+
+— On vient d’obtenir une information, dit Martin.
+
+— Ou un mensonge.
+
+— Tu ne peux pas gagner avec toi.
+
+Je regardai les trois leurres.
+
+Observer n’avait pas mordu.
+
+Mais il avait ressenti le besoin de répondre.
+
+Donc le piège avait produit quelque chose : une réaction.
+
+Nadir analysa le temps de frappe.
+
+— Pas un script. Quelqu’un écrivait en direct.
+
+Pour la première fois, Observer était presque humain.
+
+Quelqu’un se trouvait quelque part derrière un clavier.
+
+Pas un fantôme.
+
+Pas un algorithme autonome.
+
+Une personne qui nous regardait regarder.
+
 Nous inspectâmes vingt-sept dossiers numérotés.
 
 Le 003 contenait des modèles phonétiques d’Emma.
@@ -9678,6 +10114,76 @@ Martin éteignit l’écran.
 — Je regarde beaucoup à gauche ?
 
 — Apparemment, c’est criminel.
+
+Une enquête administrative fut ouverte sur moi.
+
+Pas pour les meurtres.
+
+Pour la vidéo Fabre et les accusations de violences.
+
+Je dus expliquer devant trois personnes que le coup n’avait pas eu lieu.
+
+L’expert exposa le montage.
+
+Puis un membre de la commission demanda :
+
+— Mais vous vous êtes levé brusquement.
+
+— Oui.
+
+— Avec colère.
+
+— Oui.
+
+— Donc la vidéo exagère un comportement réel.
+
+Je restai silencieux.
+
+C’était exactement le piège.
+
+Le faux n’avait pas besoin d’inventer tout.
+
+Il suffisait de prolonger un geste vrai.
+
+— Je n’ai pas frappé Nicolas Fabre.
+
+— Personne ici ne dit le contraire.
+
+— Alors pourquoi me demandez-vous si j’étais en colère ?
+
+Le président intervint.
+
+— Parce qu’on doit comprendre le contexte.
+
+Je souris sans joie.
+
+— Voilà.
+
+— Quoi ?
+
+— Le contexte est précisément ce que quelqu’un manipule depuis le début.
+
+Même dans une procédure censée rétablir les faits, la vidéo continuait à imposer sa grammaire.
+
+Je sortis blanchi du geste.
+
+Mais la commission nota « comportement verbal tendu ».
+
+Cette phrase se retrouva dans la presse le soir même.
+
+Titre :
+
+**VARENNE : UNE ATTITUDE JUGÉE “TENDUE” PAR SA HIÉRARCHIE.**
+
+Rien de faux.
+
+Et pourtant entièrement trompeur.
+
+Je commençais à comprendre pourquoi Hélène préférait manipuler les liens plutôt que les faits.
+
+C’était plus robuste.
+
+Un fait correctement cité peut mentir très longtemps.
 
 Le parquet nous imposa une cellule de communication.
 
