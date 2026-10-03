@@ -1,12 +1,11 @@
-const CACHE_NAME = 'le-scribe-v6-fast-start';
+const CACHE_NAME = 'les-morts-v1-clean';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
   './icon.svg',
-  './icon-192.png',
-  './icon-512.png',
-  './images/Les Morts n’ont plus de visage.png'
+  './Page d\'accueil .png',
+  './Fond transparence01.png'
 ];
 
 self.addEventListener('install', event => {
