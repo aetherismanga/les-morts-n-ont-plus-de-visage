@@ -833,8 +833,8 @@ body.immersive-fallback .page.text-flow-page{
     return '<div class="flow-viewport" id="flowViewport"><div class="flow-content" id="flowContent">'+html+'</div></div>';
   }
   function buildSecondReading(){
-    const ch1=RAW.sections.find(x=>x.label==='CHAPITRE 1');
-    if(!ch1)return '<p>Seconde lecture indisponible.</p>';
+    const ch1=RAW.pages.find(x=>x.type==='text'&&x.section===1);
+    if(!ch1||!Array.isArray(ch1.paragraphs))return '<p>Seconde lecture indisponible.</p>';
     const hidden=new Set([1,4,7,10,13,17,20,24,28,31,35,39,43,47,51]);
     const clues=new Set([2,11,18,26,33,40,48,54]);
     const paras=ch1.paragraphs.map((p,i)=>{
@@ -964,7 +964,6 @@ body.immersive-fallback .page.text-flow-page{
   function buildChapters(){
     const list=$('chapterList');list.innerHTML='';
     RAW.sections.forEach((s,i)=>{
-      if(s.title==='SECONDE LECTURE') return;
       const b=document.createElement('button');b.type='button';b.className='chapter-link'+(completedSections.has(i)?' completed':'');b.dataset.section=i;
       const img=CHAPTER_IMAGES[i]||FRONT;
       b.innerHTML='<img class="chapter-thumb" src="'+esc(img)+'" alt="" loading="lazy"><strong>'+esc(s.label)+'</strong><span class="chapter-name">'+esc(s.title)+'</span><span class="chapter-status" aria-hidden="true">✓</span>';
