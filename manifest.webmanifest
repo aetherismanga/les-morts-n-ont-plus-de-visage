@@ -1,0 +1,27 @@
+{
+  "name": "Le Scribe et l’Ombre de Pharaon",
+  "short_name": "Le Scribe",
+  "description": "Lecteur mobile du roman Le Scribe et l’Ombre de Pharaon",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#efe4c8",
+  "theme_color": "#2b241c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
