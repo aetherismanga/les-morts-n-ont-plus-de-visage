@@ -1303,191 +1303,273 @@ C’est ce qui aurait dû nous inquiéter.
 
 ### CHAPITRE 3 — LE QUATRIÈME COUVERT
 
-Nicolas Fabre habitait Palavas-les-Flots dans un appartement où l’on entendait les voisins tirer leurs chaises sur le carrelage.
+Nicolas Fabre habitait Palavas-les-Flots dans un deux-pièces à trois rues de la mer. À cette heure-là, les terrasses étaient encore vides et le vent poussait une odeur d’iode jusque dans la cage d’escalier.
 
 Il ouvrit avant que nous frappions.
 
 — Je vous attendais.
 
-— Comment ?
+Martin et moi échangeâmes un regard.
 
-— Parce qu’elle m’avait prévenu.
+— Comment saviez-vous que nous venions ?
 
-— Qui ?
+Fabre eut un sourire fatigué.
 
-Il nous laissa entrer.
+— Parce que Sophie m’avait prévenu qu’un jour quelqu’un viendrait poser les mauvaises questions.
 
-Sur la table, une enveloppe était posée à côté d’un cendrier plein.
+Il avait cinquante ans, le visage creusé, les avant-bras couverts de tatouages anciens. Son dossier disait violences aggravées. Une photographie judiciaire montrait Sophie avec une pommette gonflée. Je m’étais promis de ne pas laisser cette image décider à ma place.
 
-À l’intérieur : une photographie de Sophie Morel.
+Sur la table, une enveloppe attendait à côté d’un cendrier.
+
+À l’intérieur : une photographie de Sophie.
 
 Son visage avait été découpé.
 
-Au dos :
-
-**À TON TOUR DE MENTIR.**
-
-Fabre avait les mains qui tremblaient.
-
-Pas beaucoup.
-
-Juste assez pour que je le remarque.
+Au dos : **À TON TOUR DE MENTIR.**
 
 — Quand l’avez-vous reçue ?
 
-— Ce matin.
+— Ce matin. Pas de timbre. Glissée sous la porte.
 
-— Vous êtes allé chez Sophie hier soir ?
+— Vous avez touché l’enveloppe ?
 
-Il me fixa.
+— Évidemment. Je ne vis pas dans une série policière.
+
+Il alluma une cigarette. Martin lui demanda de l’éteindre. Fabre obéit avec une docilité qui ne correspondait pas au personnage que son dossier nous avait préparé.
+
+— Vous étiez chez les Morel hier soir.
+
+Ses yeux se fixèrent sur moi.
 
 — Oui.
-
-Martin ne bougea pas.
 
 — À quelle heure ?
 
 — Vers vingt-deux heures.
 
-— Votre ADN est sur un verre à sa table.
+— Pourquoi ?
+
+— Sophie m’a appelé.
+
+— Votre ADN est sur un verre posé à sa table.
 
 — Normal.
 
 — Trois heures plus tard, elle était morte.
 
-Fabre alluma une cigarette.
+Fabre resta silencieux.
 
-— Alors vous avez votre coupable.
+— Vous n’avez rien à dire ?
+
+— Si. Vous avez votre coupable.
 
 — Ça ne vous inquiète pas ?
 
-— Si. Ce qui m’inquiète, c’est que vous ayez exactement ce qu’il faut pour m’arrêter.
+— Ce qui m’inquiète, commandant, c’est que vous ayez exactement ce qu’il faut.
 
-Il écrasa sa cigarette après deux bouffées.
+Il se leva. Martin déplaça imperceptiblement sa main vers son arme.
 
-— Sophie avait peur.
+— Je vais chercher mon téléphone, dit Fabre. Si je voulais vous sauter dessus, j’aurais choisi l’époque où j’avais encore des genoux.
 
-— De vous ?
+Dans la cuisine, quatre verres identiques étaient alignés sur une étagère.
 
-Un rire bref.
+Le même modèle que celui des Morel.
 
-— Elle avait peur de beaucoup mieux que moi.
+Je les observai.
 
-Il nous expliqua qu’elle avait reçu une photographie ancienne. Plusieurs jeunes devant une maison aux volets bleus.
+— Sophie me les avait offerts, dit Fabre derrière moi. Un lot de douze. Après notre séparation, elle en a gardé huit.
 
-— Elle répétait : « Ça recommence. »
+— Donc votre ADN pourrait se trouver sur plusieurs verres lui appartenant.
 
-— Qu’est-ce qui recommence ?
+— Enfin une bonne question.
 
-— Elle n’a pas voulu me dire.
+Martin se raidit.
 
-Il se leva.
+— Faites attention.
 
-Martin posa immédiatement la main près de son arme.
+Fabre lui tendit son téléphone.
 
-Fabre s’arrêta.
-
-— Relax. Je vais chercher mon téléphone.
-
-Dans la cuisine, je remarquai quatre verres identiques sur une étagère.
-
-Le même modèle que celui de la maison Morel.
-
-Fabre revint avec son portable.
-
-Un message de Sophie, 22 h 07 :
+Message de Sophie, 22 h 07 :
 
 *Viens. Je crois qu’ils savent pour Clara.*
 
-Je relus.
-
 — Clara qui ?
 
-Fabre regarda Martin.
+Fabre me dévisagea.
 
-Puis moi.
-
-Son visage se vida.
+Il regarda ensuite Martin.
 
 — Vous ne vous souvenez vraiment pas.
 
-Le mot provoqua quelque chose derrière mes yeux.
+Quelque chose bougea derrière mes yeux.
 
-Une lumière jaune.
+Une cuisine jaune.
 
 Une fille aux cheveux noirs.
 
 Du sang sur mes mains.
 
-Je me levai si brutalement que la chaise tomba.
+Une voix : *Si je parle, ils vont tout détruire.*
 
-— Gabriel ?
+Je me levai si vite que ma chaise tomba.
 
-Je sortis sur le palier.
+L’air du palier me manqua.
 
 Martin me rejoignit.
 
-— Tu la connaissais.
+— Gabriel.
 
-— Je ne sais pas.
+— Qui est Clara ?
 
-— On n’oublie pas une morte.
+Il ne répondit pas assez vite.
 
-Je posai les deux mains contre le mur.
+— Tu sais quelque chose.
 
-La fille dans ma tête tourna le visage.
+— Je connais un nom dans un vieux dossier.
 
-Pour la première fois, j’entendis sa voix.
+— Quel dossier ?
 
-*Si je parle, ils vont tout détruire.*
+— Pas ici.
 
-Je regardai Martin.
+Je retournai dans l’appartement.
 
-— Apparemment, si.
+Fabre n’avait pas bougé.
 
----
+— Dites-moi tout.
+
+Il écrasa sa cigarette froide.
+
+— En 2009, on faisait tous semblant d’être adultes. Laurent surtout. Clara avait dix-sept ans. Elle traînait avec nous parce que Sophie l’aimait bien. Moi, j’étais jaloux de tout le monde, Laurent se croyait intouchable, et votre uniforme vous donnait l’impression que vous pouviez réparer les gens.
+
+— J’étais policier ?
+
+— Vous étiez surtout amoureux.
+
+Mon cœur ralentit.
+
+— De Clara ?
+
+Fabre secoua la tête.
+
+— Non.
+
+Il regarda Martin.
+
+— Ça aussi, il a oublié ?
+
+Martin dit :
+
+— Nicolas.
+
+— Quoi ? Vous allez encore choisir ce qu’il a le droit de savoir ?
+
+Je m’approchai.
+
+— De qui étais-je amoureux ?
+
+Fabre eut soudain l’air de regretter d’avoir parlé.
+
+— Demandez à Sarah.
+
+Le prénom me traversa comme une lame sans douleur.
+
+— La légiste ?
+
+Fabre sourit tristement.
+
+— Voilà. Même elle.
+
+Nous quittâmes l’appartement avec son téléphone placé sous scellé et davantage de questions qu’en arrivant.
+
+Dans la voiture, Martin fixa le pare-brise.
+
+— Pourquoi tu ne m’as jamais parlé de 2009 ?
+
+— Parce que ce n’était pas mon histoire à raconter.
+
+— J’étais dedans.
+
+— Justement.
+
+Je tournai la tête vers lui.
+
+— Clara est morte ?
+
+Martin serra le volant.
+
+— Oui.
+
+— Comment ?
+
+— Une chute.
+
+— Accident ?
+
+Il démarra.
+
+— C’est ce que dit le dossier.
+
+Le téléphone de service vibra.
+
+Une photographie de nous venait d’arriver.
+
+Prise depuis l’autre côté de la rue.
+
+Fabre à sa fenêtre derrière nous.
+
+Sous l’image :
+
+**UN COUPABLE EST PLUS UTILE QU’UN MEURTRIER.**
+
+Je levai les yeux.
+
+Les fenêtres.
+
+Les balcons.
+
+Les voitures.
+
+Personne.
+
+Pour la première fois, je compris que celui qui nous observait ne suivait pas seulement l’enquête.
+
+Il écrivait nos réactions.
+
+Et nous venions de lui en donner une excellente.
 
 ### CHAPITRE 4 — CLARA VIDAL
 
 Le dossier Clara Vidal dormait depuis dix-sept ans dans les archives du Gard.
 
-Cent quatre-vingt-sept pages.
+Cent quatre-vingt-sept pages selon l’inventaire.
 
-Enfin, cent quatre-vingt-un.
+Cent quatre-vingt-une dans la chemise.
 
-Six avaient disparu.
+Six manquaient.
 
-Clara Vidal, dix-sept ans.
+Je demandai qu’on ne m’apporte rien d’autre. Pas de résumé. Pas de note contemporaine. Je voulais voir ce que le policier de vingt-sept ans que j’avais été avait vu.
 
-Décès le 18 août 2009.
+Le problème était qu’il semblait n’avoir rien écrit.
 
-Chute accidentelle dans une ancienne carrière près de Sommières.
+Mon nom n’apparaissait nulle part.
 
-Alcoolémie élevée.
+Clara Vidal, dix-sept ans. Décès le 18 août 2009. Chute accidentelle dans une ancienne carrière près de Sommières. Alcoolémie élevée. Plusieurs jeunes présents dans le secteur. Aucun élément criminel retenu.
 
-Aucun élément criminel retenu.
+— Trop propre, dit Martin.
 
-Le rapport semblait banal jusqu’à ce que l’on commence à regarder ce qui n’y était pas.
+— Tu le savais ?
 
-Pas de retranscription complète des appels.
+— Je savais que le dossier avait été classé vite.
 
-Pas de photographie médicale initiale.
+— Ce n’est pas ma question.
 
-Pas de détail sur son passage aux urgences.
+Il se tut.
 
-Et mon nom nulle part.
+Une photographie glissa d’une pochette.
 
-Pourtant, dans une pochette photographique, nous trouvâmes la maison aux volets bleus.
+Six personnes devant une maison aux volets bleus.
 
-Six personnes devant.
-
-Sophie.
-
-Laurent.
-
-Nicolas Fabre.
-
-Clara.
+Sophie Morel. Laurent. Nicolas Fabre. Clara.
 
 Un jeune homme que je ne reconnus pas.
 
@@ -1497,33 +1579,49 @@ Vingt-sept ans.
 
 Blouson noir.
 
-La photographie était horodatée 23 h 14.
+Mon bras disparaissait derrière quelqu’un dont le visage avait été rayé au stylo sur une copie, mais pas sur l’original.
 
-Environ deux heures avant la chute.
+Sarah.
 
-Martin s’assit en face de moi.
+Je la reconnus avant même d’accepter de la reconnaître.
 
-— Pourquoi tu étais là ?
+La photo était horodatée 23 h 14.
 
-Je cherchai.
+Deux heures environ avant la chute.
 
-Une cuisine jaune.
+— Pourquoi j’étais là ?
 
-Vanille.
+Martin passa une main sur son visage.
 
-Une voix.
+— Je ne sais pas exactement.
 
-Rien.
+— Mauvaise réponse.
+
+— C’est la seule que j’ai.
+
+Je fermai les yeux.
+
+La vanille revint.
+
+Une table.
+
+Sarah qui riait.
+
+Clara dans l’encadrement d’une porte.
+
+*Gabriel, il faut que je te montre quelque chose.*
+
+J’ouvris les yeux.
 
 — J’ai été appelé.
 
-— Le rapport ne dit pas ça.
+— Par qui ?
 
-— Alors le rapport ment.
+Le souvenir s’effondra.
 
-Un archiviste nous apporta un registre papier.
+— Je ne sais pas.
 
-Clara était passée aux urgences de Nîmes à 22 h 08.
+Nous examinâmes les registres annexes. Clara était passée aux urgences de Nîmes à 22 h 08.
 
 Ecchymoses.
 
@@ -1531,41 +1629,99 @@ Traumatisme facial.
 
 Marques cervicales compatibles avec une strangulation.
 
-Elle avait refusé de déposer plainte.
+Refus de plainte.
 
-Sortie à 23 h 02.
+Sortie 23 h 02.
 
-Ces informations auraient dû se trouver exactement dans les six pages manquantes.
+Les six pages manquantes correspondaient exactement à la plage du dossier où auraient dû figurer ces constatations.
 
-Le médecin interne qui l’avait examinée s’appelait Élodie Carmin.
+— Quelqu’un les a retirées proprement, dit l’archiviste.
 
-Elle vivait désormais à Marseille.
+— Quand ?
 
-Sur le point de quitter les archives, mon téléphone vibra.
+— Impossible à dire.
 
-Une notification de connexion à notre serveur d’enquête.
+Le médecin interne ayant examiné Clara s’appelait Élodie Carmin.
 
-Utilisateur : **M.VIDAL**.
+Marseille.
+
+Toujours en activité.
+
+Je photographiai la fiche.
+
+Mon téléphone vibra.
+
+Une notification de connexion au serveur d’enquête.
+
+**Utilisateur : M.VIDAL.**
 
 Durée : deux secondes.
 
-Puis plus rien.
+— Vidal, murmurai-je.
 
-— Tu connais ? demanda Martin.
+Même nom que Clara.
 
-— Non.
+Martin se rapprocha.
 
-Je fis une capture.
+— Un parent ?
 
-La première anomalie portant le nom de Mathieu Vidal venait d’apparaître.
+Nous cherchâmes.
 
-Nous ne savions pas encore qui il était.
+Mathieu Vidal.
 
----
+Frère aîné.
+
+Quarante-deux ans en 2026.
+
+Spécialiste en synthèse audiovisuelle.
+
+Je sentis quelque chose se mettre en place.
+
+— Emma disait Mathieu.
+
+— Oui.
+
+La connexion disparut des journaux sous nos yeux.
+
+Pas marquée supprimée.
+
+Disparue.
+
+Martin recula.
+
+— Ça, c’est impossible.
+
+— Depuis hier, ce mot a perdu beaucoup de valeur.
+
+Avant de partir, je demandai l’accès au registre des pièces sorties du dossier depuis 2009.
+
+Une seule signature revenait trois fois.
+
+**A. CAZENEUVE.**
+
+Mon ancien supérieur.
+
+Toujours vivant.
+
+Je notai son adresse.
+
+Puis je regardai une dernière fois la photographie.
+
+Sarah et moi étions si proches que nos épaules se touchaient.
+
+Je ne me souvenais pas de cette soirée.
+
+Je ne me souvenais pas de Clara.
+
+Et je ne me souvenais pas d’avoir regardé Sarah de cette manière.
+
+Je commençais à comprendre que mon enquête ne portait pas seulement sur des morts.
+
+Quelqu’un avait enterré une partie de ma vie avec eux.
 
 ### CHAPITRE 5 — MARSEILLE
 
-Élodie Carmin ne répondit jamais à notre appel.
+Élodie Carmin ne répondit jamais.
 
 À 18 h 32, la police marseillaise nous rappela.
 
@@ -1573,21 +1729,55 @@ Trois corps.
 
 Même mise en scène.
 
-Lorsque nous arrivâmes, la nuit était tombée.
+Le trajet jusqu’à Marseille se fit presque sans paroles. Martin conduisait. Je relisais les informations disponibles sur Élodie : médecin urgentiste, mariée, un fils de treize ans, aucune condamnation, aucune plainte.
 
-La maison des Carmin était plus petite que celle des Morel, plus vivante aussi. Des dessins d’enfant couvraient le réfrigérateur. Une liste de courses était encore aimantée sur la porte.
+Une vie entière réduite à une fiche parce que nous arrivions trop tard.
 
-Élodie avait prévu des lasagnes pour le lendemain.
+La maison des Carmin était plus petite que celle des Morel.
 
-Cette banalité me fit davantage de mal que le sang.
+Plus vivante aussi.
+
+Des dessins d’enfant couvraient le réfrigérateur. Une liste de courses était aimantée sur la porte.
+
+*Tomates. Lait. Piles. Parmesan.*
+
+Et, en dessous :
+
+*Lasagnes samedi.*
+
+Le samedi n’arriverait jamais pour eux.
 
 Cinq couverts avaient été dressés.
 
 Ils n’étaient que trois.
 
-Sur la table :
+— Pourquoi cinq ? demanda Martin.
 
-**PIÈCE 014 — PHOTOGRAPHIE CLARA VIDAL.**
+— Chez les Morel, un couvert de trop. Ici, deux.
+
+— Ça compte ?
+
+— Tout compte jusqu’à preuve du contraire.
+
+Élodie se trouvait à la table. Son mari dans le salon. Leur fils dans sa chambre.
+
+Je restai sur le seuil de cette dernière.
+
+Treize ans.
+
+Une console encore allumée.
+
+Un casque sur le sol.
+
+Je pensai à celui qui avait préparé cette scène et à la quantité de temps nécessaire pour disposer les corps.
+
+Pas de rage.
+
+De la méthode.
+
+Sur la table de la salle à manger se trouvait une photographie de Clara.
+
+**PIÈCE 014.**
 
 Mon visage avait été découpé.
 
@@ -1595,51 +1785,77 @@ Au dos :
 
 **IL NE SE SOUVIENT TOUJOURS PAS.**
 
-Le tueur ne répétait pas seulement un rituel.
+— Ça t’est destiné, dit Martin.
 
-Il écrivait pour moi.
+— Je sais.
 
-L’autopsie préliminaire indiqua une sédation avant la mort.
+— Tu devrais peut-être sortir de l’enquête.
 
-Comme les Morel.
+Je me tournai.
 
-Quelqu’un que les victimes avaient laissé entrer.
+— C’est ce que tu veux ?
 
-Ou quelqu’un capable de faire en sorte qu’elles ne puissent plus s’y opposer.
+— Je veux que tu restes vivant.
 
-Sur le téléphone d’Élodie, un brouillon jamais envoyé :
+L’autopsie préliminaire indiqua une sédation.
 
-*J’ai fait ce qu’Hélène m’a demandé. J’avais vingt-quatre ans. Je croyais protéger une enfant.*
+Même famille de symptômes que chez les Morel.
 
-Hélène.
+Aucune lutte significative.
 
-Premier prénom.
+Quelqu’un qu’ils avaient laissé entrer.
 
-Aucun nom.
+Ou quelqu’un qui savait les rendre incapables de résister.
 
-Le soir même, une vidéo apparut sur les réseaux.
+Sur le téléphone d’Élodie, nous trouvâmes un brouillon jamais envoyé :
+
+*J’ai fait ce qu’Hélène m’a demandé. J’avais vingt-quatre ans. Je croyais protéger une enfant. Je ne savais pas qu’elle était encore vivante quand…*
+
+La phrase s’arrêtait là.
+
+— Hélène qui ?
+
+Aucun contact.
+
+Aucune occurrence évidente.
+
+Le soir, pendant que nous quittions Marseille, une vidéo apparut en ligne.
 
 On m’y voyait frapper Nicolas Fabre pendant son interrogatoire.
 
-Elle était excellente.
+Le montage était remarquable.
 
-Le geste.
+Mon visage.
 
 Ma voix.
 
-Même une petite cicatrice sur ma main droite.
+La petite cicatrice sur ma main.
+
+Même le mouvement de recul de Fabre.
 
 Cela n’avait jamais eu lieu.
 
-À minuit, deux millions de personnes l’avaient vue.
+À minuit, deux millions de vues.
 
-À une heure, ma hiérarchie me demanda de ne plus apparaître devant les caméras.
+À 0 h 17, ma hiérarchie me demanda de ne plus apparaître devant les caméras.
 
-À une heure quinze, Sarah m’envoya un message.
+À 0 h 43, un message de Sarah :
 
 *Ne regarde pas les commentaires.*
 
 Je les regardai.
+
+Assassin.
+
+Flic pourri.
+
+Complice.
+
+Certains réclamaient mon arrestation.
+
+D’autres expliquaient que la vidéo était évidemment fausse.
+
+Puis ils se disputaient entre eux.
 
 À 2 h 03, je compris la méthode.
 
@@ -1649,33 +1865,81 @@ Le meurtrier ne cachait pas la vérité.
 
 Il la noyait sous des versions concurrentes.
 
-Et pendant que je lisais des milliers d’inconnus expliquer qui j’étais, notre serveur enregistra une nouvelle connexion de **M.VIDAL**.
+Notre serveur enregistra alors une nouvelle connexion.
+
+**M.VIDAL.**
 
 Trois secondes.
 
-Depuis une adresse IP inexistante.
+Adresse IP impossible.
 
----
+Je fis une capture avant qu’elle disparaisse.
+
+Cette fois, elle resta dans mon téléphone.
+
+Une minute plus tard, un message inconnu arriva :
+
+**TU APPRENDS.**
+
+Je verrouillai l’écran.
+
+Dans le reflet noir de la vitre, Martin me regardait.
+
+— Quoi ?
+
+— Rien.
+
+— Arrête avec ce mot.
+
+Il soupira.
+
+— Cazeneuve nous attend demain.
+
+— Tu lui as parlé ?
+
+— Oui.
+
+— Et ?
+
+Martin regarda la route.
+
+— Il a dit qu’il était temps que tu récupères ce qu’on t’a pris.
 
 ### CHAPITRE 6 — LES SIX PAGES
 
-Les six pages manquantes n’avaient jamais été détruites.
+Alain Cazeneuve vivait seul près d’Uzès dans une maison entourée d’oliviers.
 
-Alain Cazeneuve les avait conservées.
+Il nous attendait devant la porte.
 
-Mon ancien supérieur vivait seul près d’Uzès, dans une maison entourée d’oliviers.
+Il avait vieilli comme certains policiers : le corps avait cédé, pas le regard.
 
-Il me regarda descendre de voiture.
-
-— Je savais que tu reviendrais.
+— Je savais que tu reviendrais, dit-il.
 
 — Moi, non.
 
-Il sourit tristement.
+Il observa Martin.
 
-À l’intérieur, il posa une chemise cartonnée devant moi.
+— Toi, je savais que tu resterais.
 
-Les pages originales.
+— On n’est pas venus pour les souvenirs, répondit Martin.
+
+— Si. Vous êtes venus exactement pour ça.
+
+À l’intérieur, Cazeneuve posa une chemise cartonnée sur la table.
+
+Six pages.
+
+Les originales.
+
+Je ne les touchai pas tout de suite.
+
+— Pourquoi ?
+
+— Parce qu’en 2009 j’ai cru qu’on pouvait contenir une catastrophe en retirant six feuilles d’un dossier.
+
+— Et ?
+
+— J’ai seulement donné dix-sept ans à la catastrophe pour grandir.
 
 Clara avait été frappée avant sa chute.
 
@@ -1683,13 +1947,35 @@ Elle était enceinte de huit semaines.
 
 Je relus la phrase.
 
+Une fois.
+
+Deux fois.
+
 — Le père ?
 
 — Elle n’a jamais voulu le dire.
 
-— Pourquoi avoir retiré ça ?
+— Laurent ?
 
-Cazeneuve regarda Martin.
+— Possible.
+
+— Vous ne savez pas ?
+
+— Je sais ce que les gens ont dit. Ce n’est pas la même chose.
+
+Les pages mentionnaient aussi une deuxième série de lésions.
+
+Postérieures à la chute.
+
+Je levai les yeux.
+
+— Elle a survécu.
+
+Cazeneuve ne répondit pas.
+
+— Qui l’a remontée ?
+
+Il regarda Martin.
 
 — Demande-lui.
 
@@ -1701,15 +1987,13 @@ Martin pâlit.
 
 — Gabriel savait qui avait frappé Clara.
 
-Je me penchai vers lui.
-
 — Qui ?
 
 Cazeneuve ouvrit la bouche.
 
 La fenêtre explosa.
 
-Le bruit arriva après l’impact.
+Le bruit de l’impact précéda presque celui du tir.
 
 Cazeneuve fut projeté contre son fauteuil.
 
@@ -1717,17 +2001,27 @@ Martin me plaqua au sol.
 
 Une seconde balle traversa le mur.
 
-Je rampai jusqu’à la porte arrière et sortis.
+Je rampai jusqu’à la porte arrière.
 
-Une moto noire disparaissait au bout de la route.
+Dehors, une moto noire démarrait au bout du chemin.
+
+Je courus.
 
 Trop loin.
+
+Le pilote portait un casque intégral.
+
+Passager ou non : impossible à distinguer.
 
 Mon téléphone vibra.
 
 **CERTAINS SOUVENIRS MÉRITENT DE MOURIR.**
 
-Cazeneuve respirait encore lorsque je revins.
+Je revins.
+
+Cazeneuve respirait encore.
+
+Du sang remplissait sa chemise.
 
 Il referma ses doigts sur mon poignet.
 
@@ -1735,19 +2029,23 @@ Il referma ses doigts sur mon poignet.
 
 — Quelle vidéo ?
 
-Ses yeux cherchèrent les miens.
-
 — Regarde… pas ce qu’on te donne.
 
-Il mourut.
+— Qui a tué Clara ?
 
-Dans sa main se trouvait une petite clé.
+Ses yeux cherchèrent les miens.
+
+— Elle…
+
+Le souffle s’arrêta.
+
+Dans sa main, une petite clé.
 
 Étiquette :
 
 **17/08/09.**
 
-Martin resta longtemps debout devant la fenêtre brisée.
+Martin resta debout devant la fenêtre brisée jusqu’à l’arrivée des secours.
 
 — Qu’est-ce qu’il voulait dire quand il m’a regardé ? demandai-je.
 
@@ -1755,13 +2053,31 @@ Martin resta longtemps debout devant la fenêtre brisée.
 
 — Tu mens mal.
 
-Il se retourna.
-
 — Et toi, tu ne sais même plus quand tu mens.
 
-Pour la première fois depuis quinze ans, je me demandai si Martin pouvait être impliqué.
+Je m’approchai.
 
----
+— Tu étais là quand Clara est tombée ?
+
+Il ne répondit pas.
+
+— Martin.
+
+— Oui.
+
+Le mot fut presque inaudible.
+
+— Et tu ne m’as rien dit.
+
+— Tu m’avais demandé de ne pas le faire.
+
+— Je ne me souviens même pas de t’avoir demandé.
+
+— C’est bien le problème.
+
+Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
+
+Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
 
 ### CHAPITRE 7 — LE CASIER
 
