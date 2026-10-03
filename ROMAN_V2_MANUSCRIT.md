@@ -3777,6 +3777,144 @@ La vraie question était de savoir si le miroir révélait quelque chose.
 
 Ou s’il avait été fabriqué pour m’obliger à le croire.
 
+Avant de quitter la maison de Cazeneuve, nous trouvâmes quelque chose que le tireur n’avait pas pu viser.
+
+Une boîte en fer sous le plancher du bureau.
+
+Pas cachée avec talent.
+
+Cachée pour quelqu’un qui chercherait après sa mort.
+
+À l’intérieur : quatre carnets.
+
+2009.
+
+2010.
+
+2019.
+
+2026.
+
+Le premier contenait des notes prises la semaine suivant la mort de Clara.
+
+Beaucoup de noms étaient réduits à des initiales.
+
+**G.V. — amnésie partielle / répète “elle était vivante”.**
+
+**S.L. — état de choc / grossesse connue seulement de G.V. et moi.**
+
+Je m’arrêtai.
+
+Cazeneuve connaissait donc Noé.
+
+Plus bas :
+
+**H.L. demande classement rapide. Dit que S. ne survivra pas à une enquête.**
+
+Sophie.
+
+**L.M. nie violence malgré traces.**
+
+Laurent.
+
+Puis une phrase entourée trois fois :
+
+**M.V. affirme posséder copie. Refuse de remettre.**
+
+Mathieu Vidal.
+
+— Il avait la vidéo dès 2009, dis-je.
+
+Martin lut.
+
+— Ou une copie de quelque chose.
+
+Le carnet 2010 était presque vide.
+
+Une page :
+
+**G.V. ne récupère pas. S.L. demande qu’on cesse les rappels. Décision commune ?**
+
+Point d’interrogation.
+
+Je serrai la mâchoire.
+
+Même Cazeneuve n’était pas certain que j’aie vraiment demandé qu’on me laisse tranquille.
+
+Le carnet 2019 était plus inquiétant.
+
+**Numérisation dossier C.V. — accès inconnu. J. Maret inquiet.**
+
+Puis :
+
+**Compte “observer”. H.L. dit ne pas connaître.**
+
+Observer existait donc déjà dans les notes de Cazeneuve.
+
+Avant le retour public de l’affaire.
+
+Avant les meurtres.
+
+— Pourquoi il n’a rien signalé ?
+
+Martin feuilleta.
+
+La réponse quelques pages plus loin :
+
+**Si j’ouvre, tout ressort. Gabriel aussi.**
+
+Je refermai brutalement.
+
+— Toujours la même excuse.
+
+— Il avait peur.
+
+— Tout le monde a peur dans cette histoire.
+
+Le carnet 2026 contenait les dernières semaines.
+
+**Mathieu revient. Il dit qu’Hélène a perdu le contrôle.**
+
+**Emma m’écrit. Ne pas répondre par réseau.**
+
+**Théo surveille.**
+
+Puis, trois jours avant sa mort :
+
+**Si G. revient, lui donner clé. Ne pas lui donner conclusion. Il doit voir la chaîne lui-même.**
+
+Dernière page.
+
+Une seule phrase :
+
+**Le problème n’est plus Hélène.**
+
+Et en dessous :
+
+**O1 connaît des choses que même elle ignore.**
+
+Je montrai à Martin.
+
+— Observer_01.
+
+Il acquiesça.
+
+Cazeneuve n’avait donc pas simplement protégé un vieux mensonge.
+
+Il avait compris, trop tard, qu’un nouvel acteur s’était introduit dans l’histoire.
+
+Je photographiai tout.
+
+— Tu crois que le tireur savait pour les carnets ?
+
+— S’il savait, ils ne seraient plus là.
+
+— Donc Cazeneuve a réussi à garder quelque chose.
+
+Je regardai le sang sur le fauteuil.
+
+— Pas assez pour rester vivant.
+
 Sur le chemin du retour, nous reçûmes l’analyse de la photographie de Cazeneuve.
 
 La femme aux cheveux blancs ne pouvait pas être identifiée.
@@ -4126,6 +4264,108 @@ Au dos numérique du fichier, un commentaire :
 Nous cherchâmes le fichier suivant.
 
 Aucun.
+
+Le lendemain de l’ouverture du casier, je retournai seul à l’hôpital où j’avais été soigné en 2009.
+
+Le bâtiment avait changé.
+
+Les urgences avaient été rénovées.
+
+Le couloir où j’avais peut-être regardé Sarah sans la reconnaître n’existait plus sous la même forme.
+
+Une archiviste retrouva pourtant mon dossier papier.
+
+Plus épais que la copie versée au dossier Clara.
+
+— Il manque des feuilles dans la version police, dit-elle.
+
+— Lesquelles ?
+
+Elle compara.
+
+Une observation infirmière à 3 h 17.
+
+**Patient très agité. Dit qu’une femme a pris le téléphone de C.V. Demande qu’on empêche “la docteure” de partir.**
+
+Je relus.
+
+— La docteure.
+
+— C’est écrit comme ça.
+
+Hélène.
+
+Ou une autre médecin.
+
+À 3 h 31 :
+
+**Patient calmé après administration prescrite par Dr H.L.**
+
+Nom du produit illisible sur le carbone.
+
+— Qui a retiré ça du dossier transmis ?
+
+L’archiviste haussa les épaules.
+
+— En 2009, les transmissions se faisaient encore beaucoup à la main.
+
+Je photographiai.
+
+Une autre note à 5 h 02 :
+
+**Patient ne reconnaît pas S.L. Épisode de panique lorsqu’elle tente contact physique.**
+
+Je dus m’asseoir.
+
+L’archiviste demanda si ça allait.
+
+— Oui.
+
+Mensonge automatique.
+
+Je continuai.
+
+À 6 h 40 :
+
+**H.L. demande limitation visites / éviter stimulation mémorielle.**
+
+Hélène n’avait pas simplement assisté à ma confusion.
+
+Elle avait encadré ce que les autres avaient le droit de me dire.
+
+À 8 h 12, une note de neurologue contredisait :
+
+**Aucune raison formelle d’interdire rappel autobiographique progressif par proches.**
+
+Je sentis la colère.
+
+Sarah avait cru suivre un avis médical.
+
+Peut-être cet avis venait-il presque uniquement de sa mère.
+
+Je demandai les journaux d’accès.
+
+Impossible pour 2009.
+
+Mais un document avait été numérisé en 2019.
+
+Compte utilisateur :
+
+**JMARET.**
+
+Julien Maret.
+
+L’informaticien mort en 2024.
+
+Encore lui.
+
+Je sortis de l’hôpital avec la sensation que la numérisation de 2019 avait réveillé quelque chose.
+
+Comme si un vieux mensonge papier avait rencontré une personne capable de le lire à l’échelle d’un système.
+
+Observer n’était peut-être pas né en 2019.
+
+Mais c’était peut-être à ce moment-là qu’il avait obtenu une carte complète.
 
 Avant de quitter le laboratoire, une alerte apparut.
 
@@ -4645,6 +4885,132 @@ Sarah ouvrit la porte.
 
 Elle partit.
 
+Après notre conversation, je ne laissai pas Sarah partir tout de suite.
+
+— Attends.
+
+Elle se retourna.
+
+— Quoi encore ?
+
+— Si on était ensemble presque deux ans, pourquoi il n’y a rien chez moi ?
+
+— Rien comment ?
+
+— Photos. Objets. Lettres.
+
+Elle me regarda longtemps.
+
+— Parce que tu as tout enlevé.
+
+— Après l’accident ?
+
+— Oui.
+
+— Pourquoi ?
+
+— Tu disais que c’était insupportable d’être entouré de preuves d’une vie qui ne te faisait rien.
+
+Je baissai les yeux.
+
+— J’ai tout jeté ?
+
+— Pas tout.
+
+Elle fouilla dans son sac.
+
+Un petit porte-clés en métal.
+
+Un phare miniature.
+
+— Collioure.
+
+Je le pris.
+
+Le métal était usé.
+
+— Tu l’avais gardé sur tes clés pendant des mois. Après, tu me l’as rendu avec un carton.
+
+— Tu l’as gardé.
+
+— Oui.
+
+Je le retournai.
+
+Au dos, gravé maladroitement :
+
+**S + G / 08**
+
+Je ne ressentis rien.
+
+Puis une image fugitive.
+
+Un marchand de souvenirs.
+
+Sarah se moquant de moi.
+
+*Tu vas vraiment acheter ça ?*
+
+Je lâchai presque l’objet.
+
+— Quoi ?
+
+— Rien.
+
+— Gabriel.
+
+— J’ai vu quelque chose.
+
+Elle ne bougea plus.
+
+— Quoi ?
+
+— Un magasin. Toi qui ris.
+
+Ses yeux se remplirent.
+
+— À Collioure ?
+
+— Peut-être.
+
+Le mot nous fit rire tous les deux, malgré nous.
+
+Puis le souvenir disparut.
+
+— Ne le force pas, dit-elle.
+
+— Tu parles comme un médecin.
+
+— Je suis médecin.
+
+— Mauvais argument dans cette famille.
+
+Elle encaissa sans se vexer.
+
+— Tu as raison.
+
+Je lui rendis le porte-clés.
+
+Elle referma ma main dessus.
+
+— Garde-le.
+
+— Et si je ne me souviens jamais ?
+
+— Alors ce sera juste un phare moche.
+
+Je le glissai dans ma poche.
+
+Ce fut le premier objet de ma vie avec Sarah que je décidai de conserver sans exiger qu’il me rende quelque chose.
+
+Plus tard, ce détail compterait.
+
+Parce qu’il m’apprit une distinction que l’enquête entière refusait de faire :
+
+une trace n’est pas une obligation.
+
+Elle peut exister sans dicter ce qu’on doit ressentir.
+
 À 3 h 08 cette nuit-là, mon téléphone s’alluma.
 
 **PIÈCE 006 CONSULTÉE.**
@@ -4988,6 +5354,166 @@ Je montrai à Martin.
 — Ou à un code.
 
 Dans cette affaire, même l’amour pouvait devenir une clé de chiffrement.
+
+Nous passâmes encore six heures dans l’atelier de Mathieu.
+
+Plus nous cherchions, moins l’endroit ressemblait à un laboratoire de faussaire.
+
+Il y avait des outils de détection.
+
+Des bases de comparaison.
+
+Des scripts qui calculaient les incohérences de lumière, de fréquence électrique, de météo.
+
+Un tableau blanc portait trois colonnes :
+
+**FAUX.**
+
+**VRAI.**
+
+**INDECIDABLE.**
+
+La troisième était de loin la plus longue.
+
+Sous **FAUX** :
+
+— vidéo Gabriel / Fabre ;
+
+— séquence carrière version H. ;
+
+— deux messages vocaux attribués à Sarah.
+
+Sous **VRAI** :
+
+— six pages ;
+
+— passage urgences Clara ;
+
+— appel Sophie/Fabre.
+
+Sous **INDECIDABLE** :
+
+— vidéo 2 h 41 ;
+
+— source O1 ;
+
+— rôle Hélène nuit Morel ;
+
+— mort Mathieu.
+
+Je restai devant ce dernier item.
+
+— Il avait anticipé sa propre mort ?
+
+Martin s’approcha.
+
+— Ou il avait écrit « risque de mort » et quelqu’un a renommé après.
+
+Nadir vérifia les dates de modification.
+
+— Ligne créée trois semaines avant son décès.
+
+— Donc il savait qu’il était en danger.
+
+Nous trouvâmes un enregistrement audio.
+
+Mathieu parlait à quelqu’un.
+
+Voix altérée.
+
+— Je veux une garantie.
+
+L’autre voix :
+
+— Tu n’en auras pas.
+
+— Alors je donne tout à Varenne.
+
+— Il ne se souvient de rien.
+
+— Justement.
+
+— Hélène le récupérera.
+
+— Hélène ne contrôle plus rien.
+
+La voix modifiée répondit :
+
+— Elle n’a jamais contrôlé autant qu’elle le croit.
+
+Fin.
+
+Nadir tenta de restaurer.
+
+Impossible.
+
+La transformation avait été appliquée avant enregistrement ou via un dispositif temps réel.
+
+— Observer ? demanda Martin.
+
+— Peut-être.
+
+Je le regardai.
+
+— Tu es contagieux.
+
+Une autre découverte fut plus banale.
+
+Sur le bureau de Mathieu, sous une pile, une facture d’un café.
+
+Date : quatre jours avant sa mort.
+
+Deux consommations.
+
+Caméra de l’établissement encore disponible.
+
+Nous récupérâmes la séquence.
+
+Mathieu était assis avec une femme.
+
+Cheveux blancs.
+
+Hélène.
+
+Ils parlaient calmement.
+
+À un moment, Mathieu posa son téléphone sur la table.
+
+Hélène le repoussa.
+
+Puis il écrivit quelque chose sur un papier.
+
+Elle le lut.
+
+Son visage changea.
+
+Elle partit.
+
+Mathieu resta.
+
+Une minute plus tard, il regarda directement vers une caméra qu’il ne pouvait normalement pas voir.
+
+Puis leva deux doigts.
+
+Deux.
+
+Nous ne savions pas ce que cela signifiait.
+
+Deux copies ?
+
+Deux personnes ?
+
+Deux jours ?
+
+Le serveur du café enregistra ce moment comme une simple image.
+
+Pour nous, il devint une énigme de plus.
+
+Je compris que Mathieu avait travaillé exactement comme celui que nous poursuivions : en laissant des indices qui dépendaient du contexte.
+
+La différence, peut-être, était l’intention.
+
+Mais l’intention ne se voit pas dans un pixel.
 
 Avant de partir, nous photographiâmes le mur aux vingt-sept emplacements.
 
@@ -5338,6 +5864,102 @@ Personne.
 Moteur tournant.
 
 Porte ouverte.
+
+Entre la disparition de Sarah et celle de Martin, nous eûmes vingt-neuf minutes de chaos.
+
+Les équipes cherchaient deux adultes sans scène d’enlèvement claire.
+
+La voiture de Sarah ne contenait ni sang ni lutte.
+
+Une caméra montrait une camionnette blanche entrer sur le parking.
+
+Sortir sept minutes plus tard.
+
+Plaque volée.
+
+Sur la vidéo, Sarah marchait vers le véhicule d’elle-même.
+
+— Elle connaissait le conducteur, dit un collègue.
+
+— Ou elle croyait le connaître.
+
+Je demandai l’image du pare-brise.
+
+Reflet.
+
+Pas de visage.
+
+Un carton posé côté passager portait un logo de livraison médicale.
+
+Sarah aurait pu penser à un transport de prélèvements.
+
+Encore une tenue.
+
+Encore une fonction qui rend invisible.
+
+Pour Martin, différent.
+
+Sa voiture avait été abandonnée moteur allumé.
+
+Son arme restait dans l’étui sous le siège.
+
+— Il ne part jamais sans, dis-je.
+
+— Donc surpris.
+
+Sur son téléphone, dernier appel entrant : Sarah.
+
+Durée huit secondes.
+
+Mais Sarah était déjà portée disparue.
+
+Nadir récupéra l’audio depuis une sauvegarde de sécurité.
+
+Voix de Sarah :
+
+— Martin, j’ai trouvé maman. Viens seul.
+
+Martin :
+
+— Où ?
+
+Sarah :
+
+— Je t’envoie.
+
+Fin.
+
+Nous fîmes écouter à Sarah plus tard.
+
+Elle jura n’avoir jamais prononcé la phrase.
+
+Nadir conclut :
+
+— Clonage très probable.
+
+Huit secondes avaient suffi à enlever un policier expérimenté.
+
+Pas par force.
+
+Par confiance.
+
+Je notai mentalement.
+
+Les faux les plus efficaces ne font pas croire l’impossible.
+
+Ils utilisent ce que la victime espère déjà.
+
+Sarah espérait retrouver sa mère.
+
+Martin espérait aider Sarah.
+
+Moi, je voulais retrouver ma mémoire.
+
+Théo voulait un coupable.
+
+Nous avions tous une porte différente.
+
+Quelqu’un possédait les clés.
 
 À 11 h 31, mon téléphone vibra.
 
