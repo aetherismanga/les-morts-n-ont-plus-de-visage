@@ -3779,175 +3779,823 @@ L’enquête quitta les commissariats.
 
 Elle devint un spectacle.
 
-Chaque jour apportait une vidéo.
+Au début, je crus que c’était temporaire. Une flambée médiatique. Quelques jours de chaînes d’information, de comptes anonymes et de spécialistes improvisés.
 
-Moi acceptant de l’argent.
+Je me trompais.
 
-Moi embrassant Sarah.
+Chaque matin apportait une nouvelle vidéo.
 
-Moi menaçant Laurent.
+Moi acceptant une enveloppe d’argent dans un parking.
 
-Moi entrant chez Hélène.
+Moi embrassant Sarah devant un hôtel en 2009.
+
+Moi menaçant Laurent Morel.
+
+Moi entrant chez Hélène sous son identité d’Anne Delmas.
 
 Certaines étaient fausses.
 
-Une était vraie.
+Une au moins était vraie.
 
-Personne ne savait laquelle.
+Deux étaient composées de fragments authentiques remontés dans un ordre trompeur.
 
-Des gens m’attendaient devant chez moi.
+La distinction n’avait plus d’importance pour le public.
 
-Un homme me cracha dessus dans un parking.
+À la télévision, un consultant expliquait que « l’attitude corporelle » prouvait ma culpabilité.
 
-Une femme me demanda un selfie.
+Un autre affirmait l’inverse.
 
-Le même jour.
+Une troisième personne analysait mon clignement d’yeux.
 
-Hélène publia un document de quatre-vingts pages accusant police, justice et médecine d’avoir enterré la mort de Clara.
+Martin éteignit l’écran.
 
-Une partie était authentique.
+— C’est fascinant.
 
-Une partie falsifiée.
+— Quoi ?
 
-Le public ne cherchait plus la vérité.
+— Tu peux faire dire n’importe quoi à un homme qui regarde à gauche.
 
-Il choisissait la version qui lui ressemblait.
+Le parquet nous imposa une cellule de communication.
 
-Je compris alors son principe.
+Je détestai immédiatement le mot.
 
-Quand tout peut être faux, le mensonge n’a plus besoin de gagner.
+— Vous ne répondez plus directement aux accusations, expliqua une conseillère. Vous ne commentez aucune vidéo avant expertise. Vous ne niez même pas les plus absurdes.
 
-Il suffit que la vérité perde son privilège.
+— Donc je laisse des millions de gens croire que j’ai frappé un suspect.
 
-Pendant ce temps, nous retrouvâmes un carnet de Théo.
+— Oui.
+
+— Génial.
+
+— Si vous niez dix faux et qu’un onzième est vrai, ce sera celui-là qui vous détruira.
+
+Elle avait raison.
+
+C’était pire.
+
+En sortant, un homme m’attendait sur le parking.
+
+— Varenne !
+
+Je me retournai.
+
+Il me cracha au visage.
+
+— Assassin.
+
+Martin le plaqua contre une voiture.
+
+Je l’arrêtai.
+
+— Laisse.
+
+L’homme continuait à crier.
+
+Dix mètres plus loin, une femme s’approcha.
+
+— Commandant, une photo ?
+
+Je la regardai, persuadé d’avoir mal entendu.
+
+— Avec vous. S’il vous plaît.
+
+Elle souriait.
+
+Même journée.
+
+Même parking.
+
+Je refusai.
+
+Le soir, Hélène publia un document de quatre-vingts pages.
+
+Pas sous son nom.
+
+Sous celui d’un collectif inexistant.
+
+**DOSSIER CLARA — CE QUE LA POLICE A EFFACÉ.**
+
+Il contenait des éléments authentiques.
+
+Les six pages.
+
+Le passage aux urgences.
+
+La grossesse.
+
+Des photographies de la carrière.
+
+Puis des mensonges.
+
+Une fausse note signée de moi.
+
+Une fausse déclaration de Cazeneuve.
+
+Une conversation inventée entre Sarah et sa mère.
+
+Le document était suffisamment vrai pour rendre ses mensonges indissociables du reste.
+
+À la page 61, une phrase était surlignée :
+
+*Le mensonge parfait n’est pas celui qui remplace la vérité. C’est celui qui l’oblige à se justifier.*
+
+Je refermai.
+
+Sarah était assise en face de moi.
+
+— C’est elle.
+
+— Tu en es sûre ?
+
+— L’idée, oui.
+
+— Le style ?
+
+Elle hésita.
+
+— Pas entièrement.
+
+Martin posa un dossier sur la table.
+
+— On a mieux.
+
+Le carnet de Théo.
 
 Douze noms.
 
 Onze barrés.
 
-Le douzième :
+Le mien restait intact.
 
-**GABRIEL VARENNE.**
+Nous avions maintenant identifié la raison de huit noms.
+
+Trois restaient obscurs.
+
+Parmi eux : un ancien technicien de laboratoire, une greffière et un informaticien mort dans un accident de moto en 2024.
+
+— Il ne choisissait pas au hasard, dit Martin.
+
+— Il suivait une liste préparée.
+
+— Par Hélène ?
+
+Je regardai Sarah.
+
+— Ou Mathieu.
+
+Elle secoua la tête.
+
+— Mathieu voulait arrêter Théo.
+
+— D’après une vidéo.
+
+— Authentique.
+
+— Jusqu’à preuve du contraire.
+
+Elle se leva.
+
+— Tu ne peux pas passer le reste de ta vie à répondre ça.
+
+— C’est exactement ce qu’on m’apprend à faire.
+
+Sarah partit.
+
+Je regrettai immédiatement.
+
+Plus tard, je retrouvai dans mes messages une photographie envoyée par un numéro masqué.
+
+Une foule devant le palais de justice.
+
+Au milieu, moi.
+
+Je n’y étais jamais allé ce jour-là.
+
+Sous l’image :
+
+**TON PROCÈS A COMMENCÉ.**
+
+Je zoomai.
+
+Dans un reflet de vitrine, derrière la foule, une silhouette de femme.
+
+Cheveux blancs.
+
+Impossible d’être sûr.
+
+Je sauvegardai l’image.
+
+Puis je remarquai l’heure de création.
+
+Dix-sept minutes dans le futur.
+
+Je regardai l’horloge.
+
+17 h 43.
+
+La photo indiquait 18 h 00.
+
+À 18 h 01, la même foule existait réellement devant le palais.
+
+Même banderole.
+
+Même camion de télévision.
+
+Même angle.
+
+Mais je n’y étais pas.
+
+Quelqu’un n’avait pas seulement fabriqué une image.
+
+Il avait anticipé la scène qui la rendrait crédible.
+
+J’appelai Martin.
+
+— On ne nous montre pas le futur.
+
+— J’espère.
+
+— On prépare des images avant les événements.
+
+— Donc ?
+
+— Donc certaines scènes sont organisées pour ressembler ensuite aux faux.
+
+Silence.
+
+— Une mise en scène du réel.
+
+— Oui.
+
+Je compris alors pourquoi l’enquête m’épuisait d’une manière nouvelle.
+
+Je n’essayais plus seulement de distinguer le vrai du faux.
+
+Je devais déterminer si le réel lui-même avait été arrangé pour confirmer un mensonge.
 
 ---
 
 ### CHAPITRE 16 — LA CARRIÈRE
 
-Théo m’attendait à Sommières.
+Théo me contacta deux jours plus tard.
 
-Même carrière.
+Pas de message.
 
-Même nuit recréée avec des projecteurs et des arroseurs.
+Une position GPS.
 
-— Tu veux ton souvenir ?
+La carrière.
 
-Il lança une vidéo.
+Martin voulut une équipe.
 
-Laurent poursuivait Clara.
+Je refusai d’y aller seul, mais je savais que trop de véhicules le feraient disparaître.
 
-Je m’interposais.
+Nous approchâmes à pied avec deux groupes à distance.
 
-Clara tombait.
+Le ciel menaçait.
 
-Plus tard, Hélène et Cazeneuve remontaient son corps.
+À l’entrée de la carrière, des projecteurs éclairaient le front de taille.
 
-Hélène injectait quelque chose.
+Des arroseurs de jardin pulvérisaient de l’eau sur le sol.
+
+Une reconstitution.
+
+Théo se tenait au milieu.
+
+— Tu es venu.
+
+— Épargne-moi les phrases de cinéma.
+
+Il eut presque un sourire.
+
+— Toujours pareil, d’après les vidéos.
+
+— Quelles vidéos ?
+
+Il leva une télécommande.
+
+Un écran portable s’alluma.
+
+2009.
+
+La fête.
+
+Clara courant.
+
+Laurent derrière elle.
+
+Moi.
+
+Puis la carrière.
+
+La vidéo était remarquable.
+
+Clara reculait.
+
+Elle tombait.
+
+Plus tard, Hélène et Cazeneuve apparaissaient.
+
+Ils descendaient.
+
+Remontaient Clara sur une civière.
+
+Hélène préparait une seringue.
+
+Injectait.
 
 Clara cessait de bouger.
 
-Tout était là.
+Je regardai sans respirer.
 
-Enfin.
+La scène donnait enfin une réponse.
 
-Une vérité complète.
+Trop parfaite.
 
-Puis je regardai le sol.
+— Voilà, dit Théo. C’est ça que vous avez tous caché.
 
-Sur la vidéo, la terre était déjà mouillée avant la chute.
+— Où tu as eu ça ?
 
-Je connaissais désormais la photographie prise à 23 h 14.
+— Grand-mère.
 
-Poussière sèche.
+— L’original ?
 
-Les archives météo indiquaient le début de la pluie à 2 h 06.
+— Oui.
 
-— C’est faux.
+— Tu l’as vérifié ?
 
-Théo ne comprit pas.
+Son visage se ferma.
+
+— Mathieu l’a vérifié.
+
+— Avant ou après sa mort ?
+
+Il fit un pas vers moi.
+
+— Arrête.
+
+Je regardai encore.
+
+La terre.
+
+Les chaussures.
+
+Les arbres.
+
+Quelque chose.
+
+— Remets le début.
+
+— Pourquoi ?
+
+— Fais-le.
+
+Il relança.
+
+La photographie de 23 h 14 me revint.
+
+Sol sec.
+
+Poussière.
+
+Sur la vidéo, avant même la chute, la terre brillait déjà.
+
+— Pause.
+
+Théo s’impatienta.
+
+— Quoi ?
+
+— La pluie.
+
+— Quoi, la pluie ?
+
+— Elle a commencé à 2 h 06.
+
+— Et ?
+
+— Clara tombe avant.
+
+— Tu chipotes sur une météo ?
+
+— Les archives de la station sont publiques. À 1 h 40, zéro précipitation. À 2 h 06, début mesuré. Sur ta vidéo, le sol est mouillé avant 1 h 50.
+
+Il regarda l’écran.
+
+— Ça ne prouve rien.
+
+— Si. Cette scène n’est pas un original continu.
 
 — Non.
 
-— Tu n’as jamais vérifié.
+— Quelqu’un a reconstruit une partie.
+
+— Non.
 
 Il recula.
 
-Pour la première fois, je ne voyais plus un maître du jeu.
+Pour la première fois, je ne voyais plus le garçon qui avait kidnappé Sarah et Martin.
 
-Seulement un garçon qui avait construit sa vengeance sur une image.
+Je voyais un fils.
+
+Un petit-fils.
+
+Quelqu’un qui avait bâti sa vengeance sur une image à laquelle il avait besoin de croire.
 
 — Qui te l’a donnée ?
 
 — Ma grand-mère.
 
-— Hélène.
+— Directement ?
 
-Il baissa les yeux.
+Silence.
 
-Et quelque part derrière nous, un téléphone prit une photographie.
+— Théo.
 
-Nous entendîmes seulement le clic.
+— Un dossier.
+
+— Où ?
+
+— Sur un serveur.
+
+— Compte ?
+
+Il regarda le sol.
+
+— Mathieu.
+
+Je sentis Martin bouger derrière moi, hors de vue.
+
+— Tu vois le problème ?
+
+— Il l’avait préparée avant.
+
+— Peut-être.
+
+— Arrête de dire peut-être !
+
+Sa voix se brisa.
+
+— C’est ce que vous faites tous. Vous laissez tout ouvert pour ne jamais répondre.
+
+— Parce que quelqu’un utilise ton besoin d’une réponse.
+
+Il leva une arme.
+
+Je ne bougeai pas.
+
+— Elle était enceinte de mon père.
+
+— Tu n’en sais rien.
+
+— Laurent l’a tuée.
+
+— Tu viens de voir que la vidéo peut être fausse.
+
+— Il l’a frappée.
+
+— Oui.
+
+— Il l’a poursuivie.
+
+— Oui.
+
+— Alors quelle différence ?
+
+— La différence entre être coupable d’une chose et coupable de tout.
+
+Il tremblait.
+
+— Emma disait la même chose.
+
+Je baissai légèrement la voix.
+
+— Emma voulait partir avec toi.
+
+— Tais-toi.
+
+— Elle avait deux billets.
+
+— Tais-toi !
+
+— Elle essayait de te sauver.
+
+Un clic derrière nous.
+
+Photographie.
+
+Théo se retourna.
+
+Mauvais réflexe.
+
+Martin surgit.
+
+Théo tira.
+
+La balle frappa la roche.
+
+Je le percutai.
+
+L’arme glissa.
+
+Il me frappa au visage, se dégagea et courut vers l’obscurité.
+
+Les équipes convergèrent.
+
+Trop tard.
+
+Il connaissait le terrain.
+
+Nous retrouvâmes seulement son téléphone.
+
+Écran cassé.
+
+Une dernière application ouverte.
+
+Galerie.
+
+Photographie prise quelques secondes avant le tir.
+
+Moi et Théo.
+
+Dans le fond, derrière les projecteurs, une silhouette de femme.
+
+Je montrai l’image à Sarah plus tard.
+
+— Hélène ?
+
+Elle agrandit.
+
+— Je ne sais pas.
+
+— Tu reconnais sa posture ?
+
+Sarah me lança un regard épuisé.
+
+— Tu te rends compte de ce que tu me demandes ?
+
+Oui.
+
+Je lui demandais d’identifier sa mère dans une poignée de pixels.
+
+Exactement le genre de chose que l’enquête nous avait appris à ne plus faire.
 
 ---
 
 ### CHAPITRE 17 — EMMA
 
-Emma avait compris avant tout le monde.
+Emma avait laissé plus de traces que nous ne l’avions compris.
 
-Son journal distant contenait des mois de peur.
+Pas sur son téléphone.
 
-*Théo croit que grand-mère l’aide.*
+Pas sur son ordinateur principal.
 
-*Elle lui donne exactement ce qui le met en colère.*
+Dans un compte de notes chiffré ouvert sous un pseudonyme.
+
+Mathieu possédait la clé.
+
+Nous la trouvâmes dans la tâche planifiée **QUAND ILS ARRIVERONT À 27**.
+
+La clé ne déchiffrait pas la tâche elle-même.
+
+Elle ouvrait le journal d’Emma.
+
+Première entrée, neuf mois plus tôt :
+
+*Théo parle de Clara tous les jours.*
+
+Puis :
+
+*Grand-mère lui envoie des trucs.*
+
+*Des rapports.*
+
+*Des vidéos.*
+
+*Il ne dort plus.*
+
+Quelques semaines plus tard :
 
 *Mathieu dit que certaines vidéos sont reconstruites.*
 
-*Je crois qu’elle veut que Théo fasse quelque chose d’irréparable.*
+*Théo ne veut pas l’entendre.*
 
-Emma avait demandé à Mathieu de l’aider.
+Puis :
 
-D’où la vidéo originale :
+*J’ai demandé à grand-mère pourquoi elle lui faisait ça.*
 
-*Mathieu. Celui qui regarde cette vidéo connaît déjà le meurtrier.*
+*Elle a répondu : “Parce qu’il faut parfois pousser quelqu’un jusqu’au bout pour qu’il voie ce qu’il est.”*
 
-Elle parlait de Théo.
+Je relus.
 
-Hélène avait remplacé Mathieu par Gabriel.
+— Hélène l’admet, dit Martin.
 
-Mais Emma n’était pas seulement une victime qui avait laissé un indice.
+— Si Emma rapporte correctement.
 
-Elle avait essayé de sauver son frère.
+— Tu vas douter de son journal aussi ?
 
-Messages.
+— Je doute de tout ce qui peut condamner quelqu’un.
 
-Appels.
+— Même quand ça t’arrange ?
 
-Un billet de train acheté pour deux.
+Je refermai l’ordinateur.
 
-Elle voulait l’emmener loin.
+— Surtout.
 
-La nuit du massacre, Théo avait drogué leurs parents.
+Les entrées suivantes donnaient une autre Emma.
 
-Emma l’avait surpris.
+Pas la victime figée sur son lit.
 
-Il l’avait tuée dans la panique.
+Une adolescente drôle.
 
-Puis il avait poursuivi un plan qui n’aurait plus jamais dû exister.
+Agacée par les devoirs.
 
-Je restai longtemps devant une photographie d’Emma enfant.
+Obsédée par une chanteuse que je ne connaissais pas.
 
-Pour la première fois depuis le début de l’enquête, je ne regardai pas une preuve.
+Amoureuse d’une fille de sa classe à qui elle n’osait pas parler.
 
-Je regardai une fille morte.
+Elle écrivait :
+
+*Si je meurs avant de l’embrasser, ce sera vraiment nul.*
+
+Je restai longtemps sur cette phrase.
+
+Martin détourna les yeux.
+
+Puis les notes devenaient plus sombres.
+
+*Théo a suivi papa.*
+
+*Il fouille son bureau.*
+
+*Il dit que papa a tué Clara.*
+
+*Je lui ai dit qu’il ne peut pas savoir.*
+
+*Il m’a répondu que grand-mère sait.*
+
+Une vidéo jointe montrait Théo dans le jardin.
+
+Il pleurait.
+
+Emma filmait depuis sa chambre.
+
+— Tu veux quoi ? demandait-elle.
+
+— Qu’ils avouent.
+
+— Et après ?
+
+— Je sais pas.
+
+— Voilà le problème.
+
+Le journal contenait ensuite une conversation avec Mathieu.
+
+*Si Théo te fait peur, appelle la police.*
+
+*Je ne veux pas qu’ils l’arrêtent.*
+
+*Emma, il a acheté des produits vétérinaires sous un faux nom.*
+
+*Pour quoi faire ?*
+
+*Je ne sais pas.*
+
+Nous le savions maintenant.
+
+Sédatifs.
+
+La nuit du massacre, les parents avaient ingéré une substance avant leur mort.
+
+Emma, non.
+
+— Parce qu’elle n’a pas mangé avec eux, dit Martin.
+
+Les quatre couverts.
+
+Le quatrième verre.
+
+Je pensai à la table.
+
+— Qui était la quatrième personne ?
+
+— Fabre ?
+
+— Peut-être.
+
+Mais son ADN provenait d’un mauvais scellé.
+
+Le journal continuait.
+
+*J’ai acheté deux billets. Barcelone. Si je peux le faire monter dans le train, on improvisera.*
+
+Puis :
+
+*Grand-mère m’a appelée.*
+
+*Elle sait pour les billets.*
+
+Dernière note, trois jours avant le massacre :
+
+*Elle m’a dit de laisser Théo aller jusqu’au bout.*
+
+*J’ai demandé : jusqu’où ?*
+
+*Elle a raccroché.*
+
+Sarah lisait par-dessus mon épaule.
+
+Elle se mit à trembler.
+
+— Ma mère n’aurait pas…
+
+Elle s’arrêta.
+
+Je ne lui demandai pas de finir.
+
+Une autre pièce jointe.
+
+La visioconférence avec Mathieu.
+
+Cette fois, version longue.
+
+Emma disait :
+
+— Théo va trop loin. Il veut qu’ils paient tous. Même ceux qui n’étaient pas responsables.
+
+Mathieu :
+
+— Ton frère ne fabrique pas tout ça seul.
+
+— Je sais.
+
+— Si je meurs, tu appelles Varenne.
+
+— Pourquoi lui ?
+
+Mathieu hésitait.
+
+— Parce qu’en 2009 il a essayé d’aider Clara.
+
+— Grand-mère dit qu’il a oublié parce qu’il ne voulait pas savoir.
+
+— Ta grand-mère ment très bien avec des vérités.
+
+Emma souriait faiblement.
+
+— Ça veut dire quoi ?
+
+— Qu’elle dit une chose vraie de manière à t’obliger à croire la suivante.
+
+Je notai la phrase.
+
+Elle décrivait toute l’enquête.
+
+Plus tard, nous reconstituâmes la nuit des Morel avec les données disponibles.
+
+21 h 46 : Théo rentre.
+
+22 h 07 : Sophie appelle Nicolas Fabre.
+
+22 h 18 : Fabre arrive.
+
+22 h 51 : il repart selon une caméra voisine.
+
+23 h 52 : alarme désactivée avec code famille.
+
+00 h 14 : téléviseur du salon éteint.
+
+00 h 37 : montres connectées des parents enregistrent une baisse d’activité anormale.
+
+Entre 1 h et 2 h : décès probable des parents.
+
+2 h 12 : un homme quitte mon immeuble.
+
+2 h 41 : image de moi dans le quartier, horodatage contesté.
+
+2 h 53 : future vidéo d’Emma encore inconnue à ce stade de l’enquête.
+
+4 h 03 : création du fichier manipulé sur son téléphone.
+
+4 h 17 : appel de Martin.
+
+4 h 37 : entrée officielle enregistrée de mon véhicule dans le lotissement.
+
+Il manquait le cœur de la nuit.
+
+Emma l’avait peut-être documenté.
+
+Mais pas dans son journal.
+
+À la fin de son compte, une note non datée :
+
+*Si vous lisez ça et que je suis morte, ne transformez pas Théo en monstre. Il fait peur. Il a fait des choses horribles. Mais quelqu’un a passé des années à lui apprendre que la colère était une preuve.*
+
+Je fermai les yeux.
+
+Quand on enquête sur un mort, il est facile de lui faire dire ce qu’on veut.
+
+Emma, elle, avait laissé assez de mots pour résister.
 
 ---
 
@@ -3955,35 +4603,183 @@ Je regardai une fille morte.
 
 Nous trouvâmes Hélène dans la maison aux volets bleus.
 
+Pas celle de l’Aveyron.
+
+L’originale.
+
+La maison de la photographie de 2009 appartenait désormais à une société immobilière créée six mois plus tôt.
+
+Gérante fictive.
+
+Adresse de domiciliation.
+
+Paiement via une structure liée à un compte utilisé par Mathieu.
+
+Encore lui.
+
+La porte était entrouverte.
+
+Hélène nous attendait dans la cuisine.
+
 Soixante-neuf ans.
 
 Cheveux blancs.
 
 Pull gris.
 
+Une tasse devant elle.
+
+Aucun ordinateur.
+
+Aucune arme visible.
+
 Une femme ordinaire.
 
-— Vous avez fabriqué Théo.
+Je savais que cette impression était dangereuse.
 
-— Non. Je lui ai donné une histoire à sa colère.
+— Gabriel.
 
-— Vous saviez qu’il tuerait.
+Sa voix.
 
-— Je savais qu’il pouvait.
+Mon corps la reconnut.
 
-— Emma est morte à cause de vous.
+Vanille.
 
-Son visage changea.
+Je m’arrêtai.
+
+Elle le vit.
+
+— Vous voyez ? dit-elle. Le corps est plus fidèle que la mémoire.
+
+Martin avança.
+
+— Hélène Lemaire, vous êtes en état d’arrestation.
+
+— Pour quel meurtre ?
+
+— On commencera par faux et usage de faux, obstruction, falsification de certificat, manipulation de preuves.
+
+Elle sourit.
+
+— Vous avez pris votre temps.
+
+Je m’assis en face d’elle.
+
+— Vous avez donné les vidéos à Théo.
+
+— Certaines.
+
+— Lesquelles ?
+
+— Celles dont il avait besoin.
+
+— Besoin pour quoi ?
+
+— Continuer.
+
+— Jusqu’à tuer ?
+
+Son regard bougea.
+
+Première fissure.
 
 — Emma devait partir.
 
-— Mais elle est restée.
+— Mais elle est morte.
 
-Hélène détourna les yeux.
+— Je sais.
 
-— Vous étiez chez les Morel quand je suis arrivé ?
+— À cause de vous.
 
-Elle sourit.
+— À cause de beaucoup de gens.
+
+— Vous adorez répartir la culpabilité.
+
+Elle leva les yeux.
+
+— Parce que vous adorez la concentrer.
+
+Je pensai à Nicolas Fabre.
+
+Au suspect idéal.
+
+— Pourquoi Théo ?
+
+— Parce qu’il cherchait déjà.
+
+— Vous l’avez poussé.
+
+— Je lui ai donné une histoire à sa colère.
+
+— Vous saviez qu’il pouvait devenir violent.
+
+— Oui.
+
+— Donc vous saviez.
+
+— Savoir qu’un homme peut tuer n’est pas savoir qu’il tuera.
+
+Je serrai les dents.
+
+— Vous avez falsifié l’autopsie de Clara.
+
+— Oui.
+
+Le mot tomba sans défense.
+
+Martin cessa d’écrire.
+
+— Pourquoi ?
+
+Hélène regarda la table.
+
+— Parce que Clara était encore vivante après la chute.
+
+— Et ?
+
+— Et parce que si j’avais écrit ce que j’avais vu, Sophie aurait été détruite.
+
+— Sophie avait fait quoi ?
+
+— Elle avait laissé Laurent la frapper.
+
+— Ce n’est pas elle qui l’a frappée.
+
+— Non.
+
+— Alors qui avez-vous protégé ?
+
+Hélène releva la tête.
+
+— Une famille.
+
+Je sentis la colère monter.
+
+— Clara faisait partie de quelle famille, elle ?
+
+Silence.
+
+— Qui l’a tuée ?
+
+Hélène ne répondit pas.
+
+— Vous ?
+
+Toujours rien.
+
+— Cazeneuve ?
+
+Un battement.
+
+— Laurent ?
+
+Aucun.
+
+Je changeai de question.
+
+— Vous étiez chez les Morel le 3 octobre quand je suis arrivé ?
+
+Elle me regarda enfin.
 
 — Vous m’avez vu.
 
@@ -3991,45 +4787,157 @@ Elle sourit.
 
 — Si.
 
-Elle se pencha légèrement.
+— Où ?
 
 — Vous l’avez même écrit.
 
-Elle refusa d’ajouter un mot.
+Je repensai au rapport.
 
-Son arrestation aurait dû fermer l’histoire.
+Aux phrases.
 
-Théo fut arrêté le lendemain dans une gare espagnole.
+À la femme en combinaison blanche.
 
-La télévision trouva un autre scandale.
+Une caisse de prélèvements.
 
-Moi, je restai avec quatre mots.
+*Commandant.*
 
-**Vous m’avez vu.**
+Mon cœur accéléra.
+
+— C’était vous.
+
+Hélène sourit à peine.
+
+— Je n’ai rien dit.
+
+— Vous venez de le faire.
+
+— Non. C’est vous.
+
+Martin s’approcha.
+
+— On l’embarque.
+
+Avant qu’elle se lève, je posai une dernière question.
+
+— Qui utilise le compte de Mathieu ?
+
+Pour la première fois, Hélène sembla surprise.
+
+Vraiment.
+
+— Quoi ?
+
+Je la fixai.
+
+— Son compte se connecte après sa mort.
+
+Elle ne répondit pas.
+
+Sa main trembla.
+
+Très légèrement.
+
+— Vous ne saviez pas.
+
+Hélène détourna les yeux.
+
+Ce détail me fit plus peur que tout ce qu’elle avait admis.
+
+Parce que pendant une seconde, la femme que nous pensions trouver au centre du labyrinthe venait de découvrir qu’elle n’en connaissait peut-être pas toutes les sorties.
+
+Théo fut arrêté le lendemain dans une gare près de Figueres.
+
+Sans résistance.
+
+La télévision annonça la fin de l’affaire.
+
+Je regardai le bandeau défiler.
+
+**LES DEUX CERVEAUX PRÉSUMÉS ARRÊTÉS.**
+
+Je pensai au visage d’Hélène lorsque j’avais prononcé le nom de Mathieu.
+
+Et je sus que rien n’était terminé.
 
 ---
 
 ### CHAPITRE 19 — VINGT-SEPT PIÈCES
 
-Trois semaines plus tard, notre dossier comptait vingt-sept pièces principales.
+Trois semaines après l’arrestation d’Hélène, l’enquête avait cessé d’être urgente.
 
-Photos.
+C’est souvent à ce moment-là qu’on commence à voir.
 
-Vidéos.
+Lorsque les téléphones sonnent moins.
 
-ADN.
+Lorsque les supérieurs réclament des synthèses plutôt que des résultats.
 
-Messages.
+Lorsque les médias se lassent.
 
-Rapports.
+Notre dossier comptait des milliers d’éléments, mais vingt-sept pièces avaient été désignées comme majeures dans le système compromis.
 
-Enregistrements.
+Vingt-sept.
 
-Je les connaissais presque toutes par cœur.
+Le même nombre que sur le mur de Mathieu.
+
+Le même que dans les serveurs d’Hélène.
+
+Le même que dans la tâche planifiée.
+
+Je les étalai symboliquement devant moi sous forme de vignettes.
+
+Pièce 001.
+
+Pièce 002.
+
+Pièce 003.
+
+La vidéo d’Emma.
+
+Pièce 006.
+
+La MiniDV.
+
+Pièce 010.
+
+Le verre.
+
+Pièce 014.
+
+La photographie de Clara à Marseille.
+
+Pièce 017.
+
+La visioconférence Emma–Mathieu.
+
+Pièce 020.
+
+La vidéo falsifiée de la carrière.
+
+Pièce 023.
+
+Les connexions posthumes de Mathieu.
+
+Il en manquait encore quatre à authentifier complètement.
 
 Je repris mon rapport du premier matin.
 
+Pas la version propre.
+
+La saisie brute enregistrée automatiquement pendant que je dictais.
+
+Certaines phrases avaient été corrigées ensuite.
+
+Je comparai.
+
+Version brute :
+
 *Je connaissais cet endroit.*
+
+Version finale :
+
+*Impression de familiarité non objectivée.*
+
+Je ne me souvenais pas d’avoir modifié la phrase.
 
 Plus loin :
 
@@ -4043,39 +4951,167 @@ Puis :
 
 *J’étais dessus.*
 
-Des phrases séparées par des pages semblaient former une seconde voix.
+Lues séparément, elles n’avaient rien d’étrange.
 
-À minuit, l’application interne afficha une notification impossible.
+Lues dans un autre ordre, elles formaient presque une voix.
+
+Martin entra avec deux cafés.
+
+— Tu es encore là-dessus ?
+
+— Regarde.
+
+Je lui montrai.
+
+— Tu cherches des messages dans ta propre ponctuation maintenant ?
+
+— Peut-être.
+
+— Tu deviens exactement le public qu’Hélène voulait.
+
+Je souris malgré moi.
+
+— Merci.
+
+— De rien.
+
+À minuit, l’application interne afficha une notification.
+
+Aucun son.
+
+Juste une fenêtre noire.
 
 **27 PIÈCES DÉCOUVERTES.**
 
-**26 AUTHENTIFIÉES.**
+Martin cessa de sourire.
 
-**1 FALSIFIÉE.**
+Une deuxième ligne apparut.
+
+**26 AUTHENTIFIÉES.**
 
 Puis :
 
+**1 FALSIFIÉE.**
+
+— On n’a pas terminé les expertises, dit-il.
+
+— Le système le pense.
+
+— Ou quelqu’un.
+
+Dernière ligne :
+
 **SECONDE LECTURE VERROUILLÉE.**
 
-Je crus à une intrusion.
+Je pris une capture.
 
-Le fichier responsable était pourtant présent depuis le premier jour.
+La fenêtre disparut.
 
-Programmé.
+Le technicien de nuit arriva cinq minutes plus tard.
 
-Quelqu’un avait prévu que nous arriverions exactement à vingt-sept.
+— Ça vient d’où ?
 
-Je vérifiai les journaux.
+— Local.
 
-Créateur du fichier :
+— Quel poste ?
+
+Il travailla.
+
+Puis releva la tête.
+
+— Le fichier responsable est dans votre environnement depuis la création du dossier.
+
+— Depuis quand exactement ?
+
+Il consulta.
+
+— 3 octobre. 5 h 02.
+
+Le premier matin.
+
+Pendant que nous étions encore dans la maison.
+
+— Créateur ?
+
+Il hésita.
+
+— Vous allez pas aimer.
 
 **M.VIDAL.**
 
-Date de création :
+Mathieu était mort depuis onze jours.
 
-deux jours après la mort de Mathieu.
+Martin s’assit.
 
----
+— Tâche programmée.
+
+— Peut-être.
+
+— Arrête.
+
+Je regardai l’écran.
+
+— Tu as raison.
+
+Le technicien ouvrit les métadonnées.
+
+— Non. Il y a un truc.
+
+— Quoi ?
+
+— Le fichier a été déposé avec des identifiants de Mathieu, mais depuis un terminal enregistré temporairement dans votre réseau de scène de crime.
+
+Je sentis le froid me gagner.
+
+— À la maison Morel ?
+
+— Oui.
+
+— Quel terminal ?
+
+— Scanner mobile de prélèvements.
+
+Je vis la femme en combinaison blanche.
+
+La caisse.
+
+Son simple :
+
+*Commandant.*
+
+— Hélène.
+
+Martin secoua la tête.
+
+— Elle connaissait les identifiants de Mathieu ?
+
+— On ne sait pas.
+
+Je regardai l’écran.
+
+En dessous du message, une icône était apparue.
+
+Un cadenas.
+
+**CHAPITRE 1 — SECONDE LECTURE.**
+
+Verrouillé.
+
+Je cliquai.
+
+Une seule phrase :
+
+**PAS ENCORE. TROUVEZ LA PIÈCE FAUSSE.**
+
+Je retournai vers les vingt-sept vignettes.
+
+Pour la première fois, nous savions qu’un mensonge précis se trouvait au milieu de vingt-six vérités.
+
+Le problème était que toutes avaient déjà changé notre manière de comprendre l’affaire.
+
+Une fausse pièce n’était donc pas seulement une erreur.
+
+C’était peut-être celle autour de laquelle tout le reste avait été construit.
 
 ### CHAPITRE 20 — LA PIÈCE FAUSSE
 
