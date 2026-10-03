@@ -621,23 +621,23 @@ body{background:radial-gradient(circle at 50% 15%,#172431 0,#09131d 38%,#04090e 
 .progress>span{background:linear-gradient(90deg,#6d080e,#e22b34)!important;box-shadow:0 0 8px rgba(225,30,42,.55)!important}
 #chapterLabel,#percentLabel{color:#9da5aa!important;font-size:.78rem!important}
 .page{box-shadow:0 14px 34px rgba(0,0,0,.38)!important}
-/* Keep prose safely inside decorative overlay */
-.page.coldcase-frame .flow-viewport{box-sizing:border-box;padding:22px 34px 26px!important}
+/* Decorative frame is an overlay only: never change the pagination width. */
+.page.coldcase-frame .flow-viewport{box-sizing:border-box;padding:0!important}
 @media(max-width:640px){
   .resume-banner{margin-bottom:8px!important;padding:8px 10px!important;font-size:.92rem!important}
   .resume-banner button{padding:7px 11px!important}
-  .page.coldcase-frame .flow-viewport{padding:26px 34px 30px!important}
+  .page.coldcase-frame .flow-viewport{padding:0!important}
   .nav{margin-top:9px!important}
   .nav button{padding:10px 15px!important;font-size:.98rem!important}
 }
 /* Fullscreen = pure reading surface */
 html:fullscreen .page.coldcase-frame .flow-viewport,
 html:-webkit-full-screen .page.coldcase-frame .flow-viewport,
-body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:34px 42px 38px!important}
+body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:0!important}
 @media(max-width:640px){
  html:fullscreen .page.coldcase-frame .flow-viewport,
  html:-webkit-full-screen .page.coldcase-frame .flow-viewport,
- body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:38px 38px 42px!important}
+ body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:0!important}
 }
 
 </style>
