@@ -6307,6 +6307,112 @@ Sarah venait donc de voir sa mère parce que quelqu’un voulait qu’elle la vo
 
 Même mécanisme.
 
+La localisation ne fut pas immédiate.
+
+Le rythme trois-deux de Sarah n’était pas un code d’adresse.
+
+Nous testâmes des lignes de train, des numéros de routes, des distances. Rien.
+
+Puis une analyste ralentit le flux.
+
+— Ce n’est pas toujours trois-deux.
+
+Sarah tapait parfois deux coups rapprochés, puis un troisième décalé. Martin toussait juste après.
+
+Morse.
+
+Les groupes donnaient quatre lettres imparfaites :
+
+**C O O P.**
+
+Coopérative.
+
+Nous listâmes les anciennes caves viticoles proches d’une voie ferrée. Onze sites.
+
+Nadir identifia ensuite l’avertisseur d’un TER circulant sur un axe précis.
+
+Quatre sites.
+
+La maçonnerie visible derrière Théo en élimina deux.
+
+Restait Saint-Brès ou Lunel-Viel.
+
+Une analyste observa alors la poussière au-dessus de Martin. À chaque passage de train, une fissure vibrait réellement.
+
+Elle estima la distance à la voie.
+
+Lunel-Viel.
+
+Un drone thermique repéra trois formes humaines.
+
+Puis, quelques minutes plus tard, seulement deux.
+
+— Une personne vient de partir.
+
+Montels voulait attendre le groupe spécialisé.
+
+— Chaque minute lui donne de la distance.
+
+— Chaque minute évite aussi que vous entriez dans un bâtiment piégé.
+
+Nous attendîmes neuf minutes.
+
+Les plus longues de ma vie.
+
+Pendant l’assaut, personne ne tira.
+
+Aucun explosif.
+
+Seulement Sarah, Martin et une installation conçue pour nous faire perdre du temps.
+
+Sur un mur :
+
+**VOUS REGARDEZ TOUJOURS LÀ OÙ JE METS LA LUMIÈRE.**
+
+Je fis éteindre les projecteurs.
+
+Dans la pénombre, une petite diode rouge apparut derrière une poutre.
+
+Caméra.
+
+Elle filmait notre arrivée.
+
+Sur sa carte mémoire, un enregistrement commençait deux jours plus tôt.
+
+Théo installait le matériel.
+
+Seul.
+
+Puis, à 3 h 12 la veille de l’enlèvement, quelqu’un entrait.
+
+Capuche.
+
+Gants.
+
+La personne vérifiait la caméra et déposait l’ordinateur de diffusion.
+
+Théo n’était pas là.
+
+— Donc il a eu de l’aide.
+
+La silhouette, trop petite pour Théo, pouvait être une femme.
+
+À 3 h 17, elle se tournait vers la caméra.
+
+Pas de visage.
+
+Elle levait deux doigts.
+
+Deux.
+
+Le même geste que Mathieu au café, que nous ne découvririons clairement qu’un peu plus tard.
+
+À ce moment-là, ce n’était qu’un geste étrange.
+
+Mais je le notai.
+
+Dans cette affaire, les détails inutiles avaient tendance à devenir importants lorsqu’il était trop tard pour se souvenir de les avoir vus.
+
 Nous trouvâmes la cave coopérative grâce au rythme des trains, au type de maçonnerie et à une ancienne carte des canalisations.
 
 Cinquante-deux minutes.
@@ -6743,6 +6849,124 @@ Ou un ancrage.
 
 Martin ne répondit pas.
 
+Avant de quitter Martin, je lui demandai de reconstruire la nuit minute par minute.
+
+Pas les grandes scènes.
+
+Les intervalles.
+
+— Après la chute, tu as essayé de descendre seul, dit-il.
+
+— Oui.
+
+— Je t’ai retenu. Tu saignais derrière la tête.
+
+— Puis ?
+
+— Cazeneuve est arrivé.
+
+— Hélène ?
+
+Martin hésita.
+
+— Déjà là.
+
+Je me figeai.
+
+— Tu m’avais dit qu’elle était descendue avec Cazeneuve.
+
+— Elle était sur le site. Lui l’a rejointe en bas.
+
+— Comment est-elle arrivée avant ?
+
+— Sophie l’avait appelée, je pense.
+
+— Et Sarah ?
+
+— Plus tard, avec sa voiture.
+
+Hélène suivait donc la crise avant même la chute.
+
+— Qui avait une lampe ?
+
+— Tout le monde.
+
+— Qui a crié « donne-moi le téléphone » ?
+
+Martin fronça les sourcils.
+
+— Je n’ai pas entendu.
+
+— Moi si. Enfin… je crois.
+
+— Voix ?
+
+— Je pensais homme. Maintenant je ne sais plus.
+
+Il soupira.
+
+— Tu veux une chronologie parfaite d’une nuit où personne ne regardait l’heure.
+
+— Les téléphones regardent l’heure.
+
+— Le tien était cassé.
+
+Je levai les yeux.
+
+— Retrouvé ?
+
+— Non.
+
+Mon téléphone de 2009 avait disparu.
+
+Celui de Clara aussi.
+
+Deux appareils pouvant contenir ou avoir reçu la vidéo.
+
+Jamais retrouvés.
+
+— Pourquoi ce n’est pas dans le dossier ?
+
+— Ta présence a été effacée. Ton téléphone avec.
+
+Je demandai à Nadir de retrouver le modèle de Clara et ses anciens comptes.
+
+— Dix-sept ans, Gabriel.
+
+— Cherche.
+
+Le lendemain, il retrouva une vieille trace de messagerie.
+
+Dernière connexion connue du compte de Clara :
+
+18 août 2009, 2 h 03.
+
+Une pièce jointe envoyée.
+
+Nom :
+
+**VID00052.3gp**
+
+Taille : 4,8 Mo.
+
+Destinataire perdu avec les anciennes données.
+
+— Cinquante-deux, dis-je.
+
+— Ça peut être un numéro de fichier.
+
+— Ou la durée.
+
+La vidéo avait donc quitté le téléphone de Clara.
+
+Quelqu’un l’avait reçue.
+
+Peut-être Mathieu.
+
+Peut-être pas.
+
+Pour la première fois, nous avions une preuve que les cinquante-deux secondes n’étaient pas seulement un souvenir fantôme.
+
 Je quittai la chambre.
 
 Sarah m’attendait dans le couloir.
@@ -7018,6 +7242,98 @@ Elle venait d’admettre que sa mère avait fabriqué une cause de mort.
 Sarah baissa les yeux.
 
 — C’est la question que je n’ai jamais osé lui poser.
+
+Pour comprendre Hélène, Sarah accepta de me raconter leur famille.
+
+Pas dans une salle d’interrogatoire.
+
+Dans un café presque vide.
+
+— Maman était brillante, dit-elle. C’est le problème.
+
+— Être brillant ?
+
+— Croire que ça donne le droit de décider à la place des autres.
+
+Hélène avait élevé Sarah et Sophie presque seule.
+
+Père souvent absent pour son travail.
+
+Gardes de nuit.
+
+Études.
+
+Une maison où l’on parlait de médecine à table.
+
+— Elle nous apprenait à ne jamais paniquer.
+
+— Utile.
+
+— Jusqu’au jour où tu comprends que quelqu’un qui ne panique jamais peut justifier n’importe quoi.
+
+Sophie, l’aînée, était celle qu’Hélène protégeait le plus.
+
+Sarah avait appris à se débrouiller.
+
+Laurent était entré dans la famille avant 2009.
+
+Hélène ne l’aimait pas.
+
+— Alors pourquoi le protéger après Clara ?
+
+Sarah remua son café.
+
+— Parce que protéger Laurent signifiait protéger Sophie. Dans sa tête.
+
+— Théo avait quel âge ?
+
+— Cinq ans.
+
+Emma n’était pas encore née.
+
+Hélène avait donc regardé Théo grandir en sachant que son père avait participé à ce qui était arrivé à Clara.
+
+— Et dix-sept ans plus tard elle lui donne le dossier.
+
+— Oui.
+
+— Pourquoi attendre ?
+
+Sarah resta silencieuse.
+
+— Mathieu.
+
+— Il a repris contact.
+
+— En 2019 après la numérisation. Puis de plus en plus. Il menaçait de rendre l’affaire publique.
+
+— Ta mère a commencé à préparer Théo comme contre-feu.
+
+— Je ne sais pas.
+
+— Ou elle pensait qu’en lui donnant elle-même les faits, elle contrôlerait la manière dont il les recevrait.
+
+Sarah acquiesça lentement.
+
+— Ça, ça lui ressemble.
+
+— Comment ?
+
+— Maman disait toujours : « Une mauvaise nouvelle n’est dangereuse que lorsqu’elle arrive sans cadre. »
+
+Je notai la phrase.
+
+Encadrer les faits.
+
+Modifier leur ordre.
+
+Choisir leur contexte.
+
+Avant les deepfakes, Hélène travaillait déjà sur la perception.
+
+Elle n’avait peut-être pas inventé la méthode.
+
+Mais elle l’avait pratiquée assez longtemps pour que quelqu’un puisse ensuite l’utiliser contre elle.
 
 Nous trouvâmes une autre incohérence.
 
@@ -7423,6 +7739,100 @@ Elle me regarda avec colère.
 
 — Il est parfois le seul honnête.
 
+Nous ne quittâmes pas immédiatement la maison d’Anne Delmas.
+
+Montels obtint un mandat élargi.
+
+Toute la nuit, les techniciens clonèrent les disques.
+
+Sarah resta dans la cuisine.
+
+Sur une étagère, trois tasses.
+
+— Elle recevait quelqu’un, dis-je.
+
+Dans le placard, deux cafés différents et un thé que Sarah reconnut.
+
+— Mathieu buvait ça.
+
+— Comment tu sais ?
+
+— À la fête de 2009. Il se moquait de notre café.
+
+Un ticket de péage datait de la semaine précédant sa mort.
+
+Trajet Aveyron–Sète.
+
+Hélène avait peut-être vu Mathieu peu avant qu’il meure.
+
+Dans une poubelle, des morceaux de papier passés au broyeur. Les techniciens en reconstituèrent une partie.
+
+**…si O1 accède encore…**
+
+**…copie hors réseau…**
+
+**…Gabriel ne doit pas…**
+
+Puis rien.
+
+À 2 h 48, un technicien retrouva une vidéo supprimée.
+
+Hélène face à une caméra.
+
+Date : cinq mois plus tôt.
+
+— Si tu regardes ça, Gabriel, il est possible que je sois morte.
+
+Elle marquait une pause.
+
+— Ou que je veuille que tu le croies.
+
+Un sourire presque invisible.
+
+— Dans les deux cas, ne commets pas l’erreur que j’ai commise.
+
+Elle regardait hors champ.
+
+— Ne protège pas une personne en détruisant les faits.
+
+Puis :
+
+— Et ne crois pas Mathieu lorsqu’il dit qu’il ne veut que la vérité. Personne ne veut seulement la vérité. Nous voulons tous qu’elle produise quelque chose.
+
+Fin.
+
+Martin me regarda.
+
+— Confession ?
+
+— Avertissement.
+
+— Pour toi ?
+
+— Elle dit mon prénom.
+
+Juste avant la coupure, un son.
+
+Deux coups.
+
+Pause.
+
+Un coup.
+
+Quelqu’un frappait à la porte.
+
+Hélène tournait les yeux.
+
+Son visage changeait.
+
+Elle connaissait la personne.
+
+La vidéo s’arrêtait avant l’entrée.
+
+Le fichier suivant manquait.
+
+Encore une absence exactement placée là où un visage aurait dû apparaître.
+
 Un son retentit.
 
 Connexion distante.
@@ -7802,6 +8212,114 @@ Martin s’appuya au bureau.
 — Tu crois qu’on doit rouvrir son accident ?
 
 — Oui.
+
+La réouverture de l’accident de Julien Maret provoqua notre première vraie crise avec la hiérarchie.
+
+— Vous voulez rouvrir combien de dossiers ? demanda un directeur.
+
+— Ceux qui ont un lien concret.
+
+Je posai la note **O01** retrouvée dans ses archives.
+
+Montels soutint la demande.
+
+L’accident de moto fut réexaminé.
+
+Frein arrière défaillant.
+
+À l’époque : usure.
+
+Un nouvel expert observa la vis.
+
+— Elle peut s’être desserrée.
+
+— Naturellement ?
+
+— Elle peut aussi avoir été desserrée.
+
+La veuve de Maret nous reçut avec méfiance.
+
+— Deux ans pour découvrir que sa mort vous intéresse.
+
+Puis elle sortit une clé USB.
+
+— Julien m’avait dit : « Si un jour des policiers viennent à cause de Clara, donne-leur ça. Pas avant. »
+
+Les logs dataient de 2019.
+
+Observer_01 accédait au dossier Clara lors de la numérisation.
+
+Mais le compte avait des privilèges provenant d’une migration plus ancienne.
+
+Création technique : 2008.
+
+Renommage en Observer_01 : 2019.
+
+— Donc le compte existait avant Clara, dit Martin.
+
+Administrateur initial :
+
+**ALM Systems.**
+
+Petite société informatique.
+
+Dirigeant de l’époque :
+
+**Antoine Lemaire.**
+
+Je regardai Sarah.
+
+— Lemaire.
+
+Son visage changea.
+
+— Mon père.
+
+Antoine Lemaire avait travaillé sur des systèmes hospitaliers et des marchés publics.
+
+Mort d’un cancer en 2012.
+
+Documenté.
+
+— Hélène avait accès à ses mots de passe ?
+
+Sarah haussa les épaules.
+
+— Probablement à certains.
+
+— Mathieu aurait pu les retrouver ?
+
+— Oui.
+
+— Quelqu’un d’autre ?
+
+— Évidemment.
+
+Le compte Observer n’était donc pas nécessairement une personne créée pour l’affaire.
+
+Il pouvait être une vieille porte administrative, abandonnée, puis récupérée.
+
+C’était moins spectaculaire.
+
+Et beaucoup plus plausible.
+
+Maret l’avait détectée.
+
+Puis il était mort.
+
+Nous décidâmes de garder cette piste secrète.
+
+Pas de conférence de presse.
+
+Pas de fuite au dossier public.
+
+Pour la première fois, nous refusions de donner à celui qui manipulait l’information la certitude de ce que nous savions.
+
+Deux jours plus tard, un message anonyme arriva :
+
+**VOUS AVEZ ENFIN APPRIS À VOUS TAIRE.**
+
+Quelqu’un le savait quand même.
 
 Avant que nous le fassions, une photographie arriva sur mon téléphone.
 
