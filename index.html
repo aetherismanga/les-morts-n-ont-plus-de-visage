@@ -942,7 +942,7 @@ body.immersive-fallback #fsPrevEdge{display:flex}
 
   function nativeFullscreenElement(){return document.fullscreenElement||document.webkitFullscreenElement||null;}
   function fullscreenActive(){return !!nativeFullscreenElement()||immersiveFallback;}
-  function updateFullscreenButton(){const active=fullscreenActive(),btn=$('fullscreenBtn');updateMusicUI();btn.innerHTML=active?'✕ <span class="fs-label">Quitter</span>':'<img src="images/ui-plein-ecran.png" alt="Plein écran">';btn.setAttribute('aria-label',active?'Quitter le plein écran':'Plein écran');btn.title=active?'Quitter le plein écran':'Plein écran';}
+  function updateFullscreenButton(){const active=fullscreenActive(),btn=$('fullscreenBtn');updateMusicUI();btn.innerHTML=active?'✕ <span class="fs-label">Quitter</span>':'<img src="Plein ecran .png" alt="Plein écran">';btn.setAttribute('aria-label',active?'Quitter le plein écran':'Plein écran');btn.title=active?'Quitter le plein écran':'Plein écran';}
   async function enterNativeFullscreen(){const t=document.documentElement;if(t.requestFullscreen){try{await t.requestFullscreen({navigationUI:'hide'});}catch(_){await t.requestFullscreen();}return true;}if(t.webkitRequestFullscreen){t.webkitRequestFullscreen();return true;}return false;}
   async function exitNativeFullscreen(){if(document.exitFullscreen){await document.exitFullscreen();return true;}if(document.webkitExitFullscreen){document.webkitExitFullscreen();return true;}return false;}
   let fullscreenReflowTimer=null,fullscreenAnchor='';
