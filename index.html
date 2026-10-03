@@ -595,6 +595,12 @@ body.immersive-fallback .page.coldcase-frame .flow-viewport{position:relative;z-
     height:clamp(66px,18vw,78px)!important;
   }
 }
+
+/* Reading frame: soften overlay so text remains clearly readable */
+.page.coldcase-frame::after{opacity:.42!important;}
+html:fullscreen .page.coldcase-frame::after,
+html:-webkit-full-screen .page.coldcase-frame::after,
+body.immersive-fallback .page.coldcase-frame::after{opacity:.42!important;}
 </style>
 </head>
 <body class="theme-ivory">
