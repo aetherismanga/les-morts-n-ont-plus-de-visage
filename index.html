@@ -665,6 +665,7 @@ body.immersive-fallback .page.text-flow-page{
 .second-reading-link{border-color:#a20d18!important;background:linear-gradient(135deg,#1a1114,#300b10)!important;color:#fff!important;box-shadow:0 0 18px rgba(190,20,32,.22)!important}
 .second-reading-link .chapter-name{color:#e6aeb2!important}
 .second-reading-mark{width:54px;height:54px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:#8d1119;font-size:25px;grid-row:1/3}
+.second-reading-link.locked{opacity:.62!important;filter:grayscale(.7)}
 </style>
 </head>
 <body class="theme-ivory">
@@ -935,11 +936,11 @@ body.immersive-fallback .page.text-flow-page{
       b.setAttribute('aria-label',s.label+' — '+s.title+(completedSections.has(i)?' — terminé':''));
       b.addEventListener('click',()=>{if(!layoutReady){showToast('Mise en page en cours…');return;}goTo(chapterPageIndices[i]||1,'next');closeDrawers();});
       list.appendChild(b);
-      if(i===1 && localStorage.getItem('visage-second-reading-unlocked')==='1'){
+      if(i===1){
         const special=document.createElement('button');special.type='button';special.className='chapter-link second-reading-link';
-        special.innerHTML='<div class="second-reading-mark">🔓</div><strong>CHAPITRE 1 — SECONDE LECTURE</strong><span class="chapter-name">DOSSIER CACHÉ DÉBLOQUÉ</span>';
+        const unlocked=localStorage.getItem('visage-second-reading-unlocked')==='1'; special.classList.toggle('locked',!unlocked); special.innerHTML='<div class="second-reading-mark">'+(unlocked?'🔓':'🔒')+'</div><strong>CHAPITRE 1 — SECONDE LECTURE</strong><span class="chapter-name">'+(unlocked?'DOSSIER CACHÉ DÉBLOQUÉ':'TERMINER LE ROMAN POUR DÉBLOQUER')+'</span>'; 
         special.setAttribute('aria-label','Chapitre 1 — seconde lecture débloquée');
-        special.addEventListener('click',()=>{const idx=RAW.sections.findIndex(x=>x.title==='SECONDE LECTURE');if(idx>=0)goTo(chapterPageIndices[idx]||1,'next');closeDrawers();});
+        special.addEventListener('click',()=>{if(!unlocked){showToast('Terminez le roman pour débloquer la seconde lecture.');return;}const idx=RAW.sections.findIndex(x=>x.title==='SECONDE LECTURE');if(idx>=0)goTo(chapterPageIndices[idx]||1,'next');closeDrawers();});
         list.appendChild(special);
       }
     });highlightChapter();
