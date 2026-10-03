@@ -951,6 +951,80 @@ Elle rangea un instrument.
 
 — On parlera plus tard.
 
+Avant de sortir, nous interrogeâmes le voisin qui avait découvert les corps.
+
+Il s’appelait Michel Arnaud, soixante-trois ans, retraité. Le chien qui avait aboyé était le sien.
+
+— Il aboie souvent ?
+
+— Quand les chats passent. Mais pas comme ça.
+
+— À quelle heure ?
+
+— J’ai regardé à 2 h 54. Ma femme m’a dit de le faire taire.
+
+2 h 54.
+
+Une minute après l’heure annoncée plus tard de la pièce 25.
+
+— Vous avez vu quelque chose ?
+
+— Une lumière chez les Morel. À l’étage, je crois.
+
+— Un véhicule ?
+
+Il hésita.
+
+— Un fourgon blanc.
+
+— Heure ?
+
+— Avant le chien. Deux heures et demie peut-être.
+
+— Police ? livraison ?
+
+— Pas de logo.
+
+— Quelqu’un près du fourgon ?
+
+— Une personne. Pas grande.
+
+Je notai sans interpréter.
+
+— Homme ? femme ?
+
+— Avec la pluie, franchement…
+
+Puis il ajouta :
+
+— À un moment le chien s’est arrêté.
+
+— Pourquoi ?
+
+— La personne est venue au portail.
+
+— Chez vous ?
+
+— Oui. Elle a tendu la main. Le chien a reniflé et s’est tu.
+
+— Il connaissait cette personne ?
+
+— Peut-être. Ou elle connaissait les chiens.
+
+Avant de repartir, Michel se rappela un détail.
+
+— Elle portait un truc blanc sous le bras. Une blouse, peut-être.
+
+Je notai :
+
+**personne petite / fourgon blanc / textile blanc / 2 h 30 env.**
+
+Pas Hélène.
+
+Pas encore.
+
+Un indice ne devient dangereux que lorsqu’on lui donne un nom trop tôt.
+
 À 5 h 26, je sortis prendre l’air.
 
 La pluie avait cessé.
@@ -1520,6 +1594,64 @@ Les portes commencèrent à se refermer.
 Elle ne répondit pas.
 
 L’ascenseur disparut.
+
+À 13 h 20, la cellule cyber fit un premier point.
+
+Trois systèmes avaient été compromis : la sonnette du voisin, mon téléphone, et notre application de gestion des pièces.
+
+— Même auteur ? demandai-je.
+
+La responsable secoua la tête.
+
+— Impossible à dire. Techniques différentes.
+
+— Donc plusieurs personnes.
+
+— Ou une personne polyvalente. Ou des outils achetés.
+
+Elle projeta les journaux.
+
+La sonnette avait été attaquée via un compte administrateur.
+
+Mon téléphone avait subi une restauration partielle avec validation locale.
+
+— Locale ?
+
+— Quelqu’un l’avait en main, ou disposait d’un accès très privilégié.
+
+— Je dormais.
+
+— Vous en êtes sûr ?
+
+Elle rougit après la question.
+
+— Désolée.
+
+— Non. Bonne question.
+
+L’application interne, elle, avait été compromise via un ancien connecteur de maintenance issu d’une migration de 2019.
+
+— On ferme ?
+
+Montels intervint.
+
+— On surveille.
+
+La cyber créa une copie contrôlée de notre environnement, mélange de vraies pièces et de leurres balisés.
+
+Deux heures plus tard, un compte inconnu consulta une seule chose.
+
+**PIÈCE 010.**
+
+Le verre.
+
+Aucune fausse piste.
+
+— Il sait ce qu’il veut, dit Martin.
+
+À l’époque, nous crûmes que cela renforçait la piste Fabre.
+
+En réalité, quelqu’un vérifiait peut-être simplement que le faux rapport associé au verre tenait toujours.
 
 À quatorze heures, l’expert vidéo arriva.
 
@@ -2263,6 +2395,72 @@ Je le regardai.
 
 — Pas encore.
 
+Avant la garde à vue, nous vérifiâmes le passé de Fabre autrement que par ses condamnations.
+
+Une ancienne compagne accepta de parler.
+
+— Nicolas était violent. Pas tout le temps. C’est ce qui rend ça pire.
+
+— Il a déjà menacé de tuer ?
+
+— Oui.
+
+— Agi ?
+
+— Non.
+
+— Armes ?
+
+— Il déteste les armes.
+
+Elle hésita.
+
+— Vous allez faire de ça une défense ?
+
+— Je cherche ce qui est vrai.
+
+Elle me fixa.
+
+— Il a fait assez de mal sans qu’on lui ajoute ceux des autres.
+
+Son alibi se consolida.
+
+Une caméra montrait son balcon éclairé à 23 h 19.
+
+À 0 h 07, il commandait une pizza.
+
+Le livreur se souvenait de lui.
+
+— Il était bourré ?
+
+— Non. Triste.
+
+— Comment vous savez ?
+
+— Il m’a donné dix euros et il a dit : « Gardez, j’ai plus personne à impressionner. »
+
+Fabre restait un homme ayant fait violence à Sophie.
+
+Mais il n’avait pas besoin d’être innocent dans la vie pour être innocent d’un meurtre.
+
+C’était exactement la nuance que le faux ADN cherchait à écraser.
+
+Je savais tout cela avant de l’interroger.
+
+Et pourtant, quand le laboratoire annonça la correspondance, mon cerveau se détendit.
+
+Un nom.
+
+Un passé.
+
+Un ADN.
+
+Une histoire complète.
+
+Connaître ses biais ne les empêche pas d’agir.
+
+Cela donne seulement une chance de les surprendre en train de le faire.
+
 Nous le plaçâmes malgré tout en garde à vue.
 
 Pas pour satisfaire l’histoire.
@@ -2892,6 +3090,106 @@ Martin recula.
 Je fis une capture.
 
 Cette fois, le téléphone la conserva.
+
+Nous retrouvâmes la mère de Clara près d’Alès.
+
+Mireille Vidal refusa d’abord d’ouvrir complètement la porte.
+
+Quand je donnai mon nom, elle me regarda à travers la chaîne.
+
+— Varenne ?
+
+— Oui.
+
+— Vous avez vieilli.
+
+Je restai muet.
+
+— Vous me connaissez.
+
+— Je vous ai vu à l’hôpital en 2009.
+
+Elle nous fit entrer.
+
+Le salon était rempli de photographies de Clara, mais pas comme un sanctuaire. Elles se mélangeaient aux petits-enfants, aux vacances, aux anniversaires.
+
+Mireille nous montra une vidéo où Clara essayait une chorégraphie et éclatait de rire après s’être trompée.
+
+— Elle voulait faire quoi ?
+
+— Architecte. Puis photographe. Puis partir en Australie. À dix-sept ans, on a le droit de vouloir trois vies.
+
+Je pensai à Emma.
+
+Mireille sortit ensuite un classeur.
+
+Des années de courriers.
+
+Demandes de réouverture.
+
+Réponses.
+
+Classements.
+
+Absence d’élément nouveau.
+
+— Vous avez insisté.
+
+— Jusqu’à ce que mon mari tombe malade. Mathieu, lui, n’a jamais arrêté.
+
+— Il vous parlait de ses recherches ?
+
+— De moins en moins. Il disait que moins je savais, plus j’étais en sécurité.
+
+— Hélène Lemaire ?
+
+Son visage durcit.
+
+— Elle est venue à l’enterrement.
+
+— Qu’a-t-elle dit ?
+
+— « Je suis désolée de ne pas avoir pu la sauver. »
+
+Mireille regarda une photo.
+
+— Je l’ai crue. C’est peut-être le pire.
+
+Elle nous donna la boîte d’effets personnels rendus après la mort.
+
+Bracelet.
+
+Boucles.
+
+Porte-monnaie.
+
+Pas de téléphone.
+
+— Mathieu disait que quelqu’un l’avait.
+
+— Qui ?
+
+— Il ne me l’a jamais dit.
+
+Je lui montrai la photo de fête.
+
+Elle pointa le jeune homme encore mal identifié dans nos premières notes.
+
+— Mathieu.
+
+Puis elle remarqua une silhouette au fond, derrière une fenêtre.
+
+Un homme.
+
+Petit visage dans le reflet.
+
+— Lui, je ne sais pas.
+
+Je refusai de l’agrandir mentalement.
+
+Un inconnu dans une photo n’est pas encore un suspect.
+
+C’était une discipline que j’apprenais tard.
 
 Avant de partir, je repris la photographie de la fête.
 
@@ -3672,6 +3970,66 @@ Il baissa les yeux.
 Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
+
+Une voisine d’Élodie nous donna un détail supplémentaire.
+
+— Un livreur est venu vers dix-huit heures.
+
+— Quel service ?
+
+— Médical. Il avait une glacière bleue.
+
+Aucun laboratoire n’avait enregistré de passage.
+
+La caméra d’un commerce montrait un fourgon blanc.
+
+Plaque partiellement visible : utilitaire déclaré volé deux jours plus tôt près de Montpellier.
+
+Le livreur portait une tenue de laboratoire.
+
+Masque.
+
+Casquette.
+
+Gants.
+
+Il sonnait.
+
+Élodie ouvrait sans hésiter.
+
+Il montrait un document.
+
+Elle le laissait entrer.
+
+Deux minutes plus tard, son mari apparaissait dans le hall.
+
+Aucune alarme.
+
+— Le costume suffit, dit Nadir.
+
+— Ce n’est pas un costume.
+
+— Justement. Une tenue raconte une histoire avant la personne.
+
+Police.
+
+Médecin.
+
+Livreur.
+
+Technicien.
+
+Nous classons.
+
+Puis nous cessons de regarder.
+
+Je pensai à la femme en combinaison blanche sortant de la maison Morel.
+
+Je l’avais classée « scientifique ».
+
+Donc extérieure au crime.
+
+Pas besoin de cacher parfaitement un visage si le vêtement a déjà rendu la personne invisible.
 
 Nous passâmes la matinée suivante à reconstruire les dernières quarante-huit heures d’Élodie.
 
