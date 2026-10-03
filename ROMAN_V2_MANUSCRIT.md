@@ -7029,6 +7029,82 @@ Personne derrière lui.
 
 — Quoi ?
 
+Pendant les vingt minutes précédant la coupure, le direct avait cessé d’être seulement notre problème.
+
+Quelqu’un avait publié le lien.
+
+Des milliers de personnes regardaient.
+
+Puis cent mille.
+
+Les chaînes d’information reprirent des extraits avec quelques secondes de retard.
+
+Montels entra dans la salle.
+
+— Faites couper les relais publics.
+
+Nadir secoua la tête.
+
+— On peut demander. D’autres miroirs apparaîtront.
+
+— Alors ralentissez.
+
+— Si je touche au flux, Théo peut le voir.
+
+La salle entière comprit.
+
+Nous enquêtions sous les yeux du public.
+
+Chaque question que je posais à Théo pouvait devenir une séquence découpée.
+
+Chaque hésitation de Sarah.
+
+Chaque mouvement de Martin.
+
+À 11 h 51, un extrait de vingt secondes circulait déjà avec la légende :
+
+**VARENNE AVOUERA-T-IL 2009 ?**
+
+Je n’avais rien avoué.
+
+À 11 h 54, une autre version ajoutait artificiellement une phrase à ma voix :
+
+— C’est moi qui ai tué Clara.
+
+Nadir jura.
+
+— Ils génèrent en temps réel à partir du direct.
+
+— Qui « ils » ?
+
+— Internet. Pas forcément notre auteur.
+
+C’était pire.
+
+Le manipulateur initial n’avait plus besoin de produire tous les faux.
+
+Il avait contaminé l’environnement.
+
+Le public faisait désormais le travail gratuitement.
+
+Mèmes.
+
+Montages.
+
+Pseudo-reconstitutions.
+
+Des centaines de versions.
+
+Si une vraie image apparaissait au milieu, elle serait immédiatement avalée.
+
+Je compris qu’Hélène ou Observer avait déclenché une réaction qu’aucun individu ne contrôlait plus.
+
+Même arrêter le coupable ne suffirait pas à rappeler toutes les copies.
+
+La vérité avait perdu sa rareté.
+
+Elle devait maintenant se battre avec une infinité de versions plus rapides qu’elle.
+
 Le flux coupa.
 
 — Capture ! criai-je.
@@ -7713,6 +7789,100 @@ Peut-être pas.
 
 Pour la première fois, nous avions une preuve que les cinquante-deux secondes n’étaient pas seulement un souvenir fantôme.
 
+Le lendemain, je retournai à la carrière en plein jour avec Martin.
+
+Aucune reconstitution.
+
+Pas de pluie artificielle.
+
+Seulement la pierre et les distances.
+
+Nous plaçâmes des cônes à partir de ses souvenirs.
+
+Clara au bord.
+
+Laurent plus haut.
+
+Moi entre les deux.
+
+Martin près de la voiture.
+
+Hélène, selon lui, arrivant par le chemin latéral.
+
+Je me plaçai à l’endroit supposé où j’avais reçu le coup.
+
+— D’ici, qu’est-ce que tu voyais ?
+
+Martin prit ma position.
+
+— Clara. Laurent. Pas derrière toi.
+
+— Donc la personne qui m’a frappé pouvait arriver depuis les arbres.
+
+— Oui.
+
+— Hélène ?
+
+— Possible.
+
+— Mathieu ?
+
+— Possible.
+
+— Cazeneuve ?
+
+— Il arrivait après, selon mon souvenir.
+
+— Selon ton souvenir.
+
+— Oui.
+
+Nous marchâmes jusqu’au bord.
+
+En bas, la chute semblait terrible.
+
+Mais pas nécessairement mortelle.
+
+Les secours avaient utilisé un chemin d’accès latéral.
+
+Hélène, médecin, aurait pu descendre plus vite.
+
+— Si elle voulait tuer Clara, pourquoi la remonter ? demandai-je.
+
+Martin réfléchit.
+
+— Pour contrôler la suite.
+
+— Ou parce qu’elle voulait réellement la sauver.
+
+Il me regarda.
+
+— Tu la défends ?
+
+— Non. J’essaie de ne pas commencer avec la conclusion.
+
+Nous descendîmes.
+
+À l’endroit estimé du corps, je m’accroupis.
+
+Une fissure dans la roche.
+
+Des buissons.
+
+Pas de trace après dix-sept ans.
+
+Mais le relief expliquait quelque chose.
+
+Du haut, Clara disparaissait presque entièrement.
+
+Les personnes restées au bord ne pouvaient pas voir précisément ce qu’Hélène faisait.
+
+Le récit de l’injection volontairement meurtrière reposait donc sur une vidéo falsifiée.
+
+Aucun témoin direct.
+
+Encore une certitude que nous avions presque acceptée parce qu’une image nous l’avait donnée.
+
 Je quittai la chambre.
 
 Sarah m’attendait dans le couloir.
@@ -8121,6 +8291,98 @@ Sarah comprit.
 
 La première fausse image de cette histoire avait peut-être été un rapport.
 
+Nous envoyâmes les photographies de l’autopsie à une légiste indépendante qui ne connaissait pas le dossier.
+
+Docteure Amina Cherif.
+
+Je lui demandai seulement :
+
+— Dites-moi ce que vous voyez. Pas ce que le rapport dit.
+
+Elle passa deux heures.
+
+— Traumatisme de chute important, mais pas immédiatement incompatible avec la survie.
+
+— Strangulation ?
+
+— Antérieure. Non létale selon les éléments.
+
+— Injection ?
+
+Elle pointa la ponction.
+
+— Très probable.
+
+— Cause du décès ?
+
+— Je ne peux pas conclure.
+
+— Si vous deviez…
+
+— Non.
+
+Je la regardai.
+
+— Pardon ?
+
+— Vous me demandez de transformer une incertitude médicale en récit judiciaire. Non.
+
+J’aimai immédiatement sa rigueur.
+
+— Le produit injecté peut avoir causé l’arrêt ?
+
+— Oui.
+
+— La chute aussi ?
+
+— Oui.
+
+— Une combinaison ?
+
+— Oui.
+
+— Une autre pathologie ?
+
+— Possible.
+
+— Donc on ne saura peut-être jamais.
+
+— Exact.
+
+Sarah, assise au fond, respirait à peine.
+
+Cherif consulta l’heure officielle du décès.
+
+— Ça, en revanche, est faux.
+
+— Pourquoi ?
+
+— Le monitoring montre une activité cardiaque après.
+
+— Donc falsification volontaire.
+
+— Je peux dire incohérence documentaire. L’intention, c’est votre travail.
+
+Encore une frontière.
+
+Elle nous évitait de franchir le pas que tout le monde autour de Clara avait franchi trop facilement : confondre un fait avec ce qu’on voulait qu’il signifie.
+
+En sortant, Sarah dit :
+
+— J’aurais voulu qu’elle fasse l’autopsie à la place de ma mère.
+
+— En 2009 ?
+
+— Oui.
+
+— Tu n’aurais peut-être jamais connu la suite de la même manière.
+
+— C’est le principe.
+
+Elle regarda la rue.
+
+— Toute ma vie est construite autour d’un rapport faux que je n’avais jamais lu correctement.
+
 À 22 h 14, le compte de Mathieu se connecta au serveur.
 
 Nous étions tous devant l’écran.
@@ -8485,6 +8747,98 @@ Elle me regarda avec colère.
 
 — Il est parfois le seul honnête.
 
+Avant la nuit de clonage des serveurs, nous interrogeâmes les voisins.
+
+Une femme âgée se souvenait d’Anne Delmas.
+
+— Très polie. Jamais de bruit.
+
+— Visiteurs ?
+
+— Un monsieur maigre parfois.
+
+Photo de Mathieu.
+
+Elle hésita.
+
+— Peut-être lui.
+
+— Une femme plus jeune ?
+
+Photo de Sarah.
+
+— Non.
+
+— Théo ?
+
+— Je l’ai vu une fois, je crois.
+
+— Quand ?
+
+— Cet été.
+
+Un autre voisin mentionna un utilitaire informatique.
+
+Logo :
+
+**ALM Assistance.**
+
+Je me figeai.
+
+ALM Systems était l’ancienne société d’Antoine Lemaire.
+
+Fermée depuis des années.
+
+— Vous êtes sûr du logo ?
+
+— Trois lettres, oui. ALM.
+
+Nadir vérifia les immatriculations.
+
+Aucune société active.
+
+Mais un nom de domaine proche avait été enregistré anonymement en 2019.
+
+**alm-assistance.fr**
+
+Expiration prévue quelques semaines après les meurtres.
+
+Le site n’avait presque jamais été public.
+
+Il servait de façade pour obtenir des accès de maintenance.
+
+Observer avait peut-être réutilisé l’identité de l’entreprise d’Antoine.
+
+Ou Hélène elle-même.
+
+Dans le garage, nous trouvâmes des badges de prestataires.
+
+Hôpital.
+
+Police.
+
+Laboratoire.
+
+Entreprises de télécom.
+
+Plusieurs faux.
+
+— Voilà les costumes, dit Martin.
+
+Je repensai au livreur d’Élodie.
+
+À la femme en combinaison scientifique.
+
+— Pas seulement des costumes. Des permissions.
+
+Chaque badge donnait aux autres une raison de ne pas poser de question.
+
+Celui qui avait construit ce système comprenait parfaitement une faiblesse simple des institutions :
+
+nous vérifions les gens suspects.
+
+Beaucoup moins ceux qui portent le bon logo.
+
 Nous ne quittâmes pas immédiatement la maison d’Anne Delmas.
 
 Montels obtint un mandat élargi.
@@ -8724,6 +9078,110 @@ La distinction n’avait plus d’importance pour le public.
 À la télévision, un consultant expliquait que « l’attitude corporelle » prouvait ma culpabilité.
 
 Un autre affirmait l’inverse.
+
+La contamination médiatique finit par entrer jusque chez moi.
+
+Un soir, je trouvai trois personnes devant l’immeuble.
+
+Un adolescent avec une caméra.
+
+Une femme qui criait que j’avais tué Clara.
+
+Un homme silencieux qui tenait une pancarte :
+
+**ON VOUS CROIT, GABRIEL.**
+
+Je ne savais pas lequel me dérangeait le plus.
+
+Je passai sans répondre.
+
+Dans la boîte aux lettres :
+
+une enveloppe de soutien.
+
+Une menace.
+
+Une photographie de Sarah et moi en 2009.
+
+Au dos :
+
+**TU L’AS DÉJÀ ABANDONNÉE UNE FOIS.**
+
+Je montai.
+
+La serrure ne portait aucune trace.
+
+À l’intérieur, rien ne semblait déplacé.
+
+Puis je vis le porte-clés de Collioure posé au centre de la table.
+
+Je l’avais laissé dans un tiroir.
+
+Je sortis immédiatement.
+
+Équipe technique.
+
+Aucune empreinte.
+
+Aucune effraction.
+
+La caméra du hall avait subi une coupure de quatre minutes.
+
+Le gardien n’avait rien vu.
+
+— Quelqu’un est entré chez moi.
+
+— Oui, dit Martin.
+
+— Pourquoi ne rien prendre ?
+
+Il regarda le porte-clés.
+
+— Parce qu’il voulait te montrer qu’il pouvait.
+
+Nadir examina l’objet.
+
+Pas de puce.
+
+Pas de micro.
+
+Seulement le phare en métal.
+
+À l’intérieur de l’enveloppe de menace, une fibre correspondait à du papier d’archive courant.
+
+Rien.
+
+Le lendemain, une vidéo apparut en ligne.
+
+On m’y voyait entrer chez moi avec une femme.
+
+Pas Sarah.
+
+Faux.
+
+Mais la scène utilisait le vrai couloir.
+
+Quelqu’un avait donc disposé d’images intérieures.
+
+Nous démontâmes deux prises électriques.
+
+Dans l’une, une caméra minuscule.
+
+Installée depuis plusieurs semaines.
+
+— Hélène ? demanda Martin.
+
+— Observer.
+
+— Les deux ?
+
+Je regardai l’objectif noir.
+
+— Quelqu’un.
+
+Je refusai le nom.
+
+C’était une petite victoire.
 
 Une troisième personne analysait mon clignement d’yeux.
 
