@@ -255,6 +255,98 @@ Une autre répondit :
 
 — Alors dépêche-toi.
 
+Pendant quelques secondes, rien ne bougea au bord de la carrière.
+
+Puis une lampe descendit lentement vers le vide.
+
+— Clara ?
+
+Pas de réponse.
+
+La lumière trembla.
+
+Quelqu’un s’allongea au bord, ventre contre la pierre.
+
+— Je la vois.
+
+Une autre voix demanda :
+
+— Elle bouge ?
+
+— Oui.
+
+— Merde.
+
+Un moteur démarra plus loin.
+
+Des pneus crissèrent sur le chemin.
+
+— Qui part ?
+
+— Laisse.
+
+— On appelle les secours.
+
+— Pas encore.
+
+— Elle est blessée !
+
+— Pas encore, j’ai dit.
+
+La lampe descendit de nouveau.
+
+Tout en bas, une main bougea.
+
+Clara tenta de se retourner.
+
+Son téléphone, posé à quelques mètres du bord, vibra dans la main de celui qui l’avait ramassé.
+
+L’écran s’alluma.
+
+Un message venait d’arriver.
+
+**ENREGISTREMENT TRANSFÉRÉ.**
+
+La personne qui tenait l’appareil resta immobile.
+
+— Qu’est-ce qu’il y a ?
+
+Pas de réponse.
+
+Le pouce balaya l’écran.
+
+Le fichier vidéo n’était plus dans la galerie.
+
+— Clara l’a envoyé ?
+
+— Je ne sais pas.
+
+Une voix de femme, plus loin :
+
+— Donnez-moi ce téléphone.
+
+— Qui êtes-vous ?
+
+— Donnez-le-moi.
+
+Un silence.
+
+Puis des pas rapides.
+
+Le téléphone changea de main.
+
+Sur l’écran verrouillé, une dernière notification apparut avant que quelqu’un ne l’éteigne :
+
+**COPIE 1/2 TERMINÉE.**
+
+Personne ne sembla la remarquer.
+
+En contrebas, Clara gémit.
+
+La femme dit :
+
+— Elle est vivante. Maintenant on descend.
+
 L’écran devint noir.
 
 ---
@@ -1003,6 +1095,146 @@ La femme en combinaison blanche n’était plus là.
 
 Je ne demandai pas son nom.
 
+Nous restâmes encore près d’une heure dans la maison.
+
+À 6 h 38, les premiers rayons gris du jour éclairèrent le salon et rendirent la scène plus obscène encore. La nuit protège les maisons. Le matin les rend aux voisins.
+
+Un technicien vint me chercher.
+
+— Commandant, vous devriez voir ça.
+
+Dans la cuisine, il avait ouvert un placard à provisions.
+
+Une caméra miniature était fixée sous une étagère.
+
+— Elle filme quoi ?
+
+— La table, en partie.
+
+Mon cœur accéléra.
+
+— On a la carte ?
+
+— Non. Emplacement vide.
+
+— Transmission ?
+
+— Wi-Fi probablement.
+
+Je regardai l’angle.
+
+La caméra ne captait pas les visages des personnes assises.
+
+Seulement leurs mains.
+
+Les assiettes.
+
+Les verres.
+
+Et la porte du couloir.
+
+— Pourquoi installer une caméra qui évite les visages ?
+
+Le technicien haussa les épaules.
+
+— Peut-être parce que les mains suffisent.
+
+Nous photographiâmes l’installation.
+
+Un câble très fin descendait derrière le meuble.
+
+Récent.
+
+Emma ?
+
+Théo ?
+
+Mathieu ?
+
+Hélène ?
+
+À ce moment-là, aucun de ces noms n’avait encore la forme qu’il prendrait.
+
+Dans le garage, Martin retrouva une boîte de vieux appareils électroniques. Un caméscope. Des téléphones cassés. Des disques durs.
+
+— Famille conservatrice.
+
+— Ou quelqu’un voulait qu’on trouve des archives.
+
+Un disque portait au feutre :
+
+**2009 — NE PAS JETER.**
+
+Je le regardai.
+
+— Trop facile.
+
+— On le prend quand même.
+
+Le disque était vide.
+
+Pas effacé.
+
+Vide d’origine.
+
+Mais l’étiquette, elle, avait été posée récemment.
+
+La colle était encore propre.
+
+— On nous guide, dit Martin.
+
+— Non.
+
+— Quoi ?
+
+— On nous apprend à suivre.
+
+Il me regarda.
+
+— Différence ?
+
+— Celui qui guide veut qu’on arrive quelque part. Celui qui apprend veut modifier notre façon de choisir le chemin.
+
+Martin resta silencieux.
+
+Je savais que la phrase était trop élaborée pour six heures du matin.
+
+Mais elle me semblait juste.
+
+Avant de sortir, je retournai une dernière fois dans la chambre d’Emma.
+
+Sarah n’était plus là.
+
+Une autre légiste avait pris le relais.
+
+Je m’approchai du bureau.
+
+La liste au feutre :
+
+*Appeler Mamie.*
+
+*Rendre livre à Zoé.*
+
+*Parler à Théo.*
+
+Sous la feuille, à peine visible, une quatrième ligne avait été barrée si fort que le papier était presque déchiré.
+
+Je changeai l’angle de la lampe.
+
+**Appeler Gabriel ?**
+
+Le point d’interrogation semblait ajouté après coup.
+
+Je demandai qu’on photographie.
+
+— Vous la connaissez ? demanda la nouvelle légiste.
+
+Je regardai Emma.
+
+— Je ne sais pas.
+
+C’était la première fois que je répondais vrai.
+
 Ce matin-là, je pensais être arrivé après le meurtre.
 
 Je me trompais déjà sur deux choses.
@@ -1527,6 +1759,118 @@ Mon double continuait à marcher dans une rue où je n’avais aucun souvenir d�
 
 — Ce soir, j’essaie de savoir si j’ai un alibi contre moi-même.
 
+Avant de rentrer, j’acceptai de passer au service de médecine du travail.
+
+Montels l’avait rendu obligatoire.
+
+Le médecin s’appelait Laurent Perrier, ce qui provoqua en moi un mouvement idiot à cause du prénom.
+
+— Asseyez-vous.
+
+Il consulta mon dossier.
+
+— Traumatisme crânien sévère en 2009.
+
+— Apparemment.
+
+— Vous ne vous en souvenez pas ?
+
+— Je me souviens de l’hôpital. Par fragments.
+
+— Et des heures avant ?
+
+— Non.
+
+Il posa le stylo.
+
+— Vous avez déjà eu d’autres épisodes d’amnésie ?
+
+— Pas à ma connaissance.
+
+— Formulation intéressante.
+
+— Dans mon métier, on apprend à éviter les absolus.
+
+Il me fit suivre son doigt des yeux.
+
+Réflexes.
+
+Questions simples.
+
+Date.
+
+Lieu.
+
+Président.
+
+Je répondis.
+
+— Rien d’alarmant aujourd’hui.
+
+— Merci, docteur. Je suis apte à être accusé sur internet.
+
+Il ne sourit pas.
+
+— Commandant, le stress, le manque de sommeil et la réactivation d’un traumatisme peuvent produire des impressions de familiarité très fortes.
+
+— Donc quand je pense connaître une maison…
+
+— Ça peut être un souvenir.
+
+— Ou ?
+
+— Une impression reconstruite.
+
+— Parfait.
+
+Il me tendit une carte.
+
+— Neurologue. Et psychotraumatologue.
+
+— Je n’ai pas le temps.
+
+— Les cerveaux adorent les policiers qui pensent ça.
+
+Dans le couloir, une jeune collègue détourna son téléphone quand je passai.
+
+Je m’arrêtai.
+
+— Vous filmiez ?
+
+— Non, commandant.
+
+— Montrez.
+
+Elle rougit.
+
+Son écran affichait un réseau social.
+
+La vidéo de moi frappant Fabre n’existait pas encore.
+
+À cet instant, c’était celle de la sonnette.
+
+Sous la vidéo, un sondage :
+
+**COUPABLE / PIÉGÉ**
+
+Soixante-deux pour cent : coupable.
+
+Je lui rendis.
+
+— Vous avez voté ?
+
+Elle devint blanche.
+
+— Non.
+
+Je souris sans humour.
+
+— Bonne réponse.
+
+Dans l’ascenseur, je compris que même mes collègues avaient déjà été transformés en jurés.
+
+Et que je commençais moi-même à chercher sur chaque visage la réponse à une question qu’ils n’avaient pas à trancher.
+
 Je rentrai chez moi.
 
 À 21 h 12, je regardai les journaux de mon téléphone.
@@ -2046,6 +2390,86 @@ Martin souffla.
 — Parce que tu savais tout ça.
 
 Il ne répondit pas.
+
+L’après-midi, nous avions reçu Sophie Morel en vidéo sur le téléphone de Fabre.
+
+Pas un fichier anonyme.
+
+Un ancien message vocal qu’elle lui avait envoyé trois semaines plus tôt.
+
+Sophie apparaissait assise dans sa voiture.
+
+Elle regardait souvent derrière elle.
+
+— Nicolas, je sais que tu vas penser que j’ai bu. Je n’ai pas bu.
+
+Elle se rapprochait.
+
+— Quelqu’un m’envoie des photos de Clara. Pas celles qu’on connaît. D’autres.
+
+Elle montrait une enveloppe.
+
+— Il y en a une où on voit Gabriel.
+
+Je me penchai.
+
+— Et une femme derrière lui. Je crois que c’est maman.
+
+Fabre, en face de nous pendant l’interrogatoire, murmura :
+
+— Voilà.
+
+Sophie continuait.
+
+— Sarah dit que maman est morte. Je sais ce qu’elle a fait pour elle. Je le sais. Mais parfois je me demande si elle me l’a seulement dit parce que c’est plus facile que de me dire où elle est.
+
+Elle pleurait.
+
+— Théo pose des questions. Emma aussi. Laurent dit qu’on doit arrêter de remuer ça. Il dit que Clara était folle.
+
+La vidéo s’arrêta.
+
+Je regardai Fabre.
+
+— Pourquoi vous ne nous l’avez pas montrée tout de suite ?
+
+— Parce qu’elle parle d’Hélène et que je savais ce que vous penseriez de moi.
+
+— Vous avez donc caché une pièce dans une enquête pour meurtre parce que vous aviez peur d’être suspect.
+
+— Oui.
+
+— Vous comprenez à quel point c’est idiot ?
+
+— Je suis exactement le type que vous avez arrêté dès que vous avez eu un ADN. Je crois que ma peur était bien placée.
+
+Je n’eus rien à répondre.
+
+Martin demanda :
+
+— Les « autres photos » de Clara ?
+
+— Sophie les a brûlées.
+
+— Pourquoi ?
+
+— Laurent a exigé.
+
+— Vous l’avez vu ?
+
+— Non. Sophie me l’a dit.
+
+Encore une chaîne de paroles.
+
+Toujours une personne racontant ce qu’une autre avait fait.
+
+Nous avions beaucoup de faits.
+
+Mais très peu de moments où quelqu’un avait véritablement vu l’acte central.
+
+Je compris que notre enquête était une architecture de témoins indirects.
+
+Exactement le terrain idéal pour quelqu’un qui savait fabriquer les liens.
 
 À 18 h 01, nous sortîmes.
 
@@ -3248,6 +3672,110 @@ Il baissa les yeux.
 Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
+
+Nous passâmes la matinée suivante à reconstruire les dernières quarante-huit heures d’Élodie.
+
+Elle avait acheté deux billets de train pour Montpellier.
+
+Pour elle et son fils.
+
+Départ prévu le lendemain de sa mort.
+
+Elle avait aussi retiré quatre mille euros en liquide.
+
+— Elle voulait fuir, dit Martin.
+
+— Ou venir parler.
+
+Dans son agenda :
+
+**G.V. — 11 h — seulement si H. ne répond pas.**
+
+Mes initiales.
+
+— Elle avait prévu de te voir.
+
+— Elle n’avait jamais pris contact.
+
+Nadir vérifia ses brouillons.
+
+Un mail non envoyé à mon adresse professionnelle :
+
+*Commandant, vous ne vous souvenez probablement pas de moi. J’étais aux urgences la nuit de Clara Vidal. J’ai modifié un élément du dossier après un appel de sa famille. J’ai gardé une copie de ce qu’on m’a demandé d’effacer.*
+
+Pièce jointe absente.
+
+— Où est la copie ?
+
+Nous fouillâmes maison, cabinet, cloud.
+
+Rien.
+
+Puis le fils, Hugo, possédait un compte de stockage pour ses devoirs.
+
+Dans un dossier nommé **SVT**, un fichier PDF protégé.
+
+Mot de passe : date de naissance d’Hugo.
+
+Élodie avait caché la copie dans le cloud de son fils.
+
+Le document était une fiche de prise en charge.
+
+Clara, 22 h 08.
+
+Une phrase manuscrite dans la marge :
+
+**Patiente dit : “Ce n’est pas Laurent le pire.”**
+
+Je relus.
+
+— Elle a nommé quelqu’un ?
+
+Aucune suite.
+
+En dessous, Élodie avait écrit :
+
+**Appel H.L. 22:31 — demande confidentialité / “affaire de famille”.**
+
+Hélène était donc intervenue avant même la chute.
+
+Pas après.
+
+— Elle savait déjà qu’il se passait quelque chose.
+
+— Sophie a dû l’appeler.
+
+— Peut-être.
+
+Une autre note :
+
+**Gendarme Varenne annoncé. Patiente refuse de partir avant de lui parler.**
+
+Puis :
+
+**Départ patiente avant arrivée V.**
+
+Clara avait quitté l’hôpital pour me retrouver.
+
+Je n’étais pas arrivé à temps.
+
+Ou quelqu’un l’avait convaincue de repartir.
+
+Le soir, au moment de quitter Marseille, je compris que la phrase du premier message — *tu es arrivé trop tard, comme en 2009* — n’était pas seulement une provocation.
+
+Elle citait un fait précis que très peu de gens connaissaient.
+
+Clara m’avait attendu aux urgences.
+
+Je n’étais pas venu avant son départ.
+
+Dix-sept ans plus tard, Emma était morte avant mon arrivée officielle.
+
+Quelqu’un construisait les deux nuits en miroir.
+
+La vraie question était de savoir si le miroir révélait quelque chose.
+
+Ou s’il avait été fabriqué pour m’obliger à le croire.
 
 Sur le chemin du retour, nous reçûmes l’analyse de la photographie de Cazeneuve.
 
