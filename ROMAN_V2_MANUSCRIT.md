@@ -8445,6 +8445,126 @@ Elle protesta.
 
 Personne ne céda.
 
+Avant de partir pour la carrière, nous passâmes presque deux heures à décider ce que nous ne ferions pas.
+
+Pas de gyrophare.
+
+Pas de téléphone personnel.
+
+Pas de radio classique à proximité du point de rendez-vous.
+
+Nadir soupçonnait que quelqu’un écoutait au moins une partie de nos communications.
+
+Montels fit distribuer des appareils neufs sortis d’un stock scellé.
+
+— Vous trouvez pas ça excessif ? demanda un capitaine.
+
+Nadir posa sur la table la liste des fuites des quinze derniers jours.
+
+— Non.
+
+Je regardai le plan.
+
+La carrière comportait trois sorties praticables à pied, deux anciennes galeries et une piste secondaire.
+
+Martin désigna le nord.
+
+— S’il fuit, il ira là.
+
+— Pourquoi ?
+
+— Route plus proche.
+
+— Justement. Trop évident.
+
+Un agent proposa le sud.
+
+Nous discutions comme si Théo était seul à réfléchir.
+
+C’était le problème.
+
+Quelqu’un l’alimentait.
+
+— On part du principe que notre plan est connu, dis-je.
+
+Montels me regarda.
+
+— Alors aucun plan ne fonctionne.
+
+— Si. On utilise deux plans.
+
+Nous préparâmes une équipe visible au nord.
+
+La vraie interception à l’ouest.
+
+C’était simple.
+
+Presque enfantin.
+
+À 20 h 11, mon téléphone temporaire reçut pourtant un message.
+
+Numéro inconnu.
+
+**L’OUEST EST UNE BONNE IDÉE.**
+
+Personne dans la pièce ne parla.
+
+Nadir prit l’appareil.
+
+— Il n’a jamais été connecté à un compte.
+
+— Pourtant quelqu’un a le numéro.
+
+— Ou le réseau de l’opérateur.
+
+Montels changea tout.
+
+Troisième plan.
+
+Aucune version écrite.
+
+Ordres donnés oralement au dernier moment.
+
+Cette paranoïa aurait semblé ridicule dans n’importe quelle autre enquête.
+
+Ici, elle était devenue une mesure d’hygiène.
+
+Sur le trajet, Martin me demanda :
+
+— Tu crois qu’il sait vraiment tout ?
+
+— Non.
+
+— Alors comment ?
+
+— Il n’a pas besoin de tout savoir. Juste assez pour qu’on commence à imaginer le reste.
+
+— Comme les vidéos.
+
+— Oui.
+
+Le manipulateur le plus efficace n’était pas celui qui contrôlait chaque information.
+
+C’était celui qui nous convainquait qu’il pouvait le faire.
+
+Je décidai de conserver cette idée.
+
+Elle devint importante quelques heures plus tard, quand Théo sembla anticiper ma remarque sur la pluie.
+
+Quelqu’un lui avait transmis notre piste.
+
+Mais cela ne signifiait pas nécessairement qu’il entendait chaque mot.
+
+Une fuite pouvait être plus simple.
+
+Une personne.
+
+Un accès à un compte-rendu.
+
+Une caméra oubliée.
+
+Je me forçai à chercher le mécanisme avant d’imaginer l’omniscience.
+
 Nous approchâmes à pied.
 
 Le ciel menaçait.
@@ -8764,6 +8884,120 @@ Il me donna un coup au visage.
 Je tombai.
 
 Il courut vers l’obscurité.
+
+La poursuite dura quarante-trois minutes.
+
+Théo avait préparé son itinéraire.
+
+Au fond d’une galerie, nous trouvâmes une veste, un sac d’eau et des chaussures de rechange.
+
+— Il savait qu’il devrait fuir, dit Martin.
+
+Un chien suivit une trace jusqu’à une piste agricole.
+
+Là, plus rien.
+
+Un véhicule l’attendait probablement.
+
+Caméras routières.
+
+À 22 h 14, une vieille Clio blanche apparut à trois kilomètres.
+
+Plaque volée.
+
+Conducteur invisible.
+
+Passager compatible avec Théo.
+
+La voiture fut retrouvée incendiée le lendemain.
+
+Aucun corps.
+
+Aucune empreinte exploitable.
+
+Mais dans les cendres du coffre, les techniciens retrouvèrent un morceau de carte SIM.
+
+Nadir réussit à extraire une partie des identifiants.
+
+Le téléphone avait contacté une borne près de la maison d’Anne Delmas deux semaines plus tôt.
+
+— Hélène l’a aidé.
+
+— Ou quelqu’un utilisant sa maison.
+
+Martin leva les yeux au ciel.
+
+— Je savais que tu dirais ça.
+
+Nous récupérâmes aussi un brouillon de message sur le téléphone abandonné de Théo :
+
+*Grand-mère, je l’ai vu douter. Tu avais raison.*
+
+Non envoyé.
+
+Puis un autre :
+
+*Pourquoi Mathieu avait une autre version ?*
+
+Et un troisième :
+
+*Qui est O ?*
+
+Je restai sur celui-là.
+
+Théo connaissait donc l’existence d’une personne ou d’un compte nommé O.
+
+Plus bas, réponse reçue d’un contact supprimé :
+
+*Ne cherche pas O. Termine Clara.*
+
+— Qui répond ?
+
+Nadir remonta le routage.
+
+Compte jetable.
+
+Créé depuis un réseau public à Montpellier.
+
+Caméra du lieu : médiathèque.
+
+Des dizaines de personnes.
+
+— Hélène peut très bien utiliser ça.
+
+— Oui.
+
+— Mathieu aussi avant sa mort.
+
+— Oui.
+
+— Observer.
+
+— Oui.
+
+Martin soupira.
+
+— On a trois suspects dont un mort, une officiellement morte et un qui n’est peut-être même pas une personne.
+
+— Bienvenue dans la partie simple de l’enquête.
+
+Malgré moi, je souris.
+
+Puis je relus le message.
+
+**Termine Clara.**
+
+Ce n’était pas « venge Clara ».
+
+Ni « fais justice ».
+
+Termine.
+
+Comme un récit.
+
+Comme un dossier.
+
+Ou comme quelque chose commencé dix-sept ans plus tôt.
 
 Les équipes convergèrent.
 
@@ -9228,6 +9462,162 @@ Je restai longtemps devant.
 Quand on enquête sur un mort, il est facile de lui faire dire ce qu’on veut.
 
 Emma avait laissé assez de mots pour résister.
+
+Nous allâmes au lycée d’Emma le lendemain.
+
+Pas pour trouver un indice.
+
+Au départ, seulement pour comprendre son environnement.
+
+La proviseure avait préparé une salle.
+
+Trois amis acceptèrent de parler.
+
+Zoé arriva la dernière.
+
+Cheveux courts.
+
+Blouson trop large.
+
+Elle regarda mon badge puis moi.
+
+— C’est vous, Gabriel.
+
+Pas une question.
+
+— Oui.
+
+Elle s’assit loin de nous.
+
+— Emma parlait de moi ?
+
+— À la fin.
+
+Zoé baissa les yeux.
+
+— Elle parlait beaucoup de vous.
+
+Je fus surpris.
+
+— Depuis quand ?
+
+— Deux semaines.
+
+— Pourquoi ?
+
+— Elle disait que vous étiez « le seul adulte de l’histoire qui avait oublié assez pour ne pas avoir préparé son mensonge ».
+
+La phrase me coupa.
+
+— C’est elle qui disait ça ?
+
+— Oui.
+
+— Ou Mathieu ?
+
+— Elle disait que Mathieu lui avait dit un truc du genre.
+
+Encore un relais.
+
+Zoé sortit un livre de son sac.
+
+— Elle devait me rendre ça.
+
+La liste sur le bureau d’Emma.
+
+*Rendre livre à Zoé.*
+
+Le roman était couvert de notes au crayon.
+
+Pas sur l’histoire.
+
+Des chiffres en marge.
+
+— Elle faisait ça souvent ?
+
+— Non. Je pensais que c’était pour m’énerver.
+
+Nadir photographia les pages.
+
+Les chiffres formaient des paires.
+
+02:53.
+
+03:02.
+
+03:13.
+
+04:03.
+
+Les heures de la nuit.
+
+Écrites avant la mort.
+
+— Emma avait préparé une chronologie, dis-je.
+
+Zoé regarda.
+
+— Je comprends rien.
+
+— C’est normal.
+
+À la dernière page :
+
+**SI JE ME TROMPE, TANT MIEUX.**
+
+Puis une suite de lettres :
+
+**M > H > T > G**
+
+Mathieu.
+
+Hélène.
+
+Théo.
+
+Gabriel ?
+
+Un ordre de confiance ?
+
+De danger ?
+
+Zoé secoua la tête.
+
+— Elle m’a dit un truc.
+
+— Quoi ?
+
+— Que si elle disparaissait, il fallait pas donner le livre à sa famille.
+
+— À qui ?
+
+— À un policier qui oublierait mon prénom.
+
+Je la regardai.
+
+— Je ne connais pas votre prénom.
+
+Elle eut un sourire triste.
+
+— Voilà.
+
+Cette fois, Emma avait réellement préparé quelque chose pour moi.
+
+Pas parce qu’elle me connaissait.
+
+Parce que Mathieu lui avait décrit mon amnésie comme une caractéristique vérifiable.
+
+Sur une page, un mot entouré :
+
+**25.**
+
+Nous ne savions pas encore que la pièce 25 serait la vidéo de 2 h 53.
+
+Mais Emma, elle, connaissait déjà ce numéro.
+
+Cela prouvait que la numérotation des vingt-sept pièces ne venait pas uniquement d’Hélène après les crimes.
+
+Mathieu et Emma l’utilisaient avant.
 
 Le soir, je retournai seul devant la maison des Morel.
 
@@ -9737,6 +10127,130 @@ Ce détail me fit plus peur que tout ce qu’elle avait admis.
 
 La femme que nous pensions trouver au centre du labyrinthe venait de découvrir devant nous qu’elle n’en connaissait pas toutes les sorties.
 
+Après l’arrestation d’Hélène, Sarah demanda à la voir.
+
+Montels hésita.
+
+— Mauvaise idée.
+
+— C’est ma mère.
+
+— Justement.
+
+Sarah insista jusqu’à obtenir un entretien familial sous surveillance, hors audition.
+
+Je ne devais pas y assister.
+
+Je regardai pourtant l’enregistrement plus tard avec son accord.
+
+Sarah entra.
+
+Hélène se leva.
+
+Aucune des deux ne s’approcha.
+
+— Emma est morte, dit Sarah.
+
+Hélène ferma les yeux.
+
+— Je sais.
+
+— Sophie aussi.
+
+— Je sais.
+
+— Arrête de dire ça.
+
+Silence.
+
+— Tu savais que Théo allait faire quelque chose.
+
+— Oui.
+
+— Tu savais qu’Emma essayait de l’arrêter.
+
+— Oui.
+
+— Et tu as continué.
+
+Hélène ne répondit pas.
+
+Sarah posa les mains sur la table.
+
+— Pourquoi ?
+
+Sa mère regarda enfin.
+
+— Parce que je pensais pouvoir contrôler le point de rupture.
+
+— C’est une phrase de médecin. Je te demande pourquoi.
+
+— Parce que j’avais peur que Mathieu publie tout sans préparation. Je pensais que si Théo découvrait progressivement…
+
+Sarah rit.
+
+Un son dur.
+
+— Progressivement ? Tu lui as nourri des faux.
+
+— Pour ralentir certaines conclusions.
+
+— Tu lui as fait croire que son père avait mis Clara enceinte.
+
+— Je n’ai pas affirmé.
+
+— Tu as laissé une preuve ambiguë exactement là où il la lirait comme ça.
+
+Hélène ne répondit pas.
+
+Sarah pleurait.
+
+— Tu as fait avec lui ce que tu fais avec tout le monde.
+
+— Sarah…
+
+— Non. Tu ne mens pas. Tu disposes la vérité jusqu’à ce qu’elle dise ce que tu veux.
+
+Hélène baissa les yeux.
+
+— Oui.
+
+Ce fut peut-être sa confession la plus nette.
+
+Sarah resta silencieuse longtemps.
+
+Puis :
+
+— Tu as fait pareil avec Gabriel en 2009 ?
+
+Hélène leva les yeux.
+
+— J’ai fait pire.
+
+Sarah se figea.
+
+— Quoi ?
+
+— Je l’ai laissé croire que ce qu’il ne retrouvait pas venait seulement de sa blessure.
+
+Sarah quitta la salle.
+
+Dans le couloir, elle vomit.
+
+Quand elle me donna plus tard la permission de regarder l’enregistrement, elle dit seulement :
+
+— Je crois que je la déteste.
+
+Je répondis :
+
+— Peut-être.
+
+Elle me donna un coup dans l’épaule.
+
+Le premier rire depuis des jours arriva au pire moment.
+
+Et nous le laissâmes faire.
+
 Théo fut arrêté le lendemain dans une gare près de Figueres.
 
 Sans résistance.
@@ -10071,6 +10585,110 @@ Une seule phrase :
 
 **PAS ENCORE. TROUVEZ LA PIÈCE FAUSSE.**
 
+Pour authentifier les vingt-sept pièces, nous créâmes une équipe qui ne connaissait presque rien de l’histoire.
+
+C’était l’idée de Nadir.
+
+— Si vous donnez le dossier complet aux experts, ils chercheront ce qu’ils savent déjà.
+
+Chaque pièce fut donc envoyée avec une question limitée.
+
+Authenticité physique.
+
+Métadonnées.
+
+Chaîne de possession.
+
+Altérations.
+
+Sans théorie.
+
+Les résultats furent parfois humiliants.
+
+La photographie 005 — moi devant la maison — était authentique comme capture.
+
+Aucune manipulation détectée.
+
+Quelqu’un m’avait réellement photographié.
+
+La pièce 013 — ma voix « Je me souviens » — était synthétique à 97 % selon plusieurs indicateurs.
+
+Mais le modèle source provenait d’un enregistrement réel de 2009 retrouvé chez Mathieu.
+
+La pièce 014 — photographie de Clara à Marseille — était un tirage récent d’un négatif authentique.
+
+La pièce 020 — carrière — contenait trente-deux secondes réellement filmées en 2009 et plus de deux minutes reconstruites.
+
+La pièce 023 — connexions M.VIDAL — était authentique : les accès avaient bien eu lieu. L’identité de l’utilisateur restait inconnue.
+
+La pièce 024 — caméra de mon immeuble — ne montrait aucune trace de génération. Horloge synchronisée avec deux autres systèmes.
+
+Donc l’homme quittant mon immeuble à 2 h 12 était presque certainement réel.
+
+Moi ?
+
+L’expert refusa.
+
+— Compatible.
+
+— Probabilité ?
+
+— Je ne quantifie pas un visage qu’on ne voit pas.
+
+J’appris à apprécier les gens qui refusaient les chiffres décoratifs.
+
+Puis vint la pièce 010.
+
+La chaîne informatique disait : réception laboratoire 4 octobre.
+
+La chaîne physique disait : toujours au dépôt.
+
+Contradiction absolue.
+
+Nous aurions dû la voir plus tôt.
+
+Nous ne l’avions pas vue parce que l’ADN de Fabre racontait une histoire satisfaisante.
+
+Je réunis l’équipe.
+
+— Pourquoi personne n’a comparé le scellé ?
+
+Silence.
+
+Un technicien finit par dire :
+
+— Parce que le numéro était dans le système.
+
+— Et ?
+
+— On lui a fait confiance.
+
+Voilà.
+
+Pas un complot.
+
+Pas une incompétence monstrueuse.
+
+Une habitude.
+
+Les systèmes sont utiles parce qu’on leur fait confiance.
+
+Ils deviennent dangereux pour exactement la même raison.
+
+Le manipulateur ne cherchait pas seulement nos faiblesses psychologiques.
+
+Il cherchait nos automatismes professionnels.
+
+Ce fut à ce moment-là que j’arrêtai de penser les vingt-sept pièces comme une chasse au trésor.
+
+Elles formaient un test.
+
+De nous.
+
+De nos outils.
+
+De la manière dont nous décidions qu’un fait était assez solide pour devenir vrai.
+
 Nous retournâmes aux vingt-sept.
 
 Pour la première fois, nous savions qu’un mensonge précis avait été physiquement inséré dans la chaîne.
@@ -10330,6 +10948,148 @@ Depuis le début, nous demandions :
 Mauvaise question.
 
 Une manipulation pouvait contenir une vérité.
+
+Nous dûmes libérer officiellement Nicolas Fabre de tout soupçon lié au verre.
+
+Je demandai à lui parler moi-même.
+
+Il arriva au commissariat avec son avocat.
+
+— Alors ?
+
+Je posai le rapport.
+
+— L’ADN attribué à vous provenait d’un faux rapport. Le vrai verre n’a jamais quitté le dépôt.
+
+Il me regarda longtemps.
+
+— Vous m’avez arrêté pour rien.
+
+— Pas pour rien. Pour des éléments falsifiés.
+
+— Ça fait une énorme différence quand on dort en cellule.
+
+— Je sais.
+
+— Non. Vous savez la phrase.
+
+La remarque était presque celle de Sarah.
+
+Je ne me défendis pas.
+
+— Vous avez raison.
+
+Fabre sembla surpris.
+
+— C’est tout ?
+
+— Non. Je suis désolé.
+
+Son avocat leva les yeux.
+
+Fabre aussi.
+
+— Vous vous excusez ?
+
+— Oui.
+
+— Ça vous arrive souvent ?
+
+— J’essaie de réduire.
+
+Il rit malgré lui.
+
+Puis son visage redevint sérieux.
+
+— Sophie savait que quelqu’un fabriquerait un coupable.
+
+— Pourquoi vous ?
+
+— Parce que j’étais pratique.
+
+— Elle vous a parlé du quatrième couvert ?
+
+Il réfléchit.
+
+— Elle disait qu’elle attendait quelqu’un.
+
+— « Quelqu’un qui aurait dû être mort. »
+
+— Oui.
+
+— Hélène.
+
+— J’ai pensé Clara. Mais maintenant…
+
+Il s’interrompit.
+
+— Quoi ?
+
+— Quand je suis parti, une voiture blanche était garée plus loin.
+
+— Modèle ?
+
+— Fourgon.
+
+Mon cœur accéléra.
+
+— Heure ?
+
+— Environ vingt-trois heures.
+
+Trop tôt pour le fourgon d’Hélène enregistré à 2 h 19.
+
+— Vous l’avez signalé ?
+
+— Non.
+
+— Pourquoi ?
+
+— Parce qu’un fourgon blanc dans un lotissement, ça n’est pas un crime.
+
+Encore une fois, le réel refusait de se comporter comme une histoire.
+
+Le fourgon pouvait être n’importe quoi.
+
+Ou la première présence d’un acteur supplémentaire.
+
+Fabre se leva.
+
+À la porte :
+
+— Commandant.
+
+— Oui ?
+
+— Sophie m’a dit une autre chose hier soir.
+
+Je me figeai.
+
+— Elle a dit : « Si Gabriel revient, ne lui dis pas qu’il est déjà venu. »
+
+— Qu’est-ce que ça signifie ?
+
+— J’espérais que vous sauriez.
+
+Il partit.
+
+Je restai avec cette phrase.
+
+Sophie, avant de mourir, savait que je pouvais revenir.
+
+Elle savait donc que j’étais déjà venu dans cette maison.
+
+Et elle avait voulu qu’on me le cache.
+
+Pourquoi ?
+
+Pour me protéger ?
+
+Pour protéger quelqu’un d’autre ?
+
+Ou parce qu’elle participait encore, jusqu’à la fin, à la vieille habitude familiale :
+
+décider ce que Gabriel avait le droit de se rappeler.
 
 Je rentrai chez moi au lever du jour.
 
