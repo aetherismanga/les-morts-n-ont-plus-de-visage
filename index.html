@@ -841,7 +841,7 @@ body.immersive-fallback .page.coldcase-frame .flow-viewport{position:relative;z-
     else if(current===totalPages-1){pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
     else{
       if(!flow()){pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow();requestAnimationFrame(()=>recalcLayout(savedAnchor));return;}
-      pageEl.className='page text-flow-page '+turnClass;
+      pageEl.className='page text-flow-page coldcase-frame '+turnClass;
       const f=flow();f.scrollLeft=(current-1)*columnWidth();
     }
     prevBtn.disabled=current===0;nextBtn.disabled=current===totalPages-1;
