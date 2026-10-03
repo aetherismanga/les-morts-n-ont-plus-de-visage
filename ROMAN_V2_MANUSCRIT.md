@@ -5251,13 +5251,19 @@ Sarah se trouvait dans une chambre voisine.
 
 Il demanda que je ferme la porte.
 
-— En 2009, j’étais adjoint de sécurité sous Cazeneuve.
+La télévision était allumée sans son. En bas de l’écran, un bandeau annonçait encore notre enlèvement comme une information en cours alors que les deux victimes étaient à quelques mètres de moi.
+
+— En 2009, dit Martin, j’étais adjoint de sécurité sous Cazeneuve.
 
 — Je sais.
 
 — Non. Tu sais le titre. Pas la nuit.
 
-Il prit le verre d’eau sur sa table.
+Il prit le verre d’eau posé sur sa table.
+
+Ses mains étaient stables.
+
+Les miennes ne l’étaient pas.
 
 — La fête avait commencé chez Sophie et Laurent. Tu étais venu parce que Clara t’avait appelé. Elle disait avoir quelque chose à te montrer.
 
@@ -5265,15 +5271,19 @@ Il prit le verre d’eau sur sa table.
 
 — Oui.
 
-Le souvenir revint en fragments.
+Le souvenir revint.
 
-Cuisine jaune.
+Pas comme une scène.
+
+Comme des fragments que quelqu’un aurait laissés tomber.
+
+La lumière jaune de la cuisine.
 
 Clara tenant son téléphone.
 
 Laurent derrière elle.
 
-Voix élevées.
+Une marque rouge sous son cou.
 
 — Qu’est-ce qu’elle avait filmé ?
 
@@ -5283,27 +5293,73 @@ Voix élevées.
 
 — Peut-être.
 
-Martin reprit.
+Je levai les yeux.
+
+Martin soupira.
+
+— Oui, je sais.
+
+— Continue.
 
 — Clara est sortie. Laurent l’a suivie. Toi aussi. Moi, j’ai pris la voiture.
 
-Je fermai les yeux.
+Je revis une route.
 
-La route.
+Des pins.
 
-Les arbres.
+Une lumière dans un rétroviseur.
 
-Un phare.
+— Pourquoi ?
 
-— À la carrière, Laurent lui criait dessus. Toi, tu t’es mis entre eux.
+— Parce que vous étiez tous énervés et que Cazeneuve m’avait dit de vous surveiller.
+
+— Cazeneuve était déjà là ?
+
+— À la maison, oui.
+
+— Pourquoi ?
+
+— Tu l’avais appelé avant d’arriver. Tu pensais que Clara détenait quelque chose de sérieux.
+
+Je me pris le front.
+
+— Donc je préparais une intervention.
+
+— Pas officielle.
+
+— Encore mieux.
+
+Martin continua.
+
+— À la carrière, Laurent criait sur Clara. Elle tenait son téléphone. Tu t’es mis entre eux.
 
 — Il l’avait frappée ?
 
 — Oui.
 
-— Et ensuite ?
+— À la maison ou là-bas ?
 
-Martin regarda ses mains.
+— Les deux, je crois.
+
+— Tu crois ?
+
+— J’étais à quarante mètres au début.
+
+Je fermai les yeux.
+
+Une voix d’homme.
+
+*Donne-le-moi.*
+
+Clara :
+
+*Non.*
+
+Puis une autre voix.
+
+Une femme ?
+
+Je ne savais plus.
 
 — Quelqu’un t’a frappé derrière la tête.
 
@@ -5311,21 +5367,25 @@ Martin regarda ses mains.
 
 — Je n’ai pas vu.
 
+— Nicolas ?
+
+— Pas là.
+
+— Mathieu ?
+
+— Je ne l’ai pas vu non plus.
+
 Une douleur fantôme traversa mon crâne.
 
 — Clara a reculé.
 
-Les images revinrent.
+Je revis les cailloux.
 
-Des pierres sous mes genoux.
+Le vide.
 
-La lumière d’une torche.
+Son bras tendu.
 
-Clara au bord.
-
-Une voix :
-
-*Donne-moi le téléphone.*
+Une main qui n’atteint pas la sienne.
 
 — Elle est tombée.
 
@@ -5333,101 +5393,207 @@ Une voix :
 
 — Personne ne l’a poussée ?
 
-— Non.
-
-— Tu en es sûr ?
-
 — Je l’ai vue perdre l’équilibre.
 
-Je respirai.
+— Et j’étais conscient ?
 
-— Et j’étais inconscient ?
+— Par moments. Tu as voulu descendre.
 
-— Pas encore complètement. Tu essayais de te relever.
+— Clara était vivante.
 
-Il baissa la voix.
+Martin resta silencieux.
 
-— Clara était vivante en bas.
+— Cazeneuve l’écrit.
 
-Je rouvris les yeux.
+— Oui.
 
-— Tu l’as vue ?
+— Tu l’as entendue ?
 
-— Je l’ai entendue.
+Il acquiesça.
 
-Silence.
+— Elle gémissait.
+
+Je serrai les dents.
 
 — Qui est descendu ?
 
-— Cazeneuve. Et une médecin.
+— Cazeneuve. Et Hélène.
 
-— Hélène.
+— Sarah ?
 
-Martin ne répondit pas.
-
-— Sarah était là ?
-
-— Pas à la carrière au début. Elle est arrivée après.
+— Arrivée après.
 
 — Qui l’a appelée ?
 
-— Je ne sais pas.
+— Hélène, je pense.
 
-— Qu’est-ce qu’ils ont fait à Clara ?
+— Tu penses ou tu sais ?
 
-— Cazeneuve m’a ordonné d’aller chercher les secours. Quand je suis revenu, elle était morte.
+— Je n’ai pas vu l’appel.
 
-— Et toi tu as accepté ça ?
+— Et toi ?
 
-Martin eut un rire sec.
+— Cazeneuve m’a envoyé chercher une trousse dans le véhicule puis appeler les secours plus bas, là où le réseau passait.
 
-— Non. J’ai posé des questions. Cazeneuve m’a dit qu’elle avait fait un arrêt pendant l’évacuation.
+— Combien de temps ?
 
-— Et tu l’as cru.
+— Vingt minutes peut-être.
 
-— J’avais vingt-trois ans.
+— Et quand tu es revenu ?
 
-— Elle aussi avait dix-sept ans.
+Martin regarda ses mains.
 
-Il encaissa.
+— Clara ne respirait plus.
 
-— Je sais.
+— Hélène a dit quoi ?
 
-Je me levai.
+— Arrêt cardiaque pendant l’extraction.
 
-— Il y a autre chose.
+— Et tu l’as crue.
 
-— Gabriel.
+— J’avais vingt-trois ans. C’était une légiste. Cazeneuve était mon supérieur. Toi, tu étais presque inconscient.
 
-— Tout le monde dit ça juste avant de me voler dix ans de vie.
+— C’est pratique, les hiérarchies.
 
-Il hésita.
+— Oui.
 
-— Quand je t’ai retrouvé, tu étais conscient par moments.
+Sa réponse me coupa.
 
-— Et ?
+— Pourquoi mon rapport ne mentionne rien ?
 
-— Tu me tenais par la veste.
+— Parce qu’il n’y a pas eu ton rapport.
 
-Sa voix trembla légèrement.
+— Quoi ?
 
-— Tu répétais : « Regarde-moi. »
+— Le lendemain, Cazeneuve a centralisé. Ton nom a été retiré. Le mien aussi sur certaines pièces.
 
-Je me figeai.
+— Et toi tu as accepté.
+
+— Je me suis opposé.
+
+— Combien de minutes ?
+
+Il me regarda.
+
+— Assez pour me faire menacer de révocation.
+
+— Et tu as choisi ton boulot.
+
+— Oui.
+
+Je reculai.
+
+Il ne se défendait même plus.
+
+— Tu veux quoi ? demanda-t-il. Que je réécrive 2009 pour être un homme meilleur ?
+
+Je ne répondis pas.
+
+— J’ai eu peur. Cazeneuve m’a convaincu qu’un scandale détruirait Sarah, Sophie, le bébé, toi. Il disait qu’on devait attendre de comprendre.
+
+— Le bébé.
+
+Martin comprit que je savais.
+
+— Sarah t’a parlé.
+
+— Oui.
+
+Il regarda la fenêtre.
+
+— Tu étais fou de joie.
+
+Je fermai les yeux.
+
+— Arrête.
+
+— Tu m’avais fait promettre de rien dire aux autres avant trois mois.
+
+— Arrête.
+
+Il se tut.
+
+Le silence fit pire.
+
+— Après la carrière, dit-il finalement, tu m’as attrapé par la veste.
+
+Je relevai les yeux.
+
+— Tu répétais : « Regarde-moi ».
+
+Le mot traversa la pièce.
 
 — C’est tout ?
 
-— Non. Tu disais : « Si j’oublie, regarde-moi. »
+— Non.
 
-Le mot me ramena immédiatement à l’odeur de vanille.
+Il avala.
 
-À Emma.
+— Tu disais : « Si j’oublie, regarde-moi. »
 
-À la voix d’une femme.
+La vanille.
 
-*Regardez-moi.*
+La voix.
 
-Je quittai la chambre sans répondre.
+Le même impératif dix-sept ans plus tard.
+
+Je me levai.
+
+— Qui était devant moi quand je disais ça ?
+
+— Sarah.
+
+— Tu es sûr ?
+
+— Au début oui.
+
+— Au début ?
+
+Martin hésita.
+
+— Ensuite Hélène s’est approchée.
+
+— Et ?
+
+— Elle t’a pris le visage entre les mains.
+
+Mon estomac se contracta.
+
+— Qu’est-ce qu’elle a dit ?
+
+— Je ne sais plus exactement.
+
+— Essaie.
+
+Il ferma les yeux.
+
+— Quelque chose comme : « Gabriel, regardez-moi. Respirez. »
+
+Je reculai.
+
+Même voix.
+
+Même formule.
+
+Pas un souvenir spontané.
+
+Un geste médical.
+
+Ou un ancrage.
+
+— Elle m’a drogué ?
+
+— Je ne sais pas.
+
+— On m’a trouvé quoi dans le sang ?
+
+— Rien d’anormal selon le dossier.
+
+— Le dossier qu’Hélène et Cazeneuve ont contrôlé.
+
+Martin ne répondit pas.
+
+Je quittai la chambre.
 
 Sarah m’attendait dans le couloir.
 
@@ -5437,21 +5603,91 @@ Sarah m’attendait dans le couloir.
 
 — Alors tu sais.
 
-— Je sais que ta mère était à la carrière.
+— Je sais que ta mère était à la carrière. Je sais qu’elle m’a parlé pendant que j’étais blessé. Je sais qu’elle a falsifié le rapport de Clara.
 
-Sarah baissa les yeux.
+Sarah pâlit.
 
-— Je ne l’ai appris que plus tard.
+— Tu ne sais pas encore ça.
 
-— Elle est morte en 2021, c’est ça ?
+— Les six pages le prouvent presque.
 
-Sarah ne répondit pas.
+— Presque n’est pas prouve.
 
-Je compris avant qu’elle parle.
+— Tu la défends ?
 
-— Elle n’est pas morte.
+— Non. J’essaie de ne pas devenir comme vous tous.
+
+— C’est-à-dire ?
+
+— Quelqu’un qui décide d’abord de l’histoire, puis cherche les preuves qui vont dedans.
+
+Je respirai.
+
+Elle avait raison.
+
+Je détestais ça.
+
+— Elle est vivante, dis-je.
 
 Sarah ferma les yeux.
+
+— Oui.
+
+— Pourquoi avoir simulé sa mort ?
+
+— Parce qu’elle avait peur.
+
+— De Mathieu ?
+
+— Entre autres.
+
+— De quoi d’autre ?
+
+Sarah regarda le couloir.
+
+— D’elle-même, je crois.
+
+Je restai silencieux.
+
+— Ma mère a passé sa vie à croire qu’elle pouvait réparer les conséquences d’une mauvaise décision par une décision encore pire.
+
+— Ça ressemble à Cazeneuve.
+
+— Ils se ressemblaient beaucoup.
+
+Je pensai à la carrière.
+
+À deux adultes convaincus de protéger tout le monde.
+
+— Où est Hélène ?
+
+— Je ne sais pas.
+
+— Mais elle te contacte ?
+
+— Plus depuis un an.
+
+— Et Théo ?
+
+Sarah secoua la tête.
+
+— Elle lui parlait.
+
+— Tu savais ?
+
+— Pas au début.
+
+— Emma savait.
+
+Le visage de Sarah se brisa.
+
+— Oui.
+
+Je compris alors pourquoi Emma avait écrit *Grand-mère te ment*.
+
+La génération suivante avait découvert ce que les adultes précédents avaient enterré.
+
+Et au lieu de réparer, elle avait hérité de la forme même du mensonge.
 
 ---
 
@@ -5464,6 +5700,14 @@ Cause : accident vasculaire cérébral.
 Médecin déclarant :
 
 **Docteure Sarah Lemaire.**
+
+Pas de corps photographié.
+
+Crémation annoncée quarante-huit heures plus tard.
+
+Urne remise à la famille.
+
+Aucune vérification indépendante.
 
 Je posai la copie sur la table.
 
@@ -5483,107 +5727,187 @@ Silence.
 
 Le mot était si bas que j’eus presque envie de lui demander de répéter.
 
-— Alors ta mère est vivante.
-
-— Oui.
-
-Martin lâcha un juron.
+Martin jura.
 
 Sarah s’assit.
 
-— En 2020, elle a commencé à recevoir des messages. Des copies du dossier Clara. Elle disait qu’on la surveillait.
+— En 2020, elle a commencé à recevoir des messages. Des copies du dossier Clara. Des photos d’elle prises dans la rue. Elle disait qu’on la surveillait.
 
 — Qui ?
 
 — Elle ne savait pas.
 
-— Et tu l’as aidée à simuler sa mort.
+— Mathieu ?
 
-— Elle m’a convaincue que quelqu’un voulait la tuer.
+— Elle pensait que oui.
 
-— Avec un faux certificat.
+— Pourquoi ?
 
-— Je sais ce que j’ai fait.
+— Il l’avait retrouvée. Il lui envoyait des questions sur l’autopsie de Clara.
 
-— Tu comprends que je devrais te placer en garde à vue ?
+— Des menaces ?
 
-— Oui.
+— Pas au début.
 
-Je regardai Martin.
+— Et après ?
 
-Il ne dit rien.
+— Il a écrit : « Si vous ne dites pas la vérité, quelqu’un la fabriquera à votre place. »
 
-— Pourquoi tu ne me l’as pas dit au début ?
+Je notai la phrase.
 
-Sarah me fixa.
+— Ça ressemble à lui.
 
-— Parce que ma sœur venait d’être assassinée. Ma nièce aussi. Ma mère était peut-être derrière quelque chose. Et toi, tu ne te souvenais toujours pas que nous avions partagé deux ans de notre vie. Choisis la partie que tu aurais voulu que je commence par raconter.
+— Tu le connaissais ?
 
-Je n’eus rien à répondre.
+— Non.
+
+— Alors ne fais pas ça.
+
+Elle avait raison.
+
+Encore.
+
+— Comment avez-vous simulé sa mort ?
+
+Sarah prit le temps de répondre.
+
+— Un certificat faux. Un dossier administratif. Une urne vide. Elle avait préparé une nouvelle identité depuis des mois.
+
+— Anne Delmas.
+
+Sarah releva les yeux.
+
+— Tu connais.
+
+— On a une piste.
+
+Elle posa ses mains sur la table.
+
+— Je savais que c’était illégal. Je savais que je risquais ma carrière. Mais ma mère me répétait qu’on allait la tuer.
+
+— Et tu l’as crue.
+
+— C’était ma mère.
+
+Je ne répondis pas.
 
 Nous reprîmes l’autopsie de Clara.
 
-Original photographique.
+Pas le rapport.
 
-Mesures.
+Les photographies originales.
 
-Lésions.
+Les données brutes.
 
-Hélène avait conclu à une mort directement liée à la chute.
+Les clichés avaient été archivés séparément et personne n’avait pensé à tous les faire disparaître.
 
-Mais une deuxième série de traces ne collait pas.
+Sarah les étala.
 
-Sarah posa son doigt sur une photographie du cou.
+— Ici, marques de strangulation antérieures à la chute.
 
-— Ici.
-
-— Strangulation ?
-
-— Non. Les marques antérieures viennent de l’agression avant la carrière. Ça, c’est différent.
-
-Elle agrandit un point sur le bras.
-
-— Ponction.
-
-— Injection ?
+— Laurent ?
 
 — Possible.
 
+— Encore ce mot.
+
+— Tu préfères que j’invente ?
+
+Je me tus.
+
+Elle passa au bras.
+
+Petit point de ponction.
+
+— Injection.
+
+— Oui.
+
 — Après la chute ?
 
-— Probablement.
+— L’aspect est compatible avec une injection très proche du décès. Impossible d’être plus précise.
 
-Je pensai au brouillon d’Élodie.
+— Produit ?
 
-*Je ne savais pas qu’elle était encore vivante quand…*
-
-— Elle a été sédatée.
-
-Sarah secoua la tête.
-
-— On ne peut pas l’affirmer.
+— Pas dans le dossier.
 
 — Hélène avait accès aux médicaments.
 
 — Oui.
 
-— Et elle a falsifié le rapport.
+— Elle a fait l’autopsie.
 
 — Oui.
 
+— Et elle a conclu que Clara était morte de la chute.
+
+— Oui.
+
+— Donc elle a falsifié.
+
+Sarah prit une respiration.
+
+— Oui.
+
+Le mot lui coûta.
+
+Je la regardai.
+
+Elle venait d’admettre que sa mère avait fabriqué une cause de mort.
+
 — Pourquoi ?
 
-Sarah regarda la photo de Clara.
+— Elle disait protéger Sophie.
 
-— Ma mère disait qu’elle protégeait Sophie.
+— De quoi ?
 
-— De Laurent ?
+— Laurent avait une emprise sur elle. Il la frappait aussi. Ma mère pensait que si l’affaire devenait criminelle, Sophie serait détruite.
 
-— Peut-être.
+— Et Clara ?
 
-— Tu ne la crois plus.
+Sarah baissa les yeux.
 
-— Je ne sais plus ce que je crois.
+— C’est la question que je n’ai jamais osé lui poser.
+
+Nous trouvâmes une autre incohérence.
+
+L’heure officielle du décès : 2 h 04.
+
+Mais une photographie de monitoring prise par erreur dans le véhicule médical indiquait une activité cardiaque à 2 h 11.
+
+— Sept minutes, dis-je.
+
+— Oui.
+
+— Elle était officiellement morte avant d’être morte.
+
+Sarah ferma les yeux.
+
+— Ma mère a réécrit l’heure.
+
+— Pourquoi ?
+
+— Pour faire correspondre la mort à la chute.
+
+Je pensai à nos vidéos contemporaines.
+
+Modifier l’heure.
+
+Pas forcément l’image.
+
+Même méthode.
+
+Dix-sept ans plus tôt.
+
+— Hélène faisait déjà des deepfakes sans vidéo, dis-je.
+
+Sarah comprit.
+
+— Elle modifiait le contexte.
+
+— Oui.
+
+La première fausse image de cette histoire avait peut-être été un rapport.
 
 À 22 h 14, le compte de Mathieu se connecta au serveur.
 
@@ -5593,7 +5917,7 @@ Utilisateur : **M.VIDAL**.
 
 Durée : quatre secondes.
 
-Accès consulté :
+Accès :
 
 **PIÈCE 010.**
 
@@ -5605,19 +5929,49 @@ Puis déconnexion.
 
 — Ou quelqu’un veut qu’on pense qu’il veut qu’on la regarde.
 
-Je demandai le journal complet.
+Nadir captura le trafic.
 
-L’accès provenait d’une adresse attribuée à un relais compromis en Belgique.
+— Attendez.
 
-Pas exploitable.
+Il ouvrit les requêtes.
 
-Mais une donnée resta.
+— Il ne télécharge pas.
 
-L’utilisateur n’avait pas téléchargé la pièce.
+— Alors quoi ?
 
-Il avait seulement vérifié son état.
+— Il demande seulement le statut d’authentification.
 
-Comme s’il attendait quelque chose.
+— Comme s’il attendait qu’on valide la pièce.
+
+— Oui.
+
+Une deuxième requête apparut, chiffrée.
+
+Nadir la décoda partiellement.
+
+Trois mots :
+
+**PAS LE VERRE.**
+
+Puis plus rien.
+
+Martin se tourna vers moi.
+
+— Qu’est-ce que ça veut dire ?
+
+Je regardai la photographie de la pièce 010.
+
+Le verre était réel.
+
+L’ADN aussi, supposions-nous.
+
+Peut-être que le mensonge ne se trouvait pas dans l’objet.
+
+Peut-être dans ce qu’on avait écrit à côté.
+
+Je notai la phrase.
+
+Nous ne la comprendrions que bien plus tard.
 
 ---
 
@@ -5625,15 +5979,29 @@ Comme s’il attendait quelque chose.
 
 Hélène Lemaire vivait sous le nom d’Anne Delmas dans un village de l’Aveyron.
 
-La piste venait d’un paiement d’électricité associé à une ancienne adresse mail de Sarah.
+La piste venait d’un paiement d’électricité associé à une ancienne adresse mail que Sarah avait utilisée pour l’aider à disparaître.
 
-— Je croyais l’avoir supprimée, dit-elle.
+— Je croyais l’avoir supprimée.
 
 — Quelqu’un n’a pas voulu que tu la supprimes assez bien.
 
-Nous arrivâmes en fin d’après-midi.
+Le trajet dura trois heures.
 
-Maison en pierre.
+Sarah insista pour venir.
+
+Montels refusa d’abord.
+
+Puis accepta à condition qu’elle reste avec l’équipe extérieure.
+
+— Elle est témoin et proche, dit-elle.
+
+— Elle est surtout la seule à reconnaître immédiatement sa mère.
+
+— Toi aussi, apparemment.
+
+Je ne répondis pas.
+
+La maison était en pierre.
 
 Volets bleus.
 
@@ -5647,25 +6015,41 @@ Martin le remarqua.
 
 — Je sais.
 
-Mais quelqu’un avait choisi la même couleur.
+— Quelqu’un a choisi cette couleur.
+
+— Ou les gens mettent beaucoup de volets bleus dans le sud.
+
+Je le regardai.
+
+— Merci de me ramener à la statistique.
+
+— C’est mon rôle.
 
 La porte était ouverte.
 
-À l’intérieur, aucune trace de lutte.
+Pas forcée.
+
+À l’intérieur, aucune trace de vie récente.
 
 Pas de vêtements.
 
 Pas de nourriture.
 
-Seulement des serveurs.
+Pas de photos.
 
-Quatre baies informatiques dans une pièce climatisée.
+Seulement une pièce climatisée.
 
-Des disques chiffrés.
+Quatre baies informatiques.
+
+Des serveurs.
+
+Des disques.
 
 Des sauvegardes.
 
-Des dossiers portant nos noms.
+Sur un écran, une interface attendait.
+
+Dossiers :
 
 **SARAH.**
 
@@ -5687,15 +6071,25 @@ Captures de déplacements.
 
 Enregistrements de voix.
 
-Des vidéos de moi quittant mon domicile.
+Vidéos de moi quittant mon domicile.
 
-Des enregistrements de conversations anciennes.
+Conversations anciennes.
 
-Et un dossier :
+Une photo de Sarah et moi au restaurant.
+
+Une autre de moi devant l’hôpital en 2009.
+
+Une troisième prise la semaine précédente.
+
+— Elle te surveillait encore, dit Martin.
+
+— Ou quelqu’un avec son système.
+
+J’ouvris :
 
 **MÉMOIRE G.V.**
 
-Je l’ouvris.
+Notes.
 
 *Déclencheur olfactif : vanille.*
 
@@ -5709,101 +6103,217 @@ Je reculai.
 
 — Elle m’a étudié.
 
-— Depuis combien de temps ? demanda Martin.
+Nadir, connecté à distance, répondit :
 
-— Au moins 2009.
+— Depuis au moins 2018 pour ces fichiers. Certains imports sont plus anciens.
 
-Un sous-dossier contenait des articles scientifiques sur la reconsolidation mémorielle, les souvenirs traumatiques et la suggestion.
+— 2009 ?
 
-Hélène ne fabriquait pas seulement des images.
+— Métadonnées modifiées. Impossible d’affirmer.
 
-Elle savait comment faire remonter de vrais souvenirs au milieu de faux.
+Un sous-dossier contenait des articles sur la reconsolidation mémorielle.
 
-Sur un écran secondaire, une phrase était restée affichée :
+Trauma.
 
-*Tu crois enquêter sur moi. Depuis le premier jour, j’enquête sur ce que tu es capable de croire.*
+Suggestion.
 
-Sarah entra derrière nous.
+Amnésie.
 
-Elle lut.
+Substances sédatives.
 
-Son visage se décomposa.
+Une note personnelle :
 
-— Ce n’est pas elle.
+*G.V. : le souvenir revient mieux lorsqu’il croit l’avoir découvert seul.*
 
-— Comment ça ?
+Je sentis la colère monter.
 
-— Ma mère n’écrit pas comme ça.
+— Elle a construit l’enquête comme une thérapie malade.
 
-— Tu reconnais son style ?
+Sarah entra malgré l’ordre de rester dehors.
 
-— Oui.
+— Maman ?
 
-— Donc quelqu’un utilise aussi Hélène.
+Personne.
 
-— Peut-être.
-
-Le mot revenait partout.
-
-Nous fouillâmes les répertoires.
-
-Vingt-sept dossiers numérotés.
-
-Le 010 était verrouillé.
-
-Le 027 vide.
-
-Dans le dossier 019, une photographie d’Emma enfant.
-
-Dans le 020, la carrière.
-
-Dans le 024, une caméra de hall d’immeuble.
-
-Le mien.
-
-— Elle avait préparé la suite, murmurai-je.
-
-Martin secoua la tête.
-
-— Ou quelqu’un veut qu’on le croie.
-
-Je regardai Sarah.
-
-— Théo travaillait pour elle ?
+Elle vit le dossier.
 
 — Non.
 
-Je compris en prononçant la réponse.
+— Sarah, sors.
 
-— Il travaillait pour l’histoire qu’elle lui avait donnée.
+— Non.
+
+Elle lut les déclencheurs.
+
+Ses mains se mirent à trembler.
+
+— Elle savait.
+
+— Quoi ?
+
+— La vanille. C’était son parfum en 2009.
+
+— Je sais.
+
+— Non. Après l’accident, elle m’avait dit de ne plus en porter près de toi parce que ça te faisait paniquer.
+
+Je la regardai.
+
+— Tu en portais ?
+
+— À l’époque, oui. Le même parfum qu’elle.
+
+Une ambiguïté de plus.
+
+Mes souvenirs olfactifs ne distinguaient même pas la mère de la fille.
+
+Sur un écran secondaire, une phrase :
+
+*Tu crois enquêter sur moi. Depuis le premier jour, j’enquête sur ce que tu es capable de croire.*
+
+Sarah lut.
+
+— Ce n’est pas elle.
+
+— Comment tu peux le savoir ?
+
+— Ma mère n’écrit pas comme ça.
+
+— Elle écrit comment ?
+
+— Plus sec. Plus médical. Elle n’aurait jamais écrit « ce que tu es capable de croire ». Elle aurait écrit « seuil d’adhésion ».
+
+Nadir intervint :
+
+— Intéressant.
+
+— Quoi ?
+
+— On peut comparer avec ses notes authentifiées.
+
+Quelques minutes plus tard :
+
+— Style statistiquement différent. Pas une preuve d’auteur, mais Madame Lemaire a raison.
+
+Quelqu’un écrivait dans le système d’Hélène.
+
+Ou Hélène changeait volontairement de style.
+
+Nous inspectâmes vingt-sept dossiers numérotés.
+
+Le 003 contenait des modèles phonétiques d’Emma.
+
+Le 006 une copie de la MiniDV.
+
+Le 010 était verrouillé.
+
+Le 014 la photographie de Marseille.
+
+Le 020 une simulation de météo pour la carrière.
+
+Le 024 des images de mon hall d’immeuble.
+
+Le 027 vide.
+
+— Elle avait préparé toute la progression.
+
+— Ou elle suivait celle de Mathieu, dit Sarah.
+
+Nous ouvrîmes un dossier nommé **THÉO / EXPOSITION**.
+
+Calendrier.
+
+Dates de remise de documents.
+
+Clara.
+
+Laurent.
+
+Autopsie.
+
+Vidéo.
+
+À chaque étape, une note mesurait les réactions de Théo.
+
+*Colère accrue.*
+
+*Fixation sur Varenne.*
+
+*Rejet des contradictions.*
+
+*Dépendance au récit : forte.*
+
+Je restai silencieux.
+
+— Elle faisait une expérience sur son petit-fils, dit Martin.
+
+Sarah s’assit.
+
+— Non.
+
+Personne ne répondit.
+
+— Non, répéta-t-elle.
+
+Elle lisait.
+
+Les preuves existaient sous ses yeux.
+
+— Elle voulait le contrôler.
+
+— Oui.
+
+— Pas le faire tuer.
+
+— On ne sait pas.
+
+Elle me regarda avec colère.
+
+— Tu viens de me reprocher le mot.
+
+— Il est parfois le seul honnête.
 
 Un son retentit.
 
-L’un des serveurs venait de recevoir une connexion distante.
+Connexion distante.
 
-Un seul fichier fut créé.
+Nadir cria dans l’oreillette :
+
+— Débranchez pas !
+
+Un fichier se créa sur le bureau.
 
 **MERCI D’ÊTRE VENUS.**
 
-Puis les écrans s’éteignirent.
+Puis :
 
-Dans le silence, nous entendîmes un bruit à l’étage.
+**MAINTENANT, VOUS SAVEZ CE QU’ELLE A FAIT À THÉO.**
+
+Nouvelle ligne :
+
+**DEMANDEZ-VOUS CE QU’ELLE A FAIT À GABRIEL.**
+
+Les écrans s’éteignirent.
+
+— Perdu, dit Nadir.
+
+Dans le silence, un bruit à l’étage.
 
 Martin leva son arme.
 
 Nous montâmes.
 
-Une fenêtre ouverte.
+Chambre vide.
+
+Fenêtre ouverte.
 
 Rideau qui bougeait.
 
-Personne.
+Sur le rebord, trace humide de semelle.
 
-Sur le rebord, une trace humide de semelle.
+Taille approximative 38.
 
-Taille 38.
-
-Sarah regarda la marque.
+Sarah regarda.
 
 — Ma mère chausse du trente-huit.
 
@@ -5815,13 +6325,75 @@ Elle baissa les yeux.
 
 — Aussi.
 
+Dehors, un voisin nous dit avoir vu une femme sortir par le jardin dix minutes avant notre arrivée.
+
+— Âge ?
+
+— Je sais pas. Cinquante ? Soixante ?
+
+— Cheveux ?
+
+— Capuche.
+
+— Voiture ?
+
+— Pas vu.
+
+Puis il ajouta :
+
+— Elle boitait un peu.
+
+Sarah me regarda.
+
+— Ma mère ne boite pas.
+
+— Toi ?
+
+— Non plus.
+
+Martin soupira.
+
+— Enfin un indice qui n’accuse personne dans cette famille.
+
+Nous regagnâmes la maison.
+
+Sur un serveur non éteint, Nadir trouva un journal d’accès.
+
+Une connexion de Mathieu la veille de sa mort.
+
+Une de Théo.
+
+Puis une troisième identité.
+
+**OBSERVER_01.**
+
+Aucune source.
+
+Aucun propriétaire.
+
+Un compte plus ancien que tous les autres.
+
+Créé en 2019.
+
+Je fixai le nom.
+
+Celui qui regarde.
+
+Pour la première fois, l’idée qu’Hélène puisse elle-même être observée cessa d’être une abstraction.
+
+---
+
 ### CHAPITRE 15 — LE PROCÈS AVANT LE PROCÈS
 
 L’enquête quitta les commissariats.
 
 Elle devint un spectacle.
 
-Au début, je crus que c’était temporaire. Une flambée médiatique. Quelques jours de chaînes d’information, de comptes anonymes et de spécialistes improvisés.
+Au début, je crus que ce serait temporaire.
+
+Une flambée médiatique.
+
+Quelques jours de chaînes d’information, de comptes anonymes et de spécialistes improvisés.
 
 Je me trompais.
 
@@ -5831,7 +6403,7 @@ Moi acceptant une enveloppe d’argent dans un parking.
 
 Moi embrassant Sarah devant un hôtel en 2009.
 
-Moi menaçant Laurent Morel.
+Moi menaçant Laurent.
 
 Moi entrant chez Hélène sous son identité d’Anne Delmas.
 
@@ -5857,11 +6429,17 @@ Martin éteignit l’écran.
 
 — Tu peux faire dire n’importe quoi à un homme qui regarde à gauche.
 
+— Je regarde beaucoup à gauche ?
+
+— Apparemment, c’est criminel.
+
 Le parquet nous imposa une cellule de communication.
 
-Je détestai immédiatement le mot.
+La conseillère s’appelait Diane Rey.
 
-— Vous ne répondez plus directement aux accusations, expliqua une conseillère. Vous ne commentez aucune vidéo avant expertise. Vous ne niez même pas les plus absurdes.
+Trente ans, tailleur sombre, aucune patience pour les policiers qui pensaient que les médias étaient un détail.
+
+— Vous ne répondez plus directement aux accusations, dit-elle. Vous ne commentez aucune vidéo avant expertise. Vous ne niez même pas les plus absurdes.
 
 — Donc je laisse des millions de gens croire que j’ai frappé un suspect.
 
@@ -5891,13 +6469,17 @@ Je l’arrêtai.
 
 — Laisse.
 
+— Il vient de te cracher dessus.
+
+— Je sais.
+
 L’homme continuait à crier.
 
 Dix mètres plus loin, une femme s’approcha.
 
 — Commandant, une photo ?
 
-Je la regardai, persuadé d’avoir mal entendu.
+Je crus avoir mal entendu.
 
 — Avec vous. S’il vous plaît.
 
@@ -5909,11 +6491,15 @@ Même parking.
 
 Je refusai.
 
-Le soir, Hélène publia un document de quatre-vingts pages.
+À 14 h, mon visage circulait avec deux légendes contradictoires.
 
-Pas sous son nom.
+**LE FLIC QUI CACHE LA VÉRITÉ.**
 
-Sous celui d’un collectif inexistant.
+**LE FLIC QUI VA FAIRE TOMBER LE SYSTÈME.**
+
+Je n’étais ni l’un ni l’autre.
+
+Le soir, un document de quatre-vingts pages apparut.
 
 **DOSSIER CLARA — CE QUE LA POLICE A EFFACÉ.**
 
@@ -5925,7 +6511,7 @@ Le passage aux urgences.
 
 La grossesse.
 
-Des photographies de la carrière.
+Des photographies.
 
 Puis des mensonges.
 
@@ -5933,17 +6519,15 @@ Une fausse note signée de moi.
 
 Une fausse déclaration de Cazeneuve.
 
-Une conversation inventée entre Sarah et sa mère.
+Une conversation inventée entre Sarah et Hélène.
 
 Le document était suffisamment vrai pour rendre ses mensonges indissociables du reste.
 
-À la page 61, une phrase était surlignée :
+À la page 61 :
 
 *Le mensonge parfait n’est pas celui qui remplace la vérité. C’est celui qui l’oblige à se justifier.*
 
-Je refermai.
-
-Sarah était assise en face de moi.
+Sarah lut.
 
 — C’est elle.
 
@@ -5957,87 +6541,141 @@ Elle hésita.
 
 — Pas entièrement.
 
-Martin posa un dossier sur la table.
+Nous comparâmes avec les serveurs.
 
-— On a mieux.
+Le document avait été assemblé depuis plusieurs sources.
 
-Le carnet de Théo.
+Certaines provenaient clairement d’Hélène.
+
+D’autres de Mathieu.
+
+D’autres inconnues.
+
+Observer_01 ?
+
+Impossible.
+
+Le public n’attendit pas.
+
+Des rassemblements commencèrent.
+
+#JusticePourClara.
+
+#VarenneSavait.
+
+#ToutEstFaux.
+
+Des familles de victimes d’autres affaires se mirent à contester leurs dossiers avec le même argument : si celui-ci avait été manipulé, pourquoi pas le leur ?
+
+Montels me convoqua.
+
+— On a un problème institutionnel.
+
+— On a surtout des morts.
+
+— Les deux existent en même temps.
+
+— Je déteste quand vous avez raison.
+
+Elle me montra des captures.
+
+Un compte diffusait des versions contradictoires de la même vidéo.
+
+Dans l’une, j’avouais.
+
+Dans l’autre, Hélène.
+
+Dans la troisième, Mathieu.
+
+— Pourquoi publier trois faux incompatibles ?
+
+— Pour que personne ne sache lequel défendre.
+
+— Exactement.
+
+Le but n’était plus de convaincre.
+
+C’était d’épuiser.
+
+Je compris pourquoi le titre du fichier de Mathieu disait *qui bénéficie du fait que nous en discutions ?*
+
+Pendant que nous débattions de la réalité des images, quelqu’un gagnait du temps.
+
+Mais pour quoi ?
+
+Martin posa le carnet de Théo.
 
 Douze noms.
 
 Onze barrés.
 
-Le mien restait intact.
+Le mien intact.
 
-Nous avions maintenant identifié la raison de huit noms.
+Nous avions identifié huit liens avec 2009.
 
-Trois restaient obscurs.
+Trois noms restaient moins clairs : un technicien de laboratoire, une greffière, un informaticien mort en 2024.
 
-Parmi eux : un ancien technicien de laboratoire, une greffière et un informaticien mort dans un accident de moto en 2024.
+— Tout le monde a touché au dossier Clara, dit Martin.
 
-— Il ne choisissait pas au hasard, dit Martin.
+— Comment ?
 
-— Il suivait une liste préparée.
+— Le technicien a validé un prélèvement. La greffière a classé une pièce hors délai. L’informaticien travaillait sur le logiciel d’archives utilisé pour numériser le dossier en 2019.
 
-— Par Hélène ?
+— Observer_01 date de 2019.
 
-Je regardai Sarah.
+Nous nous regardâmes.
 
-— Ou Mathieu.
+Enfin une convergence.
 
-Elle secoua la tête.
+L’informaticien s’appelait Julien Maret.
 
-— Mathieu voulait arrêter Théo.
+Mort dans un accident de moto en 2024.
 
-— D’après une vidéo.
+Selon son dossier, banal accident de nuit.
 
-— Authentique.
+Mais sur son ordinateur professionnel archivé, Nadir retrouva une note :
 
-— Jusqu’à preuve du contraire.
+**ANOMALIE D’ACCÈS — DOSSIER C. VIDAL — COMPTE O01.**
 
-Elle se leva.
+O01.
 
-— Tu ne peux pas passer le reste de ta vie à répondre ça.
+Observer_01.
 
-— C’est exactement ce qu’on m’apprend à faire.
+— Donc ce compte touche au dossier depuis au moins 2019.
 
-Sarah partit.
+— Et Maret l’avait vu.
 
-Je regrettai immédiatement.
+— Puis il est mort deux ans avant tout ça.
 
-Plus tard, je retrouvai dans mes messages une photographie envoyée par un numéro masqué.
+Martin s’appuya au bureau.
 
-Une foule devant le palais de justice.
+— Tu crois qu’on doit rouvrir son accident ?
+
+— Oui.
+
+Avant que nous le fassions, une photographie arriva sur mon téléphone.
+
+Foule devant le palais de justice.
 
 Au milieu, moi.
 
-Je n’y étais jamais allé ce jour-là.
+Je n’y étais pas.
 
 Sous l’image :
 
 **TON PROCÈS A COMMENCÉ.**
 
-Je zoomai.
+Heure de création :
 
-Dans un reflet de vitrine, derrière la foule, une silhouette de femme.
+18 h 00.
 
-Cheveux blancs.
+Il était 17 h 43.
 
-Impossible d’être sûr.
+— Erreur de métadonnées ? demanda Martin.
 
-Je sauvegardai l’image.
+— Attendons.
 
-Puis je remarquai l’heure de création.
-
-Dix-sept minutes dans le futur.
-
-Je regardai l’horloge.
-
-17 h 43.
-
-La photo indiquait 18 h 00.
-
-À 18 h 01, la même foule existait réellement devant le palais.
+À 18 h 01, une foule se forma réellement devant le palais.
 
 Même banderole.
 
@@ -6045,35 +6683,65 @@ Même camion de télévision.
 
 Même angle.
 
-Mais je n’y étais pas.
+Mais pas moi.
 
-Quelqu’un n’avait pas seulement fabriqué une image.
+Je restai glacé.
 
-Il avait anticipé la scène qui la rendrait crédible.
+— Quelqu’un a créé l’image avant que la scène existe.
 
-J’appelai Martin.
+— Ou connaît le rassemblement prévu.
 
-— On ne nous montre pas le futur.
+— Oui. Et il a choisi un décor qui allait devenir réel.
 
-— J’espère.
+Une mise en scène du futur par anticipation du banal.
 
-— On prépare des images avant les événements.
+Pas besoin de prédire.
 
-— Donc ?
+Seulement organiser.
 
-— Donc certaines scènes sont organisées pour ressembler ensuite aux faux.
+C’était la version la plus inquiétante des faux : ceux qui attendaient que le monde leur ressemble.
 
-Silence.
+Sarah entra.
 
-— Une mise en scène du réel.
+— On a retrouvé le bracelet rouge.
+
+— Quel bracelet ?
+
+— Celui de la photo de 2009. Celui d’Hélène.
+
+Elle posa une ancienne photographie familiale.
+
+Hélène portait le même.
+
+— Donc elle est bien descendue dans la carrière.
 
 — Oui.
 
-Je compris alors pourquoi l’enquête m’épuisait d’une manière nouvelle.
+— Et elle a injecté Clara.
 
-Je n’essayais plus seulement de distinguer le vrai du faux.
+Sarah inspira.
 
-Je devais déterminer si le réel lui-même avait été arrangé pour confirmer un mensonge.
+— Peut-être.
+
+Je souris.
+
+— Je ne déteste plus autant ce mot.
+
+Elle me regarda.
+
+— Tu devrais. Il est confortable aussi.
+
+— Comment ?
+
+— Il permet de ne jamais conclure.
+
+La remarque me suivit toute la nuit.
+
+Le danger n’était pas seulement de croire trop vite.
+
+C’était aussi de finir par ne plus croire rien du tout.
+
+Et quelqu’un comptait peut-être exactement là-dessus.
 
 ---
 
@@ -6087,19 +6755,47 @@ Une position GPS.
 
 La carrière.
 
-Martin voulut une équipe.
+Montels refusa d’abord.
 
-Je refusai d’y aller seul, mais je savais que trop de véhicules le feraient disparaître.
+— Non.
 
-Nous approchâmes à pied avec deux groupes à distance.
+— Il veut me parler.
+
+— Il t’a déjà utilisé pour une diffusion en direct.
+
+— Justement.
+
+— C’est un fugitif potentiellement armé.
+
+— Donc on prépare.
+
+Martin proposa deux équipes à distance, drone sans lumière et géolocalisation discrète.
+
+Sarah ne devait pas venir.
+
+Elle protesta.
+
+Personne ne céda.
+
+Nous approchâmes à pied.
 
 Le ciel menaçait.
 
 À l’entrée de la carrière, des projecteurs éclairaient le front de taille.
 
-Des arroseurs de jardin pulvérisaient de l’eau sur le sol.
+Des arroseurs pulvérisaient de l’eau sur le sol.
 
 Une reconstitution.
+
+L’odeur de pierre mouillée me ramena brutalement à 2009.
+
+Je m’arrêtai.
+
+Martin murmura dans l’oreillette :
+
+— Respire.
+
+Je détestai qu’il me connaisse assez pour le dire.
 
 Théo se tenait au milieu.
 
@@ -6107,7 +6803,7 @@ Théo se tenait au milieu.
 
 — Épargne-moi les phrases de cinéma.
 
-Il eut presque un sourire.
+Presque un sourire.
 
 — Toujours pareil, d’après les vidéos.
 
@@ -6131,13 +6827,17 @@ Puis la carrière.
 
 La vidéo était remarquable.
 
+Le grain correspondait à l’époque.
+
+Les mouvements semblaient imparfaits.
+
+Même les défauts de compression paraissaient naturels.
+
 Clara reculait.
 
 Elle tombait.
 
-Plus tard, Hélène et Cazeneuve apparaissaient.
-
-Ils descendaient.
+Plus tard, Hélène et Cazeneuve descendaient.
 
 Remontaient Clara sur une civière.
 
@@ -6149,9 +6849,13 @@ Clara cessait de bouger.
 
 Je regardai sans respirer.
 
-La scène donnait enfin une réponse.
+Une réponse.
 
-Trop parfaite.
+Enfin.
+
+Le cerveau adore les réponses complètes.
+
+C’est pour cela qu’elles sont dangereuses.
 
 — Voilà, dit Théo. C’est ça que vous avez tous caché.
 
@@ -6159,31 +6863,41 @@ Trop parfaite.
 
 — Grand-mère.
 
-— L’original ?
+— Directement ?
 
-— Oui.
+— Sur un serveur.
+
+— Quel compte ?
+
+Il hésita.
+
+— Mathieu.
+
+— Après sa mort ?
+
+— Avant.
 
 — Tu l’as vérifié ?
 
-Son visage se ferma.
+— Mathieu l’avait vérifié.
 
-— Mathieu l’a vérifié.
+— Il te l’a dit ?
 
-— Avant ou après sa mort ?
+— Il avait signé le fichier.
 
-Il fit un pas vers moi.
+— Une signature se copie.
 
 — Arrête.
 
 Je regardai encore.
 
-La terre.
+Quelque chose me gênait.
 
-Les chaussures.
+Pas un visage.
 
-Les arbres.
+Le sol.
 
-Quelque chose.
+Je demandai :
 
 — Remets le début.
 
@@ -6193,17 +6907,13 @@ Quelque chose.
 
 Il relança.
 
-La photographie de 23 h 14 me revint.
+La photo de 23 h 14.
 
 Sol sec.
 
-Poussière.
-
-Sur la vidéo, avant même la chute, la terre brillait déjà.
+Sur la vidéo, avant même la chute, la terre brillait.
 
 — Pause.
-
-Théo s’impatienta.
 
 — Quoi ?
 
@@ -6213,87 +6923,83 @@ Théo s’impatienta.
 
 — Elle a commencé à 2 h 06.
 
-— Et ?
+— Et alors ?
 
-— Clara tombe avant.
+— La chute est avant deux heures.
 
 — Tu chipotes sur une météo ?
 
-— Les archives de la station sont publiques. À 1 h 40, zéro précipitation. À 2 h 06, début mesuré. Sur ta vidéo, le sol est mouillé avant 1 h 50.
+— Archives de la station de Nîmes-Courbessac et relevé privé à Sommières. Zéro précipitation avant 2 h 06. Sur ta vidéo, la piste est détrempée.
 
-Il regarda l’écran.
+Il regarda.
 
-— Ça ne prouve rien.
+— La carrière peut être humide.
 
-— Si. Cette scène n’est pas un original continu.
+— Pas ces pierres-là.
+
+Je montrai une trace d’écoulement.
+
+— Ça vient d’une pluie récente.
 
 — Non.
 
-— Quelqu’un a reconstruit une partie.
+— Quelqu’un a reconstruit la scène avec des images prises plus tard.
 
 — Non.
 
 Il recula.
 
-Pour la première fois, je ne voyais plus le garçon qui avait kidnappé Sarah et Martin.
+— Regarde tes arroseurs.
 
-Je voyais un fils.
+Il se retourna vers ceux qu’il avait installés.
 
-Un petit-fils.
+Je compris.
 
-Quelqu’un qui avait bâti sa vengeance sur une image à laquelle il avait besoin de croire.
+— Tu reproduis exactement la vidéo.
 
-— Qui te l’a donnée ?
+— Pour retrouver les conditions.
 
-— Ma grand-mère.
-
-— Directement ?
+— Qui t’a dit qu’il fallait mouiller le sol ?
 
 Silence.
 
 — Théo.
 
-— Un dossier.
+— Grand-mère.
 
-— Où ?
+— Donc elle ne t’a pas seulement donné une vidéo. Elle t’a donné une mise en scène.
 
-— Sur un serveur.
+Il leva les yeux.
 
-— Compte ?
+Pour la première fois, je ne voyais plus un maître du jeu.
 
-Il regarda le sol.
-
-— Mathieu.
-
-Je sentis Martin bouger derrière moi, hors de vue.
-
-— Tu vois le problème ?
-
-— Il l’avait préparée avant.
-
-— Peut-être.
-
-— Arrête de dire peut-être !
-
-Sa voix se brisa.
-
-— C’est ce que vous faites tous. Vous laissez tout ouvert pour ne jamais répondre.
-
-— Parce que quelqu’un utilise ton besoin d’une réponse.
-
-Il leva une arme.
-
-Je ne bougeai pas.
+Je voyais quelqu’un qui venait de découvrir que son souvenir le plus important n’était pas le sien.
 
 — Elle était enceinte de mon père.
 
 — Tu n’en sais rien.
 
-— Laurent l’a tuée.
+— Si.
 
-— Tu viens de voir que la vidéo peut être fausse.
+— Source ?
 
-— Il l’a frappée.
+— Elle.
+
+— Hélène.
+
+— Oui.
+
+— Analyse ADN ?
+
+Silence.
+
+— Lettre de Clara ?
+
+Rien.
+
+— Tu as construit ça sur sa parole.
+
+— Laurent l’a frappée.
 
 — Oui.
 
@@ -6309,23 +7015,69 @@ Il tremblait.
 
 — Emma disait la même chose.
 
-Je baissai légèrement la voix.
-
-— Emma voulait partir avec toi.
+— Parce qu’elle t’aimait.
 
 — Tais-toi.
 
-— Elle avait deux billets.
+— Elle avait acheté deux billets.
 
-— Tais-toi !
+— Tais-toi.
 
-— Elle essayait de te sauver.
+— Elle voulait partir avec toi.
+
+Il leva une arme.
+
+Dans mon oreille, Martin :
+
+— Gabriel, recule.
+
+Je ne bougeai pas.
+
+— Tu peux me tuer. Mais tu ne rendras pas la vidéo plus vraie.
+
+Théo pointait l’arme.
+
+— Vous étiez tous là.
+
+— Oui.
+
+— Vous l’avez laissée mourir.
+
+— Peut-être.
+
+Il éclata :
+
+— Arrêtez avec ce mot !
+
+Sa voix résonna.
+
+Je baissai la mienne.
+
+— Parce qu’il reste des choses qu’on ne sait pas.
+
+— Moi je sais.
+
+— Non. Tu crois.
+
+— C’est pareil.
+
+— C’est exactement ce que quelqu’un t’a appris.
+
+Il pleura sans s’en rendre compte.
+
+— Emma a choisi leur camp.
+
+— Non. Elle a choisi le tien.
+
+— Elle voulait me dénoncer.
+
+— Elle voulait t’empêcher de devenir ce qu’Hélène avait besoin que tu deviennes.
 
 Un clic derrière nous.
 
 Photographie.
 
-Théo se retourna.
+Théo tourna la tête.
 
 Mauvais réflexe.
 
@@ -6339,49 +7091,77 @@ Je le percutai.
 
 L’arme glissa.
 
-Il me frappa au visage, se dégagea et courut vers l’obscurité.
+Il me donna un coup au visage.
+
+Je tombai.
+
+Il courut vers l’obscurité.
 
 Les équipes convergèrent.
 
-Trop tard.
+Un chien fut lâché.
 
-Il connaissait le terrain.
+Théo connaissait les passages de l’ancienne exploitation.
 
-Nous retrouvâmes seulement son téléphone.
+Nous retrouvâmes son sac.
 
-Écran cassé.
+Son téléphone.
 
-Une dernière application ouverte.
+Mais pas lui.
 
-Galerie.
+Sur le téléphone, galerie ouverte.
 
-Photographie prise quelques secondes avant le tir.
+Dernière photographie prise juste avant le tir.
 
 Moi et Théo.
 
 Dans le fond, derrière les projecteurs, une silhouette de femme.
 
-Je montrai l’image à Sarah plus tard.
+Cheveux clairs.
 
-— Hélène ?
+Je pensai immédiatement à Hélène.
 
-Elle agrandit.
+Puis me forçai à arrêter.
 
-— Je ne sais pas.
+Nadir examina.
 
-— Tu reconnais sa posture ?
+— Quatorze pixels utiles.
 
-Sarah me lança un regard épuisé.
+— Donc rien.
 
-— Tu te rends compte de ce que tu me demandes ?
+— Enfin vous apprenez.
 
-Oui.
+Une autre chose se trouvait sur l’appareil.
 
-Je lui demandais d’identifier sa mère dans une poignée de pixels.
+Un message reçu six minutes avant mon arrivée.
 
-Exactement le genre de chose que l’enquête nous avait appris à ne plus faire.
+Expéditeur : **M**.
 
----
+*Il va essayer de te faire douter de la pluie. Ne l’écoute pas.*
+
+Je relus.
+
+— Celui qui a envoyé ça savait que j’avais vérifié la météo.
+
+Martin se figea.
+
+— On en a parlé où ?
+
+— Dans notre salle de travail.
+
+— Pas par téléphone ?
+
+— Non.
+
+Nous regardâmes tous nos appareils.
+
+Quelqu’un nous écoutait encore.
+
+Et il ne se contentait plus d’observer.
+
+Il écrivait les répliques avant que nous les prononcions.
+
+
 
 ### CHAPITRE 17 — EMMA
 
