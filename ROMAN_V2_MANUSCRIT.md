@@ -1,7 +1,5 @@
 # LES MORTS N’ONT PLUS DE VISAGE
-## Roman V2 — manuscrit de travail
-
-### PROLOGUE — 17 AOÛT 2009
+### PROLOGUE — NUIT DU 17 AU 18 AOÛT 2009
 
 La fille courait sans savoir où aller.
 
@@ -109,9 +107,9 @@ Clara n’avait pas répondu.
 
 Elle avait quitté l’hôpital avant mon arrivée.
 
-Ce détail ne figurait pas dans le prologue que personne ne pouvait connaître.
+Ce détail ne figurait dans aucun article, aucun procès-verbal public, aucun récit accessible de l’affaire.
 
-Mais il existait dans les traces.
+Mais il existait dans les traces. Très peu de personnes pouvaient le connaître.
 
 Et il expliquait pourquoi elle était revenue vers la maison au lieu de s’en éloigner.
 
@@ -4682,9 +4680,9 @@ Pour la première fois, Élodie gagnait quelque chose contre celui qui l’avait
 
 Je demandai que l’enregistrement devienne une pièce secondaire, sans changer la numérotation des vingt-sept majeures.
 
-La structure devait rester stable.
+La numérotation des vingt-sept pièces devait rester stable.
 
-Mais le roman, lui, devait laisser Élodie parler autrement que dans une phrase de brouillon.
+Mais le dossier ne devait pas réduire Élodie à une seule phrase de brouillon.
 
 Avant de quitter Marseille, je passai devant le collège d’Hugo.
 
@@ -6387,7 +6385,7 @@ Un absent.
 
 La lettre disait de regarder les absents.
 
-Le Nous cherchâmes Antoine Lemaire.
+Nous cherchâmes Antoine Lemaire.
 
 Pas l’homme — mort en 2012 — mais ses archives professionnelles.
 
@@ -7567,7 +7565,7 @@ La fatigue effaça toute défense.
 
 Je restai immobile.
 
-— Clara’s frère ?
+— Le frère de Clara ?
 
 — Oui.
 
@@ -8856,7 +8854,7 @@ Je notai.
 
 Même celui qui essayait de préserver la preuve pouvait traiter les personnes comme des variables.
 
-Le roman ne devait pas remplacer Hélène par Mathieu comme autorité morale.
+Notre enquête ne devait pas remplacer Hélène par Mathieu comme autorité morale.
 
 Ils partageaient une tentation : croire que comprendre un système donne le droit de déplacer les gens dedans.
 ---
@@ -19899,9 +19897,9 @@ Hélène se figea.
 
 — Qui vous l’a dit ?
 
-Je repensai au prologue que je ne pouvais pas avoir vécu consciemment.
+Je repensai aux fragments de cette nuit que ma mémoire me rendait sans ordre.
 
-Personne ne me l’avait dit dans l’enquête.
+Personne ne m’avait donné cette durée dans l’enquête.
 
 Pourtant le nombre était dans ma tête.
 
@@ -20285,7 +20283,7 @@ Hélène hésita.
 
 — « Vous… »
 
-Le prologue mental.
+Le fragment revint.
 
 Clara reconnaissant quelqu’un.
 
@@ -22495,7 +22493,7 @@ Hélène regarda la table.
 
 — Pendant dix-sept ans.
 
-Je repensai au prologue.
+Je repensai à la nuit de Clara.
 
 Cinquante-deux secondes.
 
