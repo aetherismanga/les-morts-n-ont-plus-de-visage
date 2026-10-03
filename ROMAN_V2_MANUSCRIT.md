@@ -12829,6 +12829,128 @@ Il écrivait les répliques avant que nous les prononcions.
 
 
 
+Après la fuite de Théo à la carrière, nous retrouvâmes l’homme qui avait loué le matériel de projection.
+
+Pas Théo.
+
+Un compte professionnel au nom de **Lumen Events**.
+
+Société réelle. Commande réelle. Paiement réel.
+
+Mais l’adresse de livraison avait été modifiée au dernier moment.
+
+— Votre client écrivait très bien, dit le responsable. Poli. Précis.
+
+— Voix ?
+
+— Tout par mail.
+
+— Nom ?
+
+— Anne Delmas.
+
+Alias d’Hélène.
+
+Martin posa les mains sur la table.
+
+— Cette fois, c’est elle.
+
+— Son identité, oui.
+
+Le loueur poursuivit.
+
+— Deux jours avant, une femme a appelé pour vérifier les horaires.
+
+Le standard enregistrait les appels.
+
+Nadir récupéra la piste.
+
+Voix d’Hélène avec une forte similarité, sans certitude absolue.
+
+— Il faut que le matériel fonctionne même sous pluie artificielle, disait-elle.
+
+Puis :
+
+— Et surtout, ne donnez aucune information au jeune homme s’il appelle.
+
+— Pourquoi ? demandait le loueur.
+
+— Il ne doit pas savoir que le défaut météo est volontaire.
+
+Nous restâmes silencieux.
+
+— Donc l’erreur était bien volontaire, dit Martin.
+
+Cette fois, nous avions mieux qu’une hypothèse.
+
+Hélène voulait que je découvre que la vidéo était fausse.
+
+Pourquoi ?
+
+Le fichier de préparation répondait en partie :
+
+*G. doit comprendre que T. n’est pas l’auteur principal des faux avant confrontation H.*
+
+Gabriel.
+
+Théo.
+
+Hélène.
+
+Elle scénarisait l’ordre de découverte.
+
+Je ressentis une colère presque enfantine.
+
+Même lorsque je pensais avoir trouvé l’incohérence de pluie par moi-même, elle l’avait peut-être posée pour que je la trouve.
+
+Nadir vit ma tête.
+
+— Attention au piège inverse.
+
+— Lequel ?
+
+— Penser que parce qu’elle a prévu une réaction, elle les a toutes prévues.
+
+Il avait raison.
+
+Je pris un carnet.
+
+J’écrivis :
+
+**Hélène voulait que je réfute CETTE vidéo.**
+
+Puis :
+
+**Cela ne signifie pas qu’elle contrôle toutes mes conclusions.**
+
+Une frontière fragile.
+
+Mais nécessaire.
+
+Le même soir, nous retrouvâmes un message de Théo envoyé à Hélène après avoir reçu la vidéo carrière :
+
+*Enfin une preuve.*
+
+Réponse :
+
+*Enfin quelque chose qui te fera avancer.*
+
+Pas : *une preuve vraie.*
+
+La nuance semblait minuscule.
+
+Elle contenait pourtant toute la méthode d’Hélène.
+
+Un objet pouvait être faux et produire, à ses yeux, un mouvement « utile ».
+
+La vérité n’était plus une fin.
+
+C’était un outil de direction.
+
+Et lorsqu’on traite les faits comme des panneaux indicateurs, on finit par oublier qu’ils appartiennent à des vies réelles.
+
+---
+
 ### CHAPITRE 17 — EMMA
 
 Emma avait laissé plus de traces que nous ne l’avions compris.
@@ -13633,6 +13755,138 @@ Puis disparurent.
 
 Aucune réponse.
 
+
+Le journal d’Emma nous obligea aussi à revoir Laurent.
+
+Jusque-là, il était le père violent, le point d’origine.
+
+Nous retrouvâmes son frère, Pascal, qui n’avait pas parlé à la famille depuis six ans.
+
+— Laurent était un salaud quand il avait peur.
+
+— Ça signifie ?
+
+— Il devenait violent dès qu’il croyait perdre le contrôle.
+
+Pas une excuse.
+
+Une mécanique.
+
+Pascal confirma que Laurent avait parlé de Clara une seule fois après 2009.
+
+— Il m’a dit : « Elle est tombée et ils m’ont laissé porter le reste. »
+
+— Qui « ils » ?
+
+— Il n’a jamais précisé.
+
+— Il niait l’avoir frappée ?
+
+— Non. Il disait : « Je l’ai frappée, pas tuée. »
+
+Le profil fœtal avait déjà détruit une autre accusation.
+
+— Laurent savait qu’il n’était pas le père ?
+
+Pascal eut un rire amer.
+
+— Oui. Clara le lui avait crié pendant une dispute.
+
+Donc Sophie et probablement Hélène savaient aussi.
+
+Pourtant Théo avait été laissé dans la croyance inverse.
+
+Nous fouillâmes les messages de Laurent.
+
+Trois semaines avant les morts :
+
+Laurent :
+
+*Ta mère recommence.*
+
+Sophie :
+
+*Elle est morte.*
+
+Laurent :
+
+*Arrête.*
+
+Sophie :
+
+*Je ne veux pas parler de ça ici.*
+
+Puis :
+
+*Théo sait pour Clara.*
+
+Laurent :
+
+*Qui lui a dit ?*
+
+Sophie :
+
+*Pas moi.*
+
+Laurent :
+
+*Alors Hélène.*
+
+Autre échange :
+
+Laurent :
+
+*Si Théo vient me parler de la grossesse, je lui dirai la vérité.*
+
+Sophie :
+
+*Non.*
+
+Laurent :
+
+*Il croit que c’était moi.*
+
+Sophie :
+
+*Je sais.*
+
+Laurent :
+
+*Tu le laisses croire ?*
+
+Aucune réponse.
+
+Je regardai Sophie autrement.
+
+Elle n’était plus seulement celle qui avait protégé Laurent en 2009.
+
+En 2026, elle savait que son fils croyait une chose fausse sur son père.
+
+Et elle se taisait encore.
+
+Peur de révéler Hélène.
+
+Peur de détruire la famille.
+
+Peur de ce que Théo ferait.
+
+Toujours la peur utilisée comme ciment.
+
+Emma avait essayé de briser ce silence.
+
+Pas avec un grand discours.
+
+Avec deux billets de train.
+
+Un sac.
+
+Une sortie.
+
+Elle ne voulait pas résoudre 2009.
+
+Elle voulait empêcher 2026.
+
+C’était peut-être la seule personne de la famille à avoir compris que toutes les vérités ne valent rien si personne n’arrête la prochaine violence.
 ---
 
 ### CHAPITRE 18 — LE VISAGE D’HÉLÈNE
@@ -14441,6 +14695,122 @@ Puis le visage d’Hélène lorsque j’avais parlé de Mathieu.
 
 Rien n’était terminé.
 
+
+L’arrestation d’Hélène transforma immédiatement les rôles.
+
+Pendant vingt-quatre heures, nous reçûmes des messages anonymes célébrant sa capture.
+
+**VOUS AVEZ LE CERVEAU.**
+
+Le lendemain :
+
+**MAUVAIS CERVEAU.**
+
+Je regardai Martin.
+
+— Quelqu’un veut qu’on doute.
+
+— Ou se moque.
+
+— Ou Hélène a programmé.
+
+— Ou Mathieu.
+
+Nous cessâmes avant d’ajouter Observer.
+
+La garde à vue produisit pourtant des faits matériels.
+
+Empreintes d’Hélène chez les Morel.
+
+Traces dans le fourgon.
+
+ADN sur un masque retrouvé dans une poubelle de scène.
+
+Session ouverte sur le scanner mobile.
+
+Elle était bien là avant l’intervention officielle.
+
+Puis de nouveau après, sous apparence de scientifique.
+
+Deux présences.
+
+Une clandestine.
+
+Une légitimée par le vêtement.
+
+Le registre des consommables montrait qu’une combinaison blanche et une caisse avaient disparu d’un dépôt quinze jours avant.
+
+Badge utilisé :
+
+**maintenance_media_27**.
+
+Le même environnement de comptes techniques que celui exploité pour la vidéo Fabre.
+
+Hélène reconnut avoir pris la tenue.
+
+— Pourquoi prévoir une sortie déguisée avant de savoir ce qui se passerait ?
+
+— Je savais qu’une confrontation se préparait.
+
+— Vous saviez qu’il y aurait des morts.
+
+— Non.
+
+— Alors pourquoi une tenue scientifique ?
+
+— Parce que si la police arrivait, j’aurais besoin de pouvoir rester assez longtemps pour comprendre ce qui avait été prélevé.
+
+— Vous entendez la folie de cette réponse ?
+
+Elle me fixa.
+
+— Oui.
+
+— Une personne normale appelle la police.
+
+— Je n’étais plus une personne normale depuis longtemps.
+
+Pas une demande de compassion.
+
+Presque un diagnostic.
+
+Hélène avait vécu si longtemps dans la logique du secret qu’une intervention légale n’était plus un réflexe possible.
+
+Elle pensait en accès.
+
+En sorties.
+
+En contrôle.
+
+Voilà peut-être sa vraie pathologie morale, sans avoir besoin de lui attribuer une maladie : l’habitude de croire qu’elle seule pouvait gérer les conséquences.
+
+Le soir, Sarah me demanda :
+
+— Est-ce qu’elle t’a semblé soulagée ?
+
+— Quand ?
+
+— À l’arrestation.
+
+Je réfléchis.
+
+— Oui.
+
+— Alors elle voulait peut-être qu’on la trouve.
+
+— Ou elle était fatiguée.
+
+— Ou les deux.
+
+Nous nous regardâmes.
+
+— Tu vois, dit-elle. Même moi.
+
+— Quoi ?
+
+— Peut-être.
+
+Pour la première fois, le mot nous fit sourire.
 ---
 
 ### CHAPITRE 19 — VINGT-SEPT PIÈCES
@@ -15037,6 +15407,102 @@ Une fausse pièce n’était pas seulement une erreur.
 
 C’était peut-être celle autour de laquelle tout le reste avait été construit.
 
+
+L’équipe des vingt-sept pièces travailla désormais dans une salle isolée du réseau principal.
+
+Chaque mouvement était consigné deux fois.
+
+Nadir appelait cela « la paranoïa reproductible ».
+
+— Si vous devenez fous, faites-le avec protocole.
+
+Les pièces 25, 26 et 27 restaient verrouillées.
+
+Un magistrat proposa de casser le chiffrement.
+
+Nadir s’y opposa.
+
+— Si la chaîne détecte l’altération, on peut détruire l’ordre prévu.
+
+— Vous respectez les règles d’un mort ?
+
+— Je respecte l’intégrité d’un système.
+
+Nous créâmes deux équipes.
+
+L’une suivrait le protocole.
+
+L’autre attaquerait une copie isolée.
+
+Aucune communication entre elles.
+
+Au bout de trois jours, l’équipe offensive n’avait pas ouvert la 27.
+
+Pendant ce temps, nous retrouvâmes une note de Mathieu datée d’avant les meurtres.
+
+Les vingt-sept numéros existaient.
+
+Pas tous les titres.
+
+10 : **SUBSTITUTION.**
+
+20 : **PREUVE QUI DOIT ÊTRE FAUSSE.**
+
+25 : **TÉMOIN.**
+
+26 : **VOIX.**
+
+27 : **AUTEUR ?**
+
+Le point d’interrogation appartenait au document original.
+
+À côté :
+
+*Si quelqu’un ajoute sa réponse ici, ce ne sera pas la mienne.*
+
+Je relus.
+
+La pièce 27 utilisait sa clé mais pas son format habituel.
+
+Mathieu avait anticipé qu’un autre puisse tenter de prendre possession de la fin du protocole.
+
+Pas nécessairement l’identité.
+
+Le risque.
+
+— Donc quand 27 s’ouvrira, on ne la traite pas comme parole de Mathieu.
+
+— Exact, dit Nadir.
+
+Une précaution écrite par un mort contre l’usurpation de sa propre voix.
+
+Dans une affaire de deepfakes, c’était probablement son testament le plus intelligent.
+
+La note contenait aussi une phrase :
+
+*Le protocole ne doit jamais demander au lecteur de croire une preuve uniquement parce qu’elle vient de moi.*
+
+Lecteur.
+
+Le mot était étrange dans un dossier policier.
+
+Mais Mathieu avait construit quelque chose destiné à être parcouru.
+
+Pas un roman.
+
+Un chemin de vérification.
+
+Je commençai à comprendre la différence profonde entre lui et Hélène.
+
+Elle scénarisait les personnes.
+
+Lui scénarisait les contrôles.
+
+Les deux étaient capables d’imposer un ordre.
+
+Mais l’un cherchait — au moins en théorie — à rendre chaque étape vérifiable sans sa présence.
+
+L’autre demandait toujours qu’on passe par sa lecture du monde.
 ---
 
 ### CHAPITRE 20 — LA PIÈCE FAUSSE
@@ -15707,6 +16173,80 @@ Je détestai ma propre réponse.
 
 Quelqu’un savait exactement comment construire une enquête que je ne pourrais pas abandonner.
 
+
+La découverte de la fraude sur la pièce 010 eut une conséquence juridique immédiate.
+
+Tout ce qui avait été obtenu grâce à la suspicion initiale contre Fabre devait être réexaminé.
+
+Mandats.
+
+Saisies.
+
+Auditions.
+
+La défense de Théo attaqua la chaîne.
+
+Les avocats d’Hélène aussi.
+
+— Une pièce falsifiée peut contaminer le dossier, expliqua Montels.
+
+— Même si on l’a découverte nous-mêmes ?
+
+— Parce qu’elle a orienté des décisions.
+
+Pendant une semaine, nous reconstruisîmes ce qui aurait été légalement accessible sans le faux ADN.
+
+Heureusement, plusieurs vérifications venaient du message de Sophie, de vidéos ou de consentements.
+
+Le dossier survivait.
+
+Mais pas intact.
+
+— C’est ça que voulait le faux ? demandai-je. Faire tomber l’enquête au procès ?
+
+Montels réfléchit.
+
+— Possible.
+
+— Ou cacher ma présence.
+
+— Les deux peuvent être vrais.
+
+La falsification n’était donc pas seulement narrative.
+
+Elle avait un potentiel explosif devant un tribunal.
+
+Si elle restait cachée jusqu’aux audiences, une défense pouvait présenter toute l’enquête comme empoisonnée.
+
+La révéler maintenant nous blessait.
+
+Mais nous permettait de nettoyer.
+
+Je regardai :
+
+**26 AUTHENTIFIÉES. 1 FALSIFIÉE.**
+
+Peut-être que le mécanisme de Mathieu ne cherchait pas seulement à provoquer.
+
+Il pouvait être une procédure de sécurité posthume.
+
+Une manière de forcer ceux qui enquêteraient à découvrir la contamination avant de bâtir définitivement dessus.
+
+Je commençais à reconnaître les styles.
+
+Hélène manipulait l’interprétation.
+
+Mathieu organisait la vérification.
+
+Observer semblait savoir utiliser les deux.
+
+C’était plus subtil qu’un duel entre « bon » et « méchant ».
+
+Mathieu lui-même avait caché, programmé, surveillé.
+
+Sa méthode n’était pas innocente.
+
+Elle était simplement orientée vers une autre idée du contrôle.
 ---
 
 ### CHAPITRE 21 — CE QUI MANQUE
