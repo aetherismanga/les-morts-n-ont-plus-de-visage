@@ -5743,6 +5743,184 @@ Je regardai le sang sur le fauteuil.
 
 — Pas assez pour rester vivant.
 
+La mort de Cazeneuve transforma immédiatement le vieux dossier en affaire contemporaine.
+
+Une heure après les tirs, le parquet plaça sa maison sous scellés. À midi, deux chaînes d’information savaient déjà qu’un ancien policier lié à Clara Vidal venait d’être abattu. À 12 h 17, l’une d’elles diffusa ma photographie en médaillon à côté de la sienne.
+
+— Qui leur donne tout ça ? demandai-je.
+
+Montels releva à peine les yeux.
+
+— Ils appellent. Les gens parlent.
+
+— Trop vite.
+
+— Le monde n’a pas besoin d’un complot pour être indiscret.
+
+Elle avait raison. C’était important de s’en souvenir.
+
+Tous les dégâts n’étaient pas organisés. Certains venaient simplement de la vitesse.
+
+Nous fîmes l’inventaire de la maison.
+
+Dans la cuisine, quatre assiettes sales dans l’évier. Une seule personne vivait là.
+
+— Il avait reçu quelqu’un, dit Martin.
+
+Ou il avait laissé traîner plusieurs jours.
+
+Nous cherchions tellement des signes qu’il fallait lutter contre nous-mêmes.
+
+Le lave-vaisselle contenait trois verres. Sur l’un, un rouge à lèvres pâle.
+
+Prélèvement.
+
+ADN féminin partiel.
+
+Pas de correspondance immédiate.
+
+Sarah refusa de comparer avec sa mère sans réquisition formelle.
+
+— Tu sais très bien qu’on va la demander.
+
+— Alors demandez-la.
+
+Son ton était sec.
+
+— Tu crois que je veux que ce soit elle ?
+
+— Je crois que tu veux une réponse.
+
+— Oui.
+
+— C’est différent.
+
+Nous obtînmes la réquisition.
+
+Le profil partiel était compatible avec Hélène.
+
+Pas suffisant pour une identification judiciaire. Mais assez pour établir qu’une femme de sa lignée pouvait avoir bu chez Cazeneuve récemment.
+
+Sarah également.
+
+Sophie également.
+
+Emma également si elle avait été vivante.
+
+La génétique nous rendait encore une fois un fait trop large pour raconter une histoire.
+
+Nous vérifiâmes les caméras de péage.
+
+Deux jours avant sa mort, une voiture louée sous le nom Anne Delmas avait circulé vers Uzès.
+
+Hélène.
+
+Cette fois, la convergence était plus forte.
+
+— Elle l’a vu, dit Martin.
+
+— Oui.
+
+— Et deux jours plus tard il est tué.
+
+— Oui.
+
+— Tu vas dire quoi ?
+
+— Que ça ne suffit pas pour dire qu’elle a commandé le tir.
+
+— Tu deviens insupportable.
+
+— Je progresse.
+
+Dans le bureau de Cazeneuve, derrière un cadre, un technicien trouva une micro-carte mémoire.
+
+Des enregistrements audio de rendez-vous.
+
+Le plus récent datait de deux jours avant.
+
+La voix de Cazeneuve :
+
+— Tu aurais dû rester morte.
+
+Hélène :
+
+— J’ai essayé.
+
+— Tu as recommencé avec Théo.
+
+— Je voulais qu’il sache.
+
+— Tu voulais contrôler la manière dont il saurait.
+
+Silence.
+
+Puis Cazeneuve :
+
+— Mathieu dit que quelqu’un utilise les vieux accès d’Antoine.
+
+Hélène :
+
+— Mathieu dit beaucoup de choses.
+
+— Il a les logs.
+
+— Alors il est déjà mort.
+
+Je me figeai.
+
+Martin arrêta.
+
+— Elle savait.
+
+Nous relançâmes.
+
+Cazeneuve :
+
+— Qu’est-ce que ça veut dire ?
+
+Hélène :
+
+— Que s’il les a vraiment, quelqu’un ne le laissera pas les publier.
+
+— Toi ?
+
+Long silence.
+
+— Non.
+
+— Tu me demandes de te croire ?
+
+— Non. Je te demande d’avoir peur de la bonne personne.
+
+Enregistrement terminé.
+
+La phrase était terrible.
+
+Pas parce qu’elle innocentait Hélène.
+
+Parce qu’elle prouvait qu’avant la mort de Mathieu, elle pensait déjà qu’un tiers pouvait le tuer.
+
+Ou qu’elle préparait précisément cette défense.
+
+Montels demanda :
+
+— Pourquoi Cazeneuve enregistrait ?
+
+Martin répondit :
+
+— Parce qu’il ne faisait plus confiance à personne.
+
+Je pensai aux carnets, aux copies, au casier.
+
+Cazeneuve avait passé les dernières années à préparer l’hypothèse de sa mort.
+
+Et malgré tout, il était mort avant de terminer une phrase.
+
+Le pouvoir de celui qui manipulait l’histoire n’était peut-être pas d’effacer toutes les preuves.
+
+Seulement de les empêcher d’arriver dans le bon ordre.
+
 Sur le chemin du retour, nous reçûmes l’analyse de la photographie de Cazeneuve.
 
 La femme aux cheveux blancs ne pouvait pas être identifiée.
@@ -8113,6 +8291,114 @@ La vidéo n’était plus une accusation.
 
 Elle devenait une horloge volontairement déréglée.
 
+Avant de rencontrer Inès Roux, nous reconstituâmes les onze derniers jours de Mathieu.
+
+Il avait loué deux voitures, dormi dans trois hôtels alors qu’il possédait un atelier, retiré du liquide et laissé son téléphone principal éteint plusieurs heures chaque jour.
+
+— Il savait qu’on le suivait, dit Martin.
+
+Une caméra d’hôtel le montrait entrant avec une valise puis ressortant quinze minutes plus tard sans.
+
+La valise fut retrouvée dans une consigne.
+
+À l’intérieur : vêtements, disque dur, téléphone éteint.
+
+Le disque contenait des copies chiffrées de presque tout le dossier Clara.
+
+Mais pas la vidéo de cinquante-deux secondes.
+
+Le téléphone avait reçu un dernier message avant extinction :
+
+**TU AS ENCORE LE TEMPS D’ARRÊTER.**
+
+Expéditeur inconnu.
+
+Mathieu avait répondu :
+
+**TOI AUSSI.**
+
+Deux phrases.
+
+Aucune identité.
+
+Nous reconstruisîmes ses déplacements.
+
+Café avec Hélène.
+
+Parking avec Théo.
+
+Bibliothèque universitaire.
+
+Puis un ancien centre de données à Montpellier.
+
+Pourquoi ?
+
+Le centre hébergeait autrefois des archives du prestataire ALM Systems.
+
+Société d’Antoine Lemaire.
+
+— Il cherchait Observer à la source.
+
+Nadir retrouva un registre d’accès.
+
+Mathieu était entré deux fois.
+
+La seconde, trois jours avant sa mort.
+
+Accompagné.
+
+Signature du visiteur :
+
+**A. Lemaire.**
+
+Antoine était mort.
+
+— Faux nom.
+
+Caméra supprimée.
+
+Le gardien se souvenait vaguement d’une femme plus âgée.
+
+Hélène.
+
+Ou quelqu’un se présentant comme elle.
+
+Les copies de sécurité du centre contenaient une requête lancée par Mathieu :
+
+**observer_01 / export permissions**
+
+Puis :
+
+**access denied**
+
+Deux minutes plus tard :
+
+**root override success**
+
+Quelqu’un avait ouvert la porte à distance pendant qu’il était là.
+
+— Observer savait qu’il cherchait.
+
+— Ou l’a aidé.
+
+— Pourquoi aider Mathieu à trouver Observer ?
+
+Nadir haussa les épaules.
+
+— Peut-être pour lui montrer uniquement ce qu’il voulait qu’il trouve.
+
+Cela résumait presque toute l’affaire.
+
+Laisser quelqu’un découvrir lui-même une information soigneusement choisie.
+
+Il ne reçoit pas un mensonge.
+
+Il enquête.
+
+Il trouve.
+
+Il croit davantage.
+
 Nous retrouvâmes une collègue de Mathieu, Inès Roux.
 
 Elle travaillait avec lui sur l’authentification des contenus.
@@ -9830,6 +10116,108 @@ Aucune certitude biométrique.
 Sarah venait donc de voir sa mère parce que quelqu’un voulait qu’elle la voie.
 
 Même mécanisme.
+
+Avant que nous comprenions le code de Sarah, le flux continua encore neuf minutes.
+
+Théo posa une chaise face à la caméra.
+
+— Tu veux savoir pourquoi eux ?
+
+Il désignait Martin et Sarah.
+
+— Parce qu’ils sont les deux qui t’aiment assez pour mentir.
+
+Martin releva les yeux.
+
+— Moi je mens parce que j’ai peur, dit-il.
+
+Théo sembla surpris qu’il parle.
+
+— Et elle ?
+
+Martin regarda Sarah.
+
+— Demande-lui.
+
+Théo se tourna.
+
+Sarah resta silencieuse.
+
+— Tu as caché ta mère.
+
+— Oui.
+
+— Tu savais ce qu’elle faisait avec moi.
+
+— Pas tout.
+
+— Tu savais qu’elle m’envoyait des choses.
+
+— Trop tard.
+
+— Toujours trop tard.
+
+Sarah le fixa.
+
+— Tu sais ce qu’elle t’a pris ?
+
+— Quoi ?
+
+— Le droit d’être en colère pour de bonnes raisons.
+
+Théo recula.
+
+— Qu’est-ce que ça veut dire ?
+
+— Papa a fait des choses atroces. Maman a menti. Grand-mère aussi. Tu avais le droit d’être en colère. Elle t’a donné des faux au milieu pour que même ta colère devienne à elle.
+
+Je regardai l’écran.
+
+Théo ne répondait plus.
+
+Sarah séparait enfin deux choses que tout le monde avait confondues : la réalité de sa douleur et la fausseté de certaines preuves.
+
+— Tu crois que je suis fou ?
+
+— Non.
+
+— Alors quoi ?
+
+— Je crois que tu as été manipulé et que tu as quand même fait tes propres choix.
+
+La phrase comptait.
+
+Ni victime absolue.
+
+Ni monstre fabriqué.
+
+Théo serra la mâchoire.
+
+— Emma disait pareil.
+
+— Parce qu’elle avait raison.
+
+Il détourna le regard.
+
+— Elle est morte à cause de vous.
+
+Sarah répondit :
+
+— Non. Si tu l’as tuée, elle est morte à cause de toi.
+
+Le silence fut violent.
+
+Puis un son de notification retentit hors champ.
+
+Théo regarda son téléphone.
+
+Son visage changea.
+
+Il quitta la caméra.
+
+C’est à ce moment que Sarah commença à taper du talon.
+
+Quelqu’un, ailleurs, venait peut-être encore de lui donner une instruction.
 
 La localisation ne fut pas immédiate.
 
@@ -15005,6 +15393,106 @@ Quand on enquête sur un mort, il est facile de lui faire dire ce qu’on veut.
 
 Emma avait laissé assez de mots pour résister.
 
+À la sortie du lycée, Zoé me rattrapa.
+
+— Commandant.
+
+Je me retournai.
+
+— Elle vous avait déjà vu.
+
+— Emma ?
+
+— Oui.
+
+Zoé ouvrit une conversation sauvegardée.
+
+Emma lui avait envoyé une photographie de moi prise dans la rue.
+
+Date : quinze jours avant sa mort.
+
+*Lui.*
+
+Zoé :
+
+*Qui ?*
+
+Emma :
+
+*Varenne.*
+
+Zoé :
+
+*Le flic ?*
+
+Emma :
+
+*Oui. Mathieu dit qu’il faut voir s’il nous remarque.*
+
+Je relevai les yeux.
+
+— Vous m’avez suivi ?
+
+Zoé rougit.
+
+— Une fois.
+
+— Pourquoi ?
+
+— Emma voulait savoir si vous étiez « parano ».
+
+Elle fit défiler.
+
+Emma :
+
+*Si quelqu’un le suit, il doit finir par regarder derrière.*
+
+Zoé :
+
+*Et s’il regarde ?*
+
+Emma :
+
+*Alors Mathieu a raison.*
+
+— Raison sur quoi ?
+
+— Je sais pas.
+
+Je regardai la date.
+
+Ce jour-là, je me souvenais avoir eu l’impression d’être suivi.
+
+Deux adolescentes à un arrêt de tram.
+
+Je n’y avais pas prêté attention.
+
+Emma testait déjà mes réactions.
+
+— Elle avait peur de quelqu’un d’autre que Théo ?
+
+Zoé acquiesça.
+
+— De sa grand-mère. Mais aussi de « celui qui sait avant ».
+
+Je me figeai.
+
+— Exactement ces mots ?
+
+— Oui.
+
+— Elle a donné un nom ?
+
+— Non. Elle disait que même Mathieu ne savait pas.
+
+Celui qui sait avant.
+
+Une définition parfaite d’Observer.
+
+Pas quelqu’un d’omniscient.
+
+Quelqu’un ayant accès aux préparatifs avant qu’ils deviennent des événements.
+
 Nous allâmes au lycée d’Emma le lendemain.
 
 Pas pour trouver un indice.
@@ -16005,6 +16493,60 @@ Ce détail me fit plus peur que tout ce qu’elle avait admis.
 
 La femme que nous pensions trouver au centre du labyrinthe venait de découvrir devant nous qu’elle n’en connaissait pas toutes les sorties.
 
+L’arrestation d’Hélène produisit un effet inattendu sur Théo.
+
+Pendant sa fuite, il consulta frénétiquement les informations en ligne.
+
+Nous le sûmes par un téléphone récupéré en Espagne.
+
+Historique :
+
+**Hélène Lemaire vivante**
+
+**Hélène arrestation**
+
+**Anne Delmas identité**
+
+**grand-mère manipulation**
+
+Puis :
+
+**comment savoir si une vidéo est vraie**
+
+Je restai devant.
+
+Théo, qui avait bâti sa vengeance sur des vidéos, posait enfin la question technique après avoir agi.
+
+Dans le cache, une page d’un article de Mathieu.
+
+Phrase surlignée :
+
+*Une preuve n’est pas ce qui vous convainc. C’est ce qui résiste à la tentative organisée de la détruire.*
+
+Je montrai à Martin.
+
+— Il commence à douter.
+
+— Trop tard.
+
+— Oui.
+
+Mais tard ne veut pas dire inutile.
+
+Sur le même appareil, un message non envoyé à Emma :
+
+*Je crois que tu avais raison sur grand-mère.*
+
+Date : après la carrière.
+
+Emma était déjà morte.
+
+Il l’avait écrit quand même.
+
+Je refermai le téléphone.
+
+La culpabilité commence parfois comme une conversation avec quelqu’un qui ne peut plus répondre.
+
 Après l’arrestation d’Hélène, Sarah demanda à la voir.
 
 Montels hésita.
@@ -16749,6 +17291,42 @@ Une seule phrase :
 
 **PAS ENCORE. TROUVEZ LA PIÈCE FAUSSE.**
 
+Avant cela, nous avions compris que notre plus grand ennemi n’était plus seulement la falsification.
+
+C’était la connaissance du dossier.
+
+Chaque expert savait déjà ce que certaines pièces étaient censées prouver.
+
+Nadir proposa donc une méthode brutale :
+
+— On sépare les pièces de l’histoire.
+
+— Comment ?
+
+— On donne aux experts uniquement ce qu’ils doivent mesurer.
+
+Pas de portrait de Fabre avec le verre.
+
+Pas de nom de Gabriel avec la vidéo du hall.
+
+Pas de théorie Hélène avec la carrière.
+
+Seulement des objets.
+
+Des fichiers.
+
+Des chaînes.
+
+Des questions techniques.
+
+— Ça va prendre du temps, dit Montels.
+
+— Moins que corriger une erreur judiciaire.
+
+Personne ne répondit.
+
+Nous avions déjà failli en fabriquer une.
+
 Pour authentifier les vingt-sept pièces, nous créâmes une équipe qui ne connaissait presque rien de l’histoire.
 
 C’était l’idée de Nadir.
@@ -17288,6 +17866,56 @@ Depuis le début, nous demandions :
 Mauvaise question.
 
 Une manipulation pouvait contenir une vérité.
+
+L’équipe indépendante vit l’anomalie du scellé en vingt minutes.
+
+Une technicienne qui ignorait tout de Nicolas Fabre leva simplement la main.
+
+— Le numéro photographié n’est pas celui analysé.
+
+Simple.
+
+Évident.
+
+Nous avions mis des semaines.
+
+Je ressentis d’abord de la honte.
+
+Puis je compris pourquoi.
+
+Elle n’avait pas l’ADN de Fabre dans la tête.
+
+Pas son passé violent.
+
+Pas sa photographie.
+
+Elle ne savait pas ce que la pièce devait signifier.
+
+Elle regardait ce qu’elle était.
+
+Après, je lui demandai :
+
+— Qu’est-ce qui vous a alertée ?
+
+— Le numéro.
+
+— C’est tout ?
+
+— Oui.
+
+— Vous n’avez pas cherché si l’ADN collait au suspect ?
+
+Elle me regarda, surprise.
+
+— Quel suspect ?
+
+Voilà.
+
+La preuve centrale fut sauvée par quelqu’un qui ne connaissait pas l’histoire.
+
+Plus une affaire devient narrative, plus il faut parfois remettre des morceaux du dossier entre les mains de personnes qui ignorent le récit.
+
+Sinon on finit par vérifier ce qu’on croit déjà.
 
 Nous dûmes libérer officiellement Nicolas Fabre de tout soupçon lié au verre.
 
@@ -17904,6 +18532,70 @@ Je souris.
 — Tu t’y mets.
 
 — C’est contagieux.
+
+La caméra d’un commerce voisin couvrait une partie de ma rue.
+
+À 2 h 16, quatre minutes après la sortie de l’homme de mon immeuble, un fourgon blanc apparaissait.
+
+Il ralentissait cinquante mètres plus loin.
+
+Une silhouette montait côté passager.
+
+Visage invisible.
+
+— Moi, dis-je.
+
+— Compatible, corrigea Nadir.
+
+Je lui lançai un regard.
+
+— Continue.
+
+À 2 h 34, une caméra le captait près de Saint-Aunès.
+
+À 2 h 39, il disparaissait dans une rue secondaire.
+
+La vidéo de sonnette affichait 2 h 41.
+
+Cette fois, les horaires tenaient.
+
+Si c’était moi dans le fourgon, je pouvais physiquement être dans le quartier.
+
+La vidéo pouvait donc contenir une scène réelle même si certaines données étaient manipulées.
+
+À 2 h 43, une autre caméra captait le fourgon près des Morel.
+
+À 3 h 29, le véhicule ressortait.
+
+Environ quarante-six minutes sur place.
+
+Assez pour la vidéo de 2 h 53.
+
+Assez pour les onze minutes.
+
+Mais pas pour expliquer la création du faux fichier à 4 h 03 si Hélène repartait avec moi.
+
+— Elle ne peut pas être partout, dit Sarah.
+
+Enfin une limite utile.
+
+Si Hélène quittait le quartier à 3 h 29, quelqu’un ou quelque chose restait capable d’agir sur le réseau des Morel après son départ.
+
+Théo pouvait être dans la maison.
+
+Mais pas forcément fabriquer seul la vidéo.
+
+Mathieu était mort.
+
+Restait l’automatisation.
+
+Ou Observer.
+
+Pour la première fois, nous pouvions enfermer le mystère dans une fenêtre horaire :
+
+**3 h 29 – 4 h 03.**
+
+Quelqu’un, humain ou programme, avait continué à écrire après le départ d’Hélène.
 
 Nous retournâmes dans mon immeuble.
 
