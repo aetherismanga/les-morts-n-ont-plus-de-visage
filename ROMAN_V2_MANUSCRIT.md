@@ -2081,89 +2081,179 @@ Et pour la première fois, il soutint mon regard comme s’il savait que ce mome
 
 ### CHAPITRE 7 — LE CASIER
 
-La clé ouvrait un casier oublié dans une ancienne gare routière.
+La clé trouvée dans la main de Cazeneuve ouvrait un casier dans l’ancienne gare routière de Nîmes.
 
-À l’intérieur : une cassette MiniDV, un Nokia, une enveloppe portant mon nom.
+Le bâtiment devait être démoli depuis trois ans. Il sentait le béton humide et la poussière. Les rangées de consignes métalliques étaient presque toutes ouvertes.
+
+La 217 résista.
+
+Martin prit la clé.
+
+— Laisse.
+
+— Pourquoi ?
+
+— Parce que tes mains tremblent.
+
+Je les regardai.
+
+Il avait raison.
+
+À l’intérieur : une cassette MiniDV, un vieux Nokia, une enveloppe portant mon nom et une clé USB plus récente que le reste.
+
+Pas de bombe.
+
+Pas de mise en scène.
+
+Seulement dix-sept années enfermées dans trente centimètres de métal.
+
+Je pris l’enveloppe.
 
 *Gabriel, si tu lis ceci, c’est que nous avons échoué.*
 
-Cazeneuve racontait m’avoir retrouvé inconscient près de la carrière en 2009, victime d’un traumatisme crânien.
+L’écriture de Cazeneuve.
 
-Il avait maquillé certains éléments.
+*Je t’ai retrouvé le 18 août 2009 à 2 h 31 près de la carrière. Tu étais inconscient. Traumatisme crânien. Tu répétais deux choses : « Clara est vivante » et « ne la laissez pas regarder ». À l’hôpital, tes souvenirs des heures précédentes étaient fragmentaires.*
 
-*Pour éviter un deuxième drame.*
+Je m’arrêtai.
 
-Aucun nom.
+— « Ne la laissez pas regarder » ?
 
-La cassette contenait une fête.
+Martin secoua la tête.
 
-Clara riait.
+Je repris.
 
-Sophie dansait.
+*C’est moi qui ai demandé que ton nom soit retiré de plusieurs actes. Je pensais te protéger le temps de comprendre. Ensuite j’ai compris que d’autres personnes avaient déjà commencé à réécrire cette nuit.*
 
-Laurent servait des verres.
+La lettre ne disait pas qui.
 
-Je passais dans le fond.
+La cassette montrait la fête.
 
-Puis une jeune femme entra dans le cadre.
+Une image granuleuse. Des jeunes trop bruyants. Une table encombrée. Laurent qui versait de l’alcool. Sophie qui riait.
 
-Je stoppai l’image.
+Clara passa devant la caméra.
+
+Vivante.
+
+Je bloquai ma respiration.
+
+Elle avait dix-sept ans et, pendant quelques secondes, le dossier cessa d’être un dossier.
+
+— Remets.
+
+Nous la regardâmes encore.
+
+Puis j’apparus au fond.
+
+Une jeune femme entra dans le cadre et posa sa main sur mon dos.
 
 Sarah.
 
-Dix-neuf ans.
+Elle se pencha à mon oreille.
 
-Je regardai la séquence trois fois.
+Je souris.
 
-Le lendemain, je posai la capture devant elle.
+Pas le sourire poli que je lui connaissais aujourd’hui.
 
-— Tu étais là.
+Quelque chose d’intime.
 
-Sarah ne nia pas.
+— Merde, murmurai-je.
 
-— Oui.
+Martin ne dit rien.
 
-— Depuis le début tu savais.
+La cassette continua.
 
-— Oui.
+Clara entra dans la cuisine. Laurent la suivit.
 
-— Pourquoi tu ne m’as rien dit ?
+Deux minutes plus tard, Sarah tourna la tête vers la porte comme si elle avait entendu quelque chose.
 
-Elle releva les yeux.
+Puis l’enregistrement s’arrêta.
 
-— Parce que tu ne te souvenais pas de moi.
+Le Nokia contenait onze messages sauvegardés.
 
-Sa réponse me fit plus mal que prévu.
+Le dernier provenait d’un numéro inconnu :
+
+*Si Clara parle, tout le monde perd quelque chose.*
+
+La clé USB, elle, était chiffrée.
+
+Notre technicien l’ouvrit le soir même.
+
+Un seul fichier.
+
+Une photographie de la carrière prise en 2009.
+
+Au premier plan, une civière.
+
+À l’arrière, presque hors cadre, une femme en blouse médicale.
+
+Visage invisible.
+
+Sur son poignet : un bracelet rouge.
+
+Je zoomai.
+
+— Ça te dit quelque chose ? demandai-je à Martin.
+
+— Non.
+
+Je ne le crus pas.
+
+Avant de quitter le laboratoire, une alerte apparut.
+
+Quelqu’un venait d’essayer d’accéder à la copie numérique de la cassette.
+
+Utilisateur :
+
+**M.VIDAL.**
+
+Le mort qui n’était pas encore mort dans notre enquête venait une nouvelle fois de nous précéder.
 
 ---
 
 ### CHAPITRE 8 — SARAH
 
-Nous restâmes seuls dans la salle d’autopsie.
+Je retrouvai Sarah dans une salle d’autopsie vide.
 
-Sarah retira ses gants.
+Elle savait pourquoi j’étais là.
 
-— Sophie était ma sœur.
+Je posai sur la table une capture de la cassette.
 
-Je la regardai.
+Sa main sur mon dos.
 
-— Emma…
+Mon sourire.
 
-— Ma nièce.
+— Tu étais là.
 
-Je pensai à Sarah penchée sur le corps de l’adolescente.
+— Oui.
 
-— Tu as travaillé sur elle sans rien dire ?
+— Tu me connaissais.
 
-— J’ai demandé à être dessaisie. On m’a dit d’attendre la relève. Puis tu es arrivé.
+— Oui.
 
-— Et tu me connaissais.
+— Depuis combien de temps ?
 
-— Très bien.
+Elle retira ses gants lentement.
 
-Elle sortit son téléphone et chercha longtemps.
+— Presque deux ans.
 
-Une photo apparut.
+J’attendis.
+
+— On était ensemble, Gabriel.
+
+Le bruit de la ventilation devint soudain immense.
+
+— Ensemble comment ?
+
+Elle eut un rire sans joie.
+
+— Ne fais pas ça.
+
+— Quoi ?
+
+— Ne me force pas à définir pour toi ce que nous étions.
+
+Elle sortit son téléphone.
 
 Une plage.
 
@@ -2171,93 +2261,199 @@ Elle et moi.
 
 Mon bras autour de sa taille.
 
-Je souris sur la photo comme un homme qui connaissait exactement la femme qu’il tenait.
+Puis une autre photo. Un restaurant.
 
-Je ne ressentis rien.
+Une autre. Sarah endormie dans une voiture, ma veste sur elle.
 
-— On était ensemble, Gabriel.
+Une autre encore : un appartement que je ne reconnus pas.
 
-Je posai le téléphone.
+Sur le réfrigérateur, une photo de nous deux.
 
-— Combien de temps ?
+— Tu vivais chez moi la moitié du temps, dit-elle.
 
-— Presque deux ans.
+— Pourquoi personne ne me l’a dit ?
 
-Je me levai.
+— Au début parce que les médecins ont demandé qu’on ne force pas tes souvenirs. Ensuite parce que tu m’as demandé de ne pas le faire.
 
-— Non.
-
-— Tu veux que je te raconte notre premier rendez-vous ?
-
-— Non.
-
-— Tu détestais les olives mais tu les mangeais dans mon assiette parce que je refusais de les laisser.
-
-— Arrête.
-
-— Tu m’appelais à 6 h 12 tous les matins de service.
-
-— Arrête.
-
-Elle se tut.
-
-Je regardai encore la photographie.
-
-— Je ne me souviens pas de t’avoir aimée.
+— Tout le monde dit que je demandais des choses dont je ne me souviens pas.
 
 — Je sais.
 
-Cette phrase détruisit quelque chose que je ne savais pas posséder.
+— Pratique.
 
-Elle m’expliqua l’hôpital sous faux nom, la commotion, les pertes de mémoire. Cazeneuve craignait qu’on revienne terminer ce qui avait commencé à la carrière.
+Elle encaissa.
 
-— Et ensuite ?
+— Tu veux me détester ? Fais-le. Mais ne transforme pas ça en preuve.
 
-— Tu m’as demandé de ne rien te raconter tant que l’affaire ne serait pas sûre. Puis elle a été classée.
+Je détournai les yeux.
 
-— Et je suis parti.
+— Raconte-moi.
+
+Elle parla de notre rencontre.
+
+D’un contrôle routier ridicule.
+
+De mes appels à 6 h 12.
+
+Des olives que je détestais mais que je mangeais dans son assiette.
+
+D’un week-end à Collioure.
+
+Je n’avais rien.
+
+Aucune image.
+
+Aucun son.
+
+Seulement la douleur étrange d’entendre quelqu’un raconter ma propre vie à la première personne.
+
+— Clara ?
+
+Sarah se raidit.
+
+— La meilleure amie de ma petite sœur pendant un temps.
+
+— Sophie.
 
 — Oui.
 
-Elle prit son manteau.
+— Pourquoi tu étais à cette fête ?
 
-Je crus la conversation terminée.
+— Parce que toi tu y allais. Tu voulais parler à Laurent. Clara t’avait contacté.
 
-À la porte, elle s’arrêta.
+Le souvenir de la cuisine jaune revint.
 
-— Il y a autre chose.
+*Il faut que je te montre quelque chose.*
 
-Je ne répondis pas.
+— Une vidéo.
 
-— Pas ce soir.
+Sarah pâlit.
 
-— Dis-le.
+— Tu te souviens ?
 
-Elle resta dos à moi.
+— D’une phrase.
+
+Elle s’assit.
+
+— Clara disait avoir filmé quelque chose. Elle avait peur de Laurent. Mais aussi de quelqu’un d’autre.
+
+— Qui ?
+
+— Elle ne me l’a jamais dit.
+
+— Et après la chute ?
+
+— Je t’ai retrouvé à l’hôpital.
+
+Sa voix changea.
+
+— Tu ne savais plus qui j’étais.
+
+Je relevai les yeux.
+
+— Rien ?
+
+— Tu connaissais mon prénom parce qu’on te l’avait répété. Mais quand je t’ai embrassé… tu as reculé.
+
+Elle regarda le sol.
+
+— Je crois que c’est le moment où j’ai compris que tu étais revenu sans revenir.
+
+Je n’avais aucune réponse.
+
+Elle se leva pour partir.
+
+— Sarah.
+
+Elle s’arrêta.
+
+— Il y a autre chose, n’est-ce pas ?
+
+Long silence.
 
 — J’étais enceinte.
 
-Le silence changea de poids.
+Je ne bougeai plus.
 
 — De toi.
 
-Elle ferma les yeux.
+— En 2009 ?
 
-— Je l’ai perdu après cette nuit-là.
+Elle acquiesça.
+
+— Je l’ai perdu après la nuit de la carrière.
+
+Les mots ne trouvèrent rien à quoi s’accrocher.
+
+— Tu me l’avais dit ?
+
+— Avant ? Oui.
+
+— J’étais heureux ?
+
+Cette fois elle pleura.
+
+— Tu avais déjà choisi un prénom.
 
 Je m’assis.
 
-La mémoire peut vous voler une douleur.
+— Lequel ?
 
-Elle peut aussi vous la rendre dix-sept ans plus tard sans vous rendre les souvenirs qui permettaient de la porter.
+— Noé.
 
-Cette nuit-là, je ne dormis pas.
+Je répétai le prénom dans ma tête.
 
-À 3 h 08, mon téléphone reçut une notification automatique.
+Rien.
+
+C’était cela, le plus violent.
+
+Pas d’avoir oublié une information.
+
+Avoir oublié l’amour qui allait avec.
+
+Sarah essuya ses yeux.
+
+— Voilà pourquoi je n’ai pas voulu te raconter tout ça au milieu d’une scène de crime.
+
+— Emma était ta nièce.
+
+— Oui.
+
+— Sophie ta sœur.
+
+— Oui.
+
+— Hélène ?
+
+Elle leva brusquement les yeux.
+
+Je vis la peur avant qu’elle la cache.
+
+— Qui t’a parlé d’Hélène ?
+
+— Élodie Carmin.
+
+Sarah ramassa son téléphone.
+
+— Je dois y aller.
+
+— Qui est-elle ?
+
+— Pas ici.
+
+— Sarah.
+
+Elle ouvrit la porte.
+
+— Ma mère.
+
+Puis elle partit.
+
+À 3 h 08 cette nuit-là, mon téléphone s’alluma.
 
 **PIÈCE 006 CONSULTÉE.**
 
-Je n’avais ouvert aucune pièce.
+Je n’avais rien consulté.
 
 ---
 
@@ -2265,57 +2461,133 @@ Je n’avais ouvert aucune pièce.
 
 Mathieu Vidal était le frère aîné de Clara.
 
-Il avait consacré sa carrière aux images synthétiques.
+Quarante-deux ans.
 
-Quand nous entrâmes dans son atelier près de Sète, tout semblait confirmer ce que nous voulions croire.
+Ingénieur spécialisé dans la synthèse audiovisuelle, la restauration d’images et, depuis cinq ans, les modèles génératifs.
+
+Le CV parfait pour fabriquer nos fantômes.
+
+Son atelier se trouvait dans une zone artisanale près de Sète.
+
+La porte n’était pas verrouillée.
+
+À l’intérieur, tout semblait confirmer sa culpabilité.
 
 Des modèles de ma voix.
 
-Des photographies de moi.
+Des photographies de moi prises à distance.
 
-Des vidéos de mes déplacements.
+Des captures de caméras publiques.
 
 Des simulations du visage d’Emma.
 
-Sur un mur : vingt-sept emplacements numérotés.
+Des extraits de journaux télévisés.
+
+Sur un mur, vingt-sept emplacements numérotés.
 
 Vingt-six photographies.
 
 Le numéro 27 était vide.
 
-— On l’a, murmura Martin.
+Martin souffla :
 
-Je voulus le croire.
+— On l’a.
 
-Puis nous trouvâmes Mathieu.
+Je regardai les images.
 
-Dans le hangar voisin.
+Morel.
 
-Mort depuis onze jours.
+Carmin.
 
-L’odeur aurait dû nous prévenir.
+Cazeneuve.
 
-Le médecin confirma rapidement.
+Fabre.
+
+Sarah.
+
+Moi.
+
+— C’est trop simple.
+
+— Pour une fois, profite.
+
+Sur un écran, un logiciel affichait mon visage.
+
+À côté : *FIDÉLITÉ 97,8 %.*
+
+Je sentis une colère froide.
+
+Un homme que je n’avais jamais rencontré avait appris à fabriquer ma tête mieux que je ne savais me souvenir de la mienne.
+
+— Il est où ?
+
+Personne ne répondit.
+
+Une odeur traversa l’atelier.
+
+Martin s’immobilisa.
+
+Nous suivîmes le couloir jusqu’au hangar voisin.
+
+Mathieu était là.
+
+Mort.
+
+Le médecin légiste local estima immédiatement plusieurs jours.
+
+L’autopsie confirmerait onze.
 
 Mathieu était mort avant les Morel.
 
-Sur son ordinateur, un dossier s’appelait EMMA.
+Avant Marseille.
 
-Une visioconférence.
+Avant Cazeneuve.
 
-— Théo va trop loin, disait Emma. Il veut qu’ils paient tous. Même ceux qui n’étaient pas responsables.
+Je retournai dans l’atelier.
 
-Théo.
+Tout ce que nous avions pris pour l’atelier du meurtrier devenait autre chose.
 
-Le frère absent.
+Peut-être un laboratoire de défense.
 
-Le survivant.
+Peut-être un piège posthume.
 
-À la fin du fichier, Mathieu regardait hors champ.
+Sur l’ordinateur, un dossier portait le nom **EMMA**.
+
+Une visioconférence s’ouvrit.
+
+Emma apparut.
+
+— Théo va trop loin, disait-elle. Il veut qu’ils paient tous. Même ceux qui n’étaient pas responsables.
+
+Mathieu répondit :
+
+— Ton frère ne fabrique pas tout ça seul.
+
+— Grand-mère l’aide.
+
+— Tu en es sûre ?
+
+— Elle lui donne des dossiers. Des vidéos. Des choses sur Clara.
+
+Mathieu regarda hors champ.
+
+— Emma, écoute-moi. Certaines images qu’elle lui donne ont été reconstruites.
+
+— Pourquoi elle ferait ça ?
+
+— Pour qu’il arrive exactement là où elle veut.
+
+Emma se rapprocha de la caméra.
+
+— Tu crois qu’elle veut tuer quelqu’un ?
+
+Mathieu resta silencieux.
+
+Puis :
 
 — Si quelque chose m’arrive, ne fais confiance à aucune vidéo que je t’envoie après ce soir.
 
-Emma fronçait les sourcils.
+Emma fronça les sourcils.
 
 — Pourquoi tu m’en enverrais si tu es mort ?
 
@@ -2323,7 +2595,57 @@ Mathieu ne sourit pas.
 
 — Exactement.
 
----
+La vidéo s’arrêta.
+
+Martin s’assit.
+
+— Hélène est donc la grand-mère.
+
+— La mère de Sarah.
+
+Je pensai à son départ précipité.
+
+Un technicien appela depuis l’autre pièce.
+
+— Commandant ?
+
+Nous le rejoignîmes.
+
+Il montrait l’historique du serveur de Mathieu.
+
+Après sa mort, son compte avait été utilisé à sept reprises.
+
+Deux connexions correspondaient exactement à celles que nous avions vues.
+
+— Quelqu’un possède ses identifiants, dit Martin.
+
+— Ou il a programmé des actions avant sa mort.
+
+— Pour quoi faire ?
+
+Je regardai les vingt-sept emplacements.
+
+— Nous conduire quelque part.
+
+Le technicien fit apparaître une dernière donnée.
+
+Une tâche planifiée.
+
+Nom :
+
+**QUAND ILS ARRIVERONT À 27.**
+
+Date de création : deux jours avant la mort de Mathieu.
+
+Contenu chiffré.
+
+Je sentis mon estomac se nouer.
+
+Mathieu n’était peut-être pas notre meurtrier.
+
+Mais avant de mourir, il savait qu’une enquête compterait vingt-sept pièces.
+
+Et il savait que nous finirions par les trouver.
 
 ### CHAPITRE 10 — LE FILS ABSENT
 
