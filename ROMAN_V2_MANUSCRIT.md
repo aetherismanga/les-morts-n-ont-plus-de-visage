@@ -3845,6 +3845,94 @@ Les secours arrivèrent.
 
 Trop tard.
 
+La balistique nous conduisit à une parcelle agricole située au nord.
+
+Deux douilles.
+
+Une branche coupée pour dégager l’angle.
+
+Le tireur avait préparé son poste.
+
+Un riverain se souvenait d’une camionnette de jardinier la veille.
+
+— Logo vert.
+
+Nous retrouvâmes la société.
+
+Le marquage magnétique avait été volé deux semaines plus tôt.
+
+Encore une identité fonctionnelle.
+
+Jardinier.
+
+Personne ne demande pourquoi un jardinier stationne près d’oliviers.
+
+Une caméra de station-service montra le tireur acheter de l’eau.
+
+Casquette.
+
+Lunettes.
+
+Le logiciel proposa plusieurs correspondances faibles.
+
+Nous refusâmes de les exploiter.
+
+À la place, nous suivîmes le paiement.
+
+Carte prépayée.
+
+Puis une application de fidélité utilisée par erreur.
+
+Identifiant publicitaire.
+
+Téléphone jetable.
+
+Une longue connexion trois jours plus tôt près de Béziers.
+
+Caméra routière.
+
+Plaque.
+
+Enfin un nom.
+
+Marc Delaunay.
+
+Ancien militaire, devenu agent de sécurité privé.
+
+Aucune relation connue avec Clara, Hélène, Théo ou nous.
+
+Quand nous allâmes chez lui, il avait disparu.
+
+Son appartement contenait peu de choses.
+
+Mais dans une poubelle, l’emballage d’une carte mémoire.
+
+Sur son ordinateur, supprimé puis récupéré :
+
+*MISSION UZÈS — cible parle avec V. — fenêtre 09:30-11:30.*
+
+Il savait donc que j’irais voir Cazeneuve.
+
+Ou le commanditaire le savait.
+
+Une instruction supplémentaire :
+
+*Ne pas atteindre V.*
+
+— On ne voulait pas te tuer, dit Martin.
+
+— Pas cette fois.
+
+La phrase n’était pas rassurante.
+
+Le paiement provenait de trois sociétés écrans.
+
+Le dernier compte identifiable était lié à une structure médicale ayant autrefois travaillé avec Hélène.
+
+Nous avions enfin une infrastructure.
+
+Mais pas encore la personne qui l’actionnait.
+
 Les techniciens mirent deux heures à déterminer l’axe probable.
 
 Tir longue distance depuis une parcelle au nord.
@@ -4537,7 +4625,91 @@ Un absent.
 
 La lettre disait de regarder les absents.
 
-Le Nokia contenait onze messages sauvegardés.
+Le Le Nokia possédait aussi un brouillon jamais envoyé.
+
+*Si quelque chose m’arrive, demandez à Mathieu ce qu’il a copié. Hélène croit que c’est le téléphone. Ce n’est pas le téléphone.*
+
+Date : 19 août 2009.
+
+Le lendemain de la mort de Clara.
+
+Le téléphone appartenait à Cazeneuve.
+
+Donc probablement son texte.
+
+— « Ce n’est pas le téléphone », relut Martin.
+
+— Alors quoi ?
+
+Dans les contacts, un numéro enregistré sous **A.L.**
+
+Antoine Lemaire.
+
+Le père de Sarah.
+
+Informaticien.
+
+Nous retrouvâmes un vieux journal de messages.
+
+A.L. : *J’ai récupéré les journaux.*
+
+Cazeneuve : *Efface tout.*
+
+A.L. : *Tu sais que ça ne marche pas comme ça.*
+
+Cazeneuve : *Fais-le.*
+
+A.L. : *Il y a déjà une copie.*
+
+Puis plus rien.
+
+— Une copie de la vidéo ?
+
+— Ou des logs.
+
+— Où ?
+
+Aucune réponse.
+
+Sarah pâlit en voyant les messages.
+
+— Papa m’a toujours dit qu’il n’avait rien à voir avec cette nuit.
+
+— Il a peut-être seulement aidé après.
+
+— À effacer.
+
+— Oui.
+
+Elle resta longtemps silencieuse.
+
+Puis :
+
+— Il travaillait parfois avec l’hôpital. Maman lui demandait des coups de main informatiques.
+
+Le cercle se refermait.
+
+Hélène contrôlait le médical.
+
+Antoine le numérique.
+
+Cazeneuve le policier.
+
+Pas forcément comme un complot préparé.
+
+Plutôt comme trois personnes capables, le temps d’une nuit, de rendre une vérité moins visible.
+
+Et ce genre d’effacement laisse des portes.
+
+Des mots de passe.
+
+Des sauvegardes.
+
+Des dettes.
+
+Observer avait peut-être simplement trouvé, des années plus tard, l’architecture qu’ils avaient eux-mêmes créée.
+
+Nokia contenait onze messages sauvegardés.
 
 Certains de Sarah.
 
@@ -4816,6 +4988,74 @@ Elle eut un rire sans joie.
 — J’ai besoin de faits.
 
 — C’est exactement le problème.
+
+Avant les photos, Sarah me demanda :
+
+— Tu veux vraiment voir ?
+
+— Oui.
+
+— Tu crois que ça va faire revenir quelque chose.
+
+Je ne répondis pas.
+
+— Et si ça ne revient pas ?
+
+— Je veux savoir ce que toi tu as vécu.
+
+La réponse la surprit.
+
+Elle posa le téléphone.
+
+— Pendant des années, j’ai gardé ces photos comme des preuves que notre histoire avait existé. Toi, tu les regardais comme des documents sur un autre homme.
+
+— Je suis désolé.
+
+— Une fois tu as dit : « On avait l’air heureux. »
+
+Je baissai les yeux.
+
+— C’était la pire phrase possible.
+
+— Je sais.
+
+Elle sourit malgré elle.
+
+Puis ouvrit la galerie.
+
+Cette fois, je ne cherchai pas un flash à chaque image.
+
+Je l’écoutai.
+
+Elle me raconta le plat brûlé dont nous avions ri une heure.
+
+Le week-end où j’avais prétendu savoir monter une tente.
+
+Le jour où elle avait rencontré mon père.
+
+Une échographie apparut.
+
+Elle s’arrêta.
+
+Je ne demandai pas.
+
+Elle ne commenta pas.
+
+Nous restâmes devant.
+
+Puis elle fit glisser.
+
+Noé ne devait pas devenir une pièce de l’enquête.
+
+Il avait déjà été assez transformé en secret.
+
+Plus tard, quand elle partit, je compris que ma mémoire n’était pas la seule autorité sur notre passé.
+
+Sarah avait vécu ces années.
+
+Les nier intérieurement parce que je ne les ressentais pas revenait à refaire, d’une autre manière, ce que tous les falsificateurs du dossier avaient fait :
+
+remplacer le témoignage d’une personne par la version qui m’était la plus confortable.
 
 Elle sortit son téléphone.
 
@@ -5605,6 +5845,64 @@ Martin s’assit.
 
 — Ou il pensait que ça arriverait.
 
+Nous retrouvâmes une collègue de Mathieu, Inès Roux.
+
+Elle travaillait avec lui sur l’authentification des contenus.
+
+— Mathieu n’était pas obsédé par les deepfakes, dit-elle. Il était obsédé par la preuve.
+
+— Différence ?
+
+— Détecter le faux est une course sans fin. Lui voulait pouvoir démontrer l’origine du vrai.
+
+— Signatures numériques.
+
+— Oui. Sources multiples. Captures sécurisées. Chaînes d’intégrité.
+
+— Vingt-sept pièces ?
+
+Elle fronça les sourcils.
+
+— Il m’a parlé d’un protocole de vingt-sept nœuds.
+
+Je me penchai.
+
+— Pourquoi vingt-sept ?
+
+— Il a dit : « Parce qu’il y a vingt-sept choses qu’Hélène croit contrôler. »
+
+Le nombre venait donc de Mathieu, au moins en partie.
+
+— Observer ?
+
+Le visage d’Inès changea.
+
+— Une fois.
+
+— Qu’a-t-il dit ?
+
+— Qu’un compte fantôme apparaissait dans les logs depuis des années. Il ne savait pas si Hélène se cachait derrière ou si quelqu’un surveillait Hélène.
+
+— Une hypothèse ?
+
+— Il m’a demandé : « Si quelqu’un connaît tous les mensonges d’une famille, est-ce forcément quelqu’un de la famille ? »
+
+— Et vous ?
+
+— J’ai répondu non. Ça peut être celui qui entretient les sauvegardes.
+
+La phrase me suivit.
+
+Nous cherchions toujours des gens émotionnellement liés à Clara.
+
+Mais la personne la mieux placée pour connaître les secrets pouvait être beaucoup plus banale.
+
+Un administrateur.
+
+Un prestataire.
+
+Quelqu’un qui avait accès parce que son travail consistait précisément à ne pas être remarqué.
+
 Nous trouvâmes un deuxième fichier.
 
 Mathieu seul face caméra.
@@ -5944,6 +6242,96 @@ Lucas haussa les épaules.
 Une réponse ordinaire.
 
 Les grands plans utilisent souvent de petites nécessités ordinaires.
+
+Nous reconstruisîmes la vie de Théo avant Clara.
+
+Étudiant correct.
+
+Club de course.
+
+Deux relations.
+
+Peu d’histoires.
+
+Ses amis le décrivaient comme calme, parfois obsessionnel mais jamais violent.
+
+Yanis, son meilleur ami, accepta de parler.
+
+— Ça a changé il y a deux ans.
+
+— Quand il a trouvé la photo ?
+
+— Oui.
+
+— Il vous en a parlé ?
+
+— Tout le temps.
+
+— Hélène ?
+
+— Sa grand-mère morte ?
+
+Je notai.
+
+Théo cachait donc qu’elle était vivante.
+
+Yanis montra des captures.
+
+Au début, Théo envoyait des articles sur les erreurs judiciaires, les deepfakes, les faux souvenirs.
+
+*On peut plus croire les images.*
+
+Quelques mois plus tard :
+
+*En fait c’est pire. Les vrais documents mentent aussi.*
+
+Sa pensée évoluait.
+
+Il ne devenait pas naïf.
+
+Il devenait méfiant envers tout.
+
+Puis une « source » lui avait fourni des documents médicaux authentiques.
+
+Des faits vérifiables.
+
+C’était ainsi que la confiance avait été reconstruite.
+
+Pas avec un grand mensonge.
+
+Avec beaucoup de vrai.
+
+— À la fin, dit Yanis, il ne parlait plus de savoir. Il parlait de faire avouer.
+
+— Qui ?
+
+— Son père.
+
+— Il a déjà dit vouloir le tuer ?
+
+— Jamais.
+
+— Droguer ?
+
+Yanis pâlit.
+
+— Il a demandé combien de temps quelqu’un pouvait rester conscient avec certains produits.
+
+— Et vous avez fait quoi ?
+
+— Je lui ai dit d’aller se faire voir.
+
+Il pleura.
+
+— J’aurais dû appeler quelqu’un.
+
+Je répondis :
+
+— On n’est pas responsable de tout ce qu’on n’a pas empêché.
+
+Je prononçai la phrase naturellement.
+
+Elle me reviendrait plus tard, quand j’aurais besoin que quelqu’un me la dise à mon tour.
 
 Dans la chambre de Théo, chez les Morel, nous avions d’abord vu un espace presque banal.
 
