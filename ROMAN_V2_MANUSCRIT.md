@@ -20855,7 +20855,9 @@ Nom :
 
 2 h 53.
 
-Avant de lancer la vidéo, Sarah demanda qu’on arrête.
+
+
+Avant de lancer la vidéo, Sarah demanda qu’on attende.
 
 — Une minute.
 
@@ -20875,33 +20877,7 @@ Sarah inspira.
 
 — Vas-y.
 
-La première image apparut.
-
-Emma ajustant la caméra.
-
-Sarah porta immédiatement une main à sa bouche.
-
-Elle ne pleura pas.
-
-Pas encore.
-
-Quand Emma sourit brièvement en vérifiant le cadrage, Sarah murmura :
-
-— Elle faisait toujours ça.
-
-— Quoi ?
-
-— Cette tête quand elle essayait de comprendre si un appareil marchait.
-
-Un détail minuscule.
-
-Inutile au dossier.
-
-Essentiel pour elle.
-
-Je le gardai.
-
-Parce que cette histoire avait trop souvent transformé les gens en fonctions.
+Je compris alors quelque chose que le dossier nous faisait oublier depuis des semaines.
 
 Emma n’était pas seulement la clé d’une chronologie.
 
@@ -20911,189 +20887,9 @@ Même Hélène n’était pas uniquement une manipulatrice.
 
 Et moi, je n’étais pas seulement le policier amnésique autour duquel les autres disposaient leurs preuves.
 
-Si nous voulions atteindre la vérité sans devenir semblables à ceux qui l’avaient réécrite, il fallait conserver ce qui ne servait à rien.
+Les gens existaient avant les pièces.
 
-Les gestes.
-
-Les projets.
-
-Les gens.
-
-La vidéo continua.
-
-À 2 h 58, avant l’apparition d’Hélène, un ordinateur dans le couloir s’alluma.
-
-Une lumière bleue.
-
-Une notification trop petite pour être lue.
-
-— Stop.
-
-Nadir revint en arrière.
-
-Il agrandit uniquement la zone de l’écran.
-
-— Je peux améliorer, mais pas inventer.
-
-Deux mots finirent par émerger.
-
-**REMOTE SESSION**
-
-— Session distante, dit-il.
-
-— Depuis où ?
-
-— Impossible avec la vidéo seule.
-
-À 3 h 01, l’écran s’éteignait.
-
-Puis Hélène arrivait.
-
-Une minute plus tard, coupure du flux.
-
-Nous cherchâmes dans les logs du routeur des Morel.
-
-Une session distante s’était ouverte à 2 h 57.
-
-Compte :
-
-**M.VIDAL_BACKUP**
-
-Adresse source masquée.
-
-Session maintenue jusqu’à 4 h 05.
-
-Je me redressai.
-
-— Voilà comment le faux fichier de 4 h 03 a pu être créé après le départ du fourgon.
-
-Nadir acquiesça.
-
-Certaines commandes étaient régulières.
-
-D’autres non.
-
-À 3 h 58, une ligne contenait une faute puis une correction.
-
-— Humain ? demandai-je.
-
-— Probablement.
-
-Martin leva les yeux.
-
-— Je savais que ce mot finirait par tous nous contaminer.
-
-À 4 h 03 :
-
-**render_emma19_final**
-
-Puis :
-
-**replace token: MATHIEU > GABRIEL**
-
-Personne ne parla.
-
-Le faux prénom.
-
-La fabrication du fichier se trouvait là.
-
-À 4 h 05 :
-
-**session terminate**
-
-Quelqu’un, connecté à distance, avait modifié la vidéo d’Emma deux minutes avant de quitter le réseau.
-
-Pas Hélène si elle se trouvait déjà sur la route.
-
-Pas Théo, sauf s’il disposait d’une aide technique invisible jusque-là.
-
-Mathieu était mort.
-
-Restait un accès préparé par lui.
-
-Ou quelqu’un utilisant ses outils.
-
-Observer cessait d’être seulement un nom dans des logs.
-
-Il avait maintenant une action précise, dans une fenêtre précise.
-
-Nadir retraça les commandes précédentes.
-
-À 3 h 00, la session distante avait copié un fichier nommé **SECOND_REGARD_SOURCE**.
-
-À 3 h 04, juste après la coupure de la caméra, elle avait vérifié la présence de trois appareils :
-
-**EMMA_PHONE**
-
-**GABRIEL_PHONE**
-
-**H_LOCAL**
-
-— H, dit Martin.
-
-— Hélène.
-
-— Probablement.
-
-Nadir se tourna vers moi.
-
-— Ça vous amuse maintenant ?
-
-— Non.
-
-Le téléphone d’Emma resta connecté.
-
-Le mien disparut du réseau à 3 h 18.
-
-Celui attribué à Hélène à 3 h 26.
-
-Cela collait presque parfaitement au départ du fourgon à 3 h 29.
-
-— Donc à 3 h 29, deux appareils partent.
-
-— Oui.
-
-— Emma reste.
-
-— Oui.
-
-— Théo ?
-
-Un quatrième appareil apparut :
-
-**T-MOBILE**
-
-Actif jusqu’à 3 h 47.
-
-Puis coupé.
-
-— Donc Théo quitte probablement après Hélène.
-
-— Ou éteint son téléphone.
-
-— Et à 4 h 03, la session distante est toujours là.
-
-Oui.
-
-Le faux fichier d’Emma avait donc été créé quand tous les suspects physiques que nous connaissions pouvaient déjà avoir quitté la maison.
-
-Je regardai l’écran.
-
-— Ce n’est pas un détail.
-
-Nadir acquiesça.
-
-— Non.
-
-— C’est la première chose qui oblige vraiment à séparer Hélène de la totalité du dispositif.
-
-Martin resta silencieux.
-
-Nous avions passé des semaines à trouver une personne capable d’expliquer tout.
-
-La chronologie venait de nous dire que cette personne n’existait peut-être pas.
-
-Ou qu’elle n’était pas sur place.
+Il fallait essayer de ne pas les perdre une seconde fois.
 
 Nous préparâmes la salle comme pour un interrogatoire.
 
@@ -21410,6 +21206,74 @@ Martin posa une main sur mon épaule.
 Je ris.
 
 — Voilà notre preuve maintenant ?
+
+Avant d’analyser mon mouvement, Nadir revint sur un détail du couloir.
+
+À 2 h 58, avant l’apparition d’Hélène, l’écran d’un ordinateur s’allumait seul.
+
+Une notification trop petite pour être lue.
+
+Il isola la zone.
+
+Deux mots finirent par émerger :
+
+**REMOTE SESSION**
+
+Les journaux du routeur confirmèrent une connexion distante ouverte à 2 h 57.
+
+Compte :
+
+**M.VIDAL_BACKUP**
+
+La session resta active jusqu’à 4 h 05.
+
+À 3 h 58, une commande comportait une faute puis une correction.
+
+— Humain ? demandai-je.
+
+— Probablement, dit Nadir. Un script peut simuler une erreur, mais ici je n’en vois pas l’intérêt.
+
+À 4 h 03 :
+
+**render_emma19_final**
+
+Puis :
+
+**replace token: MATHIEU > GABRIEL**
+
+Le faux prénom.
+
+La fabrication du fichier manipulé se trouvait là.
+
+À 4 h 05 :
+
+**session terminate**
+
+Nous retraçâmes aussi les appareils présents.
+
+Mon téléphone disparaissait du réseau vers 3 h 18.
+
+Celui attribué à Hélène vers 3 h 26.
+
+Le fourgon quittait le secteur vers 3 h 29.
+
+L’appareil de Théo restait actif jusqu’à environ 3 h 47.
+
+La session distante, elle, continuait.
+
+Le fichier d’Emma avait donc été modifié après le départ probable d’Hélène et de moi.
+
+Pour la première fois, la chronologie obligeait à séparer Hélène de la totalité du dispositif.
+
+Elle avait manipulé énormément de choses.
+
+Elle ne pouvait pourtant pas avoir accompli seule tout ce qui s’était produit.
+
+Il restait soit une automatisation de Mathieu, soit quelqu’un utilisant ses outils.
+
+Observer cessait d’être seulement un nom dans des logs.
+
+Il avait maintenant une action précise dans le temps.
 
 Nous analysâmes aussi le mouvement de ma silhouette dans la vidéo.
 
@@ -21925,75 +21789,39 @@ Chaque acte de protection produisait encore un trou où un autre récit pouvait 
 
 ### CHAPITRE 24 — ONZE MINUTES
 
-Avant de l’écouter, nous appliquâmes la même règle.
+La pièce 26 durait exactement cinq secondes et huit dixièmes.
 
-Qu’est-ce qui serait vrai même si l’audio était entièrement synthétique ?
+Avant de l’écouter, Montels nous imposa une règle.
+
+— Vous écrivez d’abord ce qui reste vrai si le fichier est faux.
+
+Martin soupira.
+
+— On fait des devoirs maintenant ?
+
+— Oui.
+
+Nous listâmes.
 
 La caméra avait été coupée.
 
-Un identifiant à mon nom avait reçu le droit de le faire.
+Un identifiant local portant mon nom avait reçu le droit de le faire.
 
-La création de cet identifiant avait été programmée par un script associé à Mathieu.
+Cet identifiant provenait d’un script associé à l’environnement de Mathieu.
 
-J’étais physiquement présent.
+J’étais physiquement dans la maison.
 
 Hélène aussi.
 
 Théo aussi.
 
-Emma vivante avant la coupure.
+Emma était vivante avant la coupure.
+
+Une session distante était active.
 
 Tout cela ne dépendait pas des cinq secondes.
 
-Cette préparation nous empêcha probablement de faire une erreur.
-
-Parce qu’au premier passage, ma voix sembla si réelle que Martin dit immédiatement :
-
-— C’est toi.
-
-Sans la liste écrite sous nos yeux, j’aurais peut-être dit pareil.
-
-Nadir lança ensuite une expérience.
-
-Il prit cinq secondes d’un ancien entretien réel de moi.
-
-Puis généra une version synthétique à partir des modèles trouvés chez Mathieu.
-
-Il fit écouter les deux à l’aveugle à huit policiers.
-
-Résultat :
-
-quatre inversèrent.
-
-Deux déclarèrent les deux vrais.
-
-Un les deux faux.
-
-Un seul répondit correctement.
-
-— Voilà la valeur de votre oreille, dit Nadir.
-
-Martin leva un doigt.
-
-— Je t’aimais mieux quand tu étais juste désagréable.
-
-— Je suis devenu pédagogique.
-
-Nous rîmes.
-
-Quelques secondes seulement.
-
-Puis l’audio de la pièce 26 reprit.
-
-Ma voix.
-
-Peut-être.
-
-— Coupez la caméra.
-
-Le rire disparut.
-
-La pièce 26 durait exactement cinq secondes et huit dixièmes.
+Alors seulement Nadir lança l’audio.
 
 Du souffle.
 
@@ -22007,63 +21835,65 @@ La mienne.
 
 Ou une très bonne imitation.
 
-Nadir lança six modèles d’analyse.
+Martin réagit immédiatement.
 
-Résultat moyen :
+— C’est toi.
 
-99,1 % de similarité avec ma voix.
-
-Martin s’appuya au dossier.
-
-— Là, c’est toi.
-
-Nadir leva une main.
+Nadir leva la main.
 
 — Non.
 
-— Tu viens de dire quatre-vingt-dix-neuf pour cent.
+Les modèles donnaient 99,1 % de similarité avec ma voix.
 
-— J’ai dit similarité. Avec les modèles disponibles de sa voix, quelqu’un peut produire mieux que ça.
+Mais Nadir nous fit écouter à l’aveugle un véritable extrait de moi et une imitation produite avec les modèles trouvés chez Mathieu.
 
-— Tu peux savoir ?
+Sur huit policiers, un seul identifia correctement les deux.
 
-— Pas avec cinq secondes.
+— Voilà la valeur de votre oreille, dit-il.
 
-Je regardai la forme d’onde.
+Martin leva un doigt.
 
-Cinq secondes.
+— Je t’aimais mieux quand tu étais juste désagréable.
 
-Peut-être les plus importantes de ma vie.
+— Je suis devenu pédagogique.
 
-— Le choc ?
+Nous rîmes quelques secondes.
 
-Nadir isola.
+Puis l’audio reprit sa place dans la pièce.
+
+Nadir isola le choc.
 
 Métal.
 
-Probablement un objet posé ou frappant un meuble.
+Probablement un objet posé brutalement ou heurtant un meuble.
 
-— Fond sonore ?
+Dans le fond, deux voix très faibles.
 
-— Deux voix très faibles.
-
-Il nettoya.
-
-Une femme.
+Une femme :
 
 — …pas maintenant…
 
-Puis un homme.
+Puis un homme impossible à distinguer.
 
-Impossible.
-
-— Hélène ?
+— Hélène ? demanda Martin.
 
 — Peut-être.
 
-Martin me regarda.
+Je regardai la forme d’onde.
 
-— Tu vois ? Tout le monde y est.
+Si la voix principale était vraiment la mienne, pourquoi avais-je demandé la coupure ?
+
+Pour protéger Emma ?
+
+Pour parler hors caméra ?
+
+Parce que Mathieu m’avait prévenu que le système était compromis ?
+
+Et si la voix était synthétique, pourquoi quelqu’un voulait-il me faire croire que j’avais décidé l’absence ?
+
+Dans les deux cas, la phrase me donnait la responsabilité des onze minutes.
+
+C’était peut-être sa véritable fonction.
 
 Avant l’entretien avec Théo, Montels me demanda une chose.
 
