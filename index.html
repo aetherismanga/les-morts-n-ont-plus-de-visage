@@ -561,6 +561,27 @@ body.immersive-fallback #fsPrevEdge{display:flex}
 }
 .page.coldcase-frame .flow-viewport,.page.coldcase-frame .reader-text,.page.coldcase-frame .chapter-kicker,.page.coldcase-frame .chapter-title,.page.coldcase-frame .page-footer{position:relative;z-index:2}
 @media(max-width:640px){.page.coldcase-frame::after{background-size:100% 100%}}
+
+/* Thriller UI polish — equal larger top buttons + frame in immersive fullscreen */
+.topbar .actions{width:100%;display:grid;grid-template-columns:repeat(6,1fr);align-items:center;gap:4px!important}
+.topbar .icon-btn.ui-approved{width:100%;min-width:0!important;display:flex;align-items:center;justify-content:center;overflow:visible}
+.topbar .icon-btn.ui-approved img{width:clamp(54px,9vw,78px)!important;height:clamp(54px,9vw,78px)!important;max-height:none!important;object-fit:contain}
+@media(max-width:640px){
+  .topbar{padding:7px 6px!important}
+  .topbar .actions{gap:1px!important}
+  .topbar .icon-btn.ui-approved img{width:clamp(52px,14.5vw,68px)!important;height:clamp(52px,14.5vw,68px)!important}
+}
+/* The dossier frame must remain visible in both native and fallback fullscreen. */
+html:fullscreen .page.coldcase-frame::after,
+html:-webkit-full-screen .page.coldcase-frame::after,
+body.immersive-fallback .page.coldcase-frame::after{
+  content:""!important;display:block!important;position:absolute!important;inset:0!important;z-index:20!important;
+  pointer-events:none!important;background:url("Cadreecran.png") center/100% 100% no-repeat!important;
+}
+html:fullscreen .page.coldcase-frame .flow-viewport,
+html:-webkit-full-screen .page.coldcase-frame .flow-viewport,
+body.immersive-fallback .page.coldcase-frame .flow-viewport{position:relative;z-index:2}
+
 </style>
 </head>
 <body class="theme-ivory">
