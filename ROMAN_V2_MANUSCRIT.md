@@ -13099,6 +13099,96 @@ Deux étaient composées de fragments authentiques remontés dans un ordre tromp
 
 La distinction n’avait plus d’importance pour le public.
 
+La cellule de communication nous montra ensuite quelque chose de plus inquiétant que les vidéos elles-mêmes.
+
+Leur propagation.
+
+Un même extrait apparaissait d’abord sur trois comptes minuscules.
+
+Puis sur une dizaine de comptes plus gros.
+
+Puis un influenceur « spécialisé en affaires criminelles » le reprenait.
+
+Ensuite une chaîne d’information parlait de « la vidéo qui interroge ».
+
+À partir de là, la question n’était plus de savoir si la vidéo était authentique.
+
+Elle existait médiatiquement.
+
+— C’est organisé ? demandai-je.
+
+L’analyste secoua la tête.
+
+— En partie peut-être. Mais une fois lancée, la machine fait le reste toute seule.
+
+— Donc quelqu’un n’a besoin que d’allumer l’étincelle.
+
+— Exactement.
+
+Elle nous montra un graphe.
+
+Une poignée de comptes avaient diffusé presque toutes les premières versions.
+
+Trois étaient liés techniquement à des services compromis déjà utilisés dans notre affaire.
+
+Deux semblaient ordinaires.
+
+Le dernier appartenait à un homme réel à Toulouse.
+
+Nous l’appelâmes.
+
+— J’ai vu la vidéo sur un groupe privé, dit-il. Je l’ai repostée.
+
+— Qui l’avait mise dans le groupe ?
+
+— Aucune idée.
+
+Pas de grand réseau secret.
+
+Pas nécessaire.
+
+Quelques injections au bon endroit.
+
+Puis l’indignation humaine se chargeait de la distribution.
+
+Je regardai le graphe.
+
+— Hélène peut faire ça ?
+
+— Oui.
+
+— Mathieu aussi.
+
+— Oui.
+
+— Observer.
+
+— Oui.
+
+L’analyste soupira.
+
+— Vous avez beaucoup de gens capables de faire les mêmes choses.
+
+— C’est un thème.
+
+La vraie puissance du dispositif n’était pas la sophistication technique.
+
+C’était le fait d’utiliser des infrastructures et comportements déjà présents.
+
+Réseaux sociaux.
+
+Besoin de commenter.
+
+Besoin d’avoir raison vite.
+
+Une vidéo n’avait pas besoin d’être parfaite.
+
+Elle avait seulement besoin d’être partageable.
+
+Je compris que notre adversaire connaissait peut-être moins la technologie que la psychologie des foules.
+
+Ou que les deux étaient désormais impossibles à séparer.
+
 À la télévision, un consultant expliquait que « l’attitude corporelle » prouvait ma culpabilité.
 
 Un autre affirmait l’inverse.
@@ -14082,6 +14172,104 @@ Quand une explication exige que l’adversaire ait prévu exactement notre réac
 L’omniscience est séduisante dans les histoires.
 
 Dans une enquête, elle rend idiot.
+
+Avant de l’apercevoir, je remarquai autre chose.
+
+Trois caméras.
+
+Une sur un trépied.
+
+Une fixée à un véhicule.
+
+Une petite, posée près d’un rocher.
+
+— Il enregistre tout, murmurai-je.
+
+Martin répondit dans l’oreillette :
+
+— On coupe ?
+
+— Non.
+
+Si nous coupions, Théo pourrait croire que nous voulions cacher.
+
+Si nous laissions, il pourrait fabriquer.
+
+Encore un choix impossible.
+
+Je levai les mains pour montrer qu’elles étaient vides.
+
+— Théo !
+
+Sa voix répondit dans les haut-parleurs.
+
+— Seul !
+
+— Tu sais que je ne le suis pas.
+
+— Oui.
+
+Il ne paraissait pas surpris.
+
+— Alors pourquoi demander ?
+
+— Pour voir si tu mens.
+
+Je m’arrêtai.
+
+Même méthode.
+
+Tester non pas l’information, mais la réaction.
+
+— Tu sais déjà que je suis venu avec une équipe.
+
+— Je sais toujours quand vous venez avec une équipe.
+
+— Comment ?
+
+Il regarda une caméra.
+
+— Vous faites beaucoup de bruit.
+
+Je souris malgré moi.
+
+— C’est moins impressionnant qu’un piratage total.
+
+— C’est souvent moins impressionnant que ce qu’on imagine.
+
+Cette phrase ne lui ressemblait pas.
+
+— Qui t’a dit ça ?
+
+Il ne répondit pas.
+
+Encore quelqu’un derrière ses mots.
+
+Ou simplement un homme apprenant lui aussi.
+
+Je regardai les arroseurs.
+
+La reconstitution.
+
+— Tu veux rejouer 2009 ?
+
+— Je veux voir si tu mens quand tu regardes.
+
+— Tu sais que les souvenirs ne fonctionnent pas comme ça.
+
+— Grand-mère dit que le corps se souvient.
+
+— Ta grand-mère dit beaucoup de choses utiles quand elles la mettent au centre.
+
+Il serra la mâchoire.
+
+Je sentis que j’avais touché juste.
+
+La confrontation ne portait pas uniquement sur Clara.
+
+Elle portait déjà sur Hélène.
+
+Théo commençait à comprendre qu’il avait peut-être servi de caméra humaine à quelqu’un d’autre.
 
 Théo se tenait au milieu.
 
@@ -15833,6 +16021,82 @@ C’était peut-être la seule personne de la famille à avoir compris que toute
 
 ### CHAPITRE 18 — LE VISAGE D’HÉLÈNE
 
+Nous n’étions pas arrivés là par intuition.
+
+Après la fuite de Théo, une analyse du téléphone abandonné révéla un réseau Wi-Fi enregistré :
+
+**MAISON17_2009**
+
+Le point d’accès n’existait plus.
+
+Mais l’identifiant correspondait à une box installée dans la maison aux volets bleus.
+
+Quelqu’un avait réactivé ce nom récemment.
+
+Nous demandâmes les données de l’opérateur.
+
+Connexion ouverte depuis quatre jours.
+
+Abonnement sous une société écran.
+
+Paiement lié à la même structure que l’achat récent de la maison.
+
+— Elle nous attend, dit Martin.
+
+— Ou quelqu’un veut qu’on pense qu’elle nous attend.
+
+— Tu te fatigues jamais ?
+
+— Si.
+
+Nous observâmes la maison pendant six heures.
+
+Une seule personne entra.
+
+Femme âgée.
+
+Capuche.
+
+Sac de courses.
+
+Caméra thermique : une présence.
+
+Pas de seconde.
+
+À 18 h 14, la lumière de la cuisine s’alluma.
+
+À 18 h 21, un message arriva sur mon téléphone :
+
+**VOUS POUVEZ ENTRER.**
+
+Je le montrai à Martin.
+
+— Hélène.
+
+— Probable.
+
+— Ça y est, tu l’as dit sans grimacer.
+
+Nous avançâmes avec l’équipe.
+
+La porte était effectivement entrouverte.
+
+Pas de fuite.
+
+Pas de piège.
+
+La scène était presque théâtrale par sa simplicité.
+
+Hélène assise dans la cuisine où tout avait commencé.
+
+Je compris avant même qu’elle parle qu’elle avait choisi le lieu.
+
+Pas pour se cacher.
+
+Pour cadrer notre rencontre.
+
+Même arrêtée, elle voulait contrôler l’image.
+
 Nous trouvâmes Hélène dans la maison aux volets bleus.
 
 Pas celle de l’Aveyron.
@@ -17032,6 +17296,72 @@ Nadir sourit.
 Martin nous regarda.
 
 — Je déteste travailler avec vous deux.
+
+Nous créâmes un tableau de trois colonnes.
+
+**OBJET.**
+
+**CONTENU.**
+
+**INTERPRÉTATION.**
+
+La pièce 003 :
+
+Objet : téléphone d’Emma, authentique.
+
+Contenu : vidéo réelle modifiée sur un prénom.
+
+Interprétation initiale : Emma m’accuse ou m’appelle.
+
+Faux.
+
+Pièce 012 :
+
+Objet : fichier de sonnette authentiquement extrait.
+
+Contenu : probablement scène réelle, heure ou traitement incertains.
+
+Interprétation initiale : Gabriel présent à 2 h 41.
+
+Possiblement vrai, mais insuffisant.
+
+Pièce 020 :
+
+Objet : vidéo réellement fournie à Théo.
+
+Contenu : mélange réel/reconstruction.
+
+Interprétation : Hélène tue Clara.
+
+Non démontré.
+
+Pièce 010 :
+
+Objet : vrai verre.
+
+Contenu biologique : mon ADN.
+
+Interprétation fournie par le faux rapport : Nicolas Fabre.
+
+Falsification.
+
+Martin regarda le tableau.
+
+— On aurait dû faire ça dès le premier jour.
+
+— On ne savait pas encore qu’on en aurait besoin.
+
+— On devrait toujours en avoir besoin.
+
+Cette remarque resta.
+
+Dans beaucoup d’enquêtes, l’interprétation se colle si vite à l’objet qu’on oublie qu’elle est une couche distincte.
+
+Quelqu’un avait exploité exactement cela.
+
+Pas besoin de fabriquer vingt-sept faux objets.
+
+Un seul faux lien pouvait suffire si tout le monde le prenait pour une propriété de la preuve.
 
 Nous passâmes deux jours à distinguer trois concepts :
 
@@ -20277,6 +20607,64 @@ Dans le couloir, mon téléphone vibra.
 
 **PIÈCE 027 AJOUTÉE.**
 
+Montels refusa que nous suivions immédiatement la nouvelle pièce.
+
+— Stop.
+
+— On vient d’avoir une clé.
+
+— Justement.
+
+Elle fit fermer la salle.
+
+Téléphones dehors.
+
+— Depuis trois semaines, chaque fois qu’un élément se déverrouille, vous sautez dessus dans l’ordre prévu par quelqu’un d’autre.
+
+Je la regardai.
+
+— Tu veux qu’on l’ignore ?
+
+— Une heure.
+
+— Pourquoi ?
+
+— Pour décider nous-mêmes ce qu’on cherche avant d’ouvrir.
+
+C’était presque révolutionnaire dans cette enquête.
+
+Nous prîmes une feuille.
+
+Question 1 : qu’est-ce que la pièce 027 peut changer ?
+
+Question 2 : quelles hypothèses sont déjà indépendantes d’elle ?
+
+Question 3 : qu’est-ce qui resterait vrai si elle était entièrement fausse ?
+
+Nous listâmes.
+
+Théo avait tué ses parents et Emma : soutenu par éléments multiples.
+
+Hélène avait falsifié des preuves : établi.
+
+J’étais présent avant l’arrivée officielle : fortement soutenu par le verre, les caméras et le fourgon.
+
+Mathieu avait préparé une architecture posthume : établi partiellement.
+
+Observer existait comme compte technique : établi.
+
+Identité d’Observer : inconnue.
+
+Responsabilité de la mort de Mathieu : inconnue.
+
+Cause exacte de la mort de Clara : inconnue.
+
+Seulement après cela, nous ouvrîmes la clé.
+
+Cette heure ne ralentit pas l’enquête.
+
+Elle nous rendit un peu de contrôle.
+
 Le dossier était censé être complet.
 
 Sous le message :
@@ -21297,6 +21685,74 @@ Chaque acte de protection produisait encore un trou où un autre récit pouvait 
 
 ### CHAPITRE 24 — ONZE MINUTES
 
+Avant de l’écouter, nous appliquâmes la même règle.
+
+Qu’est-ce qui serait vrai même si l’audio était entièrement synthétique ?
+
+La caméra avait été coupée.
+
+Un identifiant à mon nom avait reçu le droit de le faire.
+
+La création de cet identifiant avait été programmée par un script associé à Mathieu.
+
+J’étais physiquement présent.
+
+Hélène aussi.
+
+Théo aussi.
+
+Emma vivante avant la coupure.
+
+Tout cela ne dépendait pas des cinq secondes.
+
+Cette préparation nous empêcha probablement de faire une erreur.
+
+Parce qu’au premier passage, ma voix sembla si réelle que Martin dit immédiatement :
+
+— C’est toi.
+
+Sans la liste écrite sous nos yeux, j’aurais peut-être dit pareil.
+
+Nadir lança ensuite une expérience.
+
+Il prit cinq secondes d’un ancien entretien réel de moi.
+
+Puis généra une version synthétique à partir des modèles trouvés chez Mathieu.
+
+Il fit écouter les deux à l’aveugle à huit policiers.
+
+Résultat :
+
+quatre inversèrent.
+
+Deux déclarèrent les deux vrais.
+
+Un les deux faux.
+
+Un seul répondit correctement.
+
+— Voilà la valeur de votre oreille, dit Nadir.
+
+Martin leva un doigt.
+
+— Je t’aimais mieux quand tu étais juste désagréable.
+
+— Je suis devenu pédagogique.
+
+Nous rîmes.
+
+Quelques secondes seulement.
+
+Puis l’audio de la pièce 26 reprit.
+
+Ma voix.
+
+Peut-être.
+
+— Coupez la caméra.
+
+Le rire disparut.
+
 La pièce 26 durait exactement cinq secondes et huit dixièmes.
 
 Du souffle.
@@ -22064,6 +22520,66 @@ Pas une organisation personnelle.
 Encore une tentation narrative à éviter : parce que deux meurtres se ressemblent, nous voulons un seul cerveau.
 
 Parfois, un même outil suffit.
+
+Nous retrouvâmes également le médecin qui avait signé une partie du suivi postérieur de Clara.
+
+Retraité.
+
+Quatre-vingt-deux ans.
+
+Il se souvenait d’Hélène.
+
+— Très compétente.
+
+— Et de Clara ?
+
+— Pas précisément.
+
+Nous lui montrâmes les documents sans raconter notre théorie.
+
+Il lut longtemps.
+
+— Cette heure de décès est bizarre.
+
+— Pourquoi ?
+
+— Parce qu’elle est trop tôt par rapport aux constantes.
+
+— Erreur ?
+
+— Possible.
+
+— Falsification ?
+
+Il leva les yeux.
+
+— Vous me demandez de juger un confrère sur une feuille vieille de dix-sept ans.
+
+— Je vous demande ce que la feuille dit.
+
+Il acquiesça.
+
+— La feuille dit que quelqu’un voulait que la chute et la mort soient presque le même événement.
+
+Exactement.
+
+— Médicalement, elles ne l’étaient pas.
+
+— Non.
+
+Cette phrase simple devint notre formulation officielle.
+
+Clara n’était pas morte au moment de la chute.
+
+Le reste demeurait incertain.
+
+Mais ce fait retirait à la version de 2009 son socle principal.
+
+Nous n’avions toujours pas le meurtrier unique que tout le monde réclamait.
+
+Nous avions mieux.
+
+Une frontière fiable entre ce qui était démontré et ce qui ne l’était pas.
 
 Les semaines suivantes furent consacrées à ce que les séries montrent rarement : vérifier.
 
