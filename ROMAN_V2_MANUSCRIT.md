@@ -9789,6 +9789,82 @@ Martin murmura dans l’oreillette :
 
 Je détestai qu’il me connaisse assez pour le dire.
 
+Avant d’avancer vers Théo, je remarquai quelque chose sur les projecteurs.
+
+Ils étaient numérotés.
+
+1.
+
+2.
+
+3.
+
+4.
+
+Comme des positions de tournage.
+
+Les arroseurs aussi avaient des marques au sol.
+
+La reconstitution n’avait pas été improvisée.
+
+Après sa fuite, nous retrouvâmes dans son sac une feuille plastifiée.
+
+Schéma de la carrière.
+
+Angles caméra.
+
+Position de Clara.
+
+Position de Laurent.
+
+Position supposée de moi.
+
+En haut :
+
+**RECONSTITUTION C — PLUIE.**
+
+Pas l’écriture de Théo.
+
+Un QR code au verso menait à un fichier supprimé. Nadir en récupéra une partie.
+
+Voix féminine :
+
+— La lumière doit venir du nord. Le sol doit être humide. Gabriel remarquera la pluie. Laisse-le.
+
+Je me figeai.
+
+La voix continuait :
+
+— Le doute est nécessaire. S’il croit immédiatement, il n’apprendra rien.
+
+Hélène.
+
+Ou son clone.
+
+L’analyse la jugea très proche de sa voix réelle, sans certitude absolue.
+
+— Donc l’erreur météo était volontaire, dit Martin.
+
+— Peut-être.
+
+— Évidemment.
+
+Si elle l’était, la vidéo n’avait jamais eu pour but de me convaincre définitivement.
+
+Elle devait être réfutée.
+
+Elle devait me faire comprendre que Théo avait été manipulé.
+
+Mais cette idée ouvrait un piège sans fin : si chaque défaut pouvait être volontaire, plus aucune erreur ne permettait de mesurer l’échec du manipulateur.
+
+Je me donnai une règle.
+
+Quand une explication exige que l’adversaire ait prévu exactement notre réaction, préférer l’explication la plus simple tant qu’aucune preuve n’impose le reste.
+
+L’omniscience est séduisante dans les histoires.
+
+Dans une enquête, elle rend idiot.
+
 Théo se tenait au milieu.
 
 — Tu es venu.
@@ -10571,6 +10647,98 @@ Nadir fit la grimace.
 
 Encore une fois, les mêmes compétences servaient l’attaque et la défense.
 
+Zoé revint au commissariat avec un vieux téléphone.
+
+— Emma me l’a donné une semaine avant.
+
+Dans les notes :
+
+**Si mon téléphone est pris, celui-ci reste chez Z.**
+
+Pas de carte SIM.
+
+Seulement Wi-Fi.
+
+La galerie contenait cinq vidéos.
+
+La première montrait Théo fouillant le bureau de Laurent.
+
+La deuxième, une enveloppe portant l’écriture d’Hélène.
+
+La troisième, l’écran d’Emma avec un message de **M** :
+
+*Ne réponds plus à grand-mère depuis ton téléphone principal.*
+
+La quatrième durait six secondes.
+
+Couloir fixe.
+
+Une ombre passe.
+
+L’image grésille.
+
+Une porte.
+
+Puis une voix :
+
+— Il dort ?
+
+Impossible d’identifier.
+
+La cinquième montrait Emma face caméra.
+
+— Si Gabriel voit ça, dites-lui que je suis désolée.
+
+Je me raidis.
+
+— Désolée de quoi ?
+
+Emma poursuivait :
+
+— Je lui ai donné son nom à grand-mère. Mathieu m’avait dit de ne pas le faire. Je croyais qu’elle voulait nous aider.
+
+Fin.
+
+Sarah regardait l’écran noir.
+
+— Ma mère a obtenu tes coordonnées par Emma.
+
+— Au moins une partie.
+
+— Emma se sentait coupable.
+
+Je pensai à une fille de dix-sept ans portant la responsabilité d’avoir fait confiance à sa grand-mère.
+
+Les adultes autour d’elle avaient transformé chaque lien en risque.
+
+— Pourquoi elle vous a confié le téléphone ? demandai-je à Zoé.
+
+— Parce que j’étais « hors de l’histoire ».
+
+C’était intelligent.
+
+Emma avait choisi la personne que personne n’aurait considérée comme un personnage important.
+
+Une amie.
+
+Pas la famille.
+
+Pas Mathieu.
+
+Pas la police.
+
+La preuve la plus sûre avait été confiée à quelqu’un que notre récit aurait naturellement laissé en dehors du cadre.
+
+Sur une note du téléphone :
+
+**25 = 02:53**
+
+Nous ne savions pas encore exactement ce que serait la pièce 25.
+
+Emma, elle, connaissait déjà ce numéro.
+
+La numérotation existait donc avant le massacre.
+
 La visioconférence Emma–Mathieu existait en version longue.
 
 Emma :
@@ -10934,6 +11102,88 @@ Martin avança.
 — On commencera par faux et usage de faux, obstruction, falsification de certificat, manipulation de preuves. Le reste suivra.
 
 — Le reste suit toujours.
+
+La maison contenait peu d’objets, mais chacun semblait choisi.
+
+Une table proche de celle visible sur les photographies de 2009.
+
+Une horloge arrêtée à 2 h 04.
+
+Une photographie de Clara face contre le mur.
+
+Au sous-sol, une pièce aménagée en studio.
+
+Fond vert.
+
+Éclairage.
+
+Microphones.
+
+Caméras.
+
+Station de travail.
+
+— Fabrication des vidéos, dit Martin.
+
+Nadir examina les disques.
+
+— De certaines.
+
+Arborescence :
+
+**VÉRITÉ.**
+
+**FAUX.**
+
+**HYBRIDE.**
+
+Dans **HYBRIDE**, de vrais visages avec de faux sons, de vrais sons replacés, des dates modifiées, des séquences réelles prolongées artificiellement.
+
+Un document :
+
+*Objectif : empêcher la certitude trop précoce.*
+
+— Elle ne veut pas seulement tromper, dis-je. Elle veut décider quand on a le droit de savoir.
+
+Hélène semblait considérer la vérité comme un médicament dont elle contrôlait la dose.
+
+Dans un tiroir : vingt-sept cartes mémoire.
+
+Numérotées.
+
+Certaines vides.
+
+La 10 contenait le faux rapport ADN Fabre.
+
+La 20, la vidéo carrière.
+
+La 25 et la 26 étaient vides.
+
+La 27 contenait une chaîne chiffrée.
+
+Empreintes :
+
+Hélène sur plusieurs.
+
+Théo sur deux.
+
+Mathieu sur la 17.
+
+Sur la 27, une empreinte partielle non identifiée.
+
+Martin me regarda.
+
+— Ton quatrième acteur.
+
+— Ou un technicien. Ou une contamination.
+
+— Tu casses toutes les belles histoires.
+
+— J’essaie.
+
+Une empreinte inconnue n’est pas automatiquement un mystérieux ennemi.
+
+C’est d’abord une empreinte inconnue.
 
 Deux agents sécurisèrent les pièces.
 
