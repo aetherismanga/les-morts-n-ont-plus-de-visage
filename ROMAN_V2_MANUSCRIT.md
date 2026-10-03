@@ -105,13 +105,9 @@ Elle s’était levée.
 
 Clara n’avait pas répondu.
 
-Elle avait quitté l’hôpital avant mon arrivée.
+Elle avait quitté l’hôpital avant l’arrivée de Gabriel.
 
-Ce détail ne figurait dans aucun article, aucun procès-verbal public, aucun récit accessible de l’affaire.
-
-Mais il existait dans les traces. Très peu de personnes pouvaient le connaître.
-
-Et il expliquait pourquoi elle était revenue vers la maison au lieu de s’en éloigner.
+C’était pour lui qu’elle revenait vers la maison au lieu de s’en éloigner.
 
 Elle croyait qu’un adulte extérieur au cercle allait enfin regarder la vidéo.
 
@@ -20609,7 +20605,7 @@ Montels refusa que nous suivions immédiatement la nouvelle pièce.
 
 — Stop.
 
-— On vient d’avoir une clé.
+— On vient d’avoir la vingt-septième pièce.
 
 — Justement.
 
