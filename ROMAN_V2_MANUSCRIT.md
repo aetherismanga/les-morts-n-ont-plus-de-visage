@@ -6629,6 +6629,170 @@ Et pour la première fois, je me demandai si ses connexions posthumes n’essaya
 
 Mais de vérifier si nous les avions trouvées.
 
+
+Le contenu du casier fut photographié sur place avant d’être déplacé.
+
+Cazeneuve avait utilisé une méthode ancienne.
+
+Pas de cloud.
+
+Pas de compte.
+
+Pas d’index numérique.
+
+Il avait parié sur le fait que ce qui n’était connecté à rien serait plus difficile à surveiller.
+
+Le Nokia n’avait plus de batterie.
+
+Un technicien remplaça les cellules sans l’allumer sur le réseau.
+
+Mode isolé.
+
+Onze messages.
+
+Trois brouillons.
+
+Une dizaine de numéros.
+
+Le contact **A.L.** était Antoine Lemaire.
+
+Le contact **H.** n’avait pas de nom.
+
+Hélène.
+
+Un autre :
+
+**MATHIEU NE PAS APPELER DEPUIS TEL PRO**
+
+Je souris.
+
+— Cazeneuve faisait de l’OPSEC sur un Nokia.
+
+Nadir ne sourit pas.
+
+— Et il avait raison.
+
+Un brouillon daté de 2019 :
+
+*Antoine avait laissé un compte technique. Hélène dit l’avoir fermé. Maret dit que non.*
+
+Un autre, 2024 :
+
+*Mathieu affirme que quelqu’un utilise la porte d’Antoine. Il refuse de me dire qui.*
+
+Puis 2026 :
+
+*Si Hélène est réellement derrière O1, pourquoi se prévient-elle elle-même ?*
+
+Je relus.
+
+— Il avait vu des messages d’Observer destinés à Hélène.
+
+— Donc il doutait déjà qu’elle soit derrière.
+
+Une note papier dans la coque du téléphone donna un autre élément.
+
+Quatre chiffres :
+
+**0211**
+
+Puis :
+
+**pas l’heure / la date**
+
+2 novembre 2011 ?
+
+Nous cherchâmes.
+
+Le 2 novembre 2011, Cazeneuve avait déposé une main courante interne jamais versée au dossier Clara.
+
+Objet :
+
+**intrusion archive — dossier Vidal déplacé.**
+
+Aucune pièce volée officiellement.
+
+Caméra du bâtiment hors service cette nuit-là.
+
+Technicien intervenu le lendemain :
+
+ALM Systems.
+
+L’entreprise d’Antoine Lemaire.
+
+— Antoine a pu déplacer le dossier.
+
+— Ou réparer après quelqu’un.
+
+Le rapport d’intervention portait sa signature.
+
+Commentaire :
+
+*Défaut enregistreur dû à remplacement câble.*
+
+Même principe que notre salle de travail en 2026.
+
+Un câble.
+
+Une interruption.
+
+Une porte technique.
+
+Observer n’avait peut-être jamais eu besoin d’un accès spectaculaire.
+
+Seulement de procédures que personne ne regarde.
+
+Nous appelâmes un ancien gardien.
+
+Il se souvenait vaguement d’un homme venu cette nuit-là.
+
+— Grand, mince. Badge informatique.
+
+— Antoine ?
+
+Photographie.
+
+— Peut-être.
+
+Pas assez.
+
+Toujours ce mot.
+
+Dans le casier, Cazeneuve avait aussi conservé une clé physique USB d’authentification.
+
+Elle appartenait à Antoine.
+
+— Pourquoi lui l’avait ?
+
+Sarah, plus tard, répondit :
+
+— Papa donnait parfois ses anciennes clés à maman pour des sauvegardes.
+
+— Et celle-ci finit chez Cazeneuve.
+
+— Donc elle a circulé.
+
+Une clé qui avait appartenu à Antoine, utilisée peut-être par Hélène, conservée par Cazeneuve, accessible à Mathieu.
+
+Nous avions tendance à chercher « le propriétaire ».
+
+Mauvaise question.
+
+Les objets changent de mains.
+
+Les identifiants aussi.
+
+Observer pouvait être moins un individu qu’une identité technique passée de personne en personne.
+
+Mais quelqu’un écrivait aujourd’hui en direct.
+
+Quelqu’un avait repris le masque.
+
+La différence comptait.
+
+Nous n’avions pas besoin de résoudre tout l’historique d’Observer pour trouver la personne actuelle.
+
+Il fallait seulement éviter de confondre le compte et son utilisateur.
 ---
 
 ### CHAPITRE 8 — SARAH
@@ -7391,6 +7555,176 @@ Elle réapparut.
 
 Je ne dormis pas.
 
+
+Après la révélation de Noé, je demandai à Martin ce qu’il savait.
+
+Il ferma la porte de son bureau.
+
+— Assez.
+
+— Depuis quand ?
+
+— 2009.
+
+— Tout le monde savait sauf moi.
+
+— Très peu de gens savaient.
+
+— Cazeneuve.
+
+— Oui.
+
+— Hélène.
+
+— Oui.
+
+— Toi.
+
+— Oui.
+
+Je serrai les mâchoires.
+
+— Et pendant dix-sept ans ?
+
+— Je n’en ai jamais parlé.
+
+— Pourquoi ?
+
+— Parce que Sarah me l’a demandé.
+
+— Avant ou après que j’oublie ?
+
+— Après.
+
+Je me levai.
+
+— Vous décidiez tous.
+
+— Gabriel.
+
+— Quoi ?
+
+— Tu veux que je te dise ce qui s’est réellement passé ?
+
+Je restai debout.
+
+— Après l’hôpital, tu as récupéré assez pour comprendre que Sarah avait perdu le bébé.
+
+Il avala.
+
+— Tu t’es effondré.
+
+Je ne respirais plus.
+
+— Tu as demandé qu’on ne te dise plus son prénom pendant deux jours.
+
+— Noé.
+
+— Oui.
+
+— Puis ?
+
+— Puis tu as voulu tout savoir. Puis plus rien. Puis tout savoir. Ça changeait chaque semaine.
+
+Martin se frotta le visage.
+
+— Sarah ne savait plus quoi faire. Moi non plus.
+
+— Et Hélène ?
+
+— Elle disait qu’il fallait stabiliser avant de forcer les souvenirs.
+
+— Toujours elle.
+
+— Oui. Mais à l’époque ça paraissait raisonnable.
+
+Je m’assis.
+
+— Est-ce que j’ai pleuré ?
+
+La question me surprit moi-même.
+
+Martin aussi.
+
+— Oui.
+
+— Pour un enfant dont je ne me souvenais pas d’avoir attendu ?
+
+— Tu te souvenais par moments du projet. Pas d’une continuité.
+
+Il regarda ailleurs.
+
+— Tu avais acheté des chaussettes. Tu les gardais dans ta poche.
+
+Sarah l’avait déjà dit.
+
+— Qu’est-ce qu’elles sont devenues ?
+
+— Je sais pas.
+
+Je rentrai chez moi ce soir-là et cherchai.
+
+Tiroirs.
+
+Cartons.
+
+Placard du haut.
+
+Rien.
+
+Puis dans une vieille boîte de papiers, une enveloppe sans inscription.
+
+Deux chaussettes minuscules.
+
+Grises.
+
+Un renard orange.
+
+Je m’assis par terre.
+
+Aucun flash.
+
+Aucune musique intérieure.
+
+Rien.
+
+Je les tins quand même.
+
+Pendant longtemps.
+
+Je compris alors qu’un souvenir n’est pas la condition nécessaire du deuil.
+
+On peut pleurer ce qu’on sait avoir aimé sans retrouver la sensation originale.
+
+Je mis les chaussettes dans la boîte avec le porte-clés de Collioure.
+
+Pas comme preuve.
+
+Comme chose.
+
+Le lendemain, Sarah passa.
+
+Je lui montrai.
+
+Elle porta la main à sa bouche.
+
+— Je croyais qu’elles étaient perdues.
+
+— Moi aussi.
+
+Nous restâmes assis sur le canapé.
+
+Elle ne me raconta pas davantage.
+
+Je ne demandai pas.
+
+Pour une fois, nous laissâmes le passé exister sans l’interroger.
+
+Cette retenue allait devenir importante.
+
+L’enquête entière nous poussait à tout ouvrir.
+
+Mais certaines choses n’avaient pas besoin d’être converties en explication.
 ---
 
 ### CHAPITRE 9 — MATHIEU
@@ -8113,6 +8447,132 @@ Mais sous la punaise, écrit au crayon :
 
 **CELUI QUI REGARDE.**
 
+
+Nous examinâmes les conférences publiques de Mathieu.
+
+Pas pour le contenu technique.
+
+Pour les questions du public.
+
+À Lyon, 2025, un participant avait demandé :
+
+— Si un deepfake devient indétectable, à quoi sert votre métier ?
+
+Mathieu avait répondu :
+
+— À arrêter de courir après l’image seule.
+
+— Donc on abandonne ?
+
+— Non. On documente l’origine. Qui capture ? Avec quel appareil ? Quel chemin jusqu’à nous ? Une preuve n’est pas un pixel. C’est une histoire de possession.
+
+Je mis la vidéo sur pause.
+
+— La pièce 010.
+
+Martin comprit.
+
+Le vrai problème n’était pas l’ADN.
+
+C’était la chaîne qui avait remplacé un scellé par un autre.
+
+Mathieu avait construit sa pensée autour exactement de ce type de faiblesse.
+
+Autre conférence.
+
+Une femme au fond posa une question :
+
+— Peut-on créer un faux souvenir avec des deepfakes ?
+
+La caméra ne la montrait pas bien.
+
+Mathieu répondit :
+
+— On peut influencer le souvenir sans deepfake. Les familles le font depuis toujours. Les images ne font qu’industrialiser une capacité humaine.
+
+La femme :
+
+— Et si le sujet a déjà une amnésie ?
+
+Mathieu resta silencieux deux secondes.
+
+— Alors ce serait particulièrement dangereux.
+
+Je regardai la date.
+
+Mars 2024.
+
+— Hélène ?
+
+Nadir analysa la voix de la question.
+
+Pas assez.
+
+Sarah écouta.
+
+— Ça peut être elle.
+
+— Ça peut être beaucoup de femmes.
+
+— Oui.
+
+La conférence avait été organisée par une association partenaire d’un institut où Hélène, sous alias, avait consulté des articles.
+
+Le lien était plausible.
+
+Pas prouvé.
+
+Un autre extrait nous intéressa davantage.
+
+Mathieu disait :
+
+— Le meilleur faux n’est pas celui qui trompe tout le monde. C’est celui qui divise assez le public pour empêcher une action commune.
+
+Voilà le procès médiatique avant qu’il existe.
+
+Mathieu comprenait le mécanisme.
+
+Peut-être parce qu’il l’avait observé chez Hélène.
+
+Peut-être parce qu’il avait aidé à le construire.
+
+Inès nous avertit :
+
+— Ne faites pas de lui le héros maintenant qu’il est mort.
+
+— Pourquoi ?
+
+— Mathieu pouvait être manipulateur. Il testait les gens. Il gardait des informations. Il justifiait ça par la sécurité.
+
+— Comme Hélène.
+
+— Plus qu’il ne l’aurait admis.
+
+Elle raconta un incident.
+
+Un collègue soupçonné de fuite avait reçu trois versions différentes d’un faux document pour voir laquelle sortirait.
+
+— Il l’a piégé.
+
+— Oui. Et le collègue était innocent. La fuite venait d’un serveur mal configuré.
+
+— Mathieu s’est excusé ?
+
+— Techniquement.
+
+— Ça signifie ?
+
+— « Le protocole était mauvais. »
+
+Pas « j’ai fait du mal à quelqu’un ».
+
+Je notai.
+
+Même celui qui essayait de préserver la preuve pouvait traiter les personnes comme des variables.
+
+Le roman ne devait pas remplacer Hélène par Mathieu comme autorité morale.
+
+Ils partageaient une tentation : croire que comprendre un système donne le droit de déplacer les gens dedans.
 ---
 
 ### CHAPITRE 10 — LE FILS ABSENT
@@ -8831,6 +9291,136 @@ Puis :
 
 Je touchai le lien.
 
+
+Les achats de Théo révélèrent la préparation concrète.
+
+Sédatifs vétérinaires obtenus sous faux nom.
+
+Seringues.
+
+Gants.
+
+Une caméra miniature.
+
+Cartes mémoire.
+
+Ciseaux identiques à ceux retrouvés près de Sophie.
+
+Et vingt-sept petites étiquettes adhésives.
+
+— Il connaissait donc le nombre.
+
+— Oui.
+
+Facture datée huit jours avant les morts.
+
+Dans un magasin de loisirs créatifs.
+
+La vendeuse se souvenait de lui parce qu’il avait demandé :
+
+— Vous avez des étiquettes qui se décollent sans laisser de trace ?
+
+Pas très criminel.
+
+Mais précis.
+
+— Il était seul ?
+
+— Une dame attendait dehors.
+
+— Description ?
+
+— Cheveux gris peut-être. Je n’ai pas fait attention.
+
+Caméra du parking.
+
+Une voiture.
+
+Plaque masquée par reflet.
+
+La femme restait à l’intérieur.
+
+Impossible d’identifier.
+
+Théo avait aussi commandé un produit permettant d’enlever proprement l’émulsion d’une photographie.
+
+Pour découper les visages ?
+
+Non.
+
+Le produit servait à décoller de vieux tirages.
+
+Nous retrouvâmes dans sa chambre des visages retirés sans découpe.
+
+Clara.
+
+Sophie.
+
+Laurent.
+
+Gabriel.
+
+Une expérimentation.
+
+— Pourquoi passer ensuite aux ciseaux ?
+
+Emma avait écrit la réponse dans une marge :
+
+*Grand-mère dit que couper se voit mieux.*
+
+Hélène voulait une image forte.
+
+Pas seulement un résultat.
+
+La mise en scène des photos mutilées venait donc probablement d’elle.
+
+Théo exécutait.
+
+Mais dans un autre carnet, il avait ajouté :
+
+*J’aime mieux les ciseaux. Ça fait vrai.*
+
+Il participait à la forme.
+
+Manipulé ne veut pas dire passif.
+
+Nous retrouvâmes l’origine du quatrième couvert.
+
+Un message d’Hélène :
+
+*Il faut laisser une place à l’absent.*
+
+Théo :
+
+*Clara ?*
+
+Pas de réponse.
+
+Théo avait interprété la chaise comme celle de Clara.
+
+Hélène n’avait jamais confirmé.
+
+Pour nous, elle deviendrait celle du faux suspect Nicolas.
+
+Puis du Gabriel oublié.
+
+Un même élément avait reçu trois significations successives.
+
+Peut-être Hélène le savait.
+
+Peut-être pas.
+
+C’était ce qui rendait les symboles si pratiques : ils survivent en changeant de sens.
+
+Je demandai à l’équipe de ne jamais écrire « la chaise de Clara » dans les rapports.
+
+Seulement :
+
+**quatrième place dressée, signification inconnue.**
+
+Un détail de rédaction.
+
+Une protection contre l’histoire qui voulait déjà se refermer.
 ---
 
 ### CHAPITRE 11 — EN DIRECT
@@ -9601,6 +10191,138 @@ Pour une fois, elle viendrait d’un homme qui avait été là.
 
 
 
+Dans la cave, nous récupérâmes également le téléphone utilisé pour le direct.
+
+La plupart des comptes étaient jetables.
+
+Mais un cache conserva une image envoyée à Théo dix minutes avant la diffusion.
+
+Photo de Sarah dans sa voiture, prise le matin même.
+
+Message :
+
+*Elle part seule à 9 h 42.*
+
+Quelqu’un surveillait Sarah indépendamment de Théo.
+
+— Tu l’as prise ? demandai-je plus tard.
+
+— Non, répondit Théo.
+
+— Qui te l’a envoyée ?
+
+— Grand-mère.
+
+— Tu l’as vue le faire ?
+
+— Non.
+
+— Compte ?
+
+Il donna un pseudonyme.
+
+**H_17.**
+
+Les accès venaient d’un réseau public.
+
+Pas d’attribution.
+
+Une autre photo montrait Martin quittant le commissariat.
+
+Même matin.
+
+— Théo n’avait pas les moyens d’organiser seul deux enlèvements synchronisés, dit Martin.
+
+— On le savait.
+
+— Là, on le prouve mieux.
+
+Dans le cache, une instruction :
+
+*Ne leur fais pas de mal. Ils doivent parler.*
+
+Théo avait répondu :
+
+*Et s’ils refusent ?*
+
+*Alors tu attends.*
+
+Ce ton pouvait être Hélène.
+
+Contrôle.
+
+Pas de violence directe.
+
+Mais un second compte avait écrit ensuite :
+
+*La douleur aide la mémoire.*
+
+Théo avait réagi :
+
+*Grand-mère ?*
+
+Pas de réponse.
+
+Deux voix numériques dans son dispositif.
+
+L’une contenue.
+
+L’autre plus agressive.
+
+— Observer s’est glissé dans la conversation, dis-je.
+
+— Ou Hélène utilise deux styles.
+
+Nadir compara avec des messages authentifiés.
+
+Le premier compte ressemblait davantage à Hélène.
+
+Le second, très différent.
+
+Pas preuve d’identité.
+
+Mais preuve que Théo recevait des consignes contradictoires qu’il croyait parfois venir de la même source.
+
+Cela expliquait une partie de son instabilité.
+
+Hélène essayait peut-être de contenir un plan qu’elle avait elle-même déclenché tandis qu’un autre acteur l’accélérait.
+
+Ou elle jouait les deux rôles.
+
+Nous ne pouvions pas choisir encore.
+
+Sur le téléphone, une dernière note vocale.
+
+Voix synthétique :
+
+— Quand Gabriel prononcera « Regarde-moi », coupe.
+
+Théo n’avait pas coupé.
+
+Le flux avait grésillé et injecté l’image d’Hélène.
+
+Donc quelqu’un avait prévu ce déclencheur.
+
+Parce qu’il connaissait mon histoire médicale.
+
+Hélène, évidemment.
+
+Observer, s’il avait ses archives.
+
+Mathieu, peut-être.
+
+Le cercle restait large.
+
+Mais le mécanisme n’était plus magique.
+
+Le mot « Regarde-moi » avait été détecté automatiquement dans l’audio du direct et avait déclenché l’insertion d’une image.
+
+Un simple mot-clé.
+
+Ce que nous avions vécu comme une réponse surnaturelle était un script.
+
+---
+
 ### CHAPITRE 12 — REGARDE-MOI
 
 Martin parla à l’hôpital après huit points de suture.
@@ -10337,6 +11059,108 @@ La génération suivante avait découvert ce que les adultes précédents avaien
 
 Et au lieu de réparer, elle avait hérité de la forme même du mensonge.
 
+
+Après le récit de Martin, je demandai à revoir le dossier de ma blessure.
+
+Le scanner de 2009 montrait un traumatisme occipital.
+
+Pas assez pour expliquer à lui seul dix-sept ans de trous.
+
+Le neurologue consulté à l’époque avait écrit :
+
+**amnésie rétrograde et antérograde transitoire ; récupération progressive probable.**
+
+Progressive.
+
+Pas définitive.
+
+Puis les notes s’arrêtaient.
+
+Hélène avait pris la main sur le suivi informel.
+
+Aurore Leclerc, en 2026, relut.
+
+— Rien ne permet de dire aujourd’hui quelle part de votre amnésie vient du coup, du stress, du sédatif ou de ce qui a suivi.
+
+— Et le fait qu’on m’ait évité les rappels ?
+
+— Peut avoir limité certains indices de récupération. Ou évité de faux souvenirs. On ne peut pas refaire l’expérience.
+
+— Donc aucune réponse.
+
+— Si. Une réponse inconfortable : plusieurs causes possibles.
+
+Je détestais la précision médicale.
+
+Elle ressemblait trop à l’enquête.
+
+— Est-ce qu’un souvenir peut revenir dix-sept ans plus tard ?
+
+— Oui.
+
+— Être exact ?
+
+— Parfois.
+
+— Faux ?
+
+— Parfois.
+
+— Comment je sais ?
+
+— Vous ne savez pas uniquement grâce au sentiment de certitude.
+
+Voilà le point.
+
+Le cerveau peut produire une certitude sans chaîne de possession.
+
+Je ris.
+
+Aurore demanda pourquoi.
+
+— Rien. Une blague professionnelle.
+
+Elle me fit faire un exercice.
+
+Décrire un souvenir certain de mon enfance.
+
+La cuisine de ma mère.
+
+Une nappe verte.
+
+Une casserole rouge.
+
+Puis elle me demanda une photographie.
+
+J’appelai mon frère.
+
+La nappe était bleue.
+
+La casserole rouge, oui.
+
+— Vous auriez juré vert ?
+
+— Oui.
+
+— Voilà.
+
+— Donc tout est faux.
+
+— Non. Votre mère avait une cuisine. Vous y étiez. La casserole était rouge. La nappe, vous l’avez reconstruite.
+
+Un souvenir peut contenir vrai et faux simultanément.
+
+Comme nos vidéos hybrides.
+
+Je quittai la consultation avec une idée simple :
+
+Je n’avais pas besoin de savoir si chacun de mes fragments était parfait.
+
+Je devais seulement cesser de leur donner davantage de poids que les traces indépendantes.
+
+Ma mémoire redevenait un témoin.
+
+Pas un juge.
 ---
 
 ### CHAPITRE 13 — LA PREMIÈRE AUTOPSIE
