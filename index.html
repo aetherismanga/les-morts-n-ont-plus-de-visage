@@ -654,6 +654,13 @@ body.immersive-fallback .page.text-flow-page{
   padding-top:max(44px,calc(env(safe-area-inset-top) + 34px))!important;
 }
 
+
+/* Resume bar removed: give the recovered vertical space to the book */
+#resumeBanner{display:none!important}
+@media (orientation:portrait) and (max-width:900px){
+  .stage{padding-top:8px!important}
+  .book-shell{flex:1 1 100%!important;min-height:0!important}
+}
 </style>
 </head>
 <body class="theme-ivory">
@@ -672,10 +679,7 @@ body.immersive-fallback .page.text-flow-page{
   </header>
 
   <main class="stage">
-    <div class="resume-banner" id="resumeBanner">
-      <span id="resumeText">Reprendre votre lecture ?</span>
-      <button type="button" id="resumeBtn">Reprendre</button>
-    </div>
+    <div class="resume-banner" id="resumeBanner" hidden><span id="resumeText"></span><button type="button" id="resumeBtn">Reprendre</button></div>
     <div class="book-shell">
       <article class="page" id="page" tabindex="0" aria-live="polite"></article>
     </div>
@@ -1046,7 +1050,7 @@ body.immersive-fallback .page.text-flow-page{
   async function leaveFullscreen(){fullscreenAnchor=captureVisibleAnchor()||savedAnchor;if(nativeFullscreenElement()){try{await exitNativeFullscreen();}catch(_){}}immersiveFallback=false;document.body.classList.remove('immersive-fallback');updateFullscreenButton();settleFullscreenLayout(fullscreenAnchor);}
   async function toggleFullscreen(){fullscreenAnchor=captureVisibleAnchor()||savedAnchor;closeDrawers();if(fullscreenActive()){await leaveFullscreen();return;}immersiveFallback=true;document.body.classList.add('immersive-fallback');updateFullscreenButton();settleFullscreenLayout(fullscreenAnchor);}
   function onFullscreenChange(){if(nativeFullscreenElement()){immersiveFallback=false;document.body.classList.remove('immersive-fallback');}updateFullscreenButton();settleFullscreenLayout(fullscreenAnchor||savedAnchor);}
-  function updateResumeBanner(){const b=$('resumeBanner');if(!savedAnchor){b.classList.remove('show');return;}const p=pageForAnchor(savedAnchor);if(p>0&&p<=textPages){$('resumeText').textContent='Reprendre à la page '+(p+1)+' sur '+totalPages+' ?';b.classList.add('show');}else b.classList.remove('show');}
+  function updateResumeBanner(){const b=$('resumeBanner');if(b){b.classList.remove('show');b.hidden=true;}}
 
   prevBtn.addEventListener('click',prev);nextBtn.addEventListener('click',next);
   pageCounter.addEventListener('click',()=>{if(!layoutReady)return;const max=totalPages;const v=Math.max(1,Math.min(max,current+1));const modal=$('pageJumpModal'),range=$('pageJumpRange'),input=$('pageJumpInput');range.max=input.max=String(max);range.value=input.value=String(v);$('pageJumpTotal').textContent='/ '+max;modal.classList.add('open');modal.setAttribute('aria-hidden','false');});
