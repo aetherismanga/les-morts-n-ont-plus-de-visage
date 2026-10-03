@@ -917,7 +917,7 @@ Elle me regarda une seconde de trop.
 
 — Heure approximative ?
 
-— Avant minuit. Je préciserai.
+— Dans les deux ou trois dernières heures, probablement. Je préciserai après les examens.
 
 — Cause ?
 
@@ -4137,6 +4137,174 @@ Pour la première fois, je ne savais plus si nous poursuivions quelqu’un.
 
 Ou si quelqu’un nous faisait remonter un chemin préparé dix-sept ans plus tôt.
 
+
+Le lendemain de Marseille, je retournai dans la maison des Carmin avant la levée des scellés.
+
+Je voulais comprendre ce qui n’apparaissait pas dans les photographies de procédure.
+
+Une maison photographiée après trois morts devient une géométrie : portes, distances, traces, positions. Il faut parfois y revenir pour retrouver qu’elle a été un lieu de vie.
+
+Dans l’entrée, trois paires de chaussures.
+
+Celles d’Hugo étaient couvertes de poussière rouge.
+
+— Football ? demandai-je.
+
+Le policier marseillais secoua la tête.
+
+— BMX. Il roulait dans les collines.
+
+Dans sa chambre, le jeu était toujours en pause, mais l’écran avait été éteint. Sur le bureau, une feuille de cours d’histoire corrigée par son père portait en marge : *Tu peux faire mieux que Wikipédia.*
+
+Je souris malgré moi.
+
+François Carmin n’était jusque-là qu’« époux, victime 2 ».
+
+Je demandai ses dossiers de travail.
+
+Professeur d’histoire, il préparait une séquence sur les sources et la propagande.
+
+Dans un diaporama :
+
+**UNE SOURCE N’EST PAS LA VÉRITÉ. C’EST UNE TRACE À INTERROGER.**
+
+Martin lut par-dessus mon épaule.
+
+— Toute cette famille s’était donné le mot.
+
+— Ou on commence à voir des messages partout.
+
+Je fermai le fichier.
+
+La chambre d’Élodie contenait une valise ouverte.
+
+Pas celle d’une fuite improvisée.
+
+Vêtements pliés.
+
+Passeports.
+
+Deux enveloppes d’argent.
+
+Un dossier papier avec le nom **CLARA VIDAL**.
+
+Vide.
+
+— Quelqu’un a pris le contenu.
+
+Le capitaine marseillais vérifia l’inventaire initial.
+
+Le dossier était déjà vide à l’arrivée.
+
+Dans une poche de la valise, une clé de consigne SNCF.
+
+Gare Saint-Charles.
+
+Casier 312.
+
+Nous l’ouvrîmes avec mandat.
+
+À l’intérieur, pas de vidéo.
+
+Un dictaphone.
+
+Élodie avait enregistré une confession.
+
+Sa voix tremblait.
+
+— Je m’appelle Élodie Carmin. Le 17 août 2009, j’étais interne aux urgences. J’ai examiné Clara Vidal à vingt-deux heures huit.
+
+Elle respirait vite.
+
+— Elle présentait des marques compatibles avec une tentative de strangulation. Elle m’a dit que Laurent l’avait frappée. Elle m’a aussi dit qu’elle avait filmé quelque chose qui ne concernait pas seulement Laurent.
+
+Je me penchai.
+
+— À vingt-deux heures trente et une, Hélène Lemaire m’a appelée. Elle était médecin légiste, je la connaissais de réputation. Elle m’a demandé de ne pas saisir certaines observations avant qu’elle arrive. J’ai refusé.
+
+Pause.
+
+— Puis elle m’a dit que Clara était enceinte, que la famille ignorait tout, qu’une mauvaise saisie pouvait « détruire une mineure ». J’ai accepté de différer.
+
+Élodie pleurait sur l’enregistrement.
+
+— Après la mort, elle m’a demandé de remplacer une note. J’ai fait ce qu’elle voulait.
+
+Martin regardait le dictaphone.
+
+— Enfin.
+
+Élodie continuait :
+
+— En 2019, un homme m’a contactée. Il disait travailler sur l’archive Vidal. Il savait exactement ce que j’avais modifié. Je pensais que c’était Mathieu.
+
+— Observer, murmurai-je.
+
+— En 2024, Mathieu Vidal m’a appelée pour la première fois de sa propre voix. J’ai compris que la personne de 2019 n’était peut-être pas lui.
+
+Je sentis le froid me gagner.
+
+— Il m’a demandé si je possédais encore la copie. J’ai menti. J’ai dit non.
+
+Puis une phrase :
+
+— La copie n’est pas la vidéo. C’est le rapport original et les journaux d’accès. La vidéo, je ne l’ai jamais vue.
+
+Important.
+
+Élodie ne détenait donc pas les cinquante-deux secondes.
+
+— Si je meurs avant de parler à Gabriel Varenne, dites-lui une chose : Hélène a menti pour protéger Sophie. Mais quelqu’un d’autre a appris à utiliser ses mensonges.
+
+Fin.
+
+Nous restâmes silencieux.
+
+Le dictaphone avait été placé dans la consigne cinq jours avant sa mort.
+
+Une vraie mesure de précaution.
+
+Elle avait compris qu’on la suivait.
+
+— Pourquoi ne pas nous appeler directement ?
+
+Martin connaissait déjà la réponse.
+
+Parce que l’affaire avait appris à chacun que transmettre une information pouvait tuer.
+
+La peur avait rendu les témoins plus prudents.
+
+Et cette prudence les avait isolés.
+
+Le professionnel qui avait tué les Carmin n’avait pas emporté le dictaphone.
+
+Il ignorait donc son existence.
+
+Pour la première fois, Élodie gagnait quelque chose contre celui qui l’avait supprimée : une voix après sa mort.
+
+Je demandai que l’enregistrement devienne une pièce secondaire, sans changer la numérotation des vingt-sept majeures.
+
+La structure devait rester stable.
+
+Mais le roman, lui, devait laisser Élodie parler autrement que dans une phrase de brouillon.
+
+Avant de quitter Marseille, je passai devant le collège d’Hugo.
+
+Des bouquets s’accumulaient contre le portail.
+
+Un garçon déposa une roue de BMX miniature.
+
+Je restai à distance.
+
+Le meurtre d’un témoin n’efface jamais seulement un témoin.
+
+Il emporte ceux qui ont eu la malchance d’habiter avec lui.
+
+C’était la différence morale entre l’histoire qu’Hélène racontait et les conséquences réelles de ses méthodes.
+
+Dans son système, les gens étaient des variables.
+
+Dans une maison, ils avaient une liste de courses pour samedi.
 ---
 
 ### CHAPITRE 6 — LES SIX PAGES
@@ -10073,6 +10241,166 @@ Je notai la phrase.
 
 Nous ne la comprendrions que bien plus tard.
 
+
+Sarah refusa de rentrer chez elle après l’examen des photographies d’autopsie.
+
+Nous marchâmes jusqu’au parking.
+
+Elle s’appuya contre sa voiture sans l’ouvrir.
+
+— J’ai signé son certificat de décès.
+
+— Celui d’Hélène.
+
+— Oui.
+
+— On le sait.
+
+— Non. Je veux dire : j’ai pris le stylo. J’ai écrit. Personne ne me tenait la main.
+
+Je ne répondis pas.
+
+— Tu vas dire qu’elle m’a manipulée.
+
+— Elle t’a manipulée.
+
+— Et j’ai signé.
+
+— Les deux peuvent être vrais.
+
+Elle releva la tête.
+
+— Tu apprends.
+
+— Lentement.
+
+Elle sourit à peine.
+
+— Quand elle m’a demandé, elle avait déjà le dossier presque prêt. Elle m’a raconté qu’un homme l’avait suivie jusqu’à chez elle. Elle m’a montré une photo.
+
+— Vraie ?
+
+— Je ne sais plus.
+
+— Tu l’as encore ?
+
+Sarah fouilla dans ses anciens mails.
+
+Une image.
+
+Hélène dans une rue.
+
+Au fond, un homme flou.
+
+Nadir l’examinerait plus tard : photographie authentique, mais l’homme n’était pas identifiable.
+
+La peur, elle, avait été réelle.
+
+— Elle m’a dit : « Si je reste officiellement vivante, ils finiront par arriver jusqu’à vous. »
+
+— Donc elle a transformé le faux décès en sacrifice maternel.
+
+— Oui.
+
+Sarah regarda le ciel.
+
+— Tu comprends pourquoi j’ai cru ?
+
+— Oui.
+
+— Ça me met encore plus en colère.
+
+Cette colère n’était pas seulement contre Hélène.
+
+Elle était contre la version plus jeune d’elle-même qui avait voulu croire sa mère.
+
+Je connaissais ce sentiment.
+
+Nous passâmes ensuite chez Sophie.
+
+Pas la maison du crime.
+
+Un ancien appartement qu’elle avait gardé en location et où elle stockait des cartons.
+
+Sarah avait la clé.
+
+Photos d’enfance.
+
+Bulletins scolaires.
+
+Lettres.
+
+Une boîte marquée **MAMAN**.
+
+À l’intérieur, des cartes d’Hélène envoyées après sa « mort ».
+
+Pas signées Hélène.
+
+Des cartes postales anonymes avec une phrase que Sarah reconnaissait.
+
+*Les hortensias tiennent toujours mal au soleil.*
+
+*Tu oublies encore ton écharpe.*
+
+Des banalités.
+
+Hélène n’avait jamais entièrement cessé de contacter ses filles.
+
+— Sophie savait qu’elle était vivante ?
+
+Sarah parcourait les cartes.
+
+— Je ne crois pas.
+
+Puis elle trouva une enveloppe.
+
+À l’intérieur, une photo d’Emma et Théo prise à distance.
+
+Au dos :
+
+**PROTÈGE-LES DE CE QU’ILS VONT TROUVER.**
+
+Date : 2024.
+
+Sophie savait donc au moins qu’une personne liée à Hélène surveillait ses enfants.
+
+— Pourquoi elle ne t’en a pas parlé ?
+
+Sarah rit tristement.
+
+— Dans cette famille, on protège en cachant.
+
+La phrase aurait pu servir d’épitaphe collective.
+
+Nous retrouvâmes aussi une lettre jamais envoyée à Hélène.
+
+Sophie écrivait :
+
+*Maman, si tu es vraiment vivante, arrête. Théo fouille dans le passé. Emma commence à comprendre. Laurent dit que tout est derrière nous mais rien n’est derrière nous. C’est seulement sous nos pieds.*
+
+Sarah s’assit sur le sol.
+
+— Elle savait.
+
+— Une partie.
+
+— Elle aurait pu me dire.
+
+Je pensai à tous les personnages de l’affaire.
+
+Chacun avait une version différente de cette phrase.
+
+*Il aurait pu me dire.*
+
+*Elle aurait pu parler.*
+
+*Pourquoi personne n’a prévenu ?*
+
+Et presque toujours, celui qui se taisait pensait protéger.
+
+Le secret n’était pas l’absence de communication.
+
+C’était une communication retardée jusqu’au moment où elle ne pouvait plus sauver personne.
 ---
 
 ### CHAPITRE 14 — LA FEMME MORTE
@@ -10753,6 +11081,148 @@ Celui qui regarde.
 
 Pour la première fois, l’idée qu’Hélène puisse elle-même être observée cessa d’être une abstraction.
 
+
+L’analyse des serveurs d’Aveyron dura six jours.
+
+Nadir dormit deux fois au bureau.
+
+Le septième matin, il posa devant moi une carte imprimée.
+
+— J’ai séparé les accès.
+
+Trois couleurs.
+
+Accès attribuables à Hélène.
+
+Accès liés aux identifiants de Mathieu.
+
+Accès Observer_01.
+
+— Ils se chevauchent ?
+
+— Souvent.
+
+— Donc impossible de savoir.
+
+— Pas exactement.
+
+Il montra une période de trois heures en juin.
+
+Hélène utilisait physiquement son poste selon une caméra interne.
+
+Au même moment, Observer ouvrait un autre répertoire depuis l’extérieur.
+
+— Donc Hélène et Observer ne sont pas la même session.
+
+— Elle pourrait contrôler les deux.
+
+— Oui. Mais regarde ça.
+
+Observer téléchargeait un fichier qu’Hélène tentait précisément de chiffrer.
+
+Puis, une minute plus tard, Hélène changeait son mot de passe.
+
+— Elle l’a vu.
+
+— Oui.
+
+Une vidéo de caméra intérieure la montrait se lever brutalement, débrancher le routeur, vérifier la maison.
+
+Pas une mise en scène destinée à nous : la caméra n’était pas dans le dossier qu’elle avait préparé.
+
+— Elle avait peur.
+
+— Ça ne l’innocente de rien, dit Nadir.
+
+— Non.
+
+Mais cela détruisait l’hypothèse confortable où Hélène était Observer et jouait tous les rôles.
+
+Nous trouvâmes ensuite un dossier nommé **CONTRE-MESURES**.
+
+Hélène avait listé les personnes suspectées.
+
+Mathieu.
+
+Cazeneuve.
+
+Un technicien nommé Philippe Serra.
+
+Sarah.
+
+Moi.
+
+Antoine, bien qu’il soit mort.
+
+À côté de chaque nom, une méthode de vérification.
+
+Pour Sarah : faux rendez-vous.
+
+Pour Cazeneuve : document unique.
+
+Pour Mathieu : hash de fichier.
+
+Pour moi : déclencheur mémoriel.
+
+Je lus ma ligne.
+
+**G.V. — exposer fragment vrai non public ; observer s’il anticipe suite.**
+
+— Elle m’a testé.
+
+— Oui.
+
+— Avec quoi ?
+
+Nadir chercha les dates.
+
+Probablement la photographie envoyée après le premier matin.
+
+Ou le message « Comme en 2009 ».
+
+Hélène avait cherché à savoir si je reconnaissais des éléments avant qu’ils ne soient publiés.
+
+Elle suspectait que mon amnésie pouvait être partielle ou jouée.
+
+— Charmant.
+
+Dans **CONTRE-MESURES**, un résultat :
+
+**G.V. : réaction compatible avec ignorance réelle.**
+
+Je ressentis une émotion absurde.
+
+Presque du soulagement d’avoir réussi le test d’une femme qui m’avait manipulé.
+
+Nadir le vit.
+
+— Ne lui donne pas ça.
+
+— Quoi ?
+
+— Le plaisir d’avoir été ton arbitre.
+
+Il avait raison.
+
+Le dossier d’Hélène était une observation.
+
+Pas une autorité.
+
+Nous trouvâmes enfin une note datée trois semaines avant les meurtres :
+
+*O1 connaît le protocole des 27. Donc fuite chez M. ou antérieure.*
+
+Hélène savait donc que quelqu’un connaissait le système de Mathieu avant le massacre.
+
+Pourquoi ne pas arrêter ?
+
+Parce qu’elle pensait encore pouvoir utiliser cette fuite.
+
+Toujours le même défaut.
+
+Face à un danger, Hélène ne cherchait pas à sortir du jeu.
+
+Elle cherchait à devenir celle qui le contrôlait mieux.
 ---
 
 ### CHAPITRE 15 — LE PROCÈS AVANT LE PROCÈS
@@ -11397,6 +11867,130 @@ C’était aussi de finir par ne plus croire rien du tout.
 
 Et quelqu’un comptait peut-être exactement là-dessus.
 
+
+La pression publique atteignit Sarah à son tour.
+
+Une vidéo apparut où elle semblait expliquer qu’elle avait falsifié l’autopsie d’Emma.
+
+Faux.
+
+Mais elle avait réellement falsifié le certificat de décès d’Hélène.
+
+Le mélange était parfait.
+
+Des journalistes campèrent devant l’institut.
+
+L’ordre des médecins annonça un examen.
+
+Sarah m’appela.
+
+— Ils demandent si j’ai déjà falsifié un document médical.
+
+Silence.
+
+— Tu dois répondre oui.
+
+— Je sais.
+
+— Même si ça donne du carburant au faux.
+
+— Je sais.
+
+Elle raccrocha.
+
+Le lendemain, son avocat publia une déclaration reconnaissant le faux certificat d’Hélène tout en niant toute altération des dossiers d’Emma.
+
+La réaction fut immédiate :
+
+**LA LÉGISTE AVOUe AVOIR FALSIFIÉ DES DOCUMENTS.**
+
+Techniquement vrai.
+
+Pratiquement trompeur.
+
+Je voulus appeler Diane.
+
+Puis je m’arrêtai.
+
+Nous avions déjà appris.
+
+On ne gagnerait pas en corrigeant chaque titre.
+
+Sarah me retrouva le soir.
+
+— J’ai perdu l’accès au service en attendant la décision.
+
+— Temporairement.
+
+— Peut-être.
+
+Elle sourit.
+
+— Ton mot.
+
+Nous mangeâmes dans un petit restaurant loin du centre.
+
+Personne ne nous reconnut pendant vingt minutes.
+
+Puis un homme s’approcha.
+
+Je me raidis.
+
+— Commandant ?
+
+— Oui.
+
+— Ma fille est morte dans un accident il y a six ans. Après tout ce qu’on voit sur vous… comment je sais que les vidéos de son dossier étaient vraies ?
+
+Je n’avais pas de réponse rassurante.
+
+— Vous ne le savez pas à cause de mon affaire. Vous le savez si sa chaîne de preuve tient.
+
+— Et si elle tient pas ?
+
+— Vous demandez un réexamen.
+
+Il hocha la tête.
+
+— Merci.
+
+Il repartit.
+
+Sarah me regarda.
+
+— Tu aurais pu dire que notre dossier est exceptionnel.
+
+— Il l’est.
+
+— Pourquoi ne pas le dire ?
+
+— Parce que sa question est légitime.
+
+Le scandale avait un effet que je n’avais pas prévu.
+
+Il détruisait la confiance.
+
+Mais il obligeait aussi certaines institutions à expliquer enfin comment elles construisaient une preuve.
+
+Nadir participa à une conférence publique sur l’authentification.
+
+Des journalistes apprirent à écrire « non vérifié » au lieu de « faux » ou « vrai » trop vite.
+
+Pas tous.
+
+Pas assez.
+
+Mais quelque chose changeait.
+
+Le manipulateur avait voulu rendre la vérité ordinaire parmi les mensonges.
+
+La réponse ne pouvait pas être de demander au public de faire confiance aveuglément.
+
+Il fallait montrer pourquoi certaines traces méritaient davantage de confiance que d’autres.
+
+La vérité ne gagnait plus par prestige.
+
+Elle devait documenter son chemin.
 ---
 
 ### CHAPITRE 16 — LA CARRIÈRE
