@@ -16873,6 +16873,182 @@ Et au milieu, une décision que quelqu’un avait choisi de me faire oublier.
 
 
 
+Nous examinâmes la restauration de mon téléphone comme une scène de crime.
+
+Pas le contenu après 4 h 11.
+
+Le processus lui-même.
+
+L’appareil avait reçu une commande de réinitialisation partielle, puis restauré automatiquement les applications courantes depuis une sauvegarde.
+
+Le résultat était subtil.
+
+Au réveil, tout semblait normal.
+
+Contacts.
+
+Photos.
+
+Messages plus anciens.
+
+Seules les dernières heures avaient disparu.
+
+— Quelqu’un voulait que tu utilises ton téléphone sans te rendre compte qu’il avait été nettoyé, dit Nadir.
+
+— La notification de mise à jour restait.
+
+— Oui.
+
+— Donc pas très subtil.
+
+— Elle pouvait être nécessaire au redémarrage. Ou volontaire.
+
+Toujours deux possibilités.
+
+La commande de restauration venait d’un ordinateur qui s’était connecté physiquement en USB.
+
+Pas à distance.
+
+— Dans le fourgon ?
+
+— Très possible.
+
+Le système du fourgon possédait un port de maintenance compatible.
+
+À 3 h 36, une connexion USB de quatre minutes était enregistrée.
+
+Nom de périphérique :
+
+**GV-S23.**
+
+— Hélène a donc eu mon téléphone.
+
+— Oui.
+
+— Elle efface la nuit.
+
+— Ou elle exécute un script préparé.
+
+Nous retrouvâmes une trace du script dans le cache de l’ordinateur de bord.
+
+Nom :
+
+**CLEAN_RETURN.ps1**
+
+Auteur de commentaire :
+
+**M.V.**
+
+— Mathieu.
+
+— Ou quelqu’un qui veut qu’on pense Mathieu.
+
+Le script était ancien, créé des semaines avant sa mort.
+
+Cette fois, sa signature cryptographique correspondait à son environnement de travail.
+
+Probabilité forte qu’il en soit l’auteur.
+
+— Pourquoi Mathieu préparerait un outil pour effacer mon téléphone ?
+
+Nadir parcourut le code.
+
+— Il ne supprime pas tout.
+
+— Quoi ?
+
+— Il exporte d’abord.
+
+Un répertoire distant recevait une copie chiffrée des données supprimées.
+
+— Donc ma nuit existe quelque part.
+
+Je me levai.
+
+— Où ?
+
+— Destination résolue par une clé qui n’est plus disponible.
+
+Le script appelait :
+
+**vault_secondlook**
+
+Second look.
+
+Second regard.
+
+La tâche que le compte de Mathieu cherchait déjà.
+
+Nous avions enfin un sens.
+
+Le nettoyage n’était peut-être pas conçu uniquement pour me faire oublier.
+
+Il pouvait servir à retirer des données d’un appareil compromis tout en les sauvegardant ailleurs.
+
+— Alors pourquoi me rendre le téléphone vide ?
+
+— Peut-être parce qu’il pensait que quelqu’un le fouillerait.
+
+— Hélène.
+
+— Ou Observer.
+
+Mathieu avait-il prévu de protéger des données contre Hélène ?
+
+Hélène avait-elle utilisé son script après m’avoir ramené ?
+
+Deux adversaires pouvaient employer le même outil pour des raisons opposées.
+
+Nous suivîmes les résolutions DNS historiques.
+
+Le coffre **vault_secondlook** pointait vers un service distribué fermé depuis.
+
+Une partie des nœuds avait été saisie dans une autre enquête.
+
+Après procédure, nous récupérâmes un index.
+
+Pas les fichiers.
+
+Mais une entrée :
+
+**GV_0310_2026 — 186 MB — COMPLETE.**
+
+Cent quatre-vingt-six mégaoctets.
+
+Ma nuit avait bien été exportée.
+
+— Vidéos ? audio ? données téléphone ?
+
+— Tout ce que le script a collecté.
+
+— Où est le contenu ?
+
+— Fragmenté. Chiffré. Il faut au moins trois nœuds.
+
+Deux avaient disparu.
+
+Le troisième existait encore.
+
+Pays-Bas.
+
+Nous lançâmes une demande internationale.
+
+Pour la première fois, la « seconde lecture » prenait aussi un sens technique.
+
+Mathieu avait appelé un coffre de données *second look* avant que le mécanisme narratif n’apparaisse.
+
+Ce n’était peut-être pas une phrase mystique.
+
+C’était d’abord un nom de projet.
+
+Plus tard, quelqu’un l’avait transformé en mise en scène pour moi.
+
+Encore une fois, l’histoire spectaculaire semblait construite sur une fonction technique beaucoup plus banale.
+
+Et donc beaucoup plus crédible.
+
+---
+
 ### CHAPITRE 22 — HÉLÈNE
 
 Hélène m’attendait derrière une vitre.
@@ -17961,6 +18137,154 @@ Sous le message :
 
 **UNE CLÉ N’EST PAS UNE RÉPONSE.**
 
+
+Après l’entretien avec Hélène, je retrouvai Sarah dans le parking souterrain.
+
+Elle m’attendait appuyée contre ma voiture.
+
+— Elle a admis.
+
+— Oui.
+
+— Le sédatif en 2009.
+
+— Oui.
+
+Sarah ferma les yeux.
+
+— J’ai passé dix-sept ans à croire que ton cerveau m’avait simplement effacée.
+
+— Il y avait aussi le traumatisme.
+
+— Ne la protège pas.
+
+— Je ne la protège pas.
+
+— Alors quoi ?
+
+— Je refuse de remplacer une explication totale par une autre.
+
+Elle me regarda avec colère.
+
+— C’est facile pour toi de devenir philosophe maintenant.
+
+— Non.
+
+La réponse sortit plus sèche que prévu.
+
+— C’est tout sauf facile.
+
+Silence.
+
+Je poursuivis :
+
+— Si je dis qu’Hélène a volé toute notre histoire, alors je mens sur les mois après. Tu me l’as dit toi-même. J’ai essayé. Puis j’ai choisi de partir.
+
+Sarah détourna les yeux.
+
+— Je sais.
+
+— Elle nous a fait du mal. Peut-être plus qu’on saura jamais. Mais elle ne prend pas aussi les décisions que j’ai réellement prises.
+
+Sarah s’assit sur le capot d’une voiture voisine, puis se releva en voyant l’alarme clignoter.
+
+Malgré tout, nous rîmes.
+
+Un rire bref.
+
+Presque déplacé.
+
+Puis elle dit :
+
+— Je te déteste quand tu as raison.
+
+— Ça, au moins, ça a l’air d’un souvenir ancien.
+
+Elle me frappa doucement l’épaule.
+
+Nous restâmes là.
+
+— Qu’est-ce qu’elle a dit sur Emma ?
+
+— Que j’ai essayé de la sauver.
+
+— Tu la crois ?
+
+— Je veux la croire.
+
+— Ce n’est pas pareil.
+
+— Je sais.
+
+Sarah inspira.
+
+— Alors trouve autre chose.
+
+C’était exactement ce que je comptais faire.
+
+La pièce 25 nous donnerait peut-être une image.
+
+Mais avant de l’ouvrir, nous décidâmes de chercher des traces indépendantes.
+
+Dans la chambre d’Emma, un capteur de mouvement de lampe connectée avait enregistré une activité à 2 h 55.
+
+Puis 3 h 13.
+
+Puis 3 h 15.
+
+La montre d’Emma montrait une hausse brutale du rythme cardiaque à 3 h 14.
+
+Arrêt des données à 3 h 19.
+
+Mon sang sur la lampe du rez-de-chaussée.
+
+Une trace de ma chaussure dans l’escalier.
+
+L’ADN de Théo sous un ongle d’Emma.
+
+Une ecchymose sur son avant-bras compatible avec une lutte.
+
+Chaque trace disait une petite chose.
+
+Aucune ne racontait à elle seule la scène.
+
+C’était ce que je voulais avant la vidéo.
+
+Un sol suffisamment solide pour que l’image ne puisse pas devenir toute l’histoire.
+
+Nadir approuva.
+
+— On regarde 25 seulement après avoir écrit ce qu’on sait sans elle.
+
+Nous préparâmes une page.
+
+**Avant pièce 25 :**
+
+Gabriel présent dans la maison avant les meurtres.
+
+Emma vivante après 2 h 53.
+
+Théo présent.
+
+Hélène présente.
+
+Parents déjà sédatés.
+
+Gabriel blessé au rez-de-chaussée avant la fin.
+
+Emma lutte avec Théo.
+
+Cause de mort : strangulation.
+
+Puis nous signâmes tous la feuille.
+
+— Pourquoi ? demanda Martin.
+
+— Pour ne pas prétendre après la vidéo qu’on savait déjà ce qu’elle nous aura appris.
+
+Un petit garde-fou contre notre mémoire d’enquêteurs.
+
+Nous étions devenus assez méfiants pour documenter même notre propre ignorance.
 ---
 
 ### CHAPITRE 23 — LA DERNIÈRE VIDÉO
@@ -18657,6 +18981,172 @@ La pièce 26 venait de se déverrouiller.
 
 Cinq secondes d’audio.
 
+
+La pièce 25 changea l’affaire sans la résoudre.
+
+C’était peut-être sa plus grande force.
+
+Elle prouvait que j’avais été là.
+
+Elle prouvait qu’Emma était vivante.
+
+Elle montrait Hélène.
+
+Elle montrait Théo.
+
+Mais elle s’arrêtait avant le meurtre.
+
+Les onze minutes donnaient immédiatement naissance à des dizaines d’hypothèses.
+
+Presse exclue, avocats inclus.
+
+La défense de Théo suggéra que j’avais pu tuer Emma après la coupure.
+
+La défense d’Hélène suggéra que Théo seul contrôlait la caméra.
+
+Un expert privé affirma que toute la vidéo pouvait être synthétique malgré nos analyses.
+
+Nadir lut son rapport.
+
+— Il utilise « ne peut être exclu » comme synonyme de « probable ».
+
+— Classique.
+
+— Je peux pas exclure qu’un éléphant ait appuyé sur STREAM OFF non plus.
+
+Je souris.
+
+Montels, moins amusée :
+
+— Au tribunal, il faudra être plus pédagogique.
+
+Nous organisâmes une reconstitution sans acteurs.
+
+Seulement positions et heures.
+
+À 2 h 55, ma silhouette monte chez Emma.
+
+À 3 h 02, flux coupé.
+
+Au rez-de-chaussée, la lampe portant mon sang indique une confrontation avant 3 h 13.
+
+Le téléphone de Laurent enregistre un mouvement brutal à 3 h 06.
+
+Sa montre cesse de détecter une activité cardiaque à 3 h 08.
+
+Sophie avait probablement déjà reçu une dose létale ou quasi létale.
+
+Théo monte ensuite.
+
+— Donc entre 3 h 02 et 3 h 13, Laurent meurt, je suis frappé, Théo s’échappe vers l’étage.
+
+— Oui.
+
+— Hélène ?
+
+Aucune donnée directe.
+
+Mais ses traces au rez-de-chaussée.
+
+— Et pourquoi la caméra reprend à 3 h 13 ?
+
+Nous examinâmes le téléphone secondaire d’Emma.
+
+Une automatisation.
+
+Si le flux est coupé plus de dix minutes, relancer.
+
+— Emma avait prévu qu’on puisse le couper.
+
+— Ou Mathieu l’avait configuré pour elle.
+
+Le redémarrage n’était donc pas une décision de quelqu’un sur place.
+
+Simple sécurité.
+
+Onze minutes dix-sept : durée de coupure jusqu’au watchdog automatique.
+
+Le mystère des « onze minutes » devenait moins intentionnel.
+
+Quelqu’un avait coupé.
+
+Un système avait rallumé.
+
+Pas besoin d’une main pour choisir précisément la reprise.
+
+Encore une fois, la mécanique retirait un peu de magie.
+
+— Qui coupe ?
+
+Le compte G.VARENNE_LOCAL.
+
+Créé automatiquement quand mon téléphone rejoint le réseau.
+
+Le droit de coupure était disponible depuis mon appareil.
+
+Mais pas la preuve que j’avais appuyé.
+
+Nous cherchâmes dans la copie chiffrée du téléphone récupérable partiellement grâce au nœud néerlandais.
+
+Une commande locale à 3:02:10.
+
+Application ouverte au premier plan.
+
+Authentification biométrique réussie à 3:02:07.
+
+Mon empreinte ou mon visage.
+
+— Là, dit Martin. C’est toi.
+
+Nadir corrigea :
+
+— C’est une biométrie validée par son téléphone.
+
+— Quelle différence ?
+
+— Quelqu’un peut placer son doigt s’il est inconscient. Ou utiliser son visage.
+
+Je regardai l’heure.
+
+À 3 h 02, selon Hélène, j’étais encore conscient.
+
+Un fragment revint.
+
+Emma :
+
+— Les caméras sont compromises.
+
+Moi :
+
+— Par qui ?
+
+Hélène :
+
+— Coupe.
+
+Je ferme les yeux.
+
+Écran de téléphone.
+
+Bouton rouge.
+
+Je notai sans extrapoler.
+
+**Fragment : Hélène dit “Coupe”. Je touche écran.**
+
+Si vrai, j’avais coupé moi-même.
+
+Pourquoi ?
+
+Pour empêcher quelqu’un de regarder.
+
+Ironie centrale de toute l’histoire.
+
+J’avais peut-être volontairement créé les onze minutes pour protéger Emma d’un observateur.
+
+Et ces onze minutes étaient devenues ensuite la plus grande source de suspicion.
+
+Chaque acte de protection produisait encore un trou où un autre récit pouvait s’installer.
 ---
 
 ### CHAPITRE 24 — ONZE MINUTES
@@ -19567,6 +20057,140 @@ Exactement comme je l’avais dicté.
 
 Puis certaines phrases commencèrent à se barrer.
 
+
+À mesure que l’instruction approchait de sa première clôture, nous dûmes distinguer ce qui serait jugé de ce qui resterait une question.
+
+Montels écrivit trois colonnes au tableau.
+
+**FAITS POURSUIVIS.**
+
+**FAITS ÉTABLIS MAIS NON ATTRIBUÉS.**
+
+**QUESTIONS OUVERTES.**
+
+Dans la première :
+
+Théo et les morts Morel.
+
+Enlèvement de Sarah et Martin.
+
+Falsifications reconnues d’Hélène.
+
+Faux décès.
+
+Administration de substances.
+
+Certaines intrusions.
+
+Dans la deuxième :
+
+Contrats contre Cazeneuve et les Carmin liés à une infrastructure utilisée par Hélène mais compromise.
+
+Mort de Mathieu très probablement provoquée.
+
+Sabotage possible de Maret.
+
+Dans la troisième :
+
+Identité d’Observer.
+
+Auteur exact des commandes professionnelles.
+
+Destination actuelle de la vidéo Clara.
+
+Part précise d’Hélène et d’Observer dans les actions posthumes de Mathieu.
+
+Je regardai.
+
+— Et Clara ?
+
+Montels ajouta son nom entre deux colonnes.
+
+**Cause finale non déterminable avec certitude. Falsification H.L. établie.**
+
+— C’est frustrant.
+
+— Le droit n’est pas là pour te donner une fin satisfaisante.
+
+— Les romans font mieux.
+
+— Pas les bons.
+
+Je souris.
+
+Elle ignorait à quel point la phrase convenait.
+
+Nous avions passé des mois à résister aux histoires trop nettes.
+
+Il aurait été absurde de terminer en inventant une certitude pour le confort.
+
+Théo demanda à parler à Sarah.
+
+Elle refusa d’abord.
+
+Puis accepta une lettre.
+
+Il écrivait :
+
+*Tata, je ne te demande pas de me pardonner. Je veux seulement que tu saches qu’Emma avait raison avant moi sur presque tout. Je croyais que découvrir la vérité me donnerait le droit de choisir ce qui devait arriver ensuite. Je ne sais pas si grand-mère m’a fabriqué ou si elle a seulement trouvé ce qu’il y avait déjà. Ça ne change pas ce que j’ai fait.*
+
+Sarah lut sans pleurer.
+
+— Au moins, il ne se cache pas entièrement derrière elle.
+
+Elle replia.
+
+— Tu vas lui répondre ?
+
+— Pas maintenant.
+
+— Peut-être ?
+
+Elle me lança un regard.
+
+— Tais-toi.
+
+Cette nuit-là, je passai devant la maison Morel.
+
+Les scellés avaient disparu.
+
+Une agence immobilière avait posé un panneau.
+
+**À VENDRE.**
+
+Je m’arrêtai.
+
+Une maison où trois personnes étaient mortes redevenait un bien avec surface, nombre de chambres et diagnostic énergétique.
+
+Le monde continuait de transformer les lieux.
+
+Ce n’était pas forcément une trahison.
+
+Peut-être seulement sa manière de survivre.
+
+Je levai les yeux vers la fenêtre d’Emma.
+
+Personne.
+
+Puis mon téléphone vibra.
+
+Aucun message anonyme.
+
+Seulement Sarah :
+
+*Tu rentres ?*
+
+Je répondis :
+
+*Oui.*
+
+Un mot simple.
+
+Sans code.
+
+Sans piège.
+
+Je repartis.
 ---
 
 ### ÉPILOGUE — CEUX QUI REGARDENT
