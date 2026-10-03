@@ -661,6 +661,10 @@ body.immersive-fallback .page.text-flow-page{
   .stage{padding-top:8px!important}
   .book-shell{flex:1 1 100%!important;min-height:0!important}
 }
+
+.second-reading-link{border-color:#a20d18!important;background:linear-gradient(135deg,#1a1114,#300b10)!important;color:#fff!important;box-shadow:0 0 18px rgba(190,20,32,.22)!important}
+.second-reading-link .chapter-name{color:#e6aeb2!important}
+.second-reading-mark{width:54px;height:54px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:#8d1119;font-size:25px;grid-row:1/3}
 </style>
 </head>
 <body class="theme-ivory">
@@ -870,7 +874,7 @@ body.immersive-fallback .page.text-flow-page{
     // a visible white/first-column flash during Android fullscreen viewport changes.
     const visibleLeft=f.scrollLeft;
     requestAnimationFrame(()=>{
-      textPages=Math.max(1,Math.ceil((c.scrollWidth-1)/w)); totalPages=textPages+3;
+      textPages=Math.max(1,Math.ceil((c.scrollWidth-1)/w)); totalPages=textPages+2;
       chapterPageIndices=[];pageSections=[];
       const fr=f.getBoundingClientRect();
       RAW.sections.forEach((_,si)=>{
@@ -900,17 +904,16 @@ body.immersive-fallback .page.text-flow-page{
     current=Math.max(0,Math.min(totalPages-1,current));
     const turnClass=animate?(direction==='prev'?'turn-prev':'turn-next'):'';
     if(current===0){pageEl.className='page cover-page '+turnClass;pageEl.innerHTML='<img src="'+FRONT+'" alt="Couverture — Les Morts n’ont plus de visage" fetchpriority="high" decoding="async">';}
-    else if(current===textPages+1){pageEl.className='page cover-page end-color-page '+turnClass;pageEl.innerHTML='<img src="'+BACK+'" alt="Coucher de soleil sur le Nil" decoding="async">';}
-    else if(current===totalPages-1){pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
+    else if(current===totalPages-1){localStorage.setItem('visage-second-reading-unlocked','1');pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
     else{
       if(!flow()){pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow();requestAnimationFrame(()=>recalcLayout(savedAnchor));return;}
       pageEl.className='page text-flow-page coldcase-frame '+turnClass;
       const f=flow();f.scrollLeft=(current-1)*columnWidth();
     }
     prevBtn.disabled=current===0;nextBtn.disabled=current===totalPages-1;
-    pageCounter.textContent=current===0?'Couverture':(current===textPages+1?'Illustration de fin':(current===totalPages-1?'Mot du Grognard':'Page '+(current+1)+' / '+totalPages));
+    pageCounter.textContent=current===0?'Couverture':(current===totalPages-1?'Fin du dossier':'Page '+(current+1)+' / '+totalPages);
     const pct=totalPages>1?Math.round((current/(totalPages-1))*100):0;progressBar.style.width=pct+'%';percentLabel.textContent=pct+' %';
-    const sec=currentSection();chapterLabel.textContent=sec>=0?RAW.sections[sec].label+' — '+RAW.sections[sec].title:(current===0?'Couverture':(current===textPages+1?'Illustration de fin':'Mot du Grognard'));
+    const sec=currentSection();chapterLabel.textContent=sec>=0?RAW.sections[sec].label+' — '+RAW.sections[sec].title:(current===0?'Couverture':'Fin du dossier');
     highlightChapter();
     if(save&&sec>=0){const a=captureVisibleAnchor();if(a){savedAnchor=a;localStorage.setItem(STORAGE.anchor,a);}}
   }
@@ -932,6 +935,13 @@ body.immersive-fallback .page.text-flow-page{
       b.setAttribute('aria-label',s.label+' — '+s.title+(completedSections.has(i)?' — terminé':''));
       b.addEventListener('click',()=>{if(!layoutReady){showToast('Mise en page en cours…');return;}goTo(chapterPageIndices[i]||1,'next');closeDrawers();});
       list.appendChild(b);
+      if(i===1 && localStorage.getItem('visage-second-reading-unlocked')==='1'){
+        const special=document.createElement('button');special.type='button';special.className='chapter-link second-reading-link';
+        special.innerHTML='<div class="second-reading-mark">🔓</div><strong>CHAPITRE 1 — SECONDE LECTURE</strong><span class="chapter-name">DOSSIER CACHÉ DÉBLOQUÉ</span>';
+        special.setAttribute('aria-label','Chapitre 1 — seconde lecture débloquée');
+        special.addEventListener('click',()=>{const idx=RAW.sections.findIndex(x=>x.title==='SECONDE LECTURE');if(idx>=0)goTo(chapterPageIndices[idx]||1,'next');closeDrawers();});
+        list.appendChild(special);
+      }
     });highlightChapter();
   }
   function highlightChapter(){const sec=currentSection();document.querySelectorAll('.chapter-link').forEach(b=>b.classList.toggle('active',sec>=0&&Number(b.dataset.section)===sec));}
