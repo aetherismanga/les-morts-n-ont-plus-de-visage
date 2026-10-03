@@ -2207,6 +2207,136 @@ Je levai les yeux vers ma fenêtre.
 
 Pour la première fois, je fermai les rideaux.
 
+
+La nuit suivante, je compris que la vidéo de 2 h 41 avait déjà produit plus qu’un soupçon.
+
+Elle avait modifié les témoins.
+
+Nous rappelâmes la femme du quartier qui disait m’avoir vu.
+
+La première audition, avant diffusion massive, avait été enregistrée à 7 h 12.
+
+— J’ai vu un homme, disait-elle. Peut-être quarante ans. Blouson sombre.
+
+— Vous pourriez le reconnaître ?
+
+— Non.
+
+Deux heures plus tard, après les chaînes d’information :
+
+— C’était le commandant Varenne. J’en suis sûre.
+
+Je l’interrogeai moi-même avec l’accord de Montels.
+
+— Madame, à sept heures vous disiez ne pas pouvoir reconnaître.
+
+Elle se défendit immédiatement.
+
+— J’ai réfléchi.
+
+— Vous avez vu ma photo entre-temps.
+
+— Oui, mais ça m’a rappelé.
+
+— Peut-être.
+
+Elle se vexa.
+
+— Vous pensez que je mens ?
+
+— Non. Je pense que votre mémoire a reçu une nouvelle image.
+
+Le mot ne lui plut pas.
+
+Personne n’aime apprendre que son souvenir peut changer sans qu’il mente.
+
+Elle finit par dire :
+
+— Quand j’ai vu la vidéo, j’ai reconnu votre façon de marcher.
+
+— Avant la vidéo, vous aviez parlé de ma démarche ?
+
+— Non.
+
+Son témoignage n’était pas faux au sens moral.
+
+Il était contaminé.
+
+Nous classâmes sa reconnaissance comme non indépendante.
+
+Un autre voisin avait entendu une voiture vers deux heures trente.
+
+Après avoir vu le fourgon blanc dans la presse — une fuite que nous n’avions pas autorisée — il se souvenait désormais d’un « véhicule de laboratoire ».
+
+Avant, il avait seulement dit « camionnette claire ».
+
+Je regardai Martin.
+
+— On perd nos témoins en direct.
+
+— On ne les perd pas. Ils deviennent moins propres.
+
+— Comme les scènes.
+
+— Oui.
+
+À partir de là, nous décidâmes de recueillir rapidement les souvenirs bruts avant toute exposition médiatique.
+
+Une équipe fut dédiée aux témoins du quartier.
+
+Pas de photo.
+
+Pas de vidéo à montrer avant leur récit libre.
+
+C’était élémentaire.
+
+Mais les procédures classiques n’avaient pas été conçues pour une affaire où une image fabriquée pouvait toucher un témoin avant même la police.
+
+Le lendemain, Montels obtint qu’une chaîne retire temporairement l’extrait le plus trompeur.
+
+Ils le remplacèrent par un débat sur la censure de l’extrait.
+
+Impossible de gagner.
+
+Je cessai de regarder.
+
+À la place, je relus les auditions prises avant neuf heures.
+
+Une enfant de douze ans avait dit :
+
+— J’ai vu une dame blanche.
+
+— Blanche comment ?
+
+— Habillée en blanc.
+
+Heure estimée : entre cinq et six.
+
+La femme en combinaison scientifique.
+
+Hélène, probablement.
+
+Mais l’enfant ajoutait :
+
+— Elle avait une boîte et elle marchait lentement comme si elle avait mal au pied.
+
+Hélène ne boitait pas habituellement.
+
+Une blessure ?
+
+Une autre femme ?
+
+Je notai sans conclure.
+
+Plus tard, dans le rapport, je refusai la phrase « témoin identifie une femme ».
+
+J’écrivis :
+
+**Témoin enfant décrit une personne vêtue de blanc ; identité inconnue.**
+
+Une nuance minuscule.
+
+C’était devenu une forme de résistance.
 ---
 
 ### CHAPITRE 3 — LE QUATRIÈME COUVERT
@@ -2957,6 +3087,168 @@ Il écrivait nos réactions.
 
 Et nous venions de lui offrir une scène parfaite.
 
+
+Nicolas Fabre passa une deuxième nuit en garde à vue.
+
+Il ne demanda presque rien.
+
+Au matin, je lui apportai un café.
+
+— Vous mettez du sucre ?
+
+— Sophie disait que j’en mettais assez pour vitrifier une cuillère.
+
+Je posai deux sachets.
+
+Il en prit un.
+
+— Elle disait beaucoup de choses sur vous ?
+
+— Après notre séparation, surtout des insultes.
+
+— Et avant ?
+
+Il regarda le gobelet.
+
+— On a été heureux.
+
+Je n’avais pas besoin de cette information pour l’enquête.
+
+Je la laissai venir.
+
+— J’ai commencé à boire après la mort de mon frère. Je devenais jaloux. Je croyais qu’elle me trompait avec Laurent.
+
+— Son futur mari.
+
+— Oui.
+
+— C’était vrai ?
+
+— Non.
+
+— Vous l’avez frappée quand même.
+
+— Oui.
+
+Il ne cherchait pas l’excuse.
+
+— Après, elle s’est mise avec Laurent. C’était presque drôle.
+
+— Pourquoi ?
+
+— Je pensais qu’elle quittait un homme violent pour un type bien. J’ai appris plus tard que Laurent la frappait aussi.
+
+Je le regardai.
+
+— Vous avez fait quoi ?
+
+— Rien.
+
+Il eut un rire amer.
+
+— Voilà le thème de votre dossier, non ? Tout le monde savait un morceau. Personne ne fait assez.
+
+— Vous lui avez proposé de l’aider ?
+
+— Une fois. Elle m’a répondu que je n’étais pas autorisé à jouer au sauveur après avoir été le problème.
+
+Sophie avait raison.
+
+Fabre aussi, d’une autre manière.
+
+— Elle vous parlait de Théo ?
+
+— Il ressemblait à Laurent quand il était en colère. Ça lui faisait peur.
+
+— Et Emma ?
+
+Son visage s’adoucit.
+
+— Elle ressemblait à Sarah. Elle posait trop de questions.
+
+— Vous la connaissiez bien ?
+
+— Je les voyais peu. Sophie ne voulait pas mélanger.
+
+Il fixa le mur.
+
+— La dernière fois qu’Emma m’a parlé, elle m’a demandé si j’avais frappé sa mère.
+
+— Qu’avez-vous répondu ?
+
+— Oui.
+
+Je fus surpris.
+
+— Elle avait quel âge ?
+
+— Seize ans.
+
+— Pourquoi lui dire ?
+
+— Parce qu’elle m’a demandé.
+
+— Et Sophie ?
+
+— Furieuse.
+
+— Emma ?
+
+— Elle m’a dit : « Au moins vous, vous dites oui. »
+
+Cette phrase me poursuivit.
+
+Dans une famille organisée autour de versions protectrices, l’ancien violent avait gagné une forme de crédibilité simplement en reconnaissant la violence.
+
+Cela ne faisait pas de lui un homme meilleur.
+
+Mais cela expliquait pourquoi Emma l’avait peut-être inclus dans sa carte de ceux qui pouvaient, parfois, dire un fait désagréable sans le recouvrir.
+
+Fabre releva les yeux.
+
+— Vous voulez savoir pourquoi Sophie m’a rappelé après toutes ces années ?
+
+— Oui.
+
+— Parce qu’elle savait que je n’avais plus rien à protéger dans cette histoire.
+
+— Et donc ?
+
+— Elle voulait me donner une enveloppe si quelque chose lui arrivait.
+
+Je me penchai.
+
+— Vous l’avez ?
+
+— Non. Elle a changé d’avis quand je suis venu.
+
+— Pourquoi ?
+
+— Elle regardait la porte. Elle a dit : « Il est trop tard. »
+
+— Quelqu’un arrivait ?
+
+— Je n’ai vu personne.
+
+— L’enveloppe contenait quoi ?
+
+— Je ne sais pas.
+
+Nous fouillâmes la maison Morel en cherchant une enveloppe.
+
+Rien.
+
+Puis, sous le siège passager de la voiture de Sophie, un morceau de papier déchiré.
+
+**À NICOLAS — SI JE N’AI PAS LE COURAGE.**
+
+Le reste manquait.
+
+Sophie avait préparé une transmission.
+
+Elle ne l’avait pas faite.
+
+Encore une vérité arrêtée juste avant de sortir.
 ---
 
 ### CHAPITRE 4 — CLARA VIDAL
@@ -3727,6 +4019,112 @@ Pas sur une photographie.
 
 Dans ma tête.
 
+
+Aux archives, nous retrouvâmes également mon propre agenda de service de 2009.
+
+Papier.
+
+Couverture noire.
+
+Une écriture serrée que je reconnus comme la mienne sans reconnaître l’homme qui écrivait.
+
+17 août.
+
+18 h : plainte voisinage.
+
+20 h : retour.
+
+22 h 16 : **C.V. urgences — rappeler**.
+
+22 h 48 : **Cazeneuve prévenu**.
+
+23 h 05 : **Sommières**.
+
+Puis plus rien.
+
+Le 18 août :
+
+**Hôpital.**
+
+Plus bas, écrit d’une autre main :
+
+**Repos obligatoire 15 j.**
+
+Je passai le doigt sur « C.V. ».
+
+Clara avait bien existé dans mon travail avant de devenir un trou.
+
+Une feuille volante était glissée à la fin.
+
+Mon écriture.
+
+Pas de date.
+
+*Sarah me raconte des choses et j’ai l’impression qu’elle parle d’un mort qui aurait mon visage.*
+
+Je m’arrêtai.
+
+Martin lut en silence.
+
+Plus bas :
+
+*Je sais qu’elle dit vrai parce qu’elle connaît des choses qu’elle ne peut pas inventer. Mais savoir ne fait rien revenir.*
+
+Puis :
+
+*Hélène dit de ne pas forcer.*
+
+Je serrai la feuille.
+
+Encore Hélène.
+
+Dernière ligne :
+
+*Je ne sais plus si j’ai peur de me souvenir ou de fabriquer ce qui manque.*
+
+Cette phrase aurait pu être écrite en 2026.
+
+Le problème n’avait pas changé.
+
+Seuls les outils de fabrication étaient devenus meilleurs.
+
+Je demandai que l’agenda soit numérisé mais que l’original reste hors du système compromis.
+
+L’archiviste sourit.
+
+— Vous revenez au papier.
+
+— Le papier ment aussi.
+
+— Mais il se connecte moins souvent après sa mort.
+
+Je ris.
+
+Premier rire des archives.
+
+Dans la poche intérieure de la couverture, une petite carte.
+
+Le restaurant de Collioure.
+
+Au dos :
+
+**Noé ?**
+
+Un point d’interrogation.
+
+Deux lettres de Sarah.
+
+S et G.
+
+Je fermai.
+
+Ce n’était pas une pièce.
+
+Je refusai qu’on la mette au dossier.
+
+Certaines traces m’appartenaient encore.
+
+Même si je ne me souvenais pas de les avoir écrites.
 ---
 
 ### CHAPITRE 5 — MARSEILLE
@@ -4305,6 +4703,100 @@ C’était la différence morale entre l’histoire qu’Hélène racontait et l
 Dans son système, les gens étaient des variables.
 
 Dans une maison, ils avaient une liste de courses pour samedi.
+
+À Marseille, nous retrouvâmes un collègue d’Élodie qui l’avait vue la semaine précédente.
+
+Docteur Romain Cels.
+
+— Elle était terrorisée.
+
+— Par qui ?
+
+— Elle disait « une vieille affaire ».
+
+— Hélène ?
+
+— Ce nom est sorti.
+
+— Mathieu ?
+
+— Aussi.
+
+Il nous montra un message qu’Élodie lui avait envoyé puis supprimé de son propre téléphone, mais qu’il avait conservé.
+
+*Si quelqu’un demande, je n’ai jamais gardé l’original.*
+
+Cels avait répondu :
+
+*Original de quoi ?*
+
+Pas de réponse.
+
+— Vous avez insisté ?
+
+— Non. Je pensais à un problème administratif.
+
+Toujours les signes qui n’ont de sens qu’après.
+
+Cels ajouta :
+
+— Elle m’a demandé si un composé pouvait être retrouvé dix-sept ans plus tard sur des tissus conservés.
+
+— Quel composé ?
+
+Le même sédatif qu’Hélène déclarerait avoir utilisé sur Clara.
+
+— Elle enquêtait donc elle-même sur la cause de mort.
+
+— Oui.
+
+— Résultat ?
+
+— Je lui ai dit qu’avec certains prélèvements, peut-être, mais que la conservation rendrait l’interprétation délicate.
+
+Élodie avait demandé l’accès aux scellés biologiques de Clara.
+
+Refusé faute de procédure.
+
+Puis elle avait cherché un avocat.
+
+Elle se préparait à parler.
+
+Le meurtre professionnel prenait alors un sens précis : supprimer quelqu’un au moment où elle décidait de sortir du secret.
+
+— Qui savait qu’elle voulait parler ?
+
+Cels réfléchit.
+
+— Moi. Son mari. Peut-être son avocat.
+
+— Hélène ?
+
+— Élodie lui a envoyé un message.
+
+Nous retrouvâmes une copie côté serveur.
+
+*Je vais parler à Varenne. Je ne veux plus porter ça.*
+
+Aucune réponse officielle.
+
+Mais dix-sept minutes plus tard, un compte Observer consultait le dossier Clara.
+
+Hélène pouvait avoir lu.
+
+Observer aussi.
+
+Deux acteurs potentiels informés par la même action.
+
+Voilà pourquoi attribuer le nettoyage devenait si difficile.
+
+Les systèmes compromis abolissaient la notion de destinataire unique.
+
+Envoyer un message à une personne pouvait en avertir trois.
+
+La sécurité n’était pas seulement cassée techniquement.
+
+Elle avait détruit notre capacité à savoir qui savait quoi et quand.
 ---
 
 ### CHAPITRE 6 — LES SIX PAGES
@@ -5280,6 +5772,144 @@ Puis un second message :
 **LES HOMMES AUSSI.**
 
 
+
+Cazeneuve avait préparé notre visite comme s’il savait qu’elle pouvait être sa dernière.
+
+Dans la cuisine, deux tasses seulement.
+
+Pas de troisième pour Martin.
+
+— Vous saviez qu’il viendrait avec moi.
+
+— Oui.
+
+— Alors pourquoi deux ?
+
+— Parce que Martin ne boit jamais de café chez les gens qu’il soupçonne.
+
+Martin le regarda.
+
+— Vous vous souvenez de ça ?
+
+— Je me souviens de beaucoup de choses que vous préféreriez oublier.
+
+Le ton ressemblait à une plaisanterie.
+
+Il ne l’était pas.
+
+Avant de sortir les six pages, Cazeneuve me demanda :
+
+— Qu’est-ce que tu crois que j’ai fait ?
+
+— Enterré une affaire.
+
+— Oui.
+
+— Protégé Laurent.
+
+— Indirectement.
+
+— Hélène.
+
+— Aussi.
+
+— Sarah.
+
+Il me regarda.
+
+— Surtout toi, au début.
+
+— Pourquoi ?
+
+— Tu voulais retourner travailler trois jours après la carrière. Tu ne reconnaissais pas la femme avec qui tu vivais. Tu faisais des crises dès qu’on parlait de Clara. J’ai cru qu’en retirant ton nom, je te donnerais du temps.
+
+— Puis ?
+
+— Puis le temps est devenu pratique.
+
+La franchise me surprit.
+
+— Pour qui ?
+
+— Tout le monde.
+
+Il prit un carnet.
+
+— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était enceinte et détruite. J’ai choisi la version qui faisait le moins de bruit.
+
+— L’accident.
+
+— Oui.
+
+— Et vous avez vécu avec.
+
+Cazeneuve regarda les oliviers par la fenêtre.
+
+— Non. J’ai vécu autour.
+
+— Différence ?
+
+— Tu peux vivre avec une chose quand tu l’acceptes. Moi, j’ai construit tout le reste pour ne pas la regarder.
+
+Je pensai à nos photos sans visages.
+
+— Pourquoi parler maintenant ?
+
+— Parce que Mathieu est venu il y a deux mois.
+
+— Ici ?
+
+— Oui.
+
+— Il vous a montré quoi ?
+
+Cazeneuve hésita.
+
+— Une liste de connexions.
+
+— Observer.
+
+Son visage changea.
+
+— Tu connais déjà ce nom ?
+
+— Pas encore comme personne.
+
+— Tant mieux.
+
+— Pourquoi ?
+
+— Parce que dès que tu donneras un visage à ce compte, tu arrêteras de chercher les autres possibilités.
+
+La phrase était remarquable.
+
+— Vous pensez savoir qui c’est ?
+
+— J’ai pensé Antoine avant sa mort. Puis Hélène. Puis Mathieu. Maintenant…
+
+Le tir allait bientôt l’empêcher de finir.
+
+Mais avant, il dit :
+
+— Maintenant je pense que nous avons créé la personne capable de nous faire ça.
+
+— Comment ?
+
+— En laissant dix-sept ans de portes ouvertes et de secrets partagés.
+
+Pas une identité.
+
+Une responsabilité collective.
+
+Observer pouvait avoir une personne derrière.
+
+Mais son pouvoir venait d’un système que plusieurs adultes avaient fragilisé pour cacher 2009.
+
+Cazeneuve avait compris cela avant de mourir.
+
+Il n’avait simplement pas eu le temps de nous donner la dernière partie.
+
+---
 
 ### CHAPITRE 7 — LE CASIER
 
