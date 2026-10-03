@@ -5319,6 +5319,70 @@ Je compris pourquoi il souriait.
 
 Je venais de reprendre la manie de Sarah.
 
+Nous regardâmes la cassette une seconde fois sans le son.
+
+Puis une troisième en ne regardant que l’arrière-plan.
+
+À 22 h 58, Antoine Lemaire apparaissait dans la cuisine.
+
+Père de Sarah.
+
+Chemise claire.
+
+Téléphone à la main.
+
+Il parlait avec Hélène.
+
+Puis avec Cazeneuve.
+
+— Donc les adultes capables d’effacer sont déjà réunis avant la chute.
+
+Hélène pour le médical.
+
+Antoine pour le numérique.
+
+Cazeneuve pour la police.
+
+Élodie à l’hôpital.
+
+Pas nécessairement un complot préparé.
+
+Mais un réseau de compétences.
+
+À 23 h 04, Antoine ouvrait un ordinateur portable.
+
+Il branchait le téléphone de Clara pendant quelques secondes.
+
+— Il copie quelque chose.
+
+— Ou recharge, ou consulte.
+
+Nadir refusa d’aller plus loin.
+
+Clara reprenait son téléphone.
+
+À 23 h 09, Antoine quittait la pièce avec son ordinateur.
+
+Sarah croyait son père rentré chez lui cette nuit-là.
+
+Une vieille caméra de péage montrait pourtant sa voiture à 1 h 58 près de Nîmes.
+
+Puis à 2 h 36 en direction de Montpellier.
+
+Antoine se déplaçait pendant la crise.
+
+Le brouillon du Nokia disait :
+
+*Hélène croit que c’est le téléphone. Ce n’est pas le téléphone.*
+
+Si Antoine avait copié la vidéo avant la fuite, le téléphone n’était effectivement plus l’unique support.
+
+À partir de là, la disparition de l’appareil de Clara cessait d’être la disparition de la preuve.
+
+La preuve avait peut-être été multipliée.
+
+Et celui qui contrôlait les copies contrôlait l’histoire.
+
 La cassette continuait.
 
 À 23 h 26, Clara quittait la maison.
@@ -5944,6 +6008,80 @@ Elle s’assit.
 — Il faudrait deux ans.
 
 — Commence par quelque chose.
+
+Avant de poursuivre, Sarah me demanda :
+
+— Tu veux savoir les mois après l’accident ?
+
+Je hochai la tête.
+
+— Au début, tu essayais de te souvenir.
+
+— De nous ?
+
+— De tout.
+
+Elle racontait des séances où nous regardions des photos.
+
+Des promenades sur des lieux connus.
+
+Des musiques.
+
+Parfois, un détail revenait.
+
+Une odeur.
+
+Une phrase.
+
+Une manière qu’elle avait de tenir une tasse.
+
+— Une nuit, tu m’as réveillée parce que tu t’en souvenais.
+
+— Et après ?
+
+— Trois jours plus tard tu ne savais plus pourquoi cette tasse comptait.
+
+Elle sourit tristement.
+
+— Maman disait qu’il fallait arrêter de forcer. Que chaque tentative risquait de créer de faux souvenirs.
+
+— Ce qui est médicalement défendable.
+
+— Oui. C’est pour ça que je l’ai crue.
+
+Hélène n’avait pas besoin de mauvais conseils.
+
+Elle pouvait utiliser une vraie prudence pour orienter une décision.
+
+— Puis j’ai demandé qu’on arrête ?
+
+— Oui.
+
+— Tu m’as entendu le demander ?
+
+Sarah hésita.
+
+— Oui. Une fois clairement.
+
+— Qu’est-ce que j’ai dit ?
+
+— « Je ne peux pas vivre avec quelqu’un qui attend chaque matin qu’un autre homme revienne dans ma tête. »
+
+Je restai silencieux.
+
+Cette phrase ne venait pas d’Hélène.
+
+Elle venait probablement de moi.
+
+Cela comptait.
+
+Quelqu’un avait pu aggraver mon amnésie.
+
+Mais j’avais ensuite pris mes propres décisions avec l’homme que j’étais devenu.
+
+Je ne pouvais pas déposer toute ma vie perdue devant Hélène et dire : elle a tout fait.
+
+Ce serait encore choisir un coupable unique pour éviter la complexité.
 
 Elle raconta un contrôle routier.
 
@@ -6590,6 +6728,74 @@ Assis contre un mur, comme s’il s’était simplement endormi.
 Le médecin légiste local estima plusieurs jours.
 
 L’autopsie confirmerait onze.
+
+La mort de Mathieu fut reprise depuis zéro.
+
+Autopsie initiale : intoxication accidentelle, alcool et médicament.
+
+Inès secoua la tête.
+
+— Mathieu buvait très peu.
+
+Le verre près du corps contenait du whisky qu’il n’achetait pas.
+
+Dans l’évier, un deuxième verre rincé.
+
+Nouvelle analyse : ADN féminin partiel.
+
+Inexploitable.
+
+À 22 h 43, Mathieu envoyait à Inès :
+
+*Si je ne suis pas là demain, ne donne JANUS à personne avant Varenne.*
+
+À 22 h 58, son ordinateur ouvrait :
+
+**observer_response.txt**
+
+Contenu supprimé.
+
+À 23 h 09, sa montre enregistrait une hausse brutale du rythme cardiaque.
+
+À 23 h 14, plus de données fiables.
+
+Le produit retrouvé agissait rapidement.
+
+Quelqu’un était avec lui.
+
+Le véhicule d’Anne Delmas franchissait un péage vers Sète cette nuit-là.
+
+Donc celui d’Hélène.
+
+Mais une caméra privée montra deux sorties de l’atelier.
+
+À 23 h 31, une silhouette féminine compatible avec Hélène.
+
+À 23 h 38, une deuxième personne.
+
+Plus grande.
+
+Capuche.
+
+La seconde avait pu entrer avant le champ caméra ou par l’arrière.
+
+Deux visiteurs possibles.
+
+Si Hélène avait rencontré Mathieu, elle n’était peut-être pas la dernière personne à l’avoir vu vivant.
+
+Sur une table, les techniciens retrouvèrent aussi deux fibres différentes.
+
+L’une compatible avec le manteau d’Hélène saisi plus tard.
+
+L’autre, tissu technique noir très courant.
+
+Assez pour poser une question.
+
+Pas pour donner un nom.
+
+La mort de Mathieu n’était plus un accident crédible.
+
+Mais elle ne devenait pas automatiquement un meurtre d’Hélène.
 
 Mathieu était mort avant les Morel.
 
@@ -7304,6 +7510,78 @@ D’autres imprimées.
 La même phrase :
 
 *Ils ont continué à vivre. Clara a eu dix-sept ans pour toujours.*
+
+Entre les annotations, nous trouvâmes des échanges manuscrits entre frère et sœur.
+
+Théo écrivait :
+
+*Papa savait.*
+
+Emma répondait :
+
+*Oui. Savoir ≠ tuer.*
+
+Plus loin :
+
+*Grand-mère a une preuve.*
+
+Emma :
+
+*Une vidéo n’est pas une preuve si Mathieu dit qu’elle est reconstruite.*
+
+Théo :
+
+*Tu prends toujours leur parti.*
+
+Emma :
+
+*Je prends ton parti. C’est pour ça que je t’emmerde.*
+
+Je souris malgré moi.
+
+Une page avait été déchirée.
+
+Nous la retrouvâmes dans le sac préparé pour Barcelone.
+
+Théo :
+
+*Si papa avoue, j’arrête.*
+
+Emma :
+
+*Et s’il avoue juste pour que tu le laisses tranquille ?*
+
+Puis :
+
+*Tu ne veux pas un aveu. Tu veux que ta version sorte de sa bouche.*
+
+La phrase résumait le point où la recherche de vérité était devenue vengeance.
+
+Une réponse n’était plus acceptable que si elle confirmait déjà la question.
+
+Emma avait compris le mécanisme.
+
+Elle n’avait simplement pas réussi à l’arrêter.
+
+Nous trouvâmes aussi une liste intitulée :
+
+**RAISONS DE NE PAS DÉTESTER THÉO.**
+
+1. Il me ramenait des crêpes quand j’étais malade.
+2. Il a frappé Lucas quand il s’est moqué de moi. (Mauvais moyen, bonne intention.)
+3. Il pleure devant les films avec des chiens.
+4. Il croit qu’il doit réparer tout.
+5. Il n’est pas ce qu’elle veut qu’il devienne.
+
+La cinquième ligne n’avait pas besoin de nom.
+
+Elle.
+
+Hélène.
+
+Emma avait continué à voir son frère là où tous les autres voyaient déjà le futur meurtrier.
+
+C’était précisément pour cela que sa mort ne devait pas devenir seulement une preuve contre lui.
 
 Emma avait annoté certaines pages.
 
@@ -8412,6 +8690,74 @@ La goutte, en revanche, était un fichier audio lu en boucle.
 — Il savait qu’on écouterait, dit Nadir.
 
 — Ou quelqu’un lui a appris à nous donner juste assez.
+
+Après le sauvetage, le direct continua à circuler.
+
+Un extrait montrant Théo braquant Sarah atteignit des millions de vues.
+
+Puis une version modifiée apparut où je disais :
+
+— Tire.
+
+Faux.
+
+Une autre où Martin avouait avoir poussé Clara.
+
+Faux.
+
+Une troisième était réelle : Sarah murmurant « maman » devant l’image injectée.
+
+Des commentateurs conclurent qu’Hélène était physiquement présente.
+
+Nous savions que l’image avait été insérée.
+
+Le public, non.
+
+Ou ne voulait pas le savoir.
+
+Je réclamai un communiqué.
+
+Diane Rey proposa :
+
+— On dit « en cours d’expertise ».
+
+— Non. On sait qu’elle est insérée.
+
+Nadir confirma.
+
+Le communiqué sortit.
+
+Une heure plus tard, un faux extrait montrait Nadir affirmant :
+
+— Aucun montage n’a été détecté.
+
+Il n’avait jamais donné d’interview.
+
+Il regarda son propre faux.
+
+— Je suis plutôt convaincant.
+
+— Bienvenue.
+
+Puis il devint sérieux.
+
+— Même quand on démontre un faux, la démonstration devient matière à falsifier.
+
+— Donc on fait quoi ?
+
+— On arrête d’essayer de gagner internet. On construit une chaîne qui tiendra au tribunal.
+
+Cette décision changea notre manière de travailler.
+
+Moins de réactions.
+
+Moins de démentis immédiats.
+
+Davantage de preuves conservées proprement.
+
+Pour la première fois, nous cessions de courir derrière chaque image que quelqu’un jetait devant nous.
+
+Nous choisissions notre rythme.
 
 Martin refusa l’ambulance.
 
