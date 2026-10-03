@@ -640,6 +640,20 @@ body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:0!important}
  body.immersive-fallback .page.coldcase-frame .flow-viewport{padding:0!important}
 }
 
+
+/* Fullscreen fine tuning: frame slightly farther from text + text slightly lower */
+html:fullscreen .page.coldcase-frame::after,
+html:-webkit-full-screen .page.coldcase-frame::after,
+body.immersive-fallback .page.coldcase-frame::after{
+  inset:-7px!important;
+  background-size:100% 100%!important;
+}
+html:fullscreen .page.text-flow-page,
+html:-webkit-full-screen .page.text-flow-page,
+body.immersive-fallback .page.text-flow-page{
+  padding-top:max(44px,calc(env(safe-area-inset-top) + 34px))!important;
+}
+
 </style>
 </head>
 <body class="theme-ivory">
