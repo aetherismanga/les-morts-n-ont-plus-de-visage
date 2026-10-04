@@ -819,6 +819,40 @@ summary:focus,summary:active,summary:focus-visible{
   .lex-character-image{width:62px;height:62px}
 }
 
+
+/* Thriller UI 2026 — assets validés */
+:root{--thriller-red:#b40f1c;--thriller-red-deep:#690710;--thriller-black:#090b0e;--thriller-panel:#11151a;--thriller-steel:#b7bcc3}
+body{background:#07090c}
+.topbar{background:linear-gradient(180deg,#080a0d,#11151a 70%,#08090b)!important;border-bottom:1px solid rgba(190,20,32,.72)!important;box-shadow:0 7px 24px rgba(0,0,0,.55)!important}
+.brand{color:#ececef!important;text-shadow:0 0 14px rgba(180,15,28,.28)!important}
+.drawer{background:#090c10 url('assets/ui/backgrounds/fond-pages-secondaires.png') center/cover fixed!important;color:#ececef;border-color:rgba(180,15,28,.5)!important}
+.drawer::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(5,7,9,.30),rgba(5,7,9,.68));z-index:0}
+.drawer>*{position:relative;z-index:1}
+.drawer-head{background:linear-gradient(180deg,rgba(12,15,19,.97),rgba(23,13,16,.94))!important;border-bottom:1px solid rgba(202,29,42,.55)!important}
+.drawer-head h2{color:#f2f2f3!important;letter-spacing:.055em;text-transform:uppercase;text-shadow:0 0 12px rgba(190,20,32,.32)}
+.drawer-body{color:#e8e8ea}
+.drawer-body::before{content:"";display:block;height:5px;margin:0 0 16px;background:url('assets/ui/separators/separateurs-rouge-metal.png') center/100% auto no-repeat;opacity:.9}
+.close-btn{background:#15191e!important;color:#eee!important;border:1px solid rgba(190,20,32,.6)!important}
+.chapter-link,.lex-item,.evidence-folder,.setting,.audio-setting,#hdVoiceBox,#audioStatus{background:rgba(11,14,18,.86)!important;color:#e7e7e9!important;border-color:rgba(151,34,43,.48)!important;box-shadow:0 8px 20px rgba(0,0,0,.16)}
+.chapter-link{border-left:3px solid #85101a!important}
+.chapter-link.active{outline-color:#c91c2a!important;background:rgba(73,12,18,.82)!important}
+.chapter-link.completed{background:rgba(25,38,29,.78)!important;color:#e8eee9!important}
+.lex-term,.audio-setting label,.setting label{color:#e3e3e5!important}
+.audio-main button,.audio-row button,#hdVoiceInstall,#musicToggle,#resetReading,.theme-choice button{background:linear-gradient(180deg,#242a30,#101318)!important;color:#f2f2f3!important;border:1px solid rgba(183,188,195,.32)!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.025),0 5px 14px rgba(0,0,0,.28)}
+.audio-main button.primary{background:linear-gradient(180deg,#bd1725,#6f0811)!important;border-color:#d42a38!important}
+#audioDrawer .drawer-body{background-image:linear-gradient(rgba(7,9,12,.78),rgba(7,9,12,.88)),url('assets/ui/audio/habillage-lecture-vocale.png');background-size:cover;background-position:center}
+#chaptersDrawer .drawer-body{background-image:linear-gradient(rgba(7,9,12,.80),rgba(7,9,12,.90)),url('assets/ui/chapters/habillage-chapitres.png');background-size:cover;background-position:center}
+#indicesDrawer .drawer-body{background-image:linear-gradient(rgba(7,9,12,.80),rgba(7,9,12,.90)),url('assets/ui/investigation/elements-preuves-enquete.png');background-size:cover;background-position:center}
+#settingsDrawer{background:#090c10!important;border-color:rgba(190,20,32,.58)!important;box-shadow:0 14px 34px rgba(0,0,0,.55)!important}
+#settingsDrawer .drawer-body{background-image:linear-gradient(rgba(7,9,12,.88),rgba(7,9,12,.94)),url('assets/ui/settings/habillage-confort-parametres.png');background-size:cover;background-position:center}
+#settingsDrawer .drawer-head{background:#101318!important}
+#audioStatus,.audio-note,#hdVoiceStatus{color:#bfc2c7!important}
+.audio-setting select,.audio-setting input,.lex-search{background:#0d1115!important;color:#eee!important;border-color:rgba(183,188,195,.28)!important}
+.nav button{background:linear-gradient(180deg,#252a30,#0f1216)!important;color:#f0f0f1!important;border:1px solid rgba(180,15,28,.48)!important;box-shadow:0 5px 14px rgba(0,0,0,.28)}
+.nav .next{background:linear-gradient(180deg,#b81725,#700810)!important;border-color:#d12634!important}
+.progress>span{background:linear-gradient(90deg,#670810,#d0202e)!important}
+@media(max-width:640px){.drawer-head h2{font-size:1rem}.drawer-body::before{margin-bottom:11px}}
+
 </style>
 </head>
 <body class="theme-ivory">
