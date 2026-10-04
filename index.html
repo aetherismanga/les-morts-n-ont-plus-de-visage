@@ -852,6 +852,7 @@ summary:focus,summary:active,summary:focus-visible{
   let current=0,textPages=1,totalPages=3,chapterPageIndices=[],pageSections=[],layoutReady=false;
   let touchStartX=null,touchStartY=null,immersiveFallback=false,resizeTimer=null,reflowTimer=null;
   let savedAnchor=localStorage.getItem(STORAGE.anchor)||'';
+  let evidenceReturnState=null;
   const savedTheme=localStorage.getItem(STORAGE.theme)||'ivory';
   const savedSize=Number(localStorage.getItem(STORAGE.size))||19;
   const savedLine=Number(localStorage.getItem(STORAGE.line))||1.72;
@@ -1068,6 +1069,15 @@ summary:focus,summary:active,summary:focus-visible{
       if(!opened)window.location.href=item.url;
       return;
     }
+
+    const f=flow();
+    evidenceReturnState={
+      page:current,
+      anchor:captureVisibleAnchor()||savedAnchor||'',
+      scrollLeft:f?f.scrollLeft:0,
+      fromReader:current>=1&&current<=textPages
+    };
+
     unlockEvidence(id);
     $('evidenceImage').src=item.src;$('evidenceImage').alt=item.title;$('evidenceCaption').textContent=item.title;
     $('evidenceModal').classList.add('open');$('evidenceModal').setAttribute('aria-hidden','false');
@@ -1075,6 +1085,30 @@ summary:focus,summary:active,summary:focus-visible{
   function closeEvidence(){
     $('evidenceModal').classList.remove('open');$('evidenceModal').setAttribute('aria-hidden','true');
     $('evidenceImage').removeAttribute('src');
+
+    const state=evidenceReturnState;
+    evidenceReturnState=null;
+    if(!state||!state.fromReader)return;
+
+    requestAnimationFrame(()=>{
+      if(!flow()){
+        current=Math.max(1,Math.min(textPages,state.page));
+        render('next',false,false);
+        requestAnimationFrame(()=>{
+          const f2=flow();
+          if(!f2)return;
+          current=state.anchor?Math.min(textPages,pageForAnchor(state.anchor)):Math.max(1,Math.min(textPages,state.page));
+          f2.scrollLeft=(current-1)*columnWidth();
+          updateUI(false);
+        });
+        return;
+      }
+      current=state.anchor?Math.min(textPages,pageForAnchor(state.anchor)):Math.max(1,Math.min(textPages,state.page));
+      const f2=flow();
+      f2.scrollLeft=(current-1)*columnWidth();
+      savedAnchor=state.anchor||savedAnchor;
+      render('next',false,false);
+    });
   }
   function renderIndices(){
     const body=$('indicesBody');if(!body)return;
@@ -1280,7 +1314,7 @@ summary:focus,summary:active,summary:focus-visible{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-no-blue-tap-10',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-evidence-return-page-11',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
