@@ -6,8 +6,8 @@
 <meta name="theme-color" content="#161313">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="preload" as="image" href="Page d'accueil .png" fetchpriority="high">
-<link rel="icon" href="app-icon.jpg" type="image/jpeg">
-<link rel="apple-touch-icon" href="app-icon.jpg">
+<link rel="icon" href="app-icon.jpg" type="image/jpeg" sizes="512x512">
+<link rel="apple-touch-icon" href="app-icon.jpg" sizes="512x512">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -1484,7 +1484,7 @@ summary:focus,summary:active,summary:focus-visible{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-app-logo-17',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-pwa-install-fix-18',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
