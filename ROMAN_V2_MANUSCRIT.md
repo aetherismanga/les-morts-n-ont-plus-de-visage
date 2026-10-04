@@ -1723,9 +1723,9 @@ Aucune fausse piste.
 
 — Il sait ce qu’il veut, dit Martin.
 
-À l’époque, nous crûmes que cela renforçait la piste Fabre.
+Nous crûmes que cela renforçait la piste Fabre.
 
-En réalité, quelqu’un vérifiait peut-être simplement que le faux rapport associé au verre tenait toujours.
+Mais nous ne savions pas pourquoi, parmi tous les leurres, cette seule pièce avait retenu l’attention.
 
 À quatorze heures, l’expert vidéo arriva.
 
@@ -2857,15 +2857,15 @@ Il avait confirmé avoir aidé Sophie à ranger.
 
 Rien d’anormal.
 
-Ce qui devenait anormal, c’était la précision du faux rapport : celui qui l’avait fabriqué savait que Fabre était venu, savait qu’un verre de ce service existait et savait que son ADN serait crédible.
+Ce qui devenait troublant, c’était la manière dont tous les éléments semblaient converger vers Fabre : sa présence, les verres du même service, son passé, puis l’ADN.
 
 — Théo l’a vu venir, dit Martin.
 
 — Oui.
 
-— Donc il peut préparer l’accusation.
+— Donc quelqu’un présent ou informé pouvait savoir qu’il ferait un suspect idéal.
 
-— Mais le faux rapport exige aussi l’accès au système.
+— À condition d’avoir aussi accès à nos systèmes si l’on voulait exploiter cette piste jusque dans le dossier.
 
 — Hélène.
 
@@ -2905,7 +2905,7 @@ Puis plus rien.
 
 — Quelqu’un a regardé Fabre quitter la table.
 
-— Et a pu sélectionner ensuite son ADN comme faux quatrième convive.
+— Et savait donc exactement quand il était là, et quand il était parti.
 
 Le serveur externe appartenait à un hébergeur étranger.
 
@@ -8559,11 +8559,11 @@ Je mis la vidéo sur pause.
 
 Martin comprit.
 
-Le vrai problème n’était pas l’ADN.
+Le résultat ADN nous avait presque suffi à lui seul.
 
-C’était la chaîne qui avait remplacé un scellé par un autre.
+Or Mathieu insistait précisément sur l’inverse : une analyse n’a de valeur que si l’on peut démontrer le chemin complet de l’objet, de la scène au laboratoire.
 
-Mathieu avait construit sa pensée autour exactement de ce type de faiblesse.
+Je notai qu’il faudrait reprendre cette chaîne sans savoir encore ce qu’elle nous apprendrait.
 
 Autre conférence.
 
@@ -16082,7 +16082,7 @@ Numérotées.
 
 Certaines vides.
 
-La 10 contenait le faux rapport ADN Fabre.
+La 10 contenait seulement une empreinte de fichier chiffrée et un numéro de scellé impossible à lire sans la clé associée.
 
 La 20, la vidéo carrière.
 
