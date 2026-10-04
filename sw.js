@@ -1,8 +1,10 @@
-const CACHE_NAME = 'les-morts-v2-pwa-install-fix-18';
+const CACHE_NAME = 'les-morts-v2-pwa-icons-19';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './icon-192.svg',
+  './icon-512.svg',
   './app-icon.jpg',
   './icon.svg',
   './Page d\'accueil .png',
