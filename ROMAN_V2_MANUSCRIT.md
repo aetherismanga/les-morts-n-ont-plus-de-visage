@@ -1041,7 +1041,7 @@ Il s’appelait Michel Arnaud, soixante-trois ans, retraité. Le chien qui avait
 
 2 h 54.
 
-Une minute après l’heure annoncée plus tard de la pièce 25.
+Je notai l’heure.
 
 — Vous avez vu quelque chose ?
 
@@ -1095,11 +1095,9 @@ Je notai :
 
 **personne petite / fourgon blanc / textile blanc / 2 h 30 env.**
 
-Pas Hélène.
+Je laissai la ligne sans nom.
 
-Pas encore.
-
-Un indice ne devient dangereux que lorsqu’on lui donne un nom trop tôt.
+Un indice devient dangereux lorsqu’on lui donne une identité trop tôt.
 
 À 5 h 26, je sortis prendre l’air.
 
@@ -1301,11 +1299,9 @@ Emma ?
 
 Théo ?
 
-Mathieu ?
+Quelqu’un venu de l’extérieur ?
 
-Hélène ?
-
-À ce moment-là, aucun de ces noms n’avait encore la forme qu’il prendrait.
+À ce moment-là, nous n’avions aucune raison solide de choisir.
 
 Dans le garage, Martin retrouva une boîte de vieux appareils électroniques. Un caméscope. Des téléphones cassés. Des disques durs.
 
@@ -2310,19 +2306,17 @@ Une enfant de douze ans avait dit :
 
 Heure estimée : entre cinq et six.
 
-La femme en combinaison scientifique.
-
-Hélène, probablement.
+La femme en combinaison scientifique, probablement.
 
 Mais l’enfant ajoutait :
 
 — Elle avait une boîte et elle marchait lentement comme si elle avait mal au pied.
 
-Hélène ne boitait pas habituellement.
+La femme que j’avais croisée ne m’avait pas semblé boiter.
 
 Une blessure ?
 
-Une autre femme ?
+Une autre personne ?
 
 Je notai sans conclure.
 
@@ -2875,7 +2869,21 @@ Ce qui devenait anormal, c’était la précision du faux rapport : celui qui l�
 
 — Hélène.
 
-— Ou Mathieu. Ou Observer.
+— Ou le « Mathieu » de la vidéo, si nous découvrons qui il est.
+
+Nadir pointa une ligne dans les journaux d’accès.
+
+— Il y a aussi un vieux compte technique : **OBSERVER_01**.
+
+— C’est quoi ?
+
+— Pour l’instant, juste un identifiant hérité d’anciens droits du système.
+
+Je notai le nom.
+
+À cet instant, Observer n’était pas une personne.
+
+Seulement une porte dont nous ignorions encore qui possédait la clé.
 
 Martin soupira.
 
@@ -2907,15 +2915,11 @@ Mais le nom du projet, laissé dans une en-tête :
 
 **JANUS-27.**
 
-Mathieu utilisait JANUS.
+Le nom ne correspondait à aucun outil connu de nos services.
 
-Le faux contre Fabre avait donc été préparé depuis une infrastructure reliée au vocabulaire de Mathieu.
+Nous le conservâmes sans lui donner de sens.
 
-Cela l’accusait.
-
-Ou accusait quelqu’un qui avait accès à son travail.
-
-Chaque fois que nous approchions un nom, le système nous renvoyait vers un autre.
+Pour l’instant, il prouvait seulement que le flux avait été envoyé vers une infrastructure préparée.
 
 À 17 h 22, les caméras d’un parking confirmèrent son arrivée chez lui à 23 h 06.
 
