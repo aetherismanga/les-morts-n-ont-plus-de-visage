@@ -1221,6 +1221,63 @@ body{background:#07090c}
   }
 }
 
+
+/* TOPBAR FINAL V4 — verrouillage ID pour neutraliser tous les anciens overrides */
+#chaptersBtn,#lexiconBtn,#indicesBtn,#audioBtn,#fullscreenBtn,#settingsBtn{
+  display:flex!important;
+  visibility:visible!important;
+  opacity:1!important;
+  width:100%!important;
+  height:62px!important;
+  min-width:0!important;
+  min-height:62px!important;
+  max-height:62px!important;
+  padding:0!important;
+  margin:0!important;
+  border:0!important;
+  border-radius:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+  overflow:hidden!important;
+  align-items:center!important;
+  justify-content:center!important;
+}
+#chaptersBtn img,#lexiconBtn img,#indicesBtn img,#audioBtn img,#fullscreenBtn img,#settingsBtn img{
+  display:block!important;
+  width:58px!important;
+  height:58px!important;
+  min-width:58px!important;
+  min-height:58px!important;
+  max-width:58px!important;
+  max-height:58px!important;
+  object-fit:cover!important;
+  object-position:center!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  border-radius:50%!important;
+  clip-path:circle(49% at 50% 50%)!important;
+  background:transparent!important;
+  box-shadow:none!important;
+  transform:none!important;
+  filter:none!important;
+}
+@media(max-width:640px){
+  #chaptersBtn,#lexiconBtn,#indicesBtn,#audioBtn,#fullscreenBtn,#settingsBtn{
+    height:60px!important;
+    min-height:60px!important;
+    max-height:60px!important;
+  }
+  #chaptersBtn img,#lexiconBtn img,#indicesBtn img,#audioBtn img,#fullscreenBtn img,#settingsBtn img{
+    width:56px!important;
+    height:56px!important;
+    min-width:56px!important;
+    min-height:56px!important;
+    max-width:56px!important;
+    max-height:56px!important;
+  }
+}
+
 </style>
 </head>
 <body class="theme-ivory">
@@ -1232,7 +1289,7 @@ body{background:#07090c}
       <button class="icon-btn ui-final-icon" id="lexiconBtn" aria-label="Lexique" title="Lexique"><img src="assets/icons/Logolexique.jpg?v=31" alt=""></button>
       <button class="icon-btn ui-final-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/icons/Logoenquete.jpg?v=31" alt=""></button>
       <button class="icon-btn ui-final-icon" id="audioBtn" aria-label="Podcast / lecture vocale" title="Podcast"><img src="assets/icons/Logopodcast.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/Logopleinecran.jpg?v=31" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/plein-ecran-final.jpg?v=32" alt=""></button>
       <button class="icon-btn ui-final-icon" id="settingsBtn" aria-label="Réglages" title="Réglages"><img src="assets/icons/Logoreglage.jpg?v=31" alt=""></button>
       <button class="icon-btn" id="installBtn" aria-label="Installer l’application" hidden><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
     </div>
