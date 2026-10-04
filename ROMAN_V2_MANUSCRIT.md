@@ -2501,7 +2501,7 @@ Il écrasa sa cigarette froide.
 
 — J’étais policier ?
 
-— Vous veniez de passer officier de police judiciaire, je crois. Vous étiez surtout amoureux.
+— Vous veniez d’obtenir votre habilitation d’officier de police judiciaire, je crois. Vous étiez surtout amoureux.
 
 Mon cœur ralentit.
 
@@ -3359,7 +3359,7 @@ Sarah.
 
 Je la reconnus avant même d’accepter de la reconnaître.
 
-La photo était horodatée 23 h 14.
+La photo était horodatée 23 h 34.
 
 Deux heures environ avant la chute.
 
@@ -3423,11 +3423,11 @@ Sortie 23 h 02.
 
 Je relus l’horaire.
 
-La photographie de la maison avait été prise douze minutes plus tard.
+La photographie de la maison avait été prise trente-deux minutes plus tard.
 
 — Elle revient directement à la fête après les urgences ?
 
-— Ça tient juste en voiture.
+— De nuit, c’est plausible en voiture.
 
 — Pourquoi ?
 
@@ -3627,16 +3627,6 @@ Léa serra les lèvres.
 
 — Elle ne m’a jamais dit ça.
 
-— Grossesse ?
-
-Son visage changea.
-
-— Quoi ?
-
-Elle ne savait pas.
-
-Je n’insistai pas.
-
 — Mathieu ?
 
 — Très protecteur. Trop parfois.
@@ -3703,9 +3693,7 @@ Léa ajouta :
 
 — Non.
 
-Mireille confirma.
-
-Jamais rendu.
+Sa mère le confirma plus tard : jamais rendu.
 
 Téléphone absent.
 
@@ -3719,103 +3707,7 @@ Deux objets personnels contenant potentiellement sa version.
 
 Encore une trace disparue.
 
-Le père possible de l’enfant de Clara devint une question toxique.
 
-Laurent était le suspect évident.
-
-Âge.
-
-Violence.
-
-Proximité.
-
-Cette hypothèse circulait depuis longtemps.
-
-Mais rien ne la prouvait.
-
-Mireille nous autorisa à rechercher des prélèvements anciens conservés de Clara.
-
-Il existait un échantillon biologique dans les archives médico-légales.
-
-Après validation judiciaire, un profil fœtal partiel fut obtenu.
-
-Comparaison avec Laurent, dont le profil était disponible après sa mort.
-
-Résultat :
-
-**incompatible.**
-
-Je relus trois fois.
-
-— Laurent n’était pas le père.
-
-Martin s’assit.
-
-Si cette hypothèse avait circulé dans la famille, elle pouvait avoir nourri des rancœurs que nous ne mesurions pas encore.
-
-— Nicolas ?
-
-Comparaison.
-
-Incompatible.
-
-— Gabriel ? demanda Martin.
-
-Je le regardai.
-
-— Fais-la.
-
-Incompatible.
-
-Un soulagement absurde, immédiatement suivi de honte.
-
-— Mathieu impossible biologiquement, frère.
-
-— Qui reste ?
-
-Beaucoup de monde.
-
-Clara n’avait peut-être jamais nommé le père parce qu’il n’était aucun des hommes centraux de notre histoire.
-
-Nous interrogeâmes Léa.
-
-Elle se rappela enfin d’un garçon.
-
-— Un étudiant. Maxime, je crois. Elle le voyait parfois à Montpellier.
-
-Nous retrouvâmes Maxime Derval, quarante ans, père de famille.
-
-Il pâlit à la mention de Clara.
-
-— J’ignorais qu’elle était enceinte.
-
-Prélèvement volontaire.
-
-Compatibilité probable.
-
-Il s’effondra.
-
-Aucun lien avec la carrière.
-
-Aucun lien avec Hélène.
-
-Une relation secrète entre deux jeunes.
-
-Voilà.
-
-La grossesse n’était pas nécessairement le moteur du meurtre.
-
-Elle avait été aspirée après coup dans les théories autour de Clara.
-
-Laurent, déjà violent, devenait le père supposé idéal.
-
-Une vérité biologique étrangère à l’affaire avait fini par servir de carburant à une accusation.
-
-Je décidai que le nom de Maxime resterait hors des médias.
-
-Il n’avait rien à faire dans la punition publique d’un crime qu’il n’avait pas commis.
-
-Pour une fois, nous pouvions empêcher une vie périphérique d’être dévorée par le dossier.
 
 Nous cherchâmes dans les anciennes saisies.
 
@@ -3823,7 +3715,7 @@ Aucun carnet.
 
 Dans les photographies de la fête, pourtant, Clara portait un petit sac rouge.
 
-Sur une image prise à 23 h 14, le sac était là.
+Sur une image prise à 23 h 34, le sac était là.
 
 Sur la photographie de son corps après la carrière, non.
 
@@ -4574,7 +4466,7 @@ Gare Saint-Charles.
 
 Casier 312.
 
-Nous l’ouvrîmes avec mandat.
+Nous l’ouvrîmes après autorisation judiciaire.
 
 À l’intérieur, pas de vidéo.
 
@@ -5027,7 +4919,7 @@ Martin pâlit.
 
 — Qu’est-ce que vous racontez ?
 
-— Gabriel savait qui avait frappé Clara.
+— Gabriel savait qu’il y avait quelqu’un d’autre à la carrière.
 
 — Qui ?
 
@@ -5037,7 +4929,7 @@ Je posai les mains sur la table.
 
 — Qui ?
 
-— Laurent l’avait frappée avant.
+— Laurent l’avait frappée avant, oui.
 
 — Ça, on sait.
 
@@ -5047,7 +4939,7 @@ Je posai les mains sur la table.
 
 Il inspira.
 
-— Cette nuit-là, quelqu’un d’autre…
+— Cette nuit-là, quelqu’un d’autre vous observait…
 
 La fenêtre explosa.
 
@@ -5298,6 +5190,104 @@ Il baissa les yeux.
 Pour la première fois en quinze ans, je regardai mon ami comme un homme que j’aurais pu placer en garde à vue.
 
 Et pour la première fois, il soutint mon regard comme s’il savait que ce moment finirait par arriver.
+
+Dans les jours qui suivirent, le père possible de l’enfant de Clara devint une question toxique.
+
+Laurent était le suspect évident.
+
+Âge.
+
+Violence.
+
+Proximité.
+
+Cette hypothèse circulait depuis longtemps.
+
+Mais rien ne la prouvait.
+
+Mireille nous autorisa à rechercher des prélèvements anciens conservés de Clara.
+
+Il existait un échantillon biologique dans les archives médico-légales.
+
+Après validation judiciaire, un profil fœtal partiel fut obtenu.
+
+Comparaison avec Laurent, dont le profil était disponible après sa mort.
+
+Résultat :
+
+**incompatible.**
+
+Je relus trois fois.
+
+— Laurent n’était pas le père.
+
+Martin s’assit.
+
+Si cette hypothèse avait circulé dans la famille, elle pouvait avoir nourri des rancœurs que nous ne mesurions pas encore.
+
+— Nicolas ?
+
+Comparaison.
+
+Incompatible.
+
+— Gabriel ? demanda Martin.
+
+Je le regardai.
+
+— Fais-la.
+
+Incompatible.
+
+Un soulagement absurde, immédiatement suivi de honte.
+
+— Mathieu impossible biologiquement, frère.
+
+— Qui reste ?
+
+Beaucoup de monde.
+
+Clara n’avait peut-être jamais nommé le père parce qu’il n’était aucun des hommes centraux de notre histoire.
+
+Nous interrogeâmes Léa.
+
+Elle se rappela enfin d’un garçon.
+
+— Un étudiant. Maxime, je crois. Elle le voyait parfois à Montpellier.
+
+Nous retrouvâmes Maxime Derval, quarante ans, père de famille.
+
+Il pâlit à la mention de Clara.
+
+— J’ignorais qu’elle était enceinte.
+
+Prélèvement volontaire.
+
+Compatibilité probable.
+
+Il s’effondra.
+
+Aucun lien avec la carrière.
+
+Aucun lien avec Hélène.
+
+Une relation secrète entre deux jeunes.
+
+Voilà.
+
+La grossesse n’était pas nécessairement le moteur du meurtre.
+
+Elle avait été aspirée après coup dans les théories autour de Clara.
+
+Laurent, déjà violent, devenait le père supposé idéal.
+
+Une vérité biologique étrangère à l’affaire avait fini par servir de carburant à une accusation.
+
+Je décidai que le nom de Maxime resterait hors des médias.
+
+Il n’avait rien à faire dans la punition publique d’un crime qu’il n’avait pas commis.
+
+Pour une fois, nous pouvions empêcher une vie périphérique d’être dévorée par le dossier.
 
 Les meurtres de Marseille avaient une différence importante avec les Morel.
 
@@ -5595,7 +5585,7 @@ Pas après.
 
 Une autre note :
 
-**Gendarme Varenne annoncé. Patiente refuse de partir avant de lui parler.**
+**Policier Varenne annoncé. Patiente refuse de partir avant de lui parler.**
 
 Puis :
 
@@ -6178,7 +6168,7 @@ Nous regardâmes la cassette une seconde fois sans le son.
 
 Puis une troisième en ne regardant que l’arrière-plan.
 
-À 22 h 58, Antoine Lemaire apparaissait dans la cuisine.
+À 23 h 38, Antoine Lemaire apparaissait dans la cuisine.
 
 Père de Sarah.
 
@@ -6204,7 +6194,7 @@ Pas nécessairement un complot préparé.
 
 Mais un réseau de compétences.
 
-À 23 h 04, Antoine ouvrait un ordinateur portable.
+À 23 h 44, Antoine ouvrait un ordinateur portable.
 
 Il branchait le téléphone de Clara pendant quelques secondes.
 
@@ -6216,7 +6206,7 @@ Nadir refusa d’aller plus loin.
 
 Clara reprenait son téléphone.
 
-À 23 h 09, Antoine quittait la pièce avec son ordinateur.
+À 23 h 49, Antoine quittait la pièce avec son ordinateur.
 
 Sarah croyait son père rentré chez lui cette nuit-là.
 
@@ -6240,7 +6230,7 @@ Et celui qui contrôlait les copies contrôlait l’histoire.
 
 La cassette continuait.
 
-À 23 h 26, Clara quittait la maison.
+À 0 h 06, Clara quittait la maison.
 
 Laurent vingt secondes plus tard.
 
@@ -6258,7 +6248,7 @@ Fin de cassette.
 
 Nous remontâmes.
 
-À 23 h 18, il avait posé la caméra.
+À 23 h 58, il avait posé la caméra.
 
 Plus aucune image de lui.
 
@@ -11611,7 +11601,7 @@ Sarah remua son café.
 
 — Cinq ans.
 
-Emma n’était pas encore née.
+Emma était encore bébé.
 
 Hélène avait donc regardé Théo grandir en sachant que son père avait participé à ce qui était arrivé à Clara.
 
@@ -12493,7 +12483,7 @@ Beaucoup moins ceux qui portent le bon logo.
 
 Nous ne quittâmes pas immédiatement la maison d’Anne Delmas.
 
-Montels obtint un mandat élargi.
+Montels obtint une extension de l’autorisation de perquisition.
 
 Toute la nuit, les techniciens clonèrent les disques.
 
@@ -14151,7 +14141,7 @@ Je demandai :
 
 Il relança.
 
-La photo de 23 h 14.
+La photo de 23 h 34.
 
 Sol sec.
 
@@ -14960,7 +14950,7 @@ Comme on parle à un absent parce qu’on voudrait qu’il puisse encore lire.
 
 *Je crois que mamie regarde aussi.*
 
-23 h 12 :
+22 h 44 :
 
 *Fabre est là.*
 
@@ -17799,7 +17789,7 @@ Mon cœur accéléra.
 
 — Environ vingt-trois heures.
 
-Trop tôt pour le fourgon d’Hélène enregistré à 2 h 19.
+Trop tôt pour le fourgon d’Hélène enregistré à 2 h 09.
 
 — Vous l’avez signalé ?
 
@@ -17823,7 +17813,7 @@ Fabre se leva.
 
 — Oui ?
 
-— Sophie m’a dit une autre chose hier soir.
+— Sophie m’a dit une autre chose ce soir-là.
 
 Je me figeai.
 
@@ -17832,6 +17822,10 @@ Je me figeai.
 — Qu’est-ce que ça signifie ?
 
 — J’espérais que vous sauriez.
+
+— Pourquoi ne pas me l’avoir dit plus tôt ?
+
+— Parce qu’après la vidéo de sonnette, je ne savais plus si vous étiez victime ou complice. Et parce que Sophie m’avait demandé de me taire.
 
 Il partit.
 
@@ -18351,7 +18345,13 @@ Je lui lançai un regard.
 
 La vidéo de sonnette affichait 2 h 41.
 
-Cette fois, les horaires tenaient.
+Cette fois, le trajet rendait ma présence dans le secteur physiquement possible. Mais il heurtait l’estimation de JANUS, qui avait placé la séquence autour de 2 h 24.
+
+— Donc l’analyse des lampadaires ?
+
+— Un indice, pas une horloge, dit Nadir. Soit le signal a été traité, soit notre fenêtre était trop optimiste.
+
+Je rayai mentalement une certitude de plus : 2 h 24 redevenait une hypothèse.
 
 Si c’était moi dans le fourgon, je pouvais physiquement être dans le quartier.
 
@@ -18561,7 +18561,7 @@ Nous examinâmes les véhicules professionnels.
 
 Une anomalie.
 
-Un fourgon de police scientifique avait quitté un garage technique à 2 h 19.
+Un fourgon de police scientifique avait quitté un garage technique à 2 h 09.
 
 Motif : maintenance.
 
@@ -19288,7 +19288,7 @@ Je me rassis.
 
 — Je ne le savais pas.
 
-— Le fourgon était déjà parti à 2 h 19, sept minutes après.
+— Le fourgon était déjà parti à 2 h 09, trois minutes avant.
 
 — J’étais près de chez vous.
 
@@ -22525,7 +22525,7 @@ Elle risquait elle-même des poursuites.
 
 Montels lui proposa une coopération.
 
-— Je ne veux pas d’immunité pour mentir mieux, dit Sarah.
+— Je ne veux pas qu’on m’épargne parce que je coopère, dit Sarah.
 
 — Ce n’est pas ce qu’on vous propose.
 
