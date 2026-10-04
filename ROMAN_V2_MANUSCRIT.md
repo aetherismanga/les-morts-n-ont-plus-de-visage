@@ -813,9 +813,7 @@ Martin appela le primo-intervenant.
 
 Personne ne les avait touchés.
 
-Je regardai Sarah.
-
-Elle venait d’entrer dans la pièce.
+Je regardai Sarah Lemaire, la médecin légiste qui venait d’entrer dans la pièce. Elle avait une quarantaine d’années, les cheveux châtains foncés attachés à la nuque, des yeux gris-vert et des traits fins que la fatigue durcissait sans les effacer.
 
 — Tu les as déplacés ?
 
@@ -905,7 +903,7 @@ Une liste écrite au feutre :
 
 Je lus la dernière ligne deux fois.
 
-Sarah Lemaire, la légiste, se redressa lorsque j’entrai.
+Sarah se redressa lorsque j’entrai.
 
 Elle me regarda une seconde de trop.
 
@@ -2147,9 +2145,7 @@ Elle rougit.
 
 Son écran affichait un réseau social.
 
-La vidéo de moi frappant Fabre n’existait pas encore.
-
-À cet instant, c’était celle de la sonnette.
+Sur son écran tournait encore la vidéo de la sonnette.
 
 Sous la vidéo, un sondage :
 
@@ -2545,7 +2541,7 @@ Il fouilla dans ses messages.
 
 Une image de la photographie de 2009.
 
-Six personnes devant la maison aux volets bleus.
+Sept personnes devant la maison aux volets bleus.
 
 Une phrase ajoutée :
 
@@ -2609,9 +2605,7 @@ Fabre regarda la fenêtre.
 
 — Hélène est arrivée plus tard.
 
-Premier prénom.
-
-À cet instant, il ne signifiait encore rien.
+Le prénom ne réveilla rien de précis en moi.
 
 — Hélène qui ?
 
@@ -3635,7 +3629,7 @@ Léa serra les lèvres.
 
 La phrase me surprit.
 
-Hélène avait donc été une figure de confiance pour Clara avant de falsifier sa mort.
+Hélène avait donc été une figure de confiance pour Clara avant que son nom n’apparaisse dans les irrégularités du dossier de sa mort.
 
 — Elle vous a parlé d’une vidéo ?
 
@@ -3691,7 +3685,7 @@ Léa ajouta :
 
 — Non.
 
-Sa mère le confirma plus tard : jamais rendu.
+Nous appelâmes sa mère : jamais rendu.
 
 Téléphone absent.
 
@@ -4646,11 +4640,11 @@ Aucune réponse officielle.
 
 Mais dix-sept minutes plus tard, un compte Observer consultait le dossier Clara.
 
-Hélène pouvait avoir lu.
+Quelqu’un disposant de l’accès associé à Hélène pouvait avoir lu.
 
 Observer aussi.
 
-Deux acteurs potentiels informés par la même action.
+Au moins deux accès potentiels avaient donc été informés par la même action.
 
 Voilà pourquoi attribuer le nettoyage devenait si difficile.
 
