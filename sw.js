@@ -1,8 +1,9 @@
-const CACHE_NAME = 'les-morts-v2-app-logo-17';
+const CACHE_NAME = 'les-morts-v2-pwa-install-fix-18';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './app-icon.jpg',
   './icon.svg',
   './Page d\'accueil .png',
   './Fond transparence01.png'
