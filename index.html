@@ -853,20 +853,33 @@ body{background:#07090c}
 .progress>span{background:linear-gradient(90deg,#670810,#d0202e)!important}
 @media(max-width:640px){.drawer-head h2{font-size:1rem}.drawer-body::before{margin-bottom:11px}}
 
+
+/* UI PASS 02 — assets validés */
+.ui-pass02-topbar{display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px!important;width:100%;align-items:center}
+.ui-pass02-topbar .ui-pass02-icon{width:100%!important;aspect-ratio:1/1!important;height:auto!important;min-width:0!important;padding:0!important;border:0!important;background:transparent!important;box-shadow:none!important;overflow:visible!important}
+.ui-pass02-topbar .ui-pass02-icon img{display:block;width:100%!important;height:100%!important;object-fit:contain!important;transform:none!important}
+.nav .nav-asset{font-size:0!important;border:0!important;background-color:transparent!important;background-repeat:no-repeat!important;background-position:center!important;background-size:contain!important;box-shadow:none!important;min-height:72px!important}
+#prevBtn{background-image:url('assets/ui-pass-02/navigation/precedent.png')!important}#nextBtn{background-image:url('assets/ui-pass-02/navigation/suivant.png')!important}
+#prevBtn:disabled{background-image:url('assets/ui-pass-02/navigation/precedent-desactive.png')!important;opacity:1!important}#nextBtn:disabled{background-image:url('assets/ui-pass-02/navigation/suivant-desactive.png')!important;opacity:1!important}
+.chapter-jump-card{max-width:430px!important;background:linear-gradient(rgba(8,10,13,.94),rgba(8,10,13,.97)),url('assets/ui-pass-02/chapter-picker/panel-chapitres.png') center/cover!important;color:#eee!important;border:1px solid #9d1720!important;box-shadow:0 18px 55px #000!important}
+.chapter-jump-card .notify-head{background:transparent!important;border-bottom:1px solid rgba(202,29,42,.55)!important}.chapter-jump-card h2{text-transform:uppercase;letter-spacing:.06em;color:#f4f4f4!important}.chapter-jump-body{padding:18px}.chapter-jump-body label{display:block;margin-bottom:9px;color:#c7c7ca}.chapter-jump-select{width:100%;padding:14px 42px 14px 14px;border-radius:9px;border:1px solid #c42a34;background:#0b0e12;color:#eee;font:inherit}.chapter-jump-go{width:100%;margin-top:16px;min-height:56px;background:linear-gradient(180deg,#b91523,#65070f)!important;border:1px solid #e02a38!important;color:#fff!important}
+.end-page{background:#07090c!important;color:#eee!important}.end-hero{background:linear-gradient(90deg,rgba(5,7,9,.92),rgba(5,7,9,.65)),url('assets/ui/investigation/elements-preuves-enquete.png') center/cover!important;color:#eee!important}.end-hero-inner{max-width:850px;margin:auto}.end-kicker{color:#c5c7ca!important}.end-title{color:#fff!important}.end-title::first-letter{color:inherit}.end-thanks,.end-sign{color:#ddd!important}.end-panel{background:linear-gradient(180deg,#090b0e,#11151a)!important}.end-card{background:rgba(10,13,17,.94)!important;color:#eee!important;border:1px solid rgba(190,20,32,.55)!important;box-shadow:0 12px 34px #000!important}.end-card h2,.end-question{color:#f1f1f2!important}.end-card p,.end-note{color:#b9bbc0!important}.star-btn{color:#8c9096!important}.star-btn.on{color:#e22634!important;text-shadow:0 0 10px #a30e19}.end-card textarea{background:#080b0e!important;color:#eee!important;border-color:#7d2028!important}.end-choice button{background:#11151a!important;color:#eee!important;border-color:#555!important}.end-choice button.selected{background:linear-gradient(180deg,#b91523,#65070f)!important;border-color:#e02a38!important}.end-submit{background:linear-gradient(180deg,#b91523,#65070f)!important;color:#fff!important;border:1px solid #e02a38!important}.notify-btn{background:#0b1721!important;color:#eee!important;border:1px solid #a97722!important}
+@media(max-width:640px){.topbar{padding:8px 10px!important}.brand{display:none!important}.ui-pass02-topbar{gap:3px!important}.nav{gap:6px!important}.nav .nav-asset{min-height:58px!important}.chapter-jump-card{width:calc(100vw - 34px)!important}}
 </style>
 </head>
 <body class="theme-ivory">
 <div class="app" id="app">
   <header class="topbar">
     <div class="brand">Les Morts n’ont plus de visage</div>
-    <div class="actions">
-      <button class="icon-btn ui-approved" id="chaptersBtn" aria-label="Chapitres"><img src="assets/story/chapters/chapitre.png" alt="Chapitres"></button>
-      <button class="icon-btn ui-approved" id="lexiconBtn" aria-label="Lexique"><img src="assets/legacy-ui/lexique.png" alt="Lexique"></button>
-      <button class="icon-btn ui-approved" id="indicesBtn" aria-label="Indices" title="Indices"><img src="assets/legacy-ui/indices.png" alt="Indices"></button>
-      <button class="icon-btn" id="installBtn" aria-label="Installer l’application" title="Installer l’application"><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
-      <button class="icon-btn ui-approved" id="audioBtn" aria-label="Lecture vocale" title="Lecture vocale"><img src="assets/legacy-ui/lecteur.png" alt="Lecture"></button>
-      <button class="icon-btn ui-approved" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/legacy-ui/plein-ecran.png" alt="Plein écran"></button>
-      <button class="icon-btn ui-approved" id="settingsBtn" aria-label="Réglages"><img src="assets/legacy-ui/parametres-reglage.png" alt="Réglages"></button>
+    <div class="actions ui-pass02-topbar">
+      <button class="icon-btn ui-pass02-icon" id="homeBtn" aria-label="Accueil" title="Accueil"><img src="assets/ui-pass-02/topbar/accueil.png" alt=""></button>
+      <button class="icon-btn ui-pass02-icon" id="chaptersBtn" aria-label="Chapitres"><img src="assets/ui-pass-02/topbar/chapitres.png" alt=""></button>
+      <button class="icon-btn ui-pass02-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/ui-pass-02/topbar/enquete.png" alt=""></button>
+      <button class="icon-btn ui-pass02-icon" id="audioBtn" aria-label="Lecture vocale" title="Lecture vocale"><img src="assets/ui-pass-02/topbar/lecture.png" alt=""></button>
+      <button class="icon-btn ui-pass02-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/ui-pass-02/topbar/plein-ecran.png" alt=""></button>
+      <button class="icon-btn ui-pass02-icon" id="settingsBtn" aria-label="Réglages"><img src="assets/ui-pass-02/topbar/reglages.png" alt=""></button>
+      <button class="icon-btn" id="lexiconBtn" aria-label="Lexique" hidden></button>
+      <button class="icon-btn" id="installBtn" aria-label="Installer l’application" hidden><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
     </div>
   </header>
 
@@ -875,11 +888,11 @@ body{background:#07090c}
     <div class="book-shell">
       <article class="page" id="page" tabindex="0" aria-live="polite"></article>
     </div>
-    <div id="pageJumpModal" class="notify-modal" aria-hidden="true"><div class="notify-card" style="max-width:360px"><div class="notify-head"><h2>Aller à la page</h2><button type="button" id="pageJumpClose" class="close-btn">×</button></div><div style="padding:18px"><input id="pageJumpRange" type="range" min="1" max="1" value="1" style="width:100%"><div style="display:flex;align-items:center;justify-content:center;gap:10px;margin-top:16px"><label for="pageJumpInput">Page</label><input id="pageJumpInput" type="number" min="1" max="1" value="1" inputmode="numeric" style="width:90px;padding:10px;border:1px solid var(--border);border-radius:9px;font:inherit;text-align:center"><span id="pageJumpTotal"></span></div><button type="button" class="primary" id="pageJumpGo" style="width:100%;margin-top:18px">Aller à cette page</button></div></div></div>
+    <div id="pageJumpModal" class="notify-modal chapter-jump-modal" aria-hidden="true"><div class="notify-card chapter-jump-card"><div class="notify-head"><h2>Aller au chapitre</h2><button type="button" id="pageJumpClose" class="close-btn">×</button></div><div class="chapter-jump-body"><label for="chapterJumpSelect">Choisissez un chapitre</label><select id="chapterJumpSelect" class="chapter-jump-select"></select><button type="button" class="primary chapter-jump-go" id="pageJumpGo">Aller à ce chapitre</button><input id="pageJumpRange" type="range" min="1" max="1" value="1" hidden><input id="pageJumpInput" type="number" min="1" max="1" value="1" hidden><span id="pageJumpTotal" hidden></span></div></div></div>
 <nav class="nav" aria-label="Navigation de lecture">
-      <button type="button" id="prevBtn">← Précédent</button>
+      <button type="button" id="prevBtn" class="nav-asset" aria-label="Précédent"><span>Précédent</span></button>
       <span id="pageCounter" aria-live="polite"></span>
-      <button type="button" id="nextBtn" class="next">Suivant →</button>
+      <button type="button" id="nextBtn" class="next nav-asset" aria-label="Suivant"><span>Suivant</span></button>
     </nav>
     <div class="progress-wrap">
       <div class="progress"><span id="progressBar"></span></div>
@@ -1440,12 +1453,11 @@ body{background:#07090c}
   function updateResumeBanner(){const b=$('resumeBanner');if(b){b.classList.remove('show');b.hidden=true;}}
 
   prevBtn.addEventListener('click',prev);nextBtn.addEventListener('click',next);
-  pageCounter.addEventListener('click',()=>{if(!layoutReady)return;const max=totalPages;const v=Math.max(1,Math.min(max,current+1));const modal=$('pageJumpModal'),range=$('pageJumpRange'),input=$('pageJumpInput');range.max=input.max=String(max);range.value=input.value=String(v);$('pageJumpTotal').textContent='/ '+max;modal.classList.add('open');modal.setAttribute('aria-hidden','false');});
-  $('pageJumpRange').addEventListener('input',e=>$('pageJumpInput').value=e.target.value);
-  $('pageJumpInput').addEventListener('input',e=>{$('pageJumpRange').value=Math.max(1,Math.min(totalPages,Number(e.target.value)||1));});
+  function populateChapterJump(){const sel=$('chapterJumpSelect');if(!sel)return;sel.innerHTML='';RAW.sections.forEach((s,i)=>{const o=document.createElement('option');o.value=String(i);o.textContent=s.label+' — '+s.title;sel.appendChild(o);});const sec=currentSection();if(sec>=0)sel.value=String(sec);}
+  pageCounter.addEventListener('click',()=>{if(!layoutReady)return;populateChapterJump();const modal=$('pageJumpModal');modal.classList.add('open');modal.setAttribute('aria-hidden','false');});
   function closePageJump(){$('pageJumpModal').classList.remove('open');$('pageJumpModal').setAttribute('aria-hidden','true');}
   $('pageJumpClose').addEventListener('click',closePageJump);$('pageJumpModal').addEventListener('click',e=>{if(e.target===$('pageJumpModal'))closePageJump();});
-  $('pageJumpGo').addEventListener('click',()=>{const p=Math.max(1,Math.min(totalPages,Number($('pageJumpInput').value)||1));closePageJump();goTo(p-1,p-1<current?'prev':'next');});
+  $('pageJumpGo').addEventListener('click',()=>{const i=Number($('chapterJumpSelect').value)||0;const target=chapterPageIndices[i]||1;closePageJump();goTo(target,target<current?'prev':'next');});
   
   document.addEventListener('click',e=>{
     const coverAction=e.target.closest('[data-cover-action]');
@@ -1459,7 +1471,7 @@ body{background:#07090c}
     const trigger=e.target.closest('[data-evidence]');if(trigger){e.preventDefault();openEvidence(trigger.dataset.evidence);return;}
     const revisit=e.target.closest('[data-evidence-open]');if(revisit){e.preventDefault();openEvidence(revisit.dataset.evidence);}
   });$('evidenceClose').addEventListener('click',closeEvidence);$('evidenceModal').addEventListener('click',e=>{if(e.target===$('evidenceModal'))closeEvidence();});
-  $('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('indicesBtn').addEventListener('click',()=>openDrawer('indicesDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
+  $('homeBtn').addEventListener('click',()=>goTo(0,'prev'));$('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('indicesBtn').addEventListener('click',()=>openDrawer('indicesDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
   $('notifyClose').addEventListener('click',()=>{$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');});
   $('notifyModal').addEventListener('click',e=>{if(e.target===$('notifyModal'))$('notifyClose').click();});
   $('notifySave').addEventListener('click',()=>{const name=$('notifyName').value.trim(),contact=$('notifyContact').value.trim(),consent=$('notifyConsent').checked;if(!name||!contact){showToast('Indiquez votre prénom ou pseudo et votre contact');return;}if(!consent){showToast('Votre accord est nécessaire pour vous inscrire');return;}localStorage.setItem('scribe.release.subscription',JSON.stringify({name,contact,consent:true,updatedAt:new Date().toISOString()}));$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');showToast('Inscription enregistrée');});
