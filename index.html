@@ -1132,6 +1132,95 @@ body{background:#07090c}
   }
 }
 
+
+/* TOPBAR FINAL V3 — 6 badges fiables, égaux, sans carrés noirs */
+.topbar{
+  width:100%!important;
+  height:70px!important;
+  min-height:70px!important;
+  max-height:70px!important;
+  padding:3px 4px!important;
+  overflow:hidden!important;
+}
+.topbar .brand{display:none!important}
+.topbar .actions.ui-final-topbar{
+  width:100%!important;
+  height:64px!important;
+  margin:0!important;
+  padding:0!important;
+  display:grid!important;
+  grid-template-columns:repeat(6,minmax(0,1fr))!important;
+  column-gap:2px!important;
+  align-items:center!important;
+  justify-items:center!important;
+  overflow:hidden!important;
+}
+.topbar .actions.ui-final-topbar > .ui-final-icon{
+  display:flex!important;
+  visibility:visible!important;
+  opacity:1!important;
+  width:100%!important;
+  height:64px!important;
+  min-width:0!important;
+  min-height:64px!important;
+  max-height:64px!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+  overflow:hidden!important;
+  align-items:center!important;
+  justify-content:center!important;
+}
+.topbar .actions.ui-final-topbar > .ui-final-icon img{
+  display:block!important;
+  width:62px!important;
+  height:62px!important;
+  min-width:62px!important;
+  min-height:62px!important;
+  max-width:62px!important;
+  max-height:62px!important;
+  object-fit:cover!important;
+  object-position:center!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  border-radius:50%!important;
+  clip-path:circle(49% at 50% 50%)!important;
+  background:transparent!important;
+  box-shadow:none!important;
+  transform:none!important;
+  filter:none!important;
+}
+.topbar .actions.ui-final-topbar #installBtn{display:none!important}
+
+@media(max-width:640px){
+  .topbar{
+    height:66px!important;
+    min-height:66px!important;
+    max-height:66px!important;
+    padding:2px 3px!important;
+  }
+  .topbar .actions.ui-final-topbar{
+    height:62px!important;
+    column-gap:1px!important;
+  }
+  .topbar .actions.ui-final-topbar > .ui-final-icon{
+    height:62px!important;
+    min-height:62px!important;
+    max-height:62px!important;
+  }
+  .topbar .actions.ui-final-topbar > .ui-final-icon img{
+    width:min(15.6vw,60px)!important;
+    height:min(15.6vw,60px)!important;
+    min-width:0!important;
+    min-height:0!important;
+    max-width:60px!important;
+    max-height:60px!important;
+  }
+}
+
 </style>
 </head>
 <body class="theme-ivory">
