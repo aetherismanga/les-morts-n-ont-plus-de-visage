@@ -1,14 +1,15 @@
-const CACHE_NAME = 'les-morts-v2-pwa-icons-19';
+const CACHE_NAME = 'les-morts-v2-assets-clean-20';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icon-192.svg',
-  './icon-512.svg',
-  './app-icon.jpg',
-  './icon.svg',
-  './Page d\'accueil .png',
-  './Fond transparence01.png'
+  './assets/icons/icon-192x192.png',
+  './assets/icons/icon-512x512.png',
+  './assets/icons/icon-maskable-512x512.png',
+  './assets/icons/app-icon-legacy.jpg',
+  
+  './assets/story/covers/page-accueil.png',
+  './assets/story/backgrounds/fond-transparence-01.png'
 ];
 
 self.addEventListener('install', event => {
