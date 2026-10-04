@@ -7930,9 +7930,7 @@ Le produit retrouvé agissait rapidement.
 
 Quelqu’un était avec lui.
 
-Le véhicule d’Anne Delmas franchissait un péage vers Sète cette nuit-là.
-
-Donc celui d’Hélène.
+Le même véhicule de location que nous soupçonnions d’avoir été utilisé par Hélène franchissait un péage vers Sète cette nuit-là.
 
 Mais une caméra privée montra deux sorties de l’atelier.
 
@@ -8068,11 +8066,7 @@ Et produisait non pas un verdict, mais une carte des divergences.
 
 — Mathieu disait que les outils de détection cherchaient trop à dire vrai/faux, expliqua Inès. JANUS disait seulement : voici où les versions cessent de coïncider.
 
-Nous importâmes la vidéo de la carrière.
-
-Le résultat montra immédiatement les transitions météo.
-
-La vidéo Emma.
+Nous importâmes la vidéo d’Emma.
 
 Le prénom remplacé.
 
@@ -13791,7 +13785,7 @@ Nadir soupçonnait que quelqu’un écoutait au moins une partie de nos communic
 
 Montels fit distribuer des appareils neufs sortis d’un stock scellé.
 
-— Vous trouvez pas ça excessif ? demanda un capitaine.
+— Vous ne trouvez pas ça excessif ? demanda un capitaine.
 
 Nadir posa sur la table la liste des fuites des quinze derniers jours.
 
@@ -15274,7 +15268,7 @@ Les adultes autour d’elle avaient transformé chaque lien en risque.
 
 C’était intelligent.
 
-Emma avait choisi la personne que personne n’aurait considérée comme un personnage important.
+Emma avait choisi quelqu’un qu’aucun enquêteur n’aurait placé spontanément au centre du dossier.
 
 Une amie.
 
@@ -15284,7 +15278,7 @@ Pas Mathieu.
 
 Pas la police.
 
-La preuve la plus sûre avait été confiée à quelqu’un que notre récit aurait naturellement laissé en dehors du cadre.
+La preuve la plus sûre avait été confiée à quelqu’un que notre enquête aurait naturellement laissé à la périphérie.
 
 Sur une note du téléphone :
 
@@ -18042,7 +18036,7 @@ Voilà.
 
 La preuve centrale fut sauvée par quelqu’un qui ne connaissait pas l’histoire.
 
-Plus une affaire devient narrative, plus il faut parfois remettre des morceaux du dossier entre les mains de personnes qui ignorent le récit.
+Plus une affaire finit par raconter une histoire trop cohérente, plus il faut parfois remettre des morceaux du dossier entre les mains de personnes qui ignorent cette histoire.
 
 Sinon on finit par vérifier ce qu’on croit déjà.
 
@@ -18423,7 +18417,7 @@ Montels réfléchit.
 
 — Les deux peuvent être vrais.
 
-La falsification n’était donc pas seulement narrative.
+La falsification ne faussait donc pas seulement notre lecture du dossier.
 
 Elle avait un potentiel explosif devant un tribunal.
 
@@ -19309,9 +19303,9 @@ Pays-Bas.
 
 Nous lançâmes une demande internationale.
 
-Pour la première fois, la « seconde lecture » prenait aussi un sens technique.
+Pour la première fois, l’expression « second regard » prenait un sens technique.
 
-Mathieu avait appelé un coffre de données *second look* avant que le mécanisme narratif n’apparaisse.
+Mathieu avait appelé un coffre de données *second look* bien avant que cette formule ne réapparaisse dans le dossier.
 
 Ce n’était peut-être pas une phrase mystique.
 
@@ -22386,7 +22380,7 @@ Le réseau criminel pouvait être une infrastructure achetée.
 
 Pas une organisation personnelle.
 
-Encore une tentation narrative à éviter : parce que deux meurtres se ressemblent, nous voulons un seul cerveau.
+Encore un raccourci d’enquête à éviter : parce que deux meurtres se ressemblent, nous voulons un seul cerveau.
 
 Parfois, un même outil suffit.
 
