@@ -903,6 +903,60 @@ body{background:#07090c}
  .nav .nav-asset{height:46px!important;min-height:46px!important;max-height:46px!important}
 }
 
+
+/* UI PASS 02 — definitive compact proportions */
+#installBtn,#lexiconBtn{display:none!important}
+.topbar{min-height:0!important;height:66px!important;padding:5px 8px!important;overflow:hidden!important}
+.ui-pass02-topbar{
+  display:grid!important;grid-template-columns:repeat(6,1fr)!important;
+  gap:3px!important;width:100%!important;height:56px!important;align-items:start!important;overflow:hidden!important;
+}
+.ui-pass02-topbar .ui-pass02-icon{
+  width:100%!important;height:56px!important;min-height:56px!important;max-height:56px!important;
+  min-width:0!important;padding:0!important;margin:0!important;border:0!important;border-radius:0!important;
+  background:transparent!important;box-shadow:none!important;overflow:hidden!important;
+}
+.ui-pass02-topbar .ui-pass02-icon::before,.ui-pass02-topbar .ui-pass02-icon::after{display:none!important}
+.ui-pass02-topbar .ui-pass02-icon img{
+  display:block!important;width:54px!important;height:auto!important;max-width:none!important;max-height:none!important;
+  margin:0 auto!important;object-fit:initial!important;clip-path:none!important;transform:none!important;
+}
+/* Keep only the round icon area of the source image; filename label stays below the clipped button box. */
+.nav{
+  display:grid!important;grid-template-columns:120px minmax(0,1fr) 120px!important;
+  align-items:center!important;gap:8px!important;min-height:50px!important;margin-top:8px!important;
+}
+.nav .nav-asset{
+  position:relative!important;width:120px!important;height:44px!important;min-height:44px!important;max-height:44px!important;
+  padding:0 12px!important;margin:0!important;border-radius:999px!important;
+  border:1px solid #b21b27!important;background:linear-gradient(180deg,#2b0d11,#12090b)!important;
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.05),0 3px 10px rgba(0,0,0,.45)!important;
+  background-image:none!important;color:#f2f2f2!important;font-size:0!important;overflow:hidden!important;
+}
+.nav .nav-asset span{font-size:12px!important;font-weight:800!important;letter-spacing:.02em!important;position:relative;z-index:2}
+#prevBtn{justify-self:start!important}#nextBtn{justify-self:end!important}
+#prevBtn::before,#nextBtn::after{
+  content:'‹‹';font-size:26px;font-weight:900;line-height:1;color:#e33b47;text-shadow:0 0 6px rgba(227,59,71,.55);
+}
+#nextBtn::after{content:'››'}
+.nav .nav-asset{display:flex!important;align-items:center!important;justify-content:center!important;gap:7px!important}
+.nav .nav-asset:disabled{
+  border-color:#45484c!important;background:linear-gradient(180deg,#181a1d,#0d0f11)!important;
+  color:#777b80!important;opacity:1!important;box-shadow:none!important;
+}
+.nav .nav-asset:disabled::before,.nav .nav-asset:disabled::after{color:#666a6f!important;text-shadow:none!important}
+#pageCounter{min-width:0!important;text-align:center!important;white-space:nowrap!important;font-size:clamp(.95rem,4vw,1.15rem)!important}
+@media(max-width:640px){
+ .topbar{height:62px!important;padding:4px 6px!important}
+ .ui-pass02-topbar{height:53px!important;gap:2px!important}
+ .ui-pass02-topbar .ui-pass02-icon{height:53px!important;min-height:53px!important;max-height:53px!important}
+ .ui-pass02-topbar .ui-pass02-icon img{width:51px!important}
+ .nav{grid-template-columns:112px minmax(0,1fr) 112px!important;gap:5px!important}
+ .nav .nav-asset{width:112px!important;height:42px!important;min-height:42px!important;max-height:42px!important;padding:0 8px!important}
+ .nav .nav-asset span{font-size:11px!important}
+ #prevBtn::before,#nextBtn::after{font-size:23px!important}
+}
+
 </style>
 </head>
 <body class="theme-ivory">
