@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ui-pass02-23';
+const CACHE_NAME = 'les-morts-v2-ui-pass02-24';
 const CORE = [
   './',
   './index.html',
