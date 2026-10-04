@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ui-pass03-31';
+const CACHE_NAME = 'les-morts-v2-ui-pass03-32';
 const CORE = [
   './',
   './index.html',
@@ -35,6 +35,7 @@ const CORE = [
   './assets/icons/Logopodcast.jpg',
   './assets/icons/Logopleinecran.jpg',
   './assets/icons/Logoreglage.jpg',
+  './assets/icons/plein-ecran-final.jpg',
   './assets/ui-pass-03/topbar/chapitres.png',
   './assets/ui-pass-03/topbar/lexique.png',
   './assets/ui-pass-03/topbar/enquete.png',
