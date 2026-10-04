@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ch1-desk-photo-link-15';
+const CACHE_NAME = 'les-morts-v2-bureau-emma-corrige-16';
 const CORE = [
   './',
   './index.html',
