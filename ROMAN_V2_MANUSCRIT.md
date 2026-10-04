@@ -3689,7 +3689,7 @@ Pas parce que nous étions proches.
 
 Parce que j’étais extérieur.
 
-Exactement comme Emma choisirait plus tard Zoé pour cacher son téléphone.
+Le même réflexe : chercher quelqu’un au bord du cercle familial.
 
 Les victimes cherchaient les bords de l’histoire.
 
@@ -4718,7 +4718,7 @@ Cels ajouta :
 
 — Quel composé ?
 
-Le même sédatif qu’Hélène déclarerait avoir utilisé sur Clara.
+Un composé proche de celui que les éléments médicaux nous faisaient déjà soupçonner dans le dossier Clara.
 
 — Elle enquêtait donc elle-même sur la cause de mort.
 
@@ -6678,9 +6678,9 @@ Le fichier n’existait pas sur nos systèmes.
 
 — Pas encore.
 
-Le mort qui n’était pas encore officiellement entré dans notre liste de suspects semblait chercher un fichier disparu.
+L’utilisateur associé à M.VIDAL semblait chercher un fichier disparu.
 
-Et pour la première fois, je me demandai si ses connexions posthumes n’essayaient pas de nous voler des preuves.
+Et pour la première fois, je me demandai si ces connexions n’essayaient pas de nous voler des preuves.
 
 Mais de vérifier si nous les avions trouvées.
 
@@ -15588,7 +15588,7 @@ Sur une page, un mot entouré :
 
 **25.**
 
-Nous ne savions pas encore que la pièce 25 serait la vidéo de 2 h 53.
+Nous ne savions pas encore ce que désignait exactement l’association entre **25** et **02:53**.
 
 Mais Emma, elle, connaissait déjà ce numéro.
 
