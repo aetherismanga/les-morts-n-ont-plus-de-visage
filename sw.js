@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ui-pass03-26';
+const CACHE_NAME = 'les-morts-v2-ui-pass03-27';
 const CORE = [
   './',
   './index.html',
@@ -17,7 +17,7 @@ const CORE = [
   './assets/ui/audio/habillage-lecture-vocale.png',
   './assets/ui/chapters/habillage-chapitres.png',
   './assets/ui/settings/habillage-confort-parametres.png',
-  './assets/ui/music/habillage-mes-musiques.png'
+  './assets/ui/music/habillage-mes-musiques.png',
   './assets/ui-pass-02/topbar/accueil.png',
   './assets/ui-pass-02/topbar/chapitres.png',
   './assets/ui-pass-02/topbar/enquete.png',
@@ -35,12 +35,12 @@ const CORE = [
   './assets/icons/Logopodcast.jpg',
   './assets/icons/Logopleinecran.jpg',
   './assets/icons/Logoreglage.jpg',
-  './assets/ui-pass-03/topbar/chapitres.png',
-  './assets/ui-pass-03/topbar/lexique.png',
-  './assets/ui-pass-03/topbar/enquete.png',
-  './assets/ui-pass-03/topbar/podcast.png',
-  './assets/ui-pass-03/topbar/plein-ecran.png',
-  './assets/ui-pass-03/topbar/reglages.png',
+  './assets/ui-pass-03/topbar/chapitres.jpg',
+  './assets/ui-pass-03/topbar/lexique.jpg',
+  './assets/ui-pass-03/topbar/enquete.jpg',
+  './assets/ui-pass-03/topbar/podcast.jpg',
+  './assets/ui-pass-03/topbar/plein-ecran.jpg',
+  './assets/ui-pass-03/topbar/reglages.jpg',
 ];
 
 self.addEventListener('install', event => {
