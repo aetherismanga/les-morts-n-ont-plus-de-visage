@@ -1385,11 +1385,11 @@ C’était la première fois que je répondais vrai.
 
 Ce matin-là, je pensais être arrivé après le meurtre.
 
-Je me trompais déjà sur deux choses.
+Je me trompais déjà sur l’essentiel.
 
-J’étais venu dans cette maison auparavant.
+Cette maison m’était moins étrangère que je le croyais.
 
-Et la première preuve fausse se trouvait déjà dans notre dossier.
+Et une preuve falsifiée se trouvait déjà dans notre dossier.
 
 ---
 
@@ -22094,11 +22094,7 @@ Je désarme Théo d’une seringue.
 
 3 h 11 : Théo remonte.
 
-3 h 13 : caméra reprend.
-
-Pourquoi ?
-
-Peut-être Emma elle-même avait-elle réactivé.
+3 h 13 : la caméra reprend automatiquement, conformément au système de relance configuré sur le téléphone secondaire d’Emma.
 
 À 3 h 14, confrontation dans la chambre.
 
