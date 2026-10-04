@@ -16860,8 +16860,6 @@ Nadir imprima la liste.
 
 Je décidai que chaque pièce aurait une fiche d’une page.
 
-Pas un résumé narratif.
-
 Quatre colonnes.
 
 **CE QUI EST CERTAIN.**
@@ -16886,9 +16884,9 @@ D’abord cru : Emma m’accusait directement.
 
 Pièce 012.
 
-Certain : le fichier provient bien de la sonnette compromise.
+Certain : le fichier provenait bien de la sonnette compromise.
 
-Probable : la silhouette a une source réelle.
+Probable : la silhouette avait une source réelle.
 
 Inconnu : heure exacte et identité.
 
@@ -16896,35 +16894,35 @@ D’abord cru : faux complet destiné uniquement à m’incriminer.
 
 Pièce 020.
 
-Certain : le fichier a été donné à Théo. Il mélange images authentiques et reconstruites.
+Certain : le fichier avait réellement été donné à Théo.
 
-Probable : Hélène est impliquée dans sa fabrication ou sa diffusion.
+Probable : Hélène avait participé à sa fabrication ou à sa diffusion.
 
-Inconnu : si les défauts étaient volontaires.
+Inconnu : quelle proportion des images venait de 2009.
 
-D’abord cru : document montrant la mort de Clara.
+D’abord cru : document continu montrant la mort de Clara.
 
 Puis la pièce 010.
 
-Certain : un verre a été prélevé sur la quatrième place.
+Le verre de la quatrième place.
 
-Probable : quelqu’un a bu dedans cette nuit-là.
+Certain : il avait été photographié et conditionné dans la maison.
 
-Inconnu : qui, avant l’analyse du vrai prélèvement.
+Certain aussi : le rapport de laboratoire désignait Nicolas Fabre.
 
-D’abord cru : Nicolas Fabre.
+Probable : le verre avait été utilisé pendant la soirée.
 
-Je restai devant.
+Inconnu : l’identité réelle du quatrième convive.
 
-Notre erreur initiale n’était pas d’avoir suivi un résultat ADN.
+Je restai devant la fiche plus longtemps que devant les autres.
 
-C’était rationnel.
+Le résultat ADN nous avait offert une réponse trop tôt.
 
-Notre erreur avait été de laisser ce résultat organiser toutes les questions suivantes.
+Cela ne le rendait pas faux.
 
-Une preuve ne ment pas toujours en étant fausse.
+Cela le rendait dangereux.
 
-Elle peut mentir en arrivant au bon moment.
+Une preuve solide peut produire une mauvaise enquête lorsqu’on lui permet d’organiser toutes les questions suivantes.
 
 Nous créâmes une cinquième catégorie, hors numérotation :
 
@@ -16934,23 +16932,23 @@ Téléphone de Clara.
 
 Vidéo originale de cinquante-deux secondes.
 
-Onze minutes.
+Onze minutes non enregistrées.
 
-Identité Observer.
+Identité d’Observer.
 
-Qui frappe Gabriel en 2009.
+Auteur des commandes professionnelles.
 
-Qui finance exactement les contrats criminels.
+Destination des données exportées par Mathieu.
 
-Les absences formaient presque la charpente de l’enquête.
+Les absences formaient presque la charpente du dossier.
 
-Je compris qu’un dossier n’est jamais constitué seulement de ce qu’on possède.
+Un dossier n’est jamais constitué seulement de ce qu’on possède.
 
 Il est aussi sculpté par ce qui manque.
 
 Et le danger commence quand quelqu’un remplit le manque à notre place.
 
-Nous étalâmes les vignettes sur une grande table.
+Nous étalâmes les vingt-sept vignettes sur la grande table.
 
 01 : photographie initiale de la maison.
 
@@ -16966,19 +16964,19 @@ Nous étalâmes les vignettes sur une grande table.
 
 07 : dossier Clara.
 
-08 : registre urgences.
+08 : registre des urgences.
 
 09 : message de Sophie à Nicolas.
 
-10 : verre quatrième place.
+10 : verre de la quatrième place.
 
 11 : enveloppe reçue par Fabre.
 
-12 : vidéo sonnette 2 h 41.
+12 : vidéo de sonnette.
 
 13 : audio « Je me souviens ».
 
-14 : photo Clara à Marseille.
+14 : photo de Clara à Marseille.
 
 15 : brouillon d’Élodie.
 
@@ -16990,7 +16988,7 @@ Nous étalâmes les vignettes sur une grande table.
 
 19 : journal d’Emma.
 
-20 : vidéo carrière.
+20 : vidéo de la carrière.
 
 21 : dossier mémoire G.V.
 
@@ -17000,57 +16998,49 @@ Nous étalâmes les vignettes sur une grande table.
 
 24 : caméra de mon immeuble.
 
-25 : inconnue.
+25 : contenu verrouillé.
 
-26 : inconnue.
+26 : contenu verrouillé.
 
-27 : inconnue.
+27 : contenu verrouillé.
 
-— Il nous manque trois pièces, dis-je.
+— Il nous manque trois contenus, dis-je.
 
 Nadir secoua la tête.
 
-— Il manque trois contenus. Les numéros existent déjà dans les métadonnées.
+— Les numéros existent. Les emplacements aussi. Ce qui manque, c’est ce qu’ils contiennent.
 
 — Créés quand ?
 
-— En même temps que le dossier.
+— La structure existait avant le 3 octobre. Plusieurs déclencheurs ont été ajoutés ensuite.
 
-— Le 3 octobre ?
+Martin prit la pièce 020.
 
-— Oui.
-
-Je regardai la table.
-
-Quelqu’un avait numéroté des preuves avant que certaines existent.
-
-— Donc la séquence était prévue.
-
-— Au moins en partie.
-
-Martin prit la pièce 20.
-
-— Vidéo carrière. Fausse.
+— Cette vidéo est fausse.
 
 — Manipulée.
 
-— Donc voilà la fausse pièce.
+— Donc c’est la pièce falsifiée.
 
 — Pas forcément.
 
-— Gabriel, elle montre un événement qui n’a pas eu lieu comme ça.
+Il me lança un regard.
 
-— Mais le fichier lui-même est authentiquement celui donné à Théo. La pièce prouve une manipulation.
+— Gabriel, elle montre quelque chose qui n’a pas eu lieu comme ça.
 
-Nadir sourit.
+Nadir intervint.
 
-— Voilà. Une fausse vidéo peut être une vraie preuve.
+— Et pourtant le fichier est authentiquement celui qui a été transmis à Théo. Comme objet judiciaire, il prouve qu’on lui a donné une reconstruction.
 
-Martin nous regarda.
+Martin soupira.
 
-— Je déteste travailler avec vous deux.
+— Donc une fausse vidéo peut être une vraie preuve.
 
-Nous créâmes un tableau de trois colonnes.
+— Exactement.
+
+— Je vous déteste.
+
+Nous écrivîmes trois mots au tableau.
 
 **OBJET.**
 
@@ -17058,231 +17048,49 @@ Nous créâmes un tableau de trois colonnes.
 
 **INTERPRÉTATION.**
 
-La pièce 003 :
+La distinction paraissait élémentaire.
 
-Objet : téléphone d’Emma, authentique.
+Elle ne l’était plus.
 
-Contenu : vidéo réelle modifiée sur un prénom.
+La pièce 003 était un vrai fichier trouvé sur le téléphone d’Emma, contenant un mot remplacé.
 
-Interprétation initiale : Emma m’accuse ou m’appelle.
+La pièce 012 était un véritable fichier extrait d’une sonnette compromise, dont l’horodatage avait probablement été altéré.
 
-Faux.
+La pièce 020 était une vraie trace de ce que Théo avait reçu, même si la scène représentée avait été reconstruite.
 
-Pièce 012 :
+Un objet authentique pouvait contenir un mensonge.
 
-Objet : fichier de sonnette authentiquement extrait.
+Un contenu modifié pouvait être une preuve authentique de manipulation.
 
-Contenu : probablement scène réelle, heure ou traitement incertains.
-
-Interprétation initiale : Gabriel présent à 2 h 41.
-
-Possiblement vrai, mais insuffisant.
-
-Pièce 020 :
-
-Objet : vidéo réellement fournie à Théo.
-
-Contenu : mélange réel/reconstruction.
-
-Interprétation : Hélène tue Clara.
-
-Non démontré.
-
-Pièce 010 :
-
-Objet : vrai verre.
-
-Contenu biologique : mon ADN.
-
-Interprétation fournie par le faux rapport : Nicolas Fabre.
-
-Falsification.
-
-Martin regarda le tableau.
-
-— On aurait dû faire ça dès le premier jour.
-
-— On ne savait pas encore qu’on en aurait besoin.
-
-— On devrait toujours en avoir besoin.
-
-Cette remarque resta.
-
-Dans beaucoup d’enquêtes, l’interprétation se colle si vite à l’objet qu’on oublie qu’elle est une couche distincte.
-
-Quelqu’un avait exploité exactement cela.
-
-Pas besoin de fabriquer vingt-sept faux objets.
-
-Un seul faux lien pouvait suffire si tout le monde le prenait pour une propriété de la preuve.
-
-Nous passâmes deux jours à distinguer trois concepts :
-
-Authenticité du support.
-
-Authenticité du contenu.
-
-Authenticité de l’interprétation.
-
-La pièce 003 était un véritable fichier trouvé sur le téléphone d’Emma, contenant une vidéo modifiée.
-
-La pièce restait authentique comme objet judiciaire.
-
-La pièce 020 était authentique comme preuve du matériel donné à Théo, même si ses images étaient reconstruites.
-
-La pièce 012 contenait une scène dont l’horodatage était douteux.
-
-Le système affichait pourtant :
-
-**26 AUTHENTIFIÉES — 1 FALSIFIÉE.**
-
-— Il utilise une définition précise, dit Nadir.
-
-— Laquelle ?
-
-— Une pièce falsifiée dans la chaîne elle-même. Pas seulement un contenu faux.
-
-Je pensai au scellé 010.
-
-Pas encore assez.
-
-Je repris mon rapport du premier matin.
-
-Pas la version propre.
-
-La saisie brute.
-
-Certaines phrases avaient été corrigées.
-
-Version brute :
-
-*Je connaissais cet endroit.*
-
-Version finale :
-
-*Impression de familiarité non objectivée.*
-
-— Qui a modifié ?
-
-Nadir vérifia.
-
-— Ton compte.
-
-— Je ne me souviens pas.
-
-— Modification à 7 h 12.
-
-À 7 h 12, j’étais encore au commissariat.
-
-Possible.
-
-Plus loin :
-
-*Je ne répondis pas.*
-
-Puis :
-
-*Une photographie.*
-
-Puis :
-
-*J’étais dessus.*
-
-Lues séparément, rien.
-
-Lues comme des fragments, presque une autre voix.
-
-Martin entra avec deux cafés.
-
-— Tu cherches des messages dans ta propre ponctuation ?
-
-— Oui.
-
-— Excellent. On est officiellement foutus.
+Et une preuve parfaitement authentique pouvait être interprétée de travers.
 
 À minuit, l’application interne afficha une fenêtre noire.
 
 **27 PIÈCES DÉCOUVERTES.**
 
-— On n’en a que vingt-quatre matérialisées, dit Martin.
+Puis :
 
-Nadir analysa la manière dont les trois dernières pièces étaient verrouillées.
+**26 AUTHENTIFIÉES.**
 
-— Ce n’est pas un serveur qui décide tout seul.
+**1 FALSIFIÉE.**
 
-— Alors quoi ?
+Personne ne parla.
 
-— Une chaîne de conditions locales.
+Martin désigna la vidéo de la carrière.
 
-Il dessina.
+— Si ce n’est pas celle-là, votre vocabulaire est vraiment malade.
 
-Si la pièce 010 change de statut d’authentification, une clé est libérée.
+Nadir relut la formulation.
 
-Cette clé permet d’ouvrir un fragment de la 25.
+— Il parle probablement de l’intégrité de la pièce elle-même. Pas de la vérité de tout ce qu’elle représente.
 
-La lecture complète de 25 produit un hash nécessaire pour 26.
+— Donc une des vingt-sept a été physiquement ou numériquement substituée dans la chaîne.
 
-La validation de 26 libère 27.
+— C’est mon hypothèse.
 
-— Une chasse au trésor.
+— Laquelle ?
 
-— Plutôt un protocole.
-
-— Mathieu.
-
-— Ça ressemble à son travail.
-
-Chaque étape dépendait de l’intégrité de la précédente.
-
-Si nous trichions en modifiant le système, la chaîne pouvait échouer.
-
-— Donc celui qui a construit ça veut qu’on passe réellement par les preuves.
-
-— Oui.
-
-— Pourquoi ?
-
-Nadir haussa les épaules.
-
-— Pour être sûr qu’on ait le contexte avant la révélation suivante.
-
-Je pensai à Hélène.
-
-Elle aussi contrôlait le rythme de la vérité.
-
-Mathieu et elle avaient peut-être développé des méthodes opposées avec le même instinct : ne jamais donner un fait sans préparer ce qui vient autour.
-
-La différence était que Mathieu semblait vouloir garantir l’ordre par cryptographie.
-
-Hélène par manipulation humaine.
-
-— Et Observer ?
-
-— Peut avoir greffé des choses sur le protocole.
-
-— Lesquelles ?
-
-— Impossible à savoir sans signature de référence.
-
-Nous retrouvâmes chez Inès un ancien certificat de Mathieu.
-
-Comparaison.
-
-Les mécanismes de 25 et 26 portaient bien sa signature cryptographique.
-
-La pièce 27, non.
-
-Elle utilisait sa clé.
-
-Mais le format différait.
-
-Quelqu’un avait ajouté la dernière porte à son système.
-
-Mathieu avait probablement construit les vingt-six premières étapes.
-
-Un autre avait ajouté la vingt-septième.
-
-C’était la première frontière technique relativement nette entre son plan posthume et ce qui l’avait prolongé.
+— Si je le savais, le message serait moins intéressant.
 
 Trois nouvelles entrées apparurent.
 
@@ -17292,31 +17100,25 @@ Trois nouvelles entrées apparurent.
 
 27 : **CLÉ.**
 
-Fichiers verrouillés.
+Toutes trois restaient verrouillées.
 
-Puis :
-
-**26 AUTHENTIFIÉES.**
-
-**1 FALSIFIÉE.**
-
-Dernière ligne :
+Une dernière ligne :
 
 **ÉTAPE SUIVANTE VERROUILLÉE.**
 
-Je pris une capture.
+Nous prîmes une capture.
 
 La fenêtre disparut.
 
 Le technicien de nuit fouilla le système.
 
-— Le fichier responsable est là depuis la création du dossier.
+— Le programme responsable était déjà présent lors de la création du dossier.
 
-— Quand ?
+— Quand exactement ?
 
-— 3 octobre, 5 h 02.
+— 3 octobre. 5 h 02.
 
-Pendant que nous étions encore dans la maison.
+Pendant que nous étions encore chez les Morel.
 
 — Créateur ?
 
@@ -17330,17 +17132,15 @@ Martin s’assit.
 
 — Tâche programmée.
 
-— Peut-être.
+— Possible.
 
-— Arrête.
-
-Je souris malgré moi.
+— Tu n’as même plus besoin de dire « peut-être ».
 
 Le technicien continua.
 
-— Attendez. Dépôt depuis un terminal du réseau de scène de crime.
+— Le déclencheur initial a été déposé depuis un terminal connecté au réseau de scène de crime.
 
-— Lequel ?
+— Quel terminal ?
 
 — Scanner mobile de prélèvements.
 
@@ -17352,17 +17152,15 @@ La caisse.
 
 — Hélène.
 
-Martin secoua la tête.
+— Elle connaissait les identifiants de Mathieu, dit Martin.
 
-— Elle connaissait les identifiants de Mathieu, elle l’a admis.
+— Elle a pu utiliser le scanner.
 
-— Donc elle peut l’avoir déposé.
+— Ou déclencher quelque chose déjà préparé.
 
-— Elle dit ne pas connaître les connexions posthumes.
+Nadir acquiesça.
 
-— Elle peut mentir.
-
-— Oui.
+— Les deux restent possibles.
 
 Sur l’écran, un cadenas apparut.
 
@@ -17374,35 +17172,23 @@ Une seule phrase :
 
 **PAS ENCORE. TROUVEZ LA PIÈCE FAUSSE.**
 
-Avant cela, nous avions compris que notre plus grand ennemi n’était plus seulement la falsification.
+Cette fois, nous ne nous précipitâmes pas.
 
-C’était la connaissance du dossier.
+Nadir proposa de séparer l’histoire des objets.
 
-Chaque expert savait déjà ce que certaines pièces étaient censées prouver.
+— Si les experts connaissent les suspects, ils chercheront sans le vouloir ce qu’ils savent déjà.
 
-Nadir proposa donc une méthode brutale :
+Nous constituâmes une petite équipe qui ne recevrait aucune théorie générale.
 
-— On sépare les pièces de l’histoire.
+Pas de photo de Nicolas avec la pièce 010.
 
-— Comment ?
+Pas mon nom associé à la caméra du hall.
 
-— On donne aux experts uniquement ce qu’ils doivent mesurer.
+Pas Hélène associée à la carrière.
 
-Pas de portrait de Fabre avec le verre.
+Seulement des fichiers, des objets, des numéros de scellés, des signatures, des métadonnées.
 
-Pas de nom de Gabriel avec la vidéo du hall.
-
-Pas de théorie Hélène avec la carrière.
-
-Seulement des objets.
-
-Des fichiers.
-
-Des chaînes.
-
-Des questions techniques.
-
-— Ça va prendre du temps, dit Montels.
+— Ça prendra du temps, dit Montels.
 
 — Moins que corriger une erreur judiciaire.
 
@@ -17410,158 +17196,57 @@ Personne ne répondit.
 
 Nous avions déjà failli en fabriquer une.
 
-Pour authentifier les vingt-sept pièces, nous créâmes une équipe qui ne connaissait presque rien de l’histoire.
-
-C’était l’idée de Nadir.
-
-— Si vous donnez le dossier complet aux experts, ils chercheront ce qu’ils savent déjà.
-
-Chaque pièce fut donc envoyée avec une question limitée.
-
-Authenticité physique.
-
-Métadonnées.
-
-Chaîne de possession.
-
-Altérations.
-
-Sans théorie.
-
-Les résultats furent parfois humiliants.
+Les premiers résultats tombèrent.
 
 La photographie 005 — moi devant la maison — était authentique comme capture.
 
-Aucune manipulation détectée.
-
 Quelqu’un m’avait réellement photographié.
 
-La pièce 013 — ma voix « Je me souviens » — était synthétique à 97 % selon plusieurs indicateurs.
+La pièce 013 — ma voix « Je me souviens » — portait plusieurs marqueurs de synthèse.
 
-Mais le modèle source provenait d’un enregistrement réel de 2009 retrouvé chez Mathieu.
+Le modèle source provenait pourtant d’un enregistrement réel de 2009 retrouvé chez Mathieu.
 
-La pièce 014 — photographie de Clara à Marseille — était un tirage récent d’un négatif authentique.
+La pièce 014 était un tirage récent d’un négatif ancien.
 
-La pièce 020 — carrière — contenait trente-deux secondes réellement filmées en 2009 et plus de deux minutes reconstruites.
+La pièce 020 contenait quelques secondes réellement tournées en 2009, mélangées à des images reconstruites.
 
-La pièce 023 — connexions M.VIDAL — était authentique : les accès avaient bien eu lieu. L’identité de l’utilisateur restait inconnue.
+La pièce 023 confirmait que des accès M.VIDAL avaient bien eu lieu après la mort de Mathieu, sans identifier la personne derrière le compte.
 
-La pièce 024 — caméra de mon immeuble — ne montrait aucune trace de génération. Horloge synchronisée avec deux autres systèmes.
+La pièce 024 ne présentait aucune trace démontrable de génération.
 
-Donc l’homme quittant mon immeuble à 2 h 12 était presque certainement réel.
+Puis les experts demandèrent les originaux physiques de plusieurs pièces.
 
-Moi ?
+Verres.
 
-L’expert refusa.
+Supports.
 
-— Compatible.
+Scellés.
 
-— Probabilité ?
+Emballages.
 
-— Je ne quantifie pas un visage qu’on ne voit pas.
+La vérification prendrait plusieurs jours.
 
-J’appris à apprécier les gens qui refusaient les chiffres décoratifs.
+Montels refusa que nous sachions quelle pièce chaque laboratoire examinait.
 
-Puis vint la pièce 010.
+— Vous vouliez du travail en aveugle. Vous l’aurez jusqu’au bout.
 
-La chaîne informatique disait : réception laboratoire 4 octobre.
+Je détestais l’idée.
 
-La chaîne physique disait : toujours au dépôt.
+C’était précisément pour cela qu’elle était bonne.
 
-Contradiction absolue.
+Pendant ce temps, nous retrouvâmes chez Inès une note de Mathieu antérieure aux meurtres.
 
-Nous aurions dû la voir plus tôt.
+Les vingt-sept numéros existaient déjà.
 
-Nous ne l’avions pas vue parce que l’ADN de Fabre racontait une histoire satisfaisante.
+Pas les événements exacts.
 
-Je réunis l’équipe.
+Seulement des catégories.
 
-— Pourquoi personne n’a comparé le scellé ?
+03 : **MESSAGE MODIFIABLE.**
 
-Silence.
+12 : **TEMPS.**
 
-Un technicien finit par dire :
-
-— Parce que le numéro était dans le système.
-
-— Et ?
-
-— On lui a fait confiance.
-
-Voilà.
-
-Pas un complot.
-
-Pas une incompétence monstrueuse.
-
-Une habitude.
-
-Les systèmes sont utiles parce qu’on leur fait confiance.
-
-Ils deviennent dangereux pour exactement la même raison.
-
-Le manipulateur ne cherchait pas seulement nos faiblesses psychologiques.
-
-Il cherchait nos automatismes professionnels.
-
-Ce fut à ce moment-là que j’arrêtai de penser les vingt-sept pièces comme une chasse au trésor.
-
-Elles formaient un test.
-
-De nous.
-
-De nos outils.
-
-De la manière dont nous décidions qu’un fait était assez solide pour devenir vrai.
-
-Nous retournâmes aux vingt-sept.
-
-Pour la première fois, nous savions qu’un mensonge précis avait été physiquement inséré dans la chaîne.
-
-Une fausse pièce n’était pas seulement une erreur.
-
-C’était peut-être celle autour de laquelle tout le reste avait été construit.
-
-
-L’équipe des vingt-sept pièces travailla désormais dans une salle isolée du réseau principal.
-
-Chaque mouvement était consigné deux fois.
-
-Nadir appelait cela « la paranoïa reproductible ».
-
-— Si vous devenez fous, faites-le avec protocole.
-
-Les pièces 25, 26 et 27 restaient verrouillées.
-
-Un magistrat proposa de casser le chiffrement.
-
-Nadir s’y opposa.
-
-— Si la chaîne détecte l’altération, on peut détruire l’ordre prévu.
-
-— Vous respectez les règles d’un mort ?
-
-— Je respecte l’intégrité d’un système.
-
-Nous créâmes deux équipes.
-
-L’une suivrait le protocole.
-
-L’autre attaquerait une copie isolée.
-
-Aucune communication entre elles.
-
-Au bout de trois jours, l’équipe offensive n’avait pas ouvert la 27.
-
-Pendant ce temps, nous retrouvâmes une note de Mathieu datée d’avant les meurtres.
-
-Les vingt-sept numéros existaient.
-
-Pas tous les titres.
-
-10 : **SUBSTITUTION.**
-
-20 : **PREUVE QUI DOIT ÊTRE FAUSSE.**
+20 : **VERSION.**
 
 25 : **TÉMOIN.**
 
@@ -17569,50 +17254,82 @@ Pas tous les titres.
 
 27 : **AUTEUR ?**
 
-Le point d’interrogation appartenait au document original.
+Le point d’interrogation appartenait à la note originale.
 
 À côté :
 
-*Si quelqu’un ajoute sa réponse ici, ce ne sera pas la mienne.*
+*Si quelqu’un ajoute sa réponse ici, ce ne sera pas nécessairement la mienne.*
 
 Je relus.
 
-La pièce 27 utilisait sa clé mais pas son format habituel.
+La pièce 27 utilisait une clé de Mathieu, mais pas son format habituel.
 
-Mathieu avait anticipé qu’un autre puisse tenter de prendre possession de la fin du protocole.
+Quelqu’un avait peut-être prolongé son système.
 
-Pas nécessairement l’identité.
+Ou Mathieu avait volontairement prévu qu’un autre puisse le faire.
 
-Le risque.
+Une autre phrase :
 
-— Donc quand 27 s’ouvrira, on ne la traite pas comme parole de Mathieu.
+*Ne jamais demander à l’utilisateur de croire une preuve uniquement parce qu’elle vient de moi.*
 
-— Exact, dit Nadir.
+Je compris alors la différence entre son dispositif et celui d’Hélène.
 
-Une précaution écrite par un mort contre l’usurpation de sa propre voix.
+Elle travaillait sur les personnes.
 
-Dans une affaire de deepfakes, c’était probablement son testament le plus intelligent.
+Elle plaçait un fait devant quelqu’un pour obtenir une réaction.
 
-La note contenait aussi une phrase :
+Mathieu, lui, essayait de construire un chemin où chaque étape devait pouvoir être vérifiée sans lui.
 
-*Le protocole ne doit jamais demander à l’utilisateur de croire une preuve uniquement parce qu’elle vient de moi.*
+Il contrôlait aussi.
 
-Utilisateur.
+Mais il voulait, au moins en théorie, que le contrôle puisse lui survivre.
 
-Mathieu avait construit quelque chose destiné à être parcouru comme un chemin de vérification.
+— Et Observer ? demandai-je.
 
-Je commençai à comprendre la différence profonde entre lui et Hélène.
+Nadir regarda les signatures.
 
-Elle scénarisait les personnes.
+— Il peut avoir greffé des éléments sur le protocole.
 
-Lui scénarisait les contrôles.
+— Lesquels ?
 
-Les deux étaient capables d’imposer un ordre.
+— Je ne le saurai que lorsqu’on aura ouvert les trois dernières pièces.
 
-Mais l’un cherchait — au moins en théorie — à rendre chaque étape vérifiable sans sa présence.
+Je retournai vers la table.
 
-L’autre demandait toujours qu’on passe par sa lecture du monde.
----
+Vingt-sept vignettes.
+
+Vingt-six annoncées authentiques.
+
+Une falsifiée.
+
+Toutes avaient déjà influencé notre enquête.
+
+Toutes avaient déjà produit des décisions.
+
+Quelque part au milieu, une seule avait été remplacée ou altérée dans sa propre chaîne.
+
+Je regardai longtemps la pièce 010.
+
+Puis la 003.
+
+La 012.
+
+La 020.
+
+La 023.
+
+N’importe laquelle pouvait être le mensonge matériel.
+
+Et c’était peut-être exactement le but.
+
+Nous avions enfin cessé de demander :
+
+**Quelle histoire raconte cette preuve ?**
+
+La seule question qui comptait désormais était plus modeste.
+
+**Est-ce bien la preuve que nous croyons avoir entre les mains ?**
+
 
 ### CHAPITRE 20 — LA PIÈCE FAUSSE
 
