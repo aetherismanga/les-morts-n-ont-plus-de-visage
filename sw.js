@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-assets-clean-20';
+const CACHE_NAME = 'les-morts-v2-thriller-ui-21';
 const CORE = [
   './',
   './index.html',
@@ -9,7 +9,15 @@ const CORE = [
   './assets/icons/app-icon-legacy.jpg',
   
   './assets/story/covers/page-accueil.png',
-  './assets/story/backgrounds/fond-transparence-01.png'
+  './assets/story/backgrounds/fond-transparence-01.png',
+  './assets/ui/backgrounds/fond-pages-secondaires.png',
+  './assets/ui/panels/cadre-panneau-sombre.png',
+  './assets/ui/separators/separateurs-rouge-metal.png',
+  './assets/ui/investigation/elements-preuves-enquete.png',
+  './assets/ui/audio/habillage-lecture-vocale.png',
+  './assets/ui/chapters/habillage-chapitres.png',
+  './assets/ui/settings/habillage-confort-parametres.png',
+  './assets/ui/music/habillage-mes-musiques.png'
 ];
 
 self.addEventListener('install', event => {
