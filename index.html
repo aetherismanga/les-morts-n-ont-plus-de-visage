@@ -865,6 +865,44 @@ body{background:#07090c}
 .chapter-jump-card .notify-head{background:transparent!important;border-bottom:1px solid rgba(202,29,42,.55)!important}.chapter-jump-card h2{text-transform:uppercase;letter-spacing:.06em;color:#f4f4f4!important}.chapter-jump-body{padding:18px}.chapter-jump-body label{display:block;margin-bottom:9px;color:#c7c7ca}.chapter-jump-select{width:100%;padding:14px 42px 14px 14px;border-radius:9px;border:1px solid #c42a34;background:#0b0e12;color:#eee;font:inherit}.chapter-jump-go{width:100%;margin-top:16px;min-height:56px;background:linear-gradient(180deg,#b91523,#65070f)!important;border:1px solid #e02a38!important;color:#fff!important}
 .end-page{background:#07090c!important;color:#eee!important}.end-hero{background:linear-gradient(90deg,rgba(5,7,9,.92),rgba(5,7,9,.65)),url('assets/ui/investigation/elements-preuves-enquete.png') center/cover!important;color:#eee!important}.end-hero-inner{max-width:850px;margin:auto}.end-kicker{color:#c5c7ca!important}.end-title{color:#fff!important}.end-title::first-letter{color:inherit}.end-thanks,.end-sign{color:#ddd!important}.end-panel{background:linear-gradient(180deg,#090b0e,#11151a)!important}.end-card{background:rgba(10,13,17,.94)!important;color:#eee!important;border:1px solid rgba(190,20,32,.55)!important;box-shadow:0 12px 34px #000!important}.end-card h2,.end-question{color:#f1f1f2!important}.end-card p,.end-note{color:#b9bbc0!important}.star-btn{color:#8c9096!important}.star-btn.on{color:#e22634!important;text-shadow:0 0 10px #a30e19}.end-card textarea{background:#080b0e!important;color:#eee!important;border-color:#7d2028!important}.end-choice button{background:#11151a!important;color:#eee!important;border-color:#555!important}.end-choice button.selected{background:linear-gradient(180deg,#b91523,#65070f)!important;border-color:#e02a38!important}.end-submit{background:linear-gradient(180deg,#b91523,#65070f)!important;color:#fff!important;border:1px solid #e02a38!important}.notify-btn{background:#0b1721!important;color:#eee!important;border:1px solid #a97722!important}
 @media(max-width:640px){.topbar{padding:8px 10px!important}.brand{display:none!important}.ui-pass02-topbar{gap:3px!important}.nav{gap:6px!important}.nav .nav-asset{min-height:58px!important}.chapter-jump-card{width:calc(100vw - 34px)!important}}
+
+/* UI PASS 02 — proportion hotfix */
+.topbar{min-height:0!important;height:auto!important;padding:6px 8px!important}
+.ui-pass02-topbar{
+  display:flex!important;justify-content:space-between!important;align-items:center!important;
+  gap:4px!important;height:64px!important;overflow:hidden!important;
+}
+.ui-pass02-topbar .ui-pass02-icon{
+  flex:0 0 calc((100% - 20px)/6)!important;width:calc((100% - 20px)/6)!important;
+  height:60px!important;aspect-ratio:auto!important;min-height:0!important;max-height:60px!important;
+  padding:0!important;margin:0!important;border:0!important;border-radius:0!important;
+  background:transparent!important;box-shadow:none!important;overflow:hidden!important;
+}
+.ui-pass02-topbar .ui-pass02-icon::before,.ui-pass02-topbar .ui-pass02-icon::after{display:none!important}
+.ui-pass02-topbar .ui-pass02-icon img{
+  width:100%!important;height:100%!important;max-width:100%!important;max-height:60px!important;
+  object-fit:cover!important;object-position:center top!important;transform:none!important;
+}
+/* Source PNGs contain the approved icon in their upper zone: crop away filename/size labels. */
+.ui-pass02-topbar .ui-pass02-icon img{clip-path:inset(0 0 22% 0)!important}
+.nav{
+  display:grid!important;grid-template-columns:minmax(112px,1fr) auto minmax(112px,1fr)!important;
+  align-items:center!important;gap:8px!important;min-height:54px!important;margin-top:7px!important;
+}
+.nav .nav-asset{
+  width:100%!important;height:50px!important;min-height:50px!important;max-height:50px!important;
+  padding:0!important;margin:0!important;background-size:contain!important;background-position:center!important;
+}
+#pageCounter{white-space:nowrap!important;text-align:center!important;font-size:clamp(1rem,4.4vw,1.25rem)!important}
+@media(max-width:640px){
+ .topbar{padding:4px 7px!important}
+ .ui-pass02-topbar{height:58px!important;gap:2px!important}
+ .ui-pass02-topbar .ui-pass02-icon{height:56px!important;max-height:56px!important;flex-basis:calc((100% - 10px)/6)!important;width:calc((100% - 10px)/6)!important}
+ .ui-pass02-topbar .ui-pass02-icon img{height:56px!important;max-height:56px!important}
+ .nav{grid-template-columns:minmax(105px,1fr) auto minmax(105px,1fr)!important;gap:4px!important}
+ .nav .nav-asset{height:46px!important;min-height:46px!important;max-height:46px!important}
+}
+
 </style>
 </head>
 <body class="theme-ivory">
