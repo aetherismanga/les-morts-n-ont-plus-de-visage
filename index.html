@@ -1019,20 +1019,44 @@ body{background:#07090c}
   text-align:center!important; font-size:clamp(.92rem,4vw,1.12rem)!important;
 }
 
+
+/* FINAL TOPBAR — 6 validated logos only */
+.topbar{height:70px!important;min-height:70px!important;max-height:70px!important;padding:5px 7px!important;overflow:hidden!important}
+.ui-final-topbar{
+  display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr))!important;
+  gap:4px!important;width:100%!important;height:60px!important;align-items:center!important;overflow:hidden!important;
+}
+.ui-final-topbar .ui-final-icon{
+  width:100%!important;height:60px!important;min-height:60px!important;max-height:60px!important;
+  padding:0!important;margin:0!important;border:0!important;border-radius:0!important;background:none!important;
+  box-shadow:none!important;overflow:hidden!important;display:flex!important;align-items:center!important;justify-content:center!important;
+}
+.ui-final-topbar .ui-final-icon::before,.ui-final-topbar .ui-final-icon::after{display:none!important}
+.ui-final-topbar .ui-final-icon img{
+  display:block!important;width:58px!important;height:58px!important;max-width:58px!important;max-height:58px!important;
+  object-fit:cover!important;object-position:center!important;border-radius:10px!important;
+  margin:0!important;padding:0!important;transform:none!important;filter:none!important;clip-path:none!important;
+}
+@media(max-width:640px){
+  .topbar{height:64px!important;min-height:64px!important;max-height:64px!important;padding:4px 5px!important}
+  .ui-final-topbar{height:56px!important;gap:2px!important}
+  .ui-final-topbar .ui-final-icon{height:56px!important;min-height:56px!important;max-height:56px!important}
+  .ui-final-topbar .ui-final-icon img{width:54px!important;height:54px!important;max-width:54px!important;max-height:54px!important}
+}
+
 </style>
 </head>
 <body class="theme-ivory">
 <div class="app" id="app">
   <header class="topbar">
     <div class="brand">Les Morts n’ont plus de visage</div>
-    <div class="actions ui-pass02-topbar">
-      <button class="icon-btn ui-pass02-icon" id="homeBtn" aria-label="Accueil" title="Accueil"><img src="assets/ui-pass-02/topbar/accueil.png" alt=""></button>
-      <button class="icon-btn ui-pass02-icon" id="chaptersBtn" aria-label="Chapitres"><img src="assets/ui-pass-02/topbar/chapitres.png" alt=""></button>
-      <button class="icon-btn ui-pass02-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/ui-pass-02/topbar/enquete.png" alt=""></button>
-      <button class="icon-btn ui-pass02-icon" id="audioBtn" aria-label="Lecture vocale" title="Lecture vocale"><img src="assets/ui-pass-02/topbar/lecture.png" alt=""></button>
-      <button class="icon-btn ui-pass02-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/ui-pass-02/topbar/plein-ecran.png" alt=""></button>
-      <button class="icon-btn ui-pass02-icon" id="settingsBtn" aria-label="Réglages"><img src="assets/ui-pass-02/topbar/reglages.png" alt=""></button>
-      <button class="icon-btn" id="lexiconBtn" aria-label="Lexique" hidden></button>
+    <div class="actions ui-final-topbar">
+      <button class="icon-btn ui-final-icon" id="chaptersBtn" aria-label="Chapitres" title="Chapitres"><img src="assets/icons/Logochapitre.jpg" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="lexiconBtn" aria-label="Lexique" title="Lexique"><img src="assets/icons/Logolexique.jpg" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/icons/Logoenquete.jpg" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="audioBtn" aria-label="Podcast / lecture vocale" title="Podcast"><img src="assets/icons/Logopodcast.jpg" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/Logopleinecran.jpg" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="settingsBtn" aria-label="Réglages" title="Réglages"><img src="assets/icons/Logoreglage.jpg" alt=""></button>
       <button class="icon-btn" id="installBtn" aria-label="Installer l’application" hidden><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
     </div>
   </header>
@@ -1625,7 +1649,7 @@ body{background:#07090c}
     const trigger=e.target.closest('[data-evidence]');if(trigger){e.preventDefault();openEvidence(trigger.dataset.evidence);return;}
     const revisit=e.target.closest('[data-evidence-open]');if(revisit){e.preventDefault();openEvidence(revisit.dataset.evidence);}
   });$('evidenceClose').addEventListener('click',closeEvidence);$('evidenceModal').addEventListener('click',e=>{if(e.target===$('evidenceModal'))closeEvidence();});
-  $('homeBtn').addEventListener('click',()=>goTo(0,'prev'));$('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('indicesBtn').addEventListener('click',()=>openDrawer('indicesDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
+  $('chaptersBtn').addEventListener('click',()=>openDrawer('chaptersDrawer'));$('lexiconBtn').addEventListener('click',()=>openDrawer('lexiconDrawer'));$('indicesBtn').addEventListener('click',()=>openDrawer('indicesDrawer'));$('audioBtn').addEventListener('click',()=>{openDrawer('audioDrawer');setTimeout(async()=>{const ok=await refreshHdVoiceState();if(!ok)installHdVoices();},80);});$('settingsBtn').addEventListener('click',()=>openDrawer('settingsDrawer'));
   $('notifyClose').addEventListener('click',()=>{$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');});
   $('notifyModal').addEventListener('click',e=>{if(e.target===$('notifyModal'))$('notifyClose').click();});
   $('notifySave').addEventListener('click',()=>{const name=$('notifyName').value.trim(),contact=$('notifyContact').value.trim(),consent=$('notifyConsent').checked;if(!name||!contact){showToast('Indiquez votre prénom ou pseudo et votre contact');return;}if(!consent){showToast('Votre accord est nécessaire pour vous inscrire');return;}localStorage.setItem('scribe.release.subscription',JSON.stringify({name,contact,consent:true,updatedAt:new Date().toISOString()}));$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');showToast('Inscription enregistrée');});
