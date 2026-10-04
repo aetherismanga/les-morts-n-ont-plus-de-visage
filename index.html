@@ -681,9 +681,17 @@ body.immersive-fallback .page.text-flow-page{
 @media(max-width:640px){.second-reading-special{padding:52px 42px 70px!important}.second-reading-body{font-size:calc(var(--reader-size) * .94)}}
 
 /* Interactive evidence — unlocked only after the reader opens it */
-.evidence-trigger{display:flex;align-items:center;justify-content:center;gap:9px;width:min(92%,440px);margin:14px auto 18px;padding:11px 14px;border:1px solid rgba(153,19,28,.48);border-radius:12px;background:linear-gradient(180deg,rgba(24,29,34,.96),rgba(9,13,17,.96));color:#f5f5f5;font:700 .9rem/1.2 system-ui,sans-serif;letter-spacing:.02em;box-shadow:0 6px 16px rgba(0,0,0,.22);cursor:pointer}
-.evidence-trigger:active{transform:scale(.985)}
-.evidence-trigger .ev-icon{font-size:1.12rem}
+.evidence-trigger{display:inline-flex;align-items:center;gap:6px;width:auto;margin:2px 0 10px;padding:0;border:0;background:transparent;color:#6f1118;font:600 .78rem/1.2 system-ui,sans-serif;letter-spacing:.01em;box-shadow:none;cursor:pointer;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;opacity:.88}
+.evidence-trigger:hover{opacity:1}
+.evidence-trigger:active{transform:none;opacity:.7}
+.evidence-trigger .ev-icon{font-size:.9rem}
+.evidence-folder{border:1px solid rgba(153,19,28,.28);border-radius:12px;background:rgba(255,255,255,.18);overflow:hidden;margin-bottom:12px}
+.evidence-folder>summary{list-style:none;display:flex;align-items:center;gap:9px;padding:12px 13px;cursor:pointer;font-weight:800;color:var(--ink)}
+.evidence-folder>summary::-webkit-details-marker{display:none}
+.evidence-folder>summary::before{content:"📂";font-size:1.05rem}
+.evidence-folder[open]>summary::before{content:"📂"}
+.evidence-folder-count{margin-left:auto;opacity:.6;font-size:.78rem;font-weight:600}
+.evidence-folder-body{padding:0 10px 10px}
 .evidence-modal{position:fixed;inset:0;z-index:120;background:rgba(2,5,8,.94);display:none;align-items:center;justify-content:center;padding:18px}
 .evidence-modal.open{display:flex}
 .evidence-card{position:relative;width:min(96vw,900px);max-height:94vh;display:flex;flex-direction:column;align-items:center;gap:10px}
@@ -856,7 +864,7 @@ body.immersive-fallback .page.text-flow-page{
       const paras=s.paragraphs.map((p,pi)=>{
         const cls=[p.trim().startsWith('—')?'dialogue':'',pi===0?'first-para':''].filter(Boolean).join(' ');
         let extra='';
-        if(si===0&&pi===89) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-photo-0136"><span class="ev-icon">📎</span><span>Ouvrir la photo reçue</span></button>';
+        if(si===0&&pi===89) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-photo-0136"><span class="ev-icon">📎</span><span>Voir la preuve</span></button>';
         if(si===0&&pi===104) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-video-observation"><span class="ev-icon">▶</span><span>Voir la séquence</span></button>';
         return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+esc(p)+'</p>'+extra;
       }).join('');
@@ -1039,12 +1047,18 @@ body.immersive-fallback .page.text-flow-page{
     const body=$('indicesBody');if(!body)return;
     const unlocked=readUnlockedEvidence();
     if(!unlocked.length){body.innerHTML='<p>Les preuves consultées apparaîtront ici au fil de la lecture.</p>';return;}
-    body.innerHTML='<div class="evidence-grid">'+unlocked.map(id=>{
-      const x=EVIDENCE_ITEMS[id];
-      const preview=x.type==='image'?'<img src="'+esc(x.src)+'" alt="" loading="lazy">':'';
-      const label=x.type==='video'?'Revoir la vidéo':'Revoir la preuve';
-      return '<div class="evidence-item">'+preview+'<strong>'+esc(x.title)+'</strong><small>'+esc(x.chapter)+'</small><button type="button" data-evidence-open="'+esc(id)+'">'+label+'</button></div>';
-    }).join('')+'</div>';
+    const groups={};
+    unlocked.forEach(id=>{const x=EVIDENCE_ITEMS[id];const chapter=x.chapter||'AUTRES';(groups[chapter]||(groups[chapter]=[])).push(id);});
+    const folders=Object.entries(groups).map(([chapter,ids],idx)=>{
+      const cards=ids.map(id=>{
+        const x=EVIDENCE_ITEMS[id];
+        const preview=x.type==='image'?'<img src="'+esc(x.src)+'" alt="" loading="lazy">':'';
+        const label=x.type==='video'?'Revoir la vidéo':'Revoir la preuve';
+        return '<div class="evidence-item">'+preview+'<strong>'+esc(x.title)+'</strong><button type="button" data-evidence-open="'+esc(id)+'">'+label+'</button></div>';
+      }).join('');
+      return '<details class="evidence-folder" '+(idx===0?'open':'')+'><summary>'+esc(chapter)+'<span class="evidence-folder-count">'+ids.length+' élément'+(ids.length>1?'s':'')+'</span></summary><div class="evidence-folder-body"><div class="evidence-grid">'+cards+'</div></div></details>';
+    }).join('');
+    body.innerHTML=folders;
   }
   function showToast(msg){toast.textContent=msg;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),1100);}
 
