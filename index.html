@@ -685,6 +685,7 @@ body.immersive-fallback .page.text-flow-page{
 .evidence-trigger:hover,.evidence-trigger:focus-visible{opacity:1;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 .evidence-trigger:active{transform:none;opacity:.82}
 .evidence-trigger .ev-icon{font-size:.85rem;opacity:.88}
+.evidence-trigger.inline-evidence{margin:0 0 0 8px;padding:0 2px;vertical-align:baseline;white-space:nowrap;font-size:.74rem;opacity:.72}
 .evidence-folder{border:1px solid rgba(111,83,55,.22);border-radius:11px;background:rgba(255,255,255,.16);overflow:hidden;margin-bottom:10px}
 .evidence-folder>summary{list-style:none;display:flex;align-items:center;gap:8px;padding:12px 13px;cursor:pointer;font-weight:800;color:var(--ink)}
 .evidence-folder>summary::-webkit-details-marker{display:none}
@@ -866,11 +867,11 @@ body.immersive-fallback .page.text-flow-page{
     const html=sections.map((s,si)=>{
       const paras=s.paragraphs.map((p,pi)=>{
         const cls=[p.trim().startsWith('—')?'dialogue':'',pi===0?'first-para':''].filter(Boolean).join(' ');
-        let extra='';
+        let extra='',body=esc(p);
         if(si===0&&pi===89) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-photo-0136" aria-label="Ouvrir la photo reçue"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
         if(si===0&&pi===104) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-video-observation" aria-label="Ouvrir la séquence"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
-        if(si===0&&pi===210) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-video-transfert" aria-label="Ouvrir la séquence du dernier transfert"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
-        return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+esc(p)+'</p>'+extra;
+        if(si===0&&pi===205) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="prologue-video-transfert" aria-label="Ouvrir la séquence du dernier transfert"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
+        return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+body+'</p>'+extra;
       }).join('');
       const art=CHAPTER_IMAGES[si]?'<figure class="chapter-illustration"><img src="'+CHAPTER_IMAGES[si]+'" alt="'+esc(s.label)+' — '+esc(s.title)+'" loading="lazy" fetchpriority="low" decoding="async"></figure>':'';
       return '<section class="flow-chapter" id="chapter-'+si+'" data-section="'+si+'">'+art+'<div class="flow-chapter-head"><div class="chapter-kicker">'+esc(s.label)+'</div><h1 class="chapter-title">'+esc(s.title)+'</h1></div>'+paras+'</section>';
@@ -1261,7 +1262,7 @@ body.immersive-fallback .page.text-flow-page{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-prologue-video-final-4',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-inline-final-video-5',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
