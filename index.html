@@ -943,6 +943,7 @@ summary:focus,summary:active,summary:focus-visible{
     "ch1-piece-010":{type:"image",title:"PIÈCE 010 — VERRE / PLACE 4",chapter:"CHAPITRE 1",src:"Chapitre 01001.png"},
     "ch1-photo-famille":{type:"image",title:"Photographie de famille — Emma",chapter:"CHAPITRE 1",src:"Chapitre01002.png"},
     "ch1-piece-003-emma":{type:"video",title:"PIÈCE 003 — VIDÉO EMMA / 19 S",chapter:"CHAPITRE 1",url:"https://youtube.com/shorts/7KpDWRGFXOM?is=WUe0voxFwc1Pdq4_"},
+    "ch1-bureau-emma":{type:"image",title:"Bureau d’Emma — contrôle 14/20",chapter:"CHAPITRE 1",src:"Chapitre01003.png"},
     "ch1-photo-recue-gabriel":{type:"image",title:"Photo reçue — devant la maison",chapter:"CHAPITRE 1",src:"Chapitre 01005.png"}
   };
   const CHARACTERS=[
@@ -1000,7 +1001,8 @@ summary:focus,summary:active,summary:focus-visible{
         if(si===0&&pi===205) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="prologue-video-transfert" aria-label="Ouvrir la séquence du dernier transfert"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
         if(si===1&&pi===166) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-010" aria-label="Ouvrir la pièce 010"><span class="ev-icon">📎</span><span>voir la preuve</span></button>';
         if(si===1&&pi===216) extra='<button type="button" class="evidence-trigger" data-evidence="ch1-photo-famille" aria-label="Ouvrir la photographie de famille"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
-        if(si===1&&pi===253){body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-003-emma" aria-label="Ouvrir la pièce 003"><span class="ev-icon">📎</span><span>voir la preuve</span></button>';extra='<figure class="story-evidence-image"><img src="Chapitre01003.png" alt="Téléphone d’Emma — pièce 003" loading="lazy" decoding="async"></figure>';}
+        if(si===1&&pi===230) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-bureau-emma" aria-label="Ouvrir la photo du bureau d Emma"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
+        if(si===1&&pi===253) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-003-emma" aria-label="Ouvrir la pièce 003"><span class="ev-icon">▶</span><span>voir la vidéo</span></button>';
         if(si===1&&pi===356) extra='<button type="button" class="evidence-trigger" data-evidence="ch1-photo-recue-gabriel" aria-label="Ouvrir la photo reçue"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
         return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+body+'</p>'+extra;
       }).join('');
@@ -1482,7 +1484,7 @@ summary:focus,summary:active,summary:focus-visible{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-evidence-fullscreen-close-14',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-ch1-desk-photo-link-15',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
