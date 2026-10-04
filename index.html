@@ -697,12 +697,17 @@ body.immersive-fallback .page.text-flow-page{
 .evidence-folder-name{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .evidence-folder-count{margin-left:auto;opacity:.58;font-size:.74rem;font-weight:600;white-space:nowrap}
 .evidence-folder-body{padding:0 10px 10px}
-.evidence-modal{position:fixed;inset:0;z-index:120;background:rgba(2,5,8,.97);display:none;align-items:center;justify-content:center;padding:max(12px,env(safe-area-inset-top)) max(10px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(10px,env(safe-area-inset-left))}
+.evidence-modal{position:fixed;inset:0;z-index:500;background:rgba(2,5,8,.97);display:none;align-items:center;justify-content:center;padding:max(12px,env(safe-area-inset-top)) max(10px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(10px,env(safe-area-inset-left))}
+body.evidence-open #fsExitBtn,
+body.evidence-open #fsAudioToggle,
+body.evidence-open #fsMusicToggle,
+body.evidence-open #fsPrevEdge{display:none!important;pointer-events:none!important}
+body.evidence-open .evidence-modal{pointer-events:auto!important}
 .evidence-modal.open{display:flex}
 .evidence-card{position:relative;width:100%;height:100%;max-width:none;max-height:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px}
 .evidence-card img{display:block;max-width:96vw;max-height:88vh;width:auto;height:auto;object-fit:contain;border-radius:6px;box-shadow:0 14px 42px rgba(0,0,0,.55)}
 .evidence-caption{color:#eef0f2;font:600 .9rem/1.35 system-ui,sans-serif;text-align:center;max-width:92vw}
-.evidence-close{position:fixed;right:max(14px,env(safe-area-inset-right));top:max(14px,env(safe-area-inset-top));z-index:2;width:46px;height:46px;border:1px solid rgba(255,255,255,.45);border-radius:50%;background:rgba(10,16,22,.88);color:#fff;font-size:27px;cursor:pointer}
+.evidence-close{position:fixed;right:max(14px,env(safe-area-inset-right));top:max(14px,env(safe-area-inset-top));z-index:502;width:46px;height:46px;border:1px solid rgba(255,255,255,.45);border-radius:50%;background:rgba(10,16,22,.88);color:#fff;font-size:27px;cursor:pointer}
 .evidence-grid{display:grid;gap:12px}
 .evidence-item{border:1px solid rgba(153,19,28,.32);background:rgba(9,16,22,.72);border-radius:12px;padding:12px}
 .evidence-item.is-clickable{cursor:pointer}
@@ -1230,10 +1235,12 @@ summary:focus,summary:active,summary:focus-visible{
 
     unlockEvidence(id);
     $('evidenceImage').src=item.src;$('evidenceImage').alt=item.title;$('evidenceCaption').textContent=item.title;
+    document.body.classList.add('evidence-open');
     $('evidenceModal').classList.add('open');$('evidenceModal').setAttribute('aria-hidden','false');
   }
   function closeEvidence(){
     $('evidenceModal').classList.remove('open');$('evidenceModal').setAttribute('aria-hidden','true');
+    document.body.classList.remove('evidence-open');
     $('evidenceImage').removeAttribute('src');
 
     const state=evidenceReturnState;
@@ -1475,7 +1482,7 @@ summary:focus,summary:active,summary:focus-visible{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-desktop-thriller-lexicon-13',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-evidence-fullscreen-close-14',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
