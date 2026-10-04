@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-inline-final-video-5';
+const CACHE_NAME = 'les-morts-v2-chapitre1-assets-6';
 const CORE = [
   './',
   './index.html',
