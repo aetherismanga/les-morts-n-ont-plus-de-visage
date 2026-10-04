@@ -11467,13 +11467,15 @@ Sarah prit le temps de répondre.
 
 — Un certificat faux. Un dossier administratif. Une urne vide. Elle avait préparé une nouvelle identité depuis des mois.
 
-— Anne Delmas.
+— Elle utilisait le nom Anne Delmas.
+
+Je me figeai.
+
+— La voiture d’Uzès était louée sous ce nom.
 
 Sarah releva les yeux.
 
-— Tu connais.
-
-— On a une piste.
+— Alors vous aviez déjà la piste sans savoir qui elle désignait.
 
 Elle posa ses mains sur la table.
 
