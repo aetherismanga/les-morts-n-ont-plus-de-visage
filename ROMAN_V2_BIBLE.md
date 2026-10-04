@@ -1,76 +1,62 @@
-# LES MORTS N’ONT PLUS DE VISAGE — BIBLE DE RÉÉCRITURE V2
+# LES MORTS N’ONT PLUS DE VISAGE — BIBLE NARRATIVE
 
-## Objectif
-Transformer la version condensée actuelle en thriller psychologique complet, captivant et progressif, sans perdre l’ossature validée. Cible éditoriale : environ 70 000 à 90 000 mots. Les chapitres n’ont pas tous la même longueur : alterner scènes amples, enquête, tension et chapitres-chocs très courts.
+## Référence officielle
+État corrigé le 4 octobre 2026, établi à partir du texte embarqué dans `index.html` sur la branche `main`. `ROMAN_V2_MANUSCRIT.md` est sa copie de lecture synchronisée. La continuité détaillée figure dans `ROMAN_V2_CONTINUITE_FINALE.md` et les décisions d’audit dans `ROMAN_CORRECTIONS_2026-10-04.md`.
 
-## Promesse narrative
-France, 2026. Gabriel Varenne enquête sur une famille massacrée tandis que des deepfakes, des preuves authentiques et ses propres trous de mémoire rendent la vérité instable. Le lecteur doit constamment formuler des hypothèses, en abandonner, puis relire mentalement ce qu’il croyait acquis.
+La structure effective est un prologue, vingt-quatre chapitres numérotés, un épilogue, puis « Chapitre 1 — Seconde lecture ». Les vingt-sept numéros désignent les pièces principales. Ne pas créer des chapitres 25 à 27 pour satisfaire un décompte absent du dépôt.
 
-## Règles de suspense
-- Ne jamais donner une réponse immédiatement après avoir posé une grande question.
-- Laisser respirer chaque révélation et montrer ses conséquences émotionnelles.
-- Construire plusieurs suspects crédibles : Nicolas Fabre, Sarah, Martin, Mathieu, Théo, Hélène.
-- Introduire tôt de petites anomalies numériques liées à Mathieu après sa mort, sans les expliquer.
-- Faire exister Clara, Emma et les autres victimes comme personnes, pas seulement comme indices.
-- Développer Gabriel : mémoire, peur de lui-même, relation oubliée avec Sarah, culpabilité et conséquences publiques.
-- Hélène doit rester ambiguë le plus longtemps possible : protectrice, falsificatrice, victime possible, manipulatrice, architecte probable, puis possibilité qu’elle ait elle-même été manipulée.
-- Conserver l’ambiguïté finale : une image peut être fausse ; ce qui est terrifiant est qu’elle puisse être vraie.
+## Identité et suspense
+France, 2026 ; thriller policier et psychologique contemporain. Gabriel Varenne raconte à la première personne ; le prologue suit Clara en 2009. Le récit distingue la réalité, les souvenirs de Gabriel, les déclarations des autres personnages et les conclusions provisoires de l’enquête.
 
-## Les 27 pièces
-Les preuves importantes sont numérotées dans le récit et pourront devenir interactives.
-Format prévu : PIÈCE 003, PIÈCE 010, etc.
-Canon : 27 pièces principales, 26 authentifiées, 1 falsifiée.
-La pièce 010 reste centrale : le verre / ADN attribué à Nicolas Fabre puis découvert falsifié.
-Chaque pièce interactive aura plus tard un lien ouvrant photo, image, document ou vidéo.
-Après consultation, elle est automatiquement ajoutée à l’onglet INDICES.
-Les vidéos pourront renvoyer vers Le Grognard du Net ou TikTok. Les médias seront créés et intégrés seulement après finalisation du texte.
+Préserver les scènes, les victimes comme personnes, les réactions émotionnelles et les fausses pistes. La technologie sert la manipulation ; elle ne fournit pas une explication universelle. Un identifiant, une voix ressemblante ou une signature numérique n’établit pas à lui seul une identité humaine.
 
-## Structure validée
-Prologue — 17 août 2009 : Clara fuit, vidéo, carrière. Garder des informations volontairement incomplètes.
-1 — La maison sans visages : grande scène de crime immersive. Quatre couverts, photos mutilées, Emma, première vidéo, Gabriel observé.
-2 — Avant la vérité : contamination médiatique, faux Gabriel, premiers doutes sur l’image.
-3 — Le quatrième couvert : Nicolas Fabre devient un vrai suspect et le reste plusieurs chapitres avant Clara.
-4 — Clara Vidal : dossier 2009, six pages absentes, Gabriel sur la photo.
-5 — Marseille : deuxième scène de crime développée ; Élodie ne doit pas être seulement une victime fonctionnelle.
-6 — Les six pages : Cazeneuve, grossesse de Clara, tension puis assassinat.
-7 — Le casier : lettre, MiniDV, Sarah aperçue ; faire monter le soupçon.
-8 — Sarah : relation oubliée révélée en deux temps ; laisser vivre la découverte avant la grossesse perdue.
-9 — Mathieu : construire fortement le faux coupable avant de révéler qu’il était déjà mort.
-10 — Le fils absent : Théo entre dans le jeu, mais ne pas résoudre trop vite son rôle.
-11 — En direct : enlèvement Sarah/Martin ; pression et version de Théo.
-12 — Regarde-moi : mémoire de 2009 ; Clara a survécu à la chute.
-13 — La première autopsie : Hélène apparaît mais reste ambiguë.
-14 — La femme morte : découverte progressive de l’existence d’Hélène sous une autre identité et de son travail sur la mémoire.
-15 — Le procès avant le procès : chaos public des vraies/fausses vidéos ; conséquences concrètes pour Gabriel.
-16 — La carrière : Théo croit posséder la vérité ; Gabriel démontre que sa vidéo est fausse grâce à la météo.
-17 — Emma : son journal et son courage ; donner une vraie présence à Emma.
-18 — Le visage d’Hélène : confrontation, arrestation, mais pas de fermeture confortable.
-19 — Quarante-sept pièces : dispositif des preuves, annonce 26 authentiques / 1 falsifiée. Le système caché existe mais n’interrompt pas encore le roman.
-20 — La pièce fausse : ancien chapitre 21. Pièce 010, vrai prélèvement, ADN de Gabriel.
-21 — Ce qui manque : ancien chapitre 22. Trou horaire, hypothèse de drogue, présence possible de Gabriel.
-22 — Hélène : ancien chapitre 23. Entretien en détention ; « vous m’avez demandé de vous faire oublier » reste non vérifié.
-23 — La dernière vidéo : ancien chapitre 24. Gabriel était chez les Morel avant le meurtre ; onze minutes manquantes.
-24 — À définir lors de la réécriture : retombées immédiates et dernière consolidation avant l’épilogue, sans résoudre le mystère supérieur.
-Épilogue — Ceux qui regardent : procès à venir, bilan des responsabilités, compte de Mathieu actif après sa mort, photo finale prise dans le dos de Gabriel.
+## Vérité canonique de la seconde lecture
+Hélène était chez les Morel pendant la nuit. Elle quitte les lieux avec Gabriel à 3 h 29, le ramène, puis revient en tenue scientifique pour contrôler les prélèvements et masquer son ADN. Gabriel la voit sortir à 5 h 26 avec une caisse. Sa voix, sa silhouette et la photographie reçue juste après sont déjà dans le chapitre 1. Il la laisse passer parce qu’il la classe comme intervenante de la scientifique.
 
-## Seconde lecture cachée
-Elle n’est PAS un chapitre normal de la chronologie et ne doit pas apparaître entre 19 et 21.
-Elle se débloque uniquement après l’épilogue sous : CHAPITRE 1 — SECONDE LECTURE.
-Elle reprend exactement le véritable chapitre 1. Des mots, phrases ou paragraphes se barrent/disparaissent progressivement. Les fragments qui restent composent une seconde narration cohérente et révèlent qu’Hélène était déjà dans la maison et en est sortie pendant l’arrivée de la police.
-Effet recherché : le lecteur comprend que l’information était devant lui depuis le début.
-Phrase-signature : « Personne ne regarde ceux qui regardent. »
+Le chapitre spécial reprend intégralement le chapitre 1 et lui donne cette nouvelle lecture. Les phrases estompées ne composent pas un cryptogramme. La révélation vient du contexte acquis, puis de la reconnaissance par Gabriel de son propre aveuglement. Phrase-signature : **Personne ne regarde ceux qui regardent.**
 
-## Interactivité à intégrer après le texte
-Ne pas produire les images/vidéos maintenant.
-Pendant la réécriture, baliser les emplacements narratifs des pièces pour faciliter l’intégration ultérieure.
-Une pièce cliquée doit pouvoir rejoindre automatiquement INDICES.
-Photos/documents : affichage dans le lecteur.
-Vidéos : ouverture vers le média hébergé sur Le Grognard du Net ou TikTok selon le média final.
-Les vidéos doivent rester simples à produire : généralement 5 à 30 secondes maximum, sans tournage complexe ni acteurs indispensables. Privilégier caméra de surveillance fixe, écran qui grésille, silhouette ou ombre, porte qui bouge, reflet fugitif, téléphone posé, couloir vide, bruit hors champ, image qui saute, timecode, artefact numérique ou très court extrait de visioconférence. Chaque vidéo doit avoir une fonction narrative précise et pouvoir être fabriquée facilement avec montage/IA.
+## Responsabilités et limites
+- Laurent agresse Clara en 2009 ; elle chute sans être poussée et survit. Hélène et Cazeneuve l’extraient ; Hélène administre un sédatif. La cause finale du décès ne peut être déterminée avec certitude. Le rapport et l’heure de décès sont falsifiés.
+- Gabriel subit un traumatisme crânien, puis une sédation dissimulée à l’hôpital. Leur part respective dans l’amnésie reste incertaine. Ses choix ultérieurs, dont sa séparation avec Sarah, ne sont pas tous attribués à une manipulation.
+- Sarah perd Noé après cette nuit. Elle aide Hélène à simuler sa mort en 2021, sans savoir que les cendres appartiennent à Samira K. Sa responsabilité demeure malgré l’emprise maternelle.
+- Théo drogue ses parents, tue Laurent et Sophie puis étrangle Emma ; il enlève Sarah et Martin. Hélène manipule sa lecture du passé sans supprimer sa responsabilité personnelle.
+- Emma veut empêcher la violence et fuir avec son frère. Zoé conserve des supports indépendants. Les notes personnelles d’Emma ne doivent pas devenir toutes des indices criminels.
+- Mathieu meurt dans la nuit du 21 au 22 septembre 2026, avant les Morel. Il prépare des branches conditionnelles et des sauvegardes ; aucun script ne prédit les heures ou les traces du massacre.
+- Observer_01 est le nom adopté en 2019 par un compte technique créé en 2008. Son utilisateur demeure inconnu. Les meurtres commandités, la mort de Mathieu, l’auteur du coup de 2009 et le sort de la vidéo de Clara restent des questions documentées et explicitement ouvertes.
+- Les cinquante-deux secondes sont une durée vraie pour Clara dans le prologue, mais, pour Gabriel et le dossier, un souvenir non corroboré. `VID00052.3gp` peut être un numéro de fichier ; il ne certifie pas sa durée.
 
-## Méthode
-1. Écrire toute la V2 avant la production des médias.
-2. Vérifier chronologie, indices, âges, déplacements, causalité, connaissances de chaque personnage et cohérence des 27 pièces.
-3. Reprendre ensuite chapitre par chapitre avec l’utilisateur.
-4. À cette seconde passe, créer puis intégrer les photos, documents et vidéos.
-5. Ne jamais sacrifier une scène émotionnelle ou une fausse piste uniquement pour accélérer l’intrigue.
+## Les vingt-sept pièces
+Vingt-six objets judiciaires authentifiés ; une falsification centrale dans la chaîne associée à la pièce 010. Le verre 81 est réel et reste au dépôt. Le rapport numérique 87 lui attribue faussement le profil de Fabre ; une nouvelle analyse du vrai verre révèle l’ADN de Gabriel. Il n’existe pas de sachet physique 87 attesté.
+
+Un fichier contenant un deepfake reste une preuve authentique de cette manipulation. Ne pas compter chaque image fausse comme un nouveau scellé falsifié. Ordre final : anomalie 010 → clé 27 → vidéo 25 → audio 26 → notification de parcours achevé. La seconde lecture reste après l’épilogue.
+
+## Structure conservée
+- PROLOGUE — NUIT DU 17 AU 18 AOÛT 2009
+- CHAPITRE 1 — LA MAISON SANS VISAGES
+- CHAPITRE 2 — AVANT LA VÉRITÉ
+- CHAPITRE 3 — LE QUATRIÈME COUVERT
+- CHAPITRE 4 — CLARA VIDAL
+- CHAPITRE 5 — MARSEILLE
+- CHAPITRE 6 — LES SIX PAGES
+- CHAPITRE 7 — LE CASIER
+- CHAPITRE 8 — SARAH
+- CHAPITRE 9 — MATHIEU
+- CHAPITRE 10 — LE FILS ABSENT
+- CHAPITRE 11 — EN DIRECT
+- CHAPITRE 12 — REGARDE-MOI
+- CHAPITRE 13 — LA PREMIÈRE AUTOPSIE
+- CHAPITRE 14 — LA FEMME MORTE
+- CHAPITRE 15 — LE PROCÈS AVANT LE PROCÈS
+- CHAPITRE 16 — LA CARRIÈRE
+- CHAPITRE 17 — EMMA
+- CHAPITRE 18 — LE VISAGE D’HÉLÈNE
+- CHAPITRE 19 — VINGT-SEPT PIÈCES
+- CHAPITRE 20 — LA PIÈCE FAUSSE
+- CHAPITRE 21 — CE QUI MANQUE
+- CHAPITRE 22 — HÉLÈNE
+- CHAPITRE 23 — LA DERNIÈRE VIDÉO
+- CHAPITRE 24 — ONZE MINUTES
+- ÉPILOGUE — CEUX QUI REGARDENT
+
+## Périmètre de cette passe
+Les données du roman et deux chaînes narratives du chapitre spécial sont les seules modifications dans `index.html`. Tous les indices de paragraphes, les liens aux pièces et aux personnages, les URL médias, le CSS, les assets et les fonctions de l’application restent inchangés. Les anciennes consignes de production de médias ne sont pas une demande de refonte.

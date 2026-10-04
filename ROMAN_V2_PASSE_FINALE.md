@@ -1,6 +1,6 @@
 # LES MORTS N’ONT PLUS DE VISAGE — PASSE FINALE D’EXPANSION
 
-> Ces scènes complètent le manuscrit long V2. Elles sont balisées par chapitre pour intégration au master lors de la passe de montage finale.
+> Archive de la passe d’expansion antérieure. Ces scènes ont déjà été intégrées ; ne pas les réinjecter. Le texte officiel corrigé au 4 octobre 2026 figure dans `index.html` et `ROMAN_V2_MANUSCRIT.md`. Pour la chronologie, utiliser `ROMAN_V2_CONTINUITE_FINALE.md`. Les formulations ci-dessous restent historiques.
 
 ## CHAPITRE 23 — LA DERNIÈRE VIDÉO — scène complémentaire
 
@@ -610,3 +610,4 @@ Ces scènes portent la version longue au-delà de la cible minimale de 70 000 mo
 - Observer reste non identifié ;
 - pièce 010 reste l’unique falsification de chaîne centrale ;
 - ambiguïté finale conservée.
+
