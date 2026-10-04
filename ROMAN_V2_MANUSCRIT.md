@@ -4873,7 +4873,7 @@ La franchise me surprit.
 
 Il prit un carnet.
 
-— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était en état de choc. J’ai choisi la version qui faisait le moins de bruit.
+— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine Lemaire, le père de Sarah et Sophie, disait que les données numériques étaient « salies ». Laurent niait. Sarah était en état de choc. J’ai choisi la version qui faisait le moins de bruit.
 
 — L’accident.
 
@@ -5303,19 +5303,11 @@ Les meurtres de Marseille avaient une différence importante avec les Morel.
 
 Pas de conflit familial immédiat.
 
-Pas de Théo.
-
 Élodie était la cible centrale.
 
 Son mari et son fils semblaient avoir été tués parce qu’ils étaient présents.
 
-Cette froideur ne correspondait pas au massacre des Morel, né d’une confrontation qui dégénère.
-
-Elle ressemblait davantage à Cazeneuve.
-
-Professionnelle.
-
-Planifiée.
+Cette froideur contrastait avec la scène Morel, où la toxicologie et les traces suggéraient davantage d’improvisation sous une mise en scène très construite.
 
 Nous comparâmes les toxicologies.
 
@@ -5323,7 +5315,7 @@ Chez les Carmin, un sédatif précis avait été administré dans une boisson.
 
 Dose calculée.
 
-Chez les Morel, produit vétérinaire choisi par Théo, dosage irrégulier.
+Chez les Morel, le produit et les dosages étaient plus irréguliers.
 
 Deux méthodes.
 
@@ -5333,61 +5325,23 @@ Deux méthodes.
 
 Le professionnel de Marseille avait nettoyé certaines surfaces.
 
-Théo avait laissé des traces partout.
+Dans la maison Morel, beaucoup plus de traces avaient été laissées.
 
 Le professionnel avait coupé les caméras avant d’entrer.
 
-Théo improvisait.
+Chez les Morel, plusieurs dispositifs avaient continué à enregistrer ou à transmettre.
 
-La ressemblance de mise en scène — couverts, photos, visages — avait été ajoutée après les morts.
-
-— Pour nous faire croire à un même tueur.
-
-— Oui.
-
-Ou pour faire croire à Théo que quelqu’un poursuivait son plan.
-
-Nous retrouvâmes sur son téléphone un message reçu le lendemain de Marseille :
-
-*Ils commencent à payer.*
-
-Il avait répondu :
-
-*Je n’ai rien fait à Marseille.*
-
-Réponse :
-
-*Tu as commencé. D’autres peuvent finir.*
-
-Théo n’avait donc pas commandité les Carmin.
-
-Quelqu’un utilisait sa vengeance comme couverture pour éliminer des témoins.
-
-Cette distinction changea le cœur criminel de l’affaire.
-
-Théo était dangereux.
-
-Mais derrière sa colère, quelqu’un profitait du chaos pour nettoyer 2009.
-
-Hélène ?
-
-Elle avait le plus à perdre.
-
-Observer ?
-
-Il avait une raison encore inconnue.
-
-Ou les deux, à des moments différents.
+La ressemblance de mise en scène — couverts, photos, visages — pouvait donc avoir été conçue pour nous faire croire à une seule main.
 
 Pour la première fois, je séparai mentalement deux fils :
 
-**la vengeance de Théo** ;
+**le massacre des Morel** ;
 
 **l’élimination des témoins de 2009.**
 
-Ils se croisaient.
+Ils pouvaient se croiser.
 
-Ils n’étaient pas forcément dirigés par la même main.
+Ils n’étaient pas forcément dirigés par la même personne.
 
 Le fils d’Élodie, Hugo, avait treize ans.
 
@@ -6676,9 +6630,7 @@ Compte utilisateur :
 
 Julien Maret.
 
-L’informaticien mort en 2024.
-
-Encore lui.
+Un informaticien mort en 2024.
 
 Je sortis de l’hôpital avec la sensation que la numérisation de 2019 avait réveillé quelque chose.
 
