@@ -857,7 +857,9 @@ Certains avaient été vidés.
 
 D’autres contenaient encore des photographies mutilées.
 
-Une seule avait été épargnée.
+Une seule photographie n’avait pas été entièrement mutilée.
+
+Elle était récente : printemps 2026.
 
 Six personnes devant une maison aux volets bleus.
 
@@ -1235,13 +1237,15 @@ Martin jeta son gobelet.
 
 Je ne répondis pas.
 
-À 6 h 21, nous quittâmes la maison.
+À 6 h 21, je franchis le portail quelques minutes pour prendre l’air.
 
-Je me retournai une dernière fois.
+Je me retournai vers la maison.
 
 La femme en combinaison blanche n’était plus là.
 
 Je ne demandai pas son nom.
+
+Un technicien nous rappela à l’intérieur.
 
 Nous restâmes encore près d’une heure dans la maison.
 
@@ -3327,7 +3331,7 @@ Il se tut.
 
 Une photographie glissa d’une pochette.
 
-Six personnes devant une maison aux volets bleus.
+Sept personnes devant une maison aux volets bleus.
 
 Sophie Morel.
 
@@ -4831,6 +4835,138 @@ Martin regarda.
 
 — Vous avez déjà trois morts de trop pour vous moquer.
 
+Cazeneuve avait préparé notre visite comme s’il savait qu’elle pouvait être sa dernière.
+
+Dans la cuisine, deux tasses seulement.
+
+Pas de troisième pour Martin.
+
+— Vous saviez qu’il viendrait avec moi.
+
+— Oui.
+
+— Alors pourquoi deux ?
+
+— Parce que Martin ne boit jamais de café chez les gens qu’il soupçonne.
+
+Martin le regarda.
+
+— Vous vous souvenez de ça ?
+
+— Je me souviens de beaucoup de choses que vous préféreriez oublier.
+
+Le ton ressemblait à une plaisanterie.
+
+Il ne l’était pas.
+
+Avant de sortir les six pages, Cazeneuve me demanda :
+
+— Qu’est-ce que tu crois que j’ai fait ?
+
+— Enterré une affaire.
+
+— Oui.
+
+— Protégé Laurent.
+
+— Indirectement.
+
+— Hélène.
+
+— Aussi.
+
+— Sarah.
+
+Il me regarda.
+
+— Surtout toi, au début.
+
+— Pourquoi ?
+
+— Tu voulais retourner travailler trois jours après la carrière. Tu ne reconnaissais pas la femme avec qui tu vivais. Tu faisais des crises dès qu’on parlait de Clara. J’ai cru qu’en retirant ton nom, je te donnerais du temps.
+
+— Puis ?
+
+— Puis le temps est devenu pratique.
+
+La franchise me surprit.
+
+— Pour qui ?
+
+— Tout le monde.
+
+Il prit un carnet.
+
+— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était enceinte et détruite. J’ai choisi la version qui faisait le moins de bruit.
+
+— L’accident.
+
+— Oui.
+
+— Et vous avez vécu avec.
+
+Cazeneuve regarda les oliviers par la fenêtre.
+
+— Non. J’ai vécu autour.
+
+— Différence ?
+
+— Tu peux vivre avec une chose quand tu l’acceptes. Moi, j’ai construit tout le reste pour ne pas la regarder.
+
+Je pensai à nos photos sans visages.
+
+— Pourquoi parler maintenant ?
+
+— Parce que Mathieu est venu il y a deux mois.
+
+— Ici ?
+
+— Oui.
+
+— Il vous a montré quoi ?
+
+Cazeneuve hésita.
+
+— Une liste de connexions.
+
+— Observer.
+
+Son visage changea.
+
+— Tu connais déjà ce nom ?
+
+— Pas encore comme personne.
+
+— Tant mieux.
+
+— Pourquoi ?
+
+— Parce que dès que tu donneras un visage à ce compte, tu arrêteras de chercher les autres possibilités.
+
+La phrase était remarquable.
+
+— Vous pensez savoir qui c’est ?
+
+— J’ai pensé Antoine avant sa mort. Puis Hélène. Puis Mathieu. Maintenant…
+
+Cazeneuve hésita encore, puis dit :
+
+— Maintenant je pense que nous avons créé la personne capable de nous faire ça.
+
+— Comment ?
+
+— En laissant dix-sept ans de portes ouvertes et de secrets partagés.
+
+Pas une identité.
+
+Une responsabilité collective.
+
+Observer pouvait avoir une personne derrière.
+
+Mais son pouvoir venait d’un système que plusieurs adultes avaient fragilisé pour cacher 2009.
+
+Je notai la phrase sans savoir qu’il ne nous restait que quelques minutes.
+
 Sur la table, Cazeneuve posa une chemise cartonnée.
 
 Six pages.
@@ -5102,48 +5238,6 @@ Le dernier compte identifiable était lié à une structure médicale ayant autr
 Nous avions enfin une infrastructure.
 
 Mais pas encore la personne qui l’actionnait.
-
-Les techniciens mirent deux heures à déterminer l’axe probable.
-
-Tir longue distance depuis une parcelle au nord.
-
-Professionnel ou très expérimenté.
-
-Pas Théo dans l’image que nous avions alors de lui.
-
-Pas Fabre.
-
-Pas un geste improvisé.
-
-Quelqu’un avait attendu précisément le moment où Cazeneuve parlerait.
-
-— Micro dans la maison ? demanda Martin.
-
-Nous fouillâmes.
-
-Rien.
-
-— Téléphone ?
-
-Débranché.
-
-— Alors comment le tireur savait qu’on était là ?
-
-Je regardai ma voiture.
-
-Balise ?
-
-Aucune.
-
-Le véhicule de Martin ?
-
-Rien.
-
-Puis je pensai au message envoyé par Cazeneuve la veille.
-
-Il nous avait donné rendez-vous.
-
-Quelqu’un avait peut-être accès à ses communications depuis longtemps.
 
 Dans le bureau, je trouvai une photographie récente.
 
@@ -5599,7 +5693,7 @@ La vraie question était de savoir si le miroir révélait quelque chose.
 
 Ou s’il avait été fabriqué pour m’obliger à le croire.
 
-Avant de quitter la maison de Cazeneuve, nous trouvâmes quelque chose que le tireur n’avait pas pu viser.
+L’inventaire approfondi de la maison de Cazeneuve révéla ensuite quelque chose que le tireur n’avait pas pu viser.
 
 Une boîte en fer sous le plancher du bureau.
 
@@ -5737,9 +5831,9 @@ Je regardai le sang sur le fauteuil.
 
 — Pas assez pour rester vivant.
 
-La mort de Cazeneuve transforma immédiatement le vieux dossier en affaire contemporaine.
+Dès les premières heures, la mort de Cazeneuve avait transformé le vieux dossier en affaire contemporaine.
 
-Une heure après les tirs, le parquet plaça sa maison sous scellés. À midi, deux chaînes d’information savaient déjà qu’un ancien policier lié à Clara Vidal venait d’être abattu. À 12 h 17, l’une d’elles diffusa ma photographie en médaillon à côté de la sienne.
+Le parquet avait placé sa maison sous scellés moins d’une heure après les tirs. À midi, deux chaînes d’information savaient déjà qu’un ancien policier lié à Clara Vidal venait d’être abattu. À 12 h 17, l’une d’elles diffusa ma photographie en médaillon à côté de la sienne.
 
 — Qui leur donne tout ça ? demandai-je.
 
@@ -5943,143 +6037,6 @@ Puis un second message :
 
 **LES HOMMES AUSSI.**
 
-
-
-Cazeneuve avait préparé notre visite comme s’il savait qu’elle pouvait être sa dernière.
-
-Dans la cuisine, deux tasses seulement.
-
-Pas de troisième pour Martin.
-
-— Vous saviez qu’il viendrait avec moi.
-
-— Oui.
-
-— Alors pourquoi deux ?
-
-— Parce que Martin ne boit jamais de café chez les gens qu’il soupçonne.
-
-Martin le regarda.
-
-— Vous vous souvenez de ça ?
-
-— Je me souviens de beaucoup de choses que vous préféreriez oublier.
-
-Le ton ressemblait à une plaisanterie.
-
-Il ne l’était pas.
-
-Avant de sortir les six pages, Cazeneuve me demanda :
-
-— Qu’est-ce que tu crois que j’ai fait ?
-
-— Enterré une affaire.
-
-— Oui.
-
-— Protégé Laurent.
-
-— Indirectement.
-
-— Hélène.
-
-— Aussi.
-
-— Sarah.
-
-Il me regarda.
-
-— Surtout toi, au début.
-
-— Pourquoi ?
-
-— Tu voulais retourner travailler trois jours après la carrière. Tu ne reconnaissais pas la femme avec qui tu vivais. Tu faisais des crises dès qu’on parlait de Clara. J’ai cru qu’en retirant ton nom, je te donnerais du temps.
-
-— Puis ?
-
-— Puis le temps est devenu pratique.
-
-La franchise me surprit.
-
-— Pour qui ?
-
-— Tout le monde.
-
-Il prit un carnet.
-
-— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était enceinte et détruite. J’ai choisi la version qui faisait le moins de bruit.
-
-— L’accident.
-
-— Oui.
-
-— Et vous avez vécu avec.
-
-Cazeneuve regarda les oliviers par la fenêtre.
-
-— Non. J’ai vécu autour.
-
-— Différence ?
-
-— Tu peux vivre avec une chose quand tu l’acceptes. Moi, j’ai construit tout le reste pour ne pas la regarder.
-
-Je pensai à nos photos sans visages.
-
-— Pourquoi parler maintenant ?
-
-— Parce que Mathieu est venu il y a deux mois.
-
-— Ici ?
-
-— Oui.
-
-— Il vous a montré quoi ?
-
-Cazeneuve hésita.
-
-— Une liste de connexions.
-
-— Observer.
-
-Son visage changea.
-
-— Tu connais déjà ce nom ?
-
-— Pas encore comme personne.
-
-— Tant mieux.
-
-— Pourquoi ?
-
-— Parce que dès que tu donneras un visage à ce compte, tu arrêteras de chercher les autres possibilités.
-
-La phrase était remarquable.
-
-— Vous pensez savoir qui c’est ?
-
-— J’ai pensé Antoine avant sa mort. Puis Hélène. Puis Mathieu. Maintenant…
-
-Le tir allait bientôt l’empêcher de finir.
-
-Mais avant, il dit :
-
-— Maintenant je pense que nous avons créé la personne capable de nous faire ça.
-
-— Comment ?
-
-— En laissant dix-sept ans de portes ouvertes et de secrets partagés.
-
-Pas une identité.
-
-Une responsabilité collective.
-
-Observer pouvait avoir une personne derrière.
-
-Mais son pouvoir venait d’un système que plusieurs adultes avaient fragilisé pour cacher 2009.
-
-Cazeneuve avait compris cela avant de mourir.
-
-Il n’avait simplement pas eu le temps de nous donner la dernière partie.
 
 ---
 
@@ -7013,74 +6970,6 @@ Elle eut un rire sans joie.
 
 — C’est exactement le problème.
 
-Avant les photos, Sarah me demanda :
-
-— Tu veux vraiment voir ?
-
-— Oui.
-
-— Tu crois que ça va faire revenir quelque chose.
-
-Je ne répondis pas.
-
-— Et si ça ne revient pas ?
-
-— Je veux savoir ce que toi tu as vécu.
-
-La réponse la surprit.
-
-Elle posa le téléphone.
-
-— Pendant des années, j’ai gardé ces photos comme des preuves que notre histoire avait existé. Toi, tu les regardais comme des documents sur un autre homme.
-
-— Je suis désolé.
-
-— Une fois tu as dit : « On avait l’air heureux. »
-
-Je baissai les yeux.
-
-— C’était la pire phrase possible.
-
-— Je sais.
-
-Elle sourit malgré elle.
-
-Puis ouvrit la galerie.
-
-Cette fois, je ne cherchai pas un flash à chaque image.
-
-Je l’écoutai.
-
-Elle me raconta le plat brûlé dont nous avions ri une heure.
-
-Le week-end où j’avais prétendu savoir monter une tente.
-
-Le jour où elle avait rencontré mon père.
-
-Une échographie apparut.
-
-Elle s’arrêta.
-
-Je ne demandai pas.
-
-Elle ne commenta pas.
-
-Nous restâmes devant.
-
-Puis elle fit glisser.
-
-Noé ne devait pas devenir une pièce de l’enquête.
-
-Il avait déjà été assez transformé en secret.
-
-Plus tard, quand elle partit, je compris que ma mémoire n’était pas la seule autorité sur notre passé.
-
-Sarah avait vécu ces années.
-
-Les nier intérieurement parce que je ne les ressentais pas revenait à refaire, d’une autre manière, ce que tous les falsificateurs du dossier avaient fait :
-
-remplacer le témoignage d’une personne par la version qui m’était la plus confortable.
-
 Elle sortit son téléphone.
 
 Une plage.
@@ -7579,9 +7468,7 @@ Sarah ouvrit la porte.
 
 — Les deux peuvent être vrais.
 
-Elle partit.
-
-Après notre conversation, je ne laissai pas Sarah partir tout de suite.
+Elle allait partir.
 
 — Attends.
 
@@ -8037,6 +7924,8 @@ La mort de Mathieu fut reprise depuis zéro.
 
 Autopsie initiale : intoxication accidentelle, alcool et médicament.
 
+Inès Roux, une collègue de Mathieu spécialisée dans l’authentification des contenus, nous rejoignit à l’atelier.
+
 Inès secoua la tête.
 
 — Mathieu buvait très peu.
@@ -8285,7 +8174,7 @@ La vidéo n’était plus une accusation.
 
 Elle devenait une horloge volontairement déréglée.
 
-Avant de rencontrer Inès Roux, nous reconstituâmes les onze derniers jours de Mathieu.
+En parallèle, nous reconstituâmes les onze derniers jours de Mathieu.
 
 Il avait loué deux voitures, dormi dans trois hôtels alors qu’il possédait un atelier, retiré du liquide et laissé son téléphone principal éteint plusieurs heures chaque jour.
 
@@ -8393,9 +8282,7 @@ Il trouve.
 
 Il croit davantage.
 
-Nous retrouvâmes une collègue de Mathieu, Inès Roux.
-
-Elle travaillait avec lui sur l’authentification des contenus.
+Lors d’un second entretien, Inès précisa le travail qu’elle menait avec Mathieu sur l’authentification des contenus.
 
 — Mathieu n’était pas obsédé par les deepfakes, dit-elle. Il était obsédé par la preuve.
 
@@ -10419,43 +10306,11 @@ Soit une autre personne écrivait sous son nom.
 
 Pour la première fois, nous disposions d’un petit indice comportemental en faveur d’un relais posthume ou d’une usurpation.
 
-Nous trouvâmes la cave coopérative grâce au rythme des trains, au type de maçonnerie et à une ancienne carte des canalisations.
+Lors de l’inventaire de la cave, nous récupérâmes une seringue, un ordinateur, un téléphone configuré pour diffuser une boucle vidéo de quatorze secondes et une petite enceinte.
 
-Cinquante-deux minutes.
+Le bruit des trains qui nous avait aidés à localiser le bâtiment venait bien de l’extérieur.
 
-Une éternité.
-
-À l’arrivée, le flux était coupé depuis quarante-six minutes.
-
-Nous progressâmes dans le bâtiment.
-
-Une chaise vide.
-
-Puis une deuxième salle.
-
-Sarah.
-
-Martin.
-
-Vivants.
-
-Théo parti.
-
-Sarah avait les poignets blessés.
-
-Martin l’arcade ouverte.
-
-Sur le sol : une seringue.
-
-Un ordinateur.
-
-Un téléphone configuré pour diffuser une boucle vidéo de quatorze secondes.
-
-Et une petite enceinte.
-
-Le bruit du train que nous avions utilisé pour localiser le lieu venait bien de l’extérieur.
-
-La goutte, en revanche, était un fichier audio lu en boucle.
+La goutte régulière, en revanche, était un fichier audio lu en boucle.
 
 — Il savait qu’on écouterait, dit Nadir.
 
@@ -10570,7 +10425,6 @@ Il ferma les yeux.
 Je compris que la prochaine vérité ne viendrait pas d’une vidéo.
 
 Pour une fois, elle viendrait d’un homme qui avait été là.
-
 
 
 Dans la cave, nous récupérâmes également le téléphone utilisé pour le direct.
@@ -11173,7 +11027,7 @@ Peut-être pas.
 
 Pour la première fois, nous avions une preuve que les cinquante-deux secondes n’étaient pas seulement un souvenir fantôme.
 
-Avant la carrière, Montels me força à consulter une spécialiste de la mémoire traumatique.
+Avant de retourner à la carrière quelques jours plus tard, Montels me força à consulter une spécialiste de la mémoire traumatique.
 
 Docteure Aurore Leclerc.
 
@@ -11363,7 +11217,7 @@ Sarah pâlit.
 
 — Les six pages le prouvent presque.
 
-— Presque n’est pas prouve.
+— Presque n’est pas prouvé.
 
 — Tu la défends ?
 
@@ -13703,7 +13557,7 @@ Deux jours plus tard, un message anonyme arriva :
 
 Quelqu’un le savait quand même.
 
-Avant que nous le fassions, une photographie arriva sur mon téléphone.
+Peu après, une photographie arriva sur mon téléphone.
 
 Foule devant le palais de justice.
 
@@ -13828,7 +13682,7 @@ Le lendemain, son avocat publia une déclaration reconnaissant le faux certifica
 
 La réaction fut immédiate :
 
-**LA LÉGISTE AVOUe AVOIR FALSIFIÉ DES DOCUMENTS.**
+**LA LÉGISTE AVOUE AVOIR FALSIFIÉ DES DOCUMENTS.**
 
 Techniquement vrai.
 
@@ -14679,19 +14533,9 @@ Comme un dossier.
 
 Ou comme quelque chose commencé dix-sept ans plus tôt.
 
-Les équipes convergèrent.
+Nous revînmes ensuite au téléphone abandonné de Théo.
 
-Un chien fut lâché.
-
-Théo connaissait les passages de l’ancienne exploitation.
-
-Nous retrouvâmes son sac.
-
-Son téléphone.
-
-Mais pas lui.
-
-Sur le téléphone, galerie ouverte.
+La galerie était restée ouverte.
 
 Dernière photographie prise juste avant le tir.
 
@@ -14850,7 +14694,6 @@ Quelqu’un nous écoutait encore.
 Et il ne se contentait plus d’observer.
 
 Il écrivait les répliques avant que nous les prononcions.
-
 
 
 Après la fuite de Théo à la carrière, nous retrouvâmes l’homme qui avait loué le matériel de projection.
@@ -15387,7 +15230,7 @@ Nadir fit la grimace.
 
 Encore une fois, les mêmes compétences servaient l’attaque et la défense.
 
-Zoé revint au commissariat avec un vieux téléphone.
+Une amie d’Emma, Zoé, vint au commissariat avec un vieux téléphone.
 
 — Emma me l’a donné une semaine avant.
 
@@ -15575,7 +15418,7 @@ Quand on enquête sur un mort, il est facile de lui faire dire ce qu’on veut.
 
 Emma avait laissé assez de mots pour résister.
 
-À la sortie du lycée, Zoé me rattrapa.
+Quelques heures plus tard, Zoé me rattrapa dans le couloir du commissariat.
 
 — Commandant.
 
@@ -16091,13 +15934,9 @@ Pour cadrer notre rencontre.
 
 Même arrêtée, elle voulait contrôler l’image.
 
-Nous trouvâmes Hélène dans la maison aux volets bleus.
+C’était bien la maison originale de la photographie de 2009.
 
-Pas celle de l’Aveyron.
-
-L’originale.
-
-La maison de la photographie de 2009 appartenait désormais à une société immobilière créée six mois plus tôt.
+Elle appartenait désormais à une société immobilière créée six mois plus tôt.
 
 Gérante fictive.
 
@@ -16107,9 +15946,7 @@ Paiement via une structure liée à un compte utilisé par Mathieu.
 
 Encore lui.
 
-La porte était entrouverte.
-
-Avant même de lui parler, je remarquai un détail.
+Avant même de parler à Hélène, je remarquai un détail.
 
 Sur la table, à côté de la tasse vide, un carnet.
 
@@ -17543,7 +17380,7 @@ Puis :
 
 Dernière ligne :
 
-**SECONDE LECTURE VERROUILLÉE.**
+**ÉTAPE SUIVANTE VERROUILLÉE.**
 
 Je pris une capture.
 
@@ -17607,7 +17444,7 @@ Martin secoua la tête.
 
 Sur l’écran, un cadenas apparut.
 
-**CHAPITRE 1 — SECONDE LECTURE.**
+**DOSSIER SECONDAIRE — ACCÈS VERROUILLÉ.**
 
 Je cliquai.
 
@@ -17836,17 +17673,11 @@ Dans une affaire de deepfakes, c’était probablement son testament le plus int
 
 La note contenait aussi une phrase :
 
-*Le protocole ne doit jamais demander au lecteur de croire une preuve uniquement parce qu’elle vient de moi.*
+*Le protocole ne doit jamais demander à l’utilisateur de croire une preuve uniquement parce qu’elle vient de moi.*
 
-Lecteur.
+Utilisateur.
 
-Le mot était étrange dans un dossier policier.
-
-Mais Mathieu avait construit quelque chose destiné à être parcouru.
-
-Pas un roman.
-
-Un chemin de vérification.
+Mathieu avait construit quelque chose destiné à être parcouru comme un chemin de vérification.
 
 Je commençai à comprendre la différence profonde entre lui et Hélène.
 
@@ -19161,9 +18992,11 @@ Même appareil.
 
 Mais mon téléphone ne réapparaissait sur le réseau mobile chez moi qu’à 4 h 11.
 
-— Hélène me ramène.
+Entre le garage et mon immeuble, les vingt-quatre minutes suivantes restaient sans trace exploitable.
 
-— Ou quelqu’un dans le fourgon.
+— Quelqu’un me ramène au moins jusqu’au garage.
+
+— Oui. Pour la suite, on ne sait pas.
 
 Nous retrouvâmes une donnée plus intime.
 
@@ -19340,7 +19173,6 @@ Pas seulement onze minutes.
 Une heure entière.
 
 Et au milieu, une décision que quelqu’un avait choisi de me faire oublier.
-
 
 
 Nous examinâmes la restauration de mon téléphone comme une scène de crime.
@@ -19811,7 +19643,7 @@ Son avocat intervint.
 
 — Commandant.
 
-Je me rassit.
+Je me rassis.
 
 — Reprenons. Comment saviez-vous que je sortirais à 2 h 12 ?
 
@@ -20848,7 +20680,6 @@ Nom :
 3 octobre 2026.
 
 2 h 53.
-
 
 
 Avant de lancer la vidéo, Sarah demanda qu’on attende.
@@ -22073,7 +21904,7 @@ Un plan de confrontation avait basculé.
 
 Hélène avait poussé Théo vers un bord sans savoir — ou sans accepter — qu’il pouvait tomber.
 
-Nous retournâmes voir Théo.
+Deux jours plus tard, nous retournâmes voir Théo.
 
 Il avait perdu du poids.
 
@@ -22289,7 +22120,7 @@ Fuite ?
 
 Encore un lien que notre cerveau fabriquait.
 
-Nous avons cherché les onze minutes pendant neuf jours.
+Nous cherchâmes les onze minutes pendant neuf jours.
 
 Dans les sauvegardes d’Emma.
 
@@ -23409,7 +23240,7 @@ Je regardai le dossier.
 
 — 2009 ?
 
-Je pensais à Observer_01 créé en 2019.
+Je pensais à Observer_01, apparu sous ce nom en 2019.
 
 À Mathieu.
 
@@ -23669,52 +23500,6 @@ Pour la première fois depuis longtemps, je refusai à une photographie le droit
 
 Je l’éteignis.
 
-Puis l’application vibra une dernière fois.
-
-**SECONDE LECTURE DISPONIBLE.**
-
-Je savais ce qu’elle contenait.
-
-Ou je croyais le savoir.
-
-J’ouvris.
-
-Le premier chapitre apparut.
-
-Les mêmes mots.
-
-La même maison.
-
-La même femme en combinaison blanche.
-
-Sauf que cette fois, certaines phrases disparurent.
-
-Et ce qui resta forma une autre histoire.
-
-Je lus jusqu’au bout.
-
-Puis je compris pourquoi Hélène avait souri lorsqu’elle m’avait dit :
-
-*Vous m’avez vu.*
-
-Je l’avais vue.
-
-Je l’avais laissée passer.
-
-Parce qu’elle portait la tenue qui disait à mon cerveau :
-
-**Elle appartient à ceux qui regardent. Pas à ceux qu’on regarde.**
-
-Tout était là.
-
-Dès le premier matin.
-
-Personne ne l’avait cachée.
-
-Nous avions seulement décidé qu’elle ne comptait pas.
-
-Je refermai l’application.
-
 Dans la rue, une voiture ralentit.
 
 Je regardai.
@@ -23744,7 +23529,6 @@ Continuer à regarder.
 Pas l’écran.
 
 Autour.
-
 
 
 ## CHAPITRE 1 — SECONDE LECTURE
