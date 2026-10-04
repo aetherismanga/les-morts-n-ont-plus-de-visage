@@ -771,9 +771,9 @@ Le technicien plaça le verre dans un sachet.
 
 Son collègue lut le numéro du scellé.
 
-Je l’entendis sans l’écouter.
+Je l’entendis sans vraiment y prêter attention.
 
-Plus tard, je donnerais beaucoup pour avoir été attentif à cet instant.
+À cet instant, ce n’était encore qu’un verre parmi les autres pièces de la scène.
 
 Dans le salon, je vis les photographies.
 
