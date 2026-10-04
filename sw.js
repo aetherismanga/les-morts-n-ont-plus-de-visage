@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-thriller-ui-21';
+const CACHE_NAME = 'les-morts-v2-ui-pass02-22';
 const CORE = [
   './',
   './index.html',
@@ -18,6 +18,17 @@ const CORE = [
   './assets/ui/chapters/habillage-chapitres.png',
   './assets/ui/settings/habillage-confort-parametres.png',
   './assets/ui/music/habillage-mes-musiques.png'
+  './assets/ui-pass-02/topbar/accueil.png',
+  './assets/ui-pass-02/topbar/chapitres.png',
+  './assets/ui-pass-02/topbar/enquete.png',
+  './assets/ui-pass-02/topbar/lecture.png',
+  './assets/ui-pass-02/topbar/plein-ecran.png',
+  './assets/ui-pass-02/topbar/reglages.png',
+  './assets/ui-pass-02/navigation/precedent.png',
+  './assets/ui-pass-02/navigation/suivant.png',
+  './assets/ui-pass-02/navigation/precedent-desactive.png',
+  './assets/ui-pass-02/navigation/suivant-desactive.png',
+  './assets/ui-pass-02/chapter-picker/panel-chapitres.png',
 ];
 
 self.addEventListener('install', event => {
