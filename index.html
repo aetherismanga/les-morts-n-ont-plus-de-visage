@@ -62,6 +62,9 @@ button{cursor:pointer}
 .chapter-illustration{margin:0 auto 28px;max-width:680px;break-inside:avoid;page-break-inside:avoid;text-align:center}
 .chapter-illustration img{display:block;width:100%;height:auto;max-height:min(66vh,760px);object-fit:contain;border-radius:18px}
 @media(max-width:640px){.chapter-illustration{margin:0 auto 22px}.chapter-illustration img{max-height:58vh;border-radius:16px}}
+.story-evidence-image{margin:16px auto 20px;max-width:430px;break-inside:avoid;page-break-inside:avoid;text-align:center}
+.story-evidence-image img{display:block;width:100%;height:auto;max-height:70vh;object-fit:contain;border-radius:14px;box-shadow:0 8px 22px rgba(0,0,0,.18)}
+@media(max-width:640px){.story-evidence-image{margin:12px auto 18px;max-width:92%}.story-evidence-image img{max-height:64vh;border-radius:12px}}
 .chapter-kicker{text-align:center;font-size:.8rem;letter-spacing:.16em;color:var(--accent);font-weight:700;text-transform:uppercase;margin-bottom:10px}
 .chapter-title{text-align:center;font-size:clamp(1.55rem,4.8vw,2.35rem);line-height:1.15;margin:0 0 36px;font-weight:700}
 .reader-text{font-size:var(--reader-size);line-height:var(--reader-line);hyphens:auto;text-align:justify}
@@ -888,7 +891,7 @@ summary:focus,summary:active,summary:focus-visible{
         if(si===0&&pi===205) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="prologue-video-transfert" aria-label="Ouvrir la séquence du dernier transfert"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
         if(si===1&&pi===166) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-010" aria-label="Ouvrir la pièce 010"><span class="ev-icon">📎</span><span>voir la preuve</span></button>';
         if(si===1&&pi===216) extra='<button type="button" class="evidence-trigger" data-evidence="ch1-photo-famille" aria-label="Ouvrir la photographie de famille"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
-        if(si===1&&pi===253) body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-003-emma" aria-label="Ouvrir la pièce 003"><span class="ev-icon">📎</span><span>voir la preuve</span></button>';
+        if(si===1&&pi===253){body+=' <button type="button" class="evidence-trigger inline-evidence" data-evidence="ch1-piece-003-emma" aria-label="Ouvrir la pièce 003"><span class="ev-icon">📎</span><span>voir la preuve</span></button>';extra='<figure class="story-evidence-image"><img src="Chapitre01003.png" alt="Téléphone d’Emma — pièce 003" loading="lazy" decoding="async"></figure>';}
         if(si===1&&pi===356) extra='<button type="button" class="evidence-trigger" data-evidence="ch1-photo-recue-gabriel" aria-label="Ouvrir la photo reçue"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
         return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+body+'</p>'+extra;
       }).join('');
@@ -1314,7 +1317,7 @@ summary:focus,summary:active,summary:focus-visible{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-evidence-return-page-11',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-ch1-inline-piece003-12',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
