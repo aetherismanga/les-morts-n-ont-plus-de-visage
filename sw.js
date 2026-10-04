@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ui-pass02-25';
+const CACHE_NAME = 'les-morts-v2-final-topbar-26';
 const CORE = [
   './',
   './index.html',
@@ -29,6 +29,12 @@ const CORE = [
   './assets/ui-pass-02/navigation/precedent-desactive.png',
   './assets/ui-pass-02/navigation/suivant-desactive.png',
   './assets/ui-pass-02/chapter-picker/panel-chapitres.png',
+  './assets/icons/Logochapitre.jpg',
+  './assets/icons/Logolexique.jpg',
+  './assets/icons/Logoenquete.jpg',
+  './assets/icons/Logopodcast.jpg',
+  './assets/icons/Logopleinecran.jpg',
+  './assets/icons/Logoreglage.jpg',
 ];
 
 self.addEventListener('install', event => {
