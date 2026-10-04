@@ -3729,9 +3729,9 @@ Violence.
 
 Proximité.
 
-Théo le croyait.
+Cette hypothèse circulait depuis longtemps.
 
-Mais rien ne le prouvait.
+Mais rien ne la prouvait.
 
 Mireille nous autorisa à rechercher des prélèvements anciens conservés de Clara.
 
@@ -3751,7 +3751,7 @@ Je relus trois fois.
 
 Martin s’assit.
 
-Toute la vengeance de Théo reposait en partie sur ce lien.
+Si cette hypothèse avait circulé dans la famille, elle pouvait avoir nourri des rancœurs que nous ne mesurions pas encore.
 
 — Nicolas ?
 
@@ -3805,17 +3805,11 @@ Voilà.
 
 La grossesse n’était pas nécessairement le moteur du meurtre.
 
-Elle avait été aspirée après coup dans les théories de tous.
+Elle avait été aspirée après coup dans les théories autour de Clara.
 
-Théo avait cru qu’elle prouvait la culpabilité de Laurent.
+Laurent, déjà violent, devenait le père supposé idéal.
 
-Hélène avait laissé cette croyance se développer.
-
-Pourquoi ?
-
-Parce qu’elle rendait Laurent encore plus haïssable.
-
-Une vérité biologique étrangère à l’affaire avait été utilisée comme carburant narratif.
+Une vérité biologique étrangère à l’affaire avait fini par servir de carburant à une accusation.
 
 Je décidai que le nom de Maxime resterait hors des médias.
 
@@ -4104,29 +4098,7 @@ Je ris.
 
 Premier rire des archives.
 
-Dans la poche intérieure de la couverture, une petite carte.
 
-Le restaurant de Collioure.
-
-Au dos :
-
-**Noé ?**
-
-Un point d’interrogation.
-
-Deux lettres de Sarah.
-
-S et G.
-
-Je fermai.
-
-Ce n’était pas une pièce.
-
-Je refusai qu’on la mette au dossier.
-
-Certaines traces m’appartenaient encore.
-
-Même si je ne me souvenais pas de les avoir écrites.
 ---
 
 ### CHAPITRE 5 — MARSEILLE
@@ -4901,7 +4873,7 @@ La franchise me surprit.
 
 Il prit un carnet.
 
-— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était enceinte et détruite. J’ai choisi la version qui faisait le moins de bruit.
+— Le parquet ne voulait pas un scandale avec un jeune policier blessé hors procédure. Hélène ne voulait pas que Sophie soit exposée. Antoine disait que les données numériques étaient « salies ». Laurent niait. Sarah était en état de choc. J’ai choisi la version qui faisait le moins de bruit.
 
 — L’accident.
 
@@ -5721,11 +5693,9 @@ Beaucoup de noms étaient réduits à des initiales.
 
 **G.V. — amnésie partielle / répète “elle était vivante”.**
 
-**S.L. — état de choc / grossesse connue seulement de G.V. et moi.**
+**S.L. — état de choc / demande confidentialité.**
 
 Je m’arrêtai.
-
-Cazeneuve connaissait donc Noé.
 
 Plus bas :
 
@@ -5903,9 +5873,9 @@ La génétique nous rendait encore une fois un fait trop large pour raconter une
 
 Nous vérifiâmes les caméras de péage.
 
-Deux jours avant sa mort, une voiture louée sous le nom Anne Delmas avait circulé vers Uzès.
+Deux jours avant sa mort, une voiture louée sous une identité féminine encore inconnue avait circulé vers Uzès.
 
-Hélène.
+Une caméra de péage montrait au volant une femme d’âge et de silhouette compatibles avec Hélène.
 
 Cette fois, la convergence était plus forte.
 
@@ -5957,7 +5927,7 @@ Hélène :
 
 — Il a les logs.
 
-— Alors il est déjà mort.
+— Alors il est déjà en danger.
 
 Je me figeai.
 
@@ -5991,7 +5961,7 @@ La phrase était terrible.
 
 Pas parce qu’elle innocentait Hélène.
 
-Parce qu’elle prouvait qu’avant la mort de Mathieu, elle pensait déjà qu’un tiers pouvait le tuer.
+Parce qu’elle prouvait qu’Hélène pensait déjà qu’un tiers pouvait s’en prendre à Mathieu.
 
 Ou qu’elle préparait précisément cette défense.
 
@@ -6566,9 +6536,9 @@ Je regardai l’écran.
 
 — Noé ?
 
-Martin ne comprit pas.
+Martin haussa les épaules.
 
-Je ne lui expliquai pas encore.
+Le prénom ne me disait rien.
 
 La clé contenait une photographie de la carrière prise en 2009.
 
