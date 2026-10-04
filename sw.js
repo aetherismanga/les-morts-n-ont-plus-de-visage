@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-evidence-fullscreen-close-14';
+const CACHE_NAME = 'les-morts-v2-ch1-desk-photo-link-15';
 const CORE = [
   './',
   './index.html',
