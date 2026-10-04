@@ -681,16 +681,17 @@ body.immersive-fallback .page.text-flow-page{
 @media(max-width:640px){.second-reading-special{padding:52px 42px 70px!important}.second-reading-body{font-size:calc(var(--reader-size) * .94)}}
 
 /* Interactive evidence — unlocked only after the reader opens it */
-.evidence-trigger{display:inline-flex;align-items:center;gap:6px;width:auto;margin:2px 0 10px;padding:0;border:0;background:transparent;color:#6f1118;font:600 .78rem/1.2 system-ui,sans-serif;letter-spacing:.01em;box-shadow:none;cursor:pointer;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;opacity:.88}
-.evidence-trigger:hover{opacity:1}
-.evidence-trigger:active{transform:none;opacity:.7}
-.evidence-trigger .ev-icon{font-size:.9rem}
-.evidence-folder{border:1px solid rgba(153,19,28,.28);border-radius:12px;background:rgba(255,255,255,.18);overflow:hidden;margin-bottom:12px}
-.evidence-folder>summary{list-style:none;display:flex;align-items:center;gap:9px;padding:12px 13px;cursor:pointer;font-weight:800;color:var(--ink)}
+.evidence-trigger{display:inline-flex;align-items:center;gap:4px;width:auto;margin:-2px 0 8px;padding:1px 2px;border:0;background:transparent;color:#7a5a55;font:500 .67rem/1.15 system-ui,sans-serif;letter-spacing:.01em;box-shadow:none;cursor:pointer;text-decoration:none;opacity:.58}
+.evidence-trigger:hover,.evidence-trigger:focus-visible{opacity:.95;text-decoration:underline;text-underline-offset:2px}
+.evidence-trigger:active{transform:none;opacity:.72}
+.evidence-trigger .ev-icon{font-size:.72rem;opacity:.8}
+.evidence-folder{border:1px solid rgba(111,83,55,.22);border-radius:11px;background:rgba(255,255,255,.16);overflow:hidden;margin-bottom:10px}
+.evidence-folder>summary{list-style:none;display:flex;align-items:center;gap:8px;padding:12px 13px;cursor:pointer;font-weight:800;color:var(--ink)}
 .evidence-folder>summary::-webkit-details-marker{display:none}
-.evidence-folder>summary::before{content:"📂";font-size:1.05rem}
+.evidence-folder>summary::before{content:"📁";font-size:1.05rem}
 .evidence-folder[open]>summary::before{content:"📂"}
-.evidence-folder-count{margin-left:auto;opacity:.6;font-size:.78rem;font-weight:600}
+.evidence-folder-name{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.evidence-folder-count{margin-left:auto;opacity:.58;font-size:.74rem;font-weight:600;white-space:nowrap}
 .evidence-folder-body{padding:0 10px 10px}
 .evidence-modal{position:fixed;inset:0;z-index:120;background:rgba(2,5,8,.94);display:none;align-items:center;justify-content:center;padding:18px}
 .evidence-modal.open{display:flex}
@@ -745,7 +746,7 @@ body.immersive-fallback .page.text-flow-page{
 <div id="fsPrevEdge" role="button" aria-label="Page précédente" title="Page précédente"></div><div class="drawer-backdrop" id="backdrop"></div>
 <div class="drawer" id="indicesDrawer">
   <div class="drawer-head"><h2>La Loupe — Les preuves</h2><button class="close-btn" data-close>×</button></div>
-  <div class="drawer-body" id="indicesBody"><p>Les preuves consultées apparaîtront ici au fil de la lecture.</p></div>
+  <div class="drawer-body" id="indicesBody"><p>Les preuves consultées apparaîtront ici, classées dans des dossiers par chapitre.</p></div>
 </div>
 
 <aside class="drawer" id="chaptersDrawer" aria-label="Chapitres">
@@ -864,8 +865,8 @@ body.immersive-fallback .page.text-flow-page{
       const paras=s.paragraphs.map((p,pi)=>{
         const cls=[p.trim().startsWith('—')?'dialogue':'',pi===0?'first-para':''].filter(Boolean).join(' ');
         let extra='';
-        if(si===0&&pi===89) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-photo-0136"><span class="ev-icon">📎</span><span>Voir la preuve</span></button>';
-        if(si===0&&pi===104) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-video-observation"><span class="ev-icon">▶</span><span>Voir la séquence</span></button>';
+        if(si===0&&pi===89) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-photo-0136" aria-label="Ouvrir la photo reçue"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
+        if(si===0&&pi===104) extra='<button type="button" class="evidence-trigger" data-evidence="prologue-video-observation" aria-label="Ouvrir la séquence"><span class="ev-icon">▶</span><span>voir la séquence</span></button>';
         return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+esc(p)+'</p>'+extra;
       }).join('');
       const art=CHAPTER_IMAGES[si]?'<figure class="chapter-illustration"><img src="'+CHAPTER_IMAGES[si]+'" alt="'+esc(s.label)+' — '+esc(s.title)+'" loading="lazy" fetchpriority="low" decoding="async"></figure>':'';
@@ -1046,17 +1047,23 @@ body.immersive-fallback .page.text-flow-page{
   function renderIndices(){
     const body=$('indicesBody');if(!body)return;
     const unlocked=readUnlockedEvidence();
-    if(!unlocked.length){body.innerHTML='<p>Les preuves consultées apparaîtront ici au fil de la lecture.</p>';return;}
+    if(!unlocked.length){body.innerHTML='<p>Les preuves consultées apparaîtront ici, classées dans des dossiers par chapitre.</p>';return;}
     const groups={};
     unlocked.forEach(id=>{const x=EVIDENCE_ITEMS[id];const chapter=x.chapter||'AUTRES';(groups[chapter]||(groups[chapter]=[])).push(id);});
-    const folders=Object.entries(groups).map(([chapter,ids],idx)=>{
+    const chapterRank=chapter=>{
+      if(chapter==='PROLOGUE')return -1;
+      const m=chapter.match(/CHAPITRE\s+(\d+)/i);if(m)return Number(m[1]);
+      if(chapter==='ÉPILOGUE')return 10000;
+      return 9999;
+    };
+    const folders=Object.entries(groups).sort((a,b)=>chapterRank(a[0])-chapterRank(b[0])).map(([chapter,ids])=>{
       const cards=ids.map(id=>{
         const x=EVIDENCE_ITEMS[id];
         const preview=x.type==='image'?'<img src="'+esc(x.src)+'" alt="" loading="lazy">':'';
         const label=x.type==='video'?'Revoir la vidéo':'Revoir la preuve';
         return '<div class="evidence-item">'+preview+'<strong>'+esc(x.title)+'</strong><button type="button" data-evidence-open="'+esc(id)+'">'+label+'</button></div>';
       }).join('');
-      return '<details class="evidence-folder" '+(idx===0?'open':'')+'><summary>'+esc(chapter)+'<span class="evidence-folder-count">'+ids.length+' élément'+(ids.length>1?'s':'')+'</span></summary><div class="evidence-folder-body"><div class="evidence-grid">'+cards+'</div></div></details>';
+      return '<details class="evidence-folder"><summary><span class="evidence-folder-name">'+esc(chapter)+'</span><span class="evidence-folder-count">'+ids.length+' preuve'+(ids.length>1?'s':'')+'</span></summary><div class="evidence-folder-body"><div class="evidence-grid">'+cards+'</div></div></details>';
     }).join('');
     body.innerHTML=folders;
   }
@@ -1241,7 +1248,7 @@ body.immersive-fallback .page.text-flow-page{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261003-ui4',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-evidence-folders-1',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
