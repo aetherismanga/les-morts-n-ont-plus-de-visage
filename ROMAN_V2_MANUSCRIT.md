@@ -561,11 +561,9 @@ Puis une image me traversa.
 
 Une jeune fille.
 
-Pas Emma. Je ne connaissais pas encore Emma.
-
-Une autre.
-
 Cheveux noirs.
+
+Un visage que je ne parvenais pas à replacer.
 
 Elle disait quelque chose.
 
