@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ch1-inline-piece003-12';
+const CACHE_NAME = 'les-morts-v2-desktop-thriller-lexicon-13';
 const CORE = [
   './',
   './index.html',
