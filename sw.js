@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-no-blue-tap-10';
+const CACHE_NAME = 'les-morts-v2-evidence-return-page-11';
 const CORE = [
   './',
   './index.html',
