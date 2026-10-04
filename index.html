@@ -681,10 +681,10 @@ body.immersive-fallback .page.text-flow-page{
 @media(max-width:640px){.second-reading-special{padding:52px 42px 70px!important}.second-reading-body{font-size:calc(var(--reader-size) * .94)}}
 
 /* Interactive evidence — unlocked only after the reader opens it */
-.evidence-trigger{display:inline-flex;align-items:center;gap:4px;width:auto;margin:-2px 0 8px;padding:1px 2px;border:0;background:transparent;color:#7a5a55;font:500 .67rem/1.15 system-ui,sans-serif;letter-spacing:.01em;box-shadow:none;cursor:pointer;text-decoration:none;opacity:.58}
-.evidence-trigger:hover,.evidence-trigger:focus-visible{opacity:.95;text-decoration:underline;text-underline-offset:2px}
-.evidence-trigger:active{transform:none;opacity:.72}
-.evidence-trigger .ev-icon{font-size:.72rem;opacity:.8}
+.evidence-trigger{display:inline-flex;align-items:center;gap:6px;width:auto;margin:2px 0 10px;padding:2px 4px;border:0;background:transparent;color:#7a5a55;font:600 .78rem/1.2 system-ui,sans-serif;letter-spacing:.01em;box-shadow:none;cursor:pointer;text-decoration:none;opacity:.72}
+.evidence-trigger:hover,.evidence-trigger:focus-visible{opacity:1;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.evidence-trigger:active{transform:none;opacity:.82}
+.evidence-trigger .ev-icon{font-size:.85rem;opacity:.88}
 .evidence-folder{border:1px solid rgba(111,83,55,.22);border-radius:11px;background:rgba(255,255,255,.16);overflow:hidden;margin-bottom:10px}
 .evidence-folder>summary{list-style:none;display:flex;align-items:center;gap:8px;padding:12px 13px;cursor:pointer;font-weight:800;color:var(--ink)}
 .evidence-folder>summary::-webkit-details-marker{display:none}
@@ -1248,7 +1248,7 @@ body.immersive-fallback .page.text-flow-page{
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-evidence-folders-1',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261004-evidence-size-2',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
