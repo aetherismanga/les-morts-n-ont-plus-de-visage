@@ -1483,7 +1483,10 @@ body.on-cover #pageCounter{display:none!important}
 <script>
 (() => {
   const RAW=JSON.parse(document.getElementById('bookData').textContent);
-  const CHAPTER_IMAGES={0:"assets/story/prologue/prologue-01.png",1:"assets/story/chapters/chapitre-01.png"};
+  const CHAPTER_IMAGES={
+    0:{src:"assets/story/prologue/prologue-01.png",width:1672,height:941},
+    1:{src:"assets/story/chapters/chapitre-01.png",width:1491,height:1055}
+  };
   const EVIDENCE_ITEMS={
     "prologue-photo-0136":{type:"image",title:"Photo reçue — 1 h 36",chapter:"PROLOGUE",src:"assets/story/prologue/incrustation-roman-prologue-01.png"},
     "prologue-video-observation":{type:"video",title:"Séquence — regard dans la garrigue",chapter:"PROLOGUE",url:"https://youtube.com/shorts/qsui7hnSdEc?feature=share"},
@@ -1556,7 +1559,8 @@ body.on-cover #pageCounter{display:none!important}
         if(si===1&&pi===356) extra='<button type="button" class="evidence-trigger" data-evidence="ch1-photo-recue-gabriel" aria-label="Ouvrir la photo reçue"><span class="ev-icon">📎</span><span>voir la photo</span></button>';
         return '<p id="a-'+si+'-'+pi+'" data-anchor="'+si+'-'+pi+'" class="'+cls+'">'+body+'</p>'+extra;
       }).join('');
-      const art=CHAPTER_IMAGES[si]?'<figure class="chapter-illustration"><img src="'+CHAPTER_IMAGES[si]+'" alt="'+esc(s.label)+' — '+esc(s.title)+'" loading="lazy" fetchpriority="low" decoding="async"></figure>':'';
+      const image=CHAPTER_IMAGES[si];
+      const art=image?'<figure class="chapter-illustration"><img src="'+image.src+'" width="'+image.width+'" height="'+image.height+'" alt="'+esc(s.label)+' — '+esc(s.title)+'" loading="lazy" fetchpriority="low" decoding="async"></figure>':'';
       return '<section class="flow-chapter" id="chapter-'+si+'" data-section="'+si+'">'+art+'<div class="flow-chapter-head"><div class="chapter-kicker">'+esc(s.label)+'</div><h1 class="chapter-title">'+esc(s.title)+'</h1></div>'+paras+'</section>';
     }).join('');
     return '<div class="flow-viewport" id="flowViewport"><div class="flow-content" id="flowContent">'+html+'</div></div>';
@@ -1714,7 +1718,7 @@ body.on-cover #pageCounter{display:none!important}
     const list=$('chapterList');list.innerHTML='';
     RAW.sections.forEach((s,i)=>{
       const b=document.createElement('button');b.type='button';b.className='chapter-link'+(completedSections.has(i)?' completed':'');b.dataset.section=i;
-      const img=CHAPTER_IMAGES[i]||FRONT;
+      const img=CHAPTER_IMAGES[i]?.src||FRONT;
       b.innerHTML='<img class="chapter-thumb" src="'+esc(img)+'" alt="" loading="lazy"><strong>'+esc(s.label)+'</strong><span class="chapter-name">'+esc(s.title)+'</span><span class="chapter-status" aria-hidden="true">✓</span>';
       b.setAttribute('aria-label',s.label+' — '+s.title+(completedSections.has(i)?' — terminé':''));
       b.addEventListener('click',()=>{
@@ -2059,24 +2063,9 @@ body.on-cover #pageCounter{display:none!important}
   });
   window.addEventListener('appinstalled',()=>{deferredInstallPrompt=null;if(installBtn)installBtn.classList.remove('ready');showToast('Application installée');});
   if('serviceWorker' in navigator&&location.protocol.startsWith('http')){
-    let swReloaded=false;
-    navigator.serviceWorker.addEventListener('controllerchange',()=>{
-      if(swReloaded)return;
-      swReloaded=true;
-      location.reload();
-    });
+    // Cache activation must not reload an already visible reader.
     navigator.serviceWorker.register('sw.js?v=20261005-layout-47',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
-      if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
-      reg.addEventListener('updatefound',()=>{
-        const worker=reg.installing;
-        if(!worker)return;
-        worker.addEventListener('statechange',()=>{
-          if(worker.state==='installed'&&navigator.serviceWorker.controller){
-            worker.postMessage({type:'SKIP_WAITING'});
-          }
-        });
-      });
     }).catch(()=>{});
   }
 })();

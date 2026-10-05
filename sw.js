@@ -44,6 +44,7 @@ const CORE = [
   './assets/ui-pass-03/topbar/plein-ecran.png',
   './assets/ui-pass-03/topbar/reglages.png',
 ];
+const cachedResponse = request => caches.open(CACHE_NAME).then(cache => cache.match(request));
 
 self.addEventListener('install', event => {
   event.waitUntil(
@@ -67,10 +68,6 @@ self.addEventListener('activate', event => {
   );
 });
 
-self.addEventListener('message', event => {
-  if (event.data && event.data.type === 'SKIP_WAITING') self.skipWaiting();
-});
-
 self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET') return;
   const req = event.request;
@@ -90,7 +87,7 @@ self.addEventListener('fetch', event => {
           }
           return response;
         })
-        .catch(() => caches.match('./index.html'))
+        .catch(() => cachedResponse('./index.html'))
     );
     return;
   }
@@ -105,12 +102,12 @@ self.addEventListener('fetch', event => {
           }
           return response;
         })
-        .catch(() => caches.match(req))
+        .catch(() => cachedResponse(req))
     );
     return;
   }
 
   event.respondWith(
-    fetch(req).catch(() => caches.match(req))
+    fetch(req).catch(() => cachedResponse(req))
   );
 });
