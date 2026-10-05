@@ -1745,6 +1745,7 @@ body.on-cover #pageCounter{display:none!important}
   function render(direction='next',save=true,animate=true){
     current=Math.max(0,Math.min(totalPages-1,current));
     const turnClass=animate?(direction==='prev'?'turn-prev':'turn-next'):'';
+    document.body.classList.toggle('on-cover', current===0);
     if(current===0){pageEl.className='page cover-page '+turnClass;pageEl.innerHTML=buildCoverPage();}
     else if(current===totalPages-1){localStorage.setItem('visage-v2-second-reading-unlocked','1');pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
     else{
