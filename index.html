@@ -1317,12 +1317,12 @@ body{background:#07090c}
   <header class="topbar">
     <div class="brand">Les Morts n’ont plus de visage</div>
     <div class="actions ui-final-topbar">
-      <button class="icon-btn ui-final-icon" id="chaptersBtn" aria-label="Chapitres" title="Chapitres"><img src="assets/icons/Logochapitre.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="lexiconBtn" aria-label="Lexique" title="Lexique"><img src="assets/icons/Logolexique.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/icons/Logoenquete.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="audioBtn" aria-label="Podcast / lecture vocale" title="Podcast"><img src="assets/icons/Logopodcast.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/Logopleinecran.jpg?v=33" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="settingsBtn" aria-label="Réglages" title="Réglages"><img src="assets/icons/Logoreglage.jpg?v=31" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="chaptersBtn" aria-label="Chapitres" title="Chapitres"><img src="assets/icons/Logochapitre.jpg?v=34" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="lexiconBtn" aria-label="Lexique" title="Lexique"><img src="assets/icons/Logolexique.jpg?v=34" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/icons/Logoenquete.jpg?v=34" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="audioBtn" aria-label="Podcast / lecture vocale" title="Podcast"><img src="assets/icons/Logopodcast.jpg?v=34" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/Logopleinecran.jpg?v=34" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="settingsBtn" aria-label="Réglages" title="Réglages"><img src="assets/icons/Logoreglage.jpg?v=34" alt=""></button>
       <button class="icon-btn" id="installBtn" aria-label="Installer l’application" hidden><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
     </div>
   </header>
@@ -1990,7 +1990,7 @@ body{background:#07090c}
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261004-pwa-icons-19',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-34',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
