@@ -1744,7 +1744,7 @@ body.on-cover #pageCounter{display:none!important}
 
   function render(direction='next',save=true,animate=true){
     current=Math.max(0,Math.min(totalPages-1,current));
-    const turnClass=animate?(direction==='prev'?'turn-prev':'turn-next'):'';
+    const turnClass=(animate && pageEl.dataset.rendered==='1')?(direction==='prev'?'turn-prev':'turn-next'):'';
     document.body.classList.toggle('on-cover', current===0);
     if(current===0){pageEl.className='page cover-page '+turnClass;pageEl.innerHTML=buildCoverPage();}
     else if(current===totalPages-1){localStorage.setItem('visage-v2-second-reading-unlocked','1');pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
@@ -1757,6 +1757,7 @@ body.on-cover #pageCounter{display:none!important}
     pageCounter.textContent=current===0?'Couverture':(current===totalPages-1?'Fin du dossier':'Page '+(current+1)+' / '+totalPages);
     const pct=totalPages>1?Math.round((current/(totalPages-1))*100):0;progressBar.style.width=pct+'%';percentLabel.textContent=pct+' %';
     const sec=currentSection();chapterLabel.textContent=sec>=0?RAW.sections[sec].label+' — '+RAW.sections[sec].title:(current===0?'Couverture':'Fin du dossier');
+    pageEl.dataset.rendered='1';
     highlightChapter();
     if(save&&sec>=0){const a=captureVisibleAnchor();if(a){savedAnchor=a;localStorage.setItem(STORAGE.anchor,a);updateStoryProgress();}}
   }
@@ -2111,7 +2112,7 @@ body.on-cover #pageCounter{display:none!important}
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-37',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-41',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
@@ -2130,12 +2131,15 @@ body.on-cover #pageCounter{display:none!important}
 const shareBtn = document.getElementById('shareBtn');
 
 if (shareBtn) shareBtn.addEventListener('click', async () => {
+  if (shareBtn.dataset.sharing === '1') return;
+  shareBtn.dataset.sharing = '1';
   const shareData = { title: 'Les Morts n’ont plus de visage', text: 'Découvre le thriller interactif « Les Morts n’ont plus de visage »', url: location.origin + location.pathname };
   try {
     if (navigator.share) { await navigator.share(shareData); }
     else if (navigator.clipboard) { await navigator.clipboard.writeText(shareData.url); if (typeof showToast === 'function') showToast('Lien copié'); }
     else { window.prompt('Copiez ce lien :', shareData.url); }
   } catch (err) { if (err && err.name !== 'AbortError' && typeof showToast === 'function') showToast('Partage indisponible'); }
+  finally { setTimeout(() => { shareBtn.dataset.sharing = '0'; }, 250); }
 });
 </script>
 </body>
