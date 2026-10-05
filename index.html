@@ -1422,12 +1422,13 @@ body{background:#07090c}
 #shareBtn img{display:block!important;width:132px!important;height:46px!important;object-fit:contain!important;margin:0!important;padding:0!important;background:transparent!important}
 #shareBtn .share-symbol:before{left:1px;top:8px;box-shadow:13px -7px 0 #fff,13px 7px 0 #fff}
 #shareBtn .share-symbol:after{left:6px;top:7px;width:13px;height:2px;border-radius:2px;background:#fff;transform:rotate(-28deg);box-shadow:0 7px 0 #fff}
-body.on-cover #shareBtn{display:flex}
-body.on-cover .nav{grid-template-columns:1fr auto 1fr!important}
-body.on-cover #prevBtn{justify-self:start!important}
-body.on-cover #nextBtn{justify-self:end!important}
+body.on-cover #shareBtn{display:flex!important}
+body.on-cover .nav{grid-template-columns:minmax(0,1fr) 128px minmax(0,1fr)!important}
+body.on-cover #prevBtn{justify-self:start!important;grid-column:1!important}
+body.on-cover #shareBtn{grid-column:2!important;justify-self:center!important}
+body.on-cover #nextBtn{justify-self:end!important;grid-column:3!important}
 body.on-cover #pageCounter{display:none!important}
-@media(max-width:640px){#shareBtn{width:128px!important;height:42px!important}#shareBtn img{width:128px!important;height:42px!important}.nav{grid-template-columns:112px minmax(0,1fr) 112px!important}body.on-cover .nav{grid-template-columns:1fr auto 1fr!important;gap:5px!important}}
+@media(max-width:640px){#shareBtn{width:128px!important;height:42px!important}#shareBtn img{width:128px!important;height:42px!important}.nav{grid-template-columns:112px minmax(0,1fr) 112px!important}body.on-cover .nav{grid-template-columns:minmax(0,1fr) 128px minmax(0,1fr)!important;gap:5px!important}}
 </style>
 </head>
 <body class="theme-ivory">
