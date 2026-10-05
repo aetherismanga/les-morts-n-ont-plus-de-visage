@@ -1401,6 +1401,21 @@ body{background:#07090c}
   .topbar .actions.ui-final-topbar > #installBtn{display:none!important}
 }
 
+
+/* TOPBAR FINAL V8 — taille visuelle calée sur ENQUÊTE */
+@media(max-width:640px){
+  #indicesBtn img{
+    width:44px!important;height:44px!important;
+    min-width:44px!important;min-height:44px!important;
+    max-width:44px!important;max-height:44px!important;
+  }
+  #chaptersBtn img,#lexiconBtn img,#audioBtn img,#fullscreenBtn img,#settingsBtn img{
+    width:41px!important;height:41px!important;
+    min-width:41px!important;min-height:41px!important;
+    max-width:41px!important;max-height:41px!important;
+  }
+}
+
 </style>
 </head>
 <body class="theme-ivory">
@@ -1974,7 +1989,7 @@ body{background:#07090c}
 
   function nativeFullscreenElement(){return document.fullscreenElement||document.webkitFullscreenElement||null;}
   function fullscreenActive(){return !!nativeFullscreenElement()||immersiveFallback;}
-  function updateFullscreenButton(){const active=fullscreenActive(),btn=$('fullscreenBtn');updateMusicUI();btn.innerHTML=active?'✕ <span class="fs-label">Quitter</span>':'<img src="assets/legacy-ui/plein-ecran.png" alt="Plein écran">';btn.setAttribute('aria-label',active?'Quitter le plein écran':'Plein écran');btn.title=active?'Quitter le plein écran':'Plein écran';}
+  function updateFullscreenButton(){const active=fullscreenActive(),btn=$('fullscreenBtn');updateMusicUI();if(active){btn.innerHTML='✕ <span class="fs-label">Quitter</span>';}else{btn.innerHTML='<img src="/assets/icons/Logopleinecran.jpg?v=37" alt="Plein écran">';}btn.setAttribute('aria-label',active?'Quitter le plein écran':'Plein écran');btn.title=active?'Quitter le plein écran':'Plein écran';}
   async function enterNativeFullscreen(){const t=document.documentElement;if(t.requestFullscreen){try{await t.requestFullscreen({navigationUI:'hide'});}catch(_){await t.requestFullscreen();}return true;}if(t.webkitRequestFullscreen){t.webkitRequestFullscreen();return true;}return false;}
   async function exitNativeFullscreen(){if(document.exitFullscreen){await document.exitFullscreen();return true;}if(document.webkitExitFullscreen){document.webkitExitFullscreen();return true;}return false;}
   let fullscreenReflowTimer=null,fullscreenAnchor='';
@@ -2081,7 +2096,7 @@ body{background:#07090c}
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-36',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-37',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
