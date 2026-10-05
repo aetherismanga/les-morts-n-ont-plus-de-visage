@@ -39,7 +39,7 @@ button{cursor:pointer}
 @keyframes nextPage{from{transform:translateX(18px);opacity:.55}to{transform:none;opacity:1}}
 @keyframes prevPage{from{transform:translateX(-18px);opacity:.55}to{transform:none;opacity:1}}
 .cover-page{padding:0;overflow:hidden;background:#17130f;display:flex;align-items:center;justify-content:center}
-.cover-page img{width:100%;height:auto;display:block;max-height:calc(100vh - 105px);object-fit:contain;background:#17130f}
+.cover-page img{width:100%;height:100%;display:block;max-height:100%;object-fit:contain;background:#17130f}
 .end-page{padding:0!important;overflow:auto!important;background:linear-gradient(180deg,#1b120b 0%,#5f351d 38%,#e8c78f 100%)!important;color:#fff;display:block!important;min-height:calc(100vh - 120px)}
 .end-hero{position:relative;min-height:220px;padding:52px 26px 34px;text-align:center;display:flex;align-items:flex-end;justify-content:center;background:linear-gradient(180deg,#2a160d,#5f351d)}
 .end-hero-inner{max-width:650px;text-shadow:0 2px 12px rgba(0,0,0,.55)}
@@ -127,14 +127,6 @@ body.dev-placeholders .future-illustration{display:block}
 
 /* Lecture tactile et plein écran */
 .page{touch-action:pan-y;overscroll-behavior-x:contain}
-:fullscreen body{background:var(--bg)}
-:fullscreen .app{max-width:none;width:100%;min-height:100%}
-:fullscreen .stage{padding:8px}
-:fullscreen .book-shell{max-width:900px}
-body.immersive-fallback .app{max-width:none;width:100%}
-body.immersive-fallback .stage{padding:6px}
-body.immersive-fallback .topbar .brand{display:none}
-body.immersive-fallback .topbar{justify-content:flex-end}
 @media(max-width:640px){
   #fullscreenBtn{min-width:44px;padding-left:9px;padding-right:9px}
   #fullscreenBtn .fs-label{display:none}
@@ -184,54 +176,59 @@ body.settings-open #backdrop{display:none!important}
 #fsExitBtn:focus,#fsExitBtn:hover{opacity:.58}
 html:fullscreen .page,html:-webkit-full-screen .page,body.immersive-fallback .page{animation:none!important;transition:none!important}
 
-/* Native fullscreen: only the book page remains on screen. */
+/* Native fullscreen and CSS immersion share the same viewport and page layout. */
 html:fullscreen,html:fullscreen body,
 html:-webkit-full-screen,html:-webkit-full-screen body{
   width:100%;height:100%;margin:0;background:var(--paper);overflow:hidden;
 }
-html:fullscreen .app,html:-webkit-full-screen .app{
-  max-width:none;width:100%;height:100%;min-height:0;margin:0;background:var(--paper);overflow:hidden;
+body.immersive-fallback{overflow:hidden;background:var(--paper)}
+body.immersive-fallback .app{position:fixed;inset:0;z-index:95}
+html:fullscreen .app,html:-webkit-full-screen .app,body.immersive-fallback .app{
+  max-width:none;width:100%;height:var(--reader-viewport-height,100dvh)!important;
+  min-height:0!important;max-height:var(--reader-viewport-height,100dvh)!important;
+  margin:0;background:var(--paper);overflow:hidden;
 }
 html:fullscreen .topbar,html:-webkit-full-screen .topbar,
 html:fullscreen .resume-banner,html:-webkit-full-screen .resume-banner,
 html:fullscreen .nav,html:-webkit-full-screen .nav,
 html:fullscreen .progress-wrap,html:-webkit-full-screen .progress-wrap,
 html:fullscreen .drawer,html:-webkit-full-screen .drawer,
-html:fullscreen .drawer-backdrop,html:-webkit-full-screen .drawer-backdrop{
-  display:none!important;
+html:fullscreen .drawer-backdrop,html:-webkit-full-screen .drawer-backdrop,
+body.immersive-fallback .topbar,body.immersive-fallback .resume-banner,
+body.immersive-fallback .nav,body.immersive-fallback .progress-wrap,
+body.immersive-fallback .drawer,body.immersive-fallback .drawer-backdrop{display:none!important}
+html:fullscreen #fsExitBtn,html:-webkit-full-screen #fsExitBtn,body.immersive-fallback #fsExitBtn{display:flex}
+html:fullscreen .stage,html:-webkit-full-screen .stage,body.immersive-fallback .stage{
+  width:100%;height:100%!important;min-height:0!important;max-height:100%!important;
+  padding:0!important;overflow:hidden;
 }
-html:fullscreen #fsExitBtn,html:-webkit-full-screen #fsExitBtn{display:flex}
-html:fullscreen .stage,html:-webkit-full-screen .stage{
-  width:100%;height:100%;padding:0!important;overflow:hidden;
+html:fullscreen .book-shell,html:-webkit-full-screen .book-shell,body.immersive-fallback .book-shell{
+  max-width:none;width:100%;height:100%!important;min-height:0!important;max-height:100%!important;margin:0;
 }
-html:fullscreen .book-shell,html:-webkit-full-screen .book-shell{
-  max-width:none;width:100%;height:100%;margin:0;
+html:fullscreen .page,html:-webkit-full-screen .page,body.immersive-fallback .page{
+  width:100%;height:100%!important;min-height:0!important;max-height:none!important;
+  border:0;border-radius:0;box-shadow:none;overflow-y:auto;overflow-x:hidden;overscroll-behavior-y:contain;
+  padding:max(24px,env(safe-area-inset-top)) clamp(20px,7vw,82px) max(24px,env(safe-area-inset-bottom))!important;
 }
-html:fullscreen .page,html:-webkit-full-screen .page{
-  width:100%;height:100%;min-height:0;border:0;border-radius:0;box-shadow:none;
-  overflow-y:auto;overscroll-behavior-y:contain;
-  padding:max(30px,env(safe-area-inset-top)) clamp(22px,7vw,82px) max(28px,env(safe-area-inset-bottom));
+html:fullscreen .page.text-flow-page,html:-webkit-full-screen .page.text-flow-page,
+body.immersive-fallback .page.text-flow-page{
+  overflow:hidden!important;
+  padding-top:max(var(--reader-safe-top),env(safe-area-inset-top))!important;
+  padding-bottom:max(var(--reader-safe-bottom),calc(env(safe-area-inset-bottom) + 28px))!important;
 }
-html:fullscreen .cover-page,html:-webkit-full-screen .cover-page{padding:0;background:#17130f;overflow:hidden}
-html:fullscreen .cover-page img,html:-webkit-full-screen .cover-page img{
-  width:100%;height:100%;max-height:none;object-fit:contain;background:#17130f;
+html:fullscreen .flow-viewport,html:-webkit-full-screen .flow-viewport,body.immersive-fallback .flow-viewport{
+  height:100%!important;min-height:0!important;max-height:100%!important;overflow:hidden!important;
+}
+html:fullscreen .cover-page,html:-webkit-full-screen .cover-page,body.immersive-fallback .cover-page{
+  overflow:hidden!important;
+  height:100%!important;padding:max(8px,env(safe-area-inset-top)) 0 max(18px,env(safe-area-inset-bottom))!important;
+  background:#17130f!important;
+}
+html:fullscreen .cover-page img,html:-webkit-full-screen .cover-page img,body.immersive-fallback .cover-page img{
+  max-width:100%!important;max-height:100%!important;width:100%!important;height:100%!important;object-fit:contain!important;
 }
 html:fullscreen .reader-text,html:fullscreen .chapter-kicker,html:fullscreen .chapter-title,html:fullscreen .page-footer,
-html:-webkit-full-screen .reader-text,html:-webkit-full-screen .chapter-kicker,html:-webkit-full-screen .chapter-title,html:-webkit-full-screen .page-footer{
-  max-width:820px;margin-left:auto;margin-right:auto;
-}
-
-/* Fallback immersion for browsers/WebViews that block the native API. */
-body.immersive-fallback{overflow:hidden;background:var(--paper)}
-body.immersive-fallback .app{position:fixed;inset:0;z-index:95;max-width:none;width:100%;height:100dvh;overflow:hidden;background:var(--paper)}
-body.immersive-fallback .topbar,body.immersive-fallback .resume-banner,body.immersive-fallback .nav,body.immersive-fallback .progress-wrap,
-body.immersive-fallback .drawer,body.immersive-fallback .drawer-backdrop{display:none!important}
-body.immersive-fallback #fsExitBtn{display:flex}
-body.immersive-fallback .stage{width:100%;height:100%;padding:0!important;overflow:hidden}
-body.immersive-fallback .book-shell{max-width:none;width:100%;height:100%;margin:0}
-body.immersive-fallback .page{width:100%;height:100%;min-height:0;border:0;border-radius:0;box-shadow:none;overflow-y:auto;padding:max(30px,env(safe-area-inset-top)) clamp(22px,7vw,82px) max(28px,env(safe-area-inset-bottom))}
-body.immersive-fallback .cover-page{padding:0;background:#17130f;overflow:hidden}
-body.immersive-fallback .cover-page img{width:100%;height:100%;max-height:none;object-fit:contain;background:#17130f}
+html:-webkit-full-screen .reader-text,html:-webkit-full-screen .chapter-kicker,html:-webkit-full-screen .chapter-title,html:-webkit-full-screen .page-footer,
 body.immersive-fallback .reader-text,body.immersive-fallback .chapter-kicker,body.immersive-fallback .chapter-title,body.immersive-fallback .page-footer{max-width:820px;margin-left:auto;margin-right:auto}
 
 @media(max-width:640px){
@@ -266,12 +263,12 @@ body.immersive-fallback .reader-text,body.immersive-fallback .chapter-kicker,bod
 @media (orientation:portrait) and (max-width:900px){
   html,body{height:100%;overflow:hidden}
   body{overscroll-behavior:none}
-  .app{height:100dvh;min-height:0;display:flex;flex-direction:column;overflow:hidden}
+  .app{height:var(--reader-viewport-height,100dvh);min-height:0;display:flex;flex-direction:column;overflow:hidden}
   .topbar{position:relative;top:auto;flex:0 0 auto}
   .stage{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;padding:6px 6px 7px;overflow:hidden}
   .resume-banner{flex:0 0 auto;margin:4px auto;padding:6px 8px;font-size:.78rem;width:100%;max-width:820px}
   .resume-banner button{padding:5px 8px}
-  .book-shell{flex:1 1 auto;min-height:0;width:100%;display:flex;margin:0 auto}
+  .book-shell{flex:1 1 0;min-height:0;width:100%;display:flex;margin:0 auto}
   .page,.page.text-flow-page{height:100%;min-height:0;max-height:none;width:100%;overflow:hidden;padding:22px 20px 30px;border-radius:3px}
   .cover-page{padding:0!important}
   .cover-page img{width:100%;height:100%;max-height:none;object-fit:contain}
@@ -285,12 +282,6 @@ body.immersive-fallback .reader-text,body.immersive-fallback .chapter-kicker,bod
   .progress-wrap{flex:0 0 auto;width:100%;margin:4px auto 0}
   .progress-label{font-size:10px;margin-top:2px}
 }
-html:fullscreen .page,html:-webkit-full-screen .page{
-  overflow:hidden!important;height:100%!important;min-height:0!important;max-height:none!important;
-  padding:max(24px,env(safe-area-inset-top)) clamp(20px,7vw,82px) max(24px,env(safe-area-inset-bottom))!important;
-}
-html:fullscreen .cover-page,html:-webkit-full-screen .cover-page{padding:0!important}
-html:fullscreen .flow-viewport,html:-webkit-full-screen .flow-viewport{height:100%!important;overflow:hidden!important}
 
 
 
@@ -303,56 +294,6 @@ html:fullscreen .flow-viewport,html:-webkit-full-screen .flow-viewport{height:10
 /* A few pixels of vertical breathing room avoid fractional line clipping in multicolumn layout. */
 .flow-content{height:calc(100% - 10px)!important;}
 
-html:fullscreen .app,html:-webkit-full-screen .app,
-body.immersive-fallback .app{
-  height:var(--reader-viewport-height,100dvh)!important;
-  min-height:0!important;
-  max-height:var(--reader-viewport-height,100dvh)!important;
-}
-html:fullscreen .stage,html:-webkit-full-screen .stage,
-body.immersive-fallback .stage{
-  height:100%!important;
-  min-height:0!important;
-  max-height:100%!important;
-  padding:0!important;
-}
-html:fullscreen .book-shell,html:-webkit-full-screen .book-shell,
-body.immersive-fallback .book-shell{
-  height:100%!important;
-  min-height:0!important;
-  max-height:100%!important;
-}
-html:fullscreen .page.text-flow-page,html:-webkit-full-screen .page.text-flow-page,
-body.immersive-fallback .page.text-flow-page{
-  height:100%!important;
-  min-height:0!important;
-  max-height:100%!important;
-  overflow:hidden!important;
-  padding-top:max(var(--reader-safe-top),env(safe-area-inset-top))!important;
-  padding-bottom:max(var(--reader-safe-bottom),calc(env(safe-area-inset-bottom) + 28px))!important;
-}
-html:fullscreen .flow-viewport,html:-webkit-full-screen .flow-viewport,
-body.immersive-fallback .flow-viewport{
-  height:100%!important;
-  min-height:0!important;
-  max-height:100%!important;
-  overflow:hidden!important;
-}
-/* Keep covers fully visible too, never under Android navigation UI. */
-html:fullscreen .cover-page,html:-webkit-full-screen .cover-page,
-body.immersive-fallback .cover-page{
-  height:100%!important;
-  padding:max(8px,env(safe-area-inset-top)) 0 max(18px,env(safe-area-inset-bottom))!important;
-  background:#17130f!important;
-}
-html:fullscreen .cover-page img,html:-webkit-full-screen .cover-page img,
-body.immersive-fallback .cover-page img{
-  max-width:100%!important;
-  max-height:100%!important;
-  width:100%!important;
-  height:100%!important;
-  object-fit:contain!important;
-}
 @media (orientation:portrait) and (max-width:900px){
   /* Non-fullscreen portrait also gets a tiny safety reserve: still no vertical scrolling. */
   .page.text-flow-page{padding-bottom:max(34px,env(safe-area-inset-bottom))!important;}
@@ -662,7 +603,6 @@ body.immersive-fallback .page.text-flow-page{
 #resumeBanner{display:none!important}
 @media (orientation:portrait) and (max-width:900px){
   .stage{padding-top:8px!important}
-  .book-shell{flex:1 1 100%!important;min-height:0!important}
 }
 
 .second-reading-link{border-color:#a20d18!important;background:linear-gradient(135deg,#1a1114,#300b10)!important;color:#fff!important;box-shadow:0 0 18px rgba(190,20,32,.22)!important}
@@ -764,7 +704,7 @@ summary:focus,summary:active,summary:focus-visible{
   .cover-hero{width:100%;display:grid;grid-template-columns:minmax(330px,480px) 1fr;gap:46px;align-items:center}
   .cover-art{position:relative;display:flex;justify-content:center}
   .cover-art::before{content:"";position:absolute;inset:5% 4%;background:rgba(190,18,31,.22);filter:blur(42px);border-radius:30px}
-  .cover-art img{position:relative;width:auto!important;max-width:100%!important;max-height:610px!important;border-radius:10px;box-shadow:0 24px 55px rgba(0,0,0,.66);background:#090d11!important}
+  .cover-art img{position:relative;width:auto!important;height:auto;max-width:100%!important;max-height:610px!important;border-radius:10px;box-shadow:0 24px 55px rgba(0,0,0,.66);background:#090d11!important}
   .cover-copy{display:block;color:#f0f1f2;font-family:Georgia,'Times New Roman',serif}
   .cover-eyebrow{color:#c92b36;font:800 .72rem/1.2 system-ui,sans-serif;letter-spacing:.32em;text-transform:uppercase;margin-bottom:15px}
   .cover-copy h1{font-size:clamp(2.2rem,3.7vw,4.1rem);line-height:.98;margin:0 0 20px;color:#f4f2ee;text-transform:uppercase;text-shadow:0 3px 20px rgba(0,0,0,.55)}
@@ -798,10 +738,9 @@ summary:focus,summary:active,summary:focus-visible{
 
 /* Mobile keeps the original compact cover. */
 @media(max-width:899px){
-  .cover-hero{display:block;width:100%}
+  .cover-hero,.cover-art{display:block;width:100%;height:100%;min-height:0}
   .cover-copy{display:none}
-  .cover-art{display:block;width:100%}
-  .cover-art img{width:100%!important;height:auto!important;max-height:calc(100vh - 105px)!important;object-fit:contain!important}
+  .cover-art img{width:100%!important;height:100%!important;max-height:100%!important;object-fit:contain!important}
 }
 
 /* Character lexicon — same behavior on desktop and mobile */
@@ -1571,8 +1510,9 @@ body.on-cover #pageCounter{display:none!important}
   const $=id=>document.getElementById(id);
   const pageEl=$('page'), prevBtn=$('prevBtn'), nextBtn=$('nextBtn');
   const pageCounter=$('pageCounter'), progressBar=$('progressBar'), chapterLabel=$('chapterLabel'), percentLabel=$('percentLabel'), toast=$('toast');
-  let current=0,textPages=1,totalPages=3,chapterPageIndices=[],pageSections=[],layoutReady=false;
-  let touchStartX=null,touchStartY=null,immersiveFallback=false,resizeTimer=null,reflowTimer=null;
+  let current=0,textPages=1,totalPages=3,chapterPageIndices=[],layoutReady=false;
+  let touchStartX=null,touchStartY=null,layoutFrame=null,layoutAnchor='',layoutForced=false;
+  let flowWidth=0,flowHeight=0;
   let savedAnchor=localStorage.getItem(STORAGE.anchor)||'';
   let evidenceReturnState=null;
   const savedTheme=localStorage.getItem(STORAGE.theme)||'ivory';
@@ -1592,9 +1532,10 @@ body.on-cover #pageCounter{display:none!important}
     /* Android sometimes reports zero safe-area despite the gesture/navigation zone. Keep a real reserve. */
     const safeTop=Math.max(28,topOcclusion+20);
     const safeBottom=Math.max(58,Math.min(110,bottomOcclusion+44));
-    document.documentElement.style.setProperty('--reader-viewport-height',visualH+'px');
-    document.documentElement.style.setProperty('--reader-safe-top',safeTop+'px');
-    document.documentElement.style.setProperty('--reader-safe-bottom',safeBottom+'px');
+    const style=document.documentElement.style;
+    for(const [name,value] of [['--reader-viewport-height',visualH],['--reader-safe-top',safeTop],['--reader-safe-bottom',safeBottom]]){
+      if(style.getPropertyValue(name)!==value+'px')style.setProperty(name,value+'px');
+    }
   }
 
   function esc(v){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);}
@@ -1690,38 +1631,37 @@ body.on-cover #pageCounter{display:none!important}
     return sec;
   }
   function recalcLayout(anchorToRestore=''){
-    syncViewportMetrics();
-    const f=flow(),c=flowContent(); if(!f||!c)return;
-    const w=columnWidth(); c.style.columnWidth=w+'px';
-    // Keep the currently displayed column in place. Resetting scrollLeft here caused
-    // a visible white/first-column flash during Android fullscreen viewport changes.
-    const visibleLeft=f.scrollLeft;
-    requestAnimationFrame(()=>{
-      textPages=Math.max(1,Math.ceil((c.scrollWidth-1)/w)); totalPages=textPages+2;
-      chapterPageIndices=[];pageSections=[];
-      const fr=f.getBoundingClientRect();
-      RAW.sections.forEach((_,si)=>{
-        const chapter=$('chapter-'+si),el=chapter&&(chapter.querySelector('.chapter-illustration')||chapter); const er=el.getBoundingClientRect();
-        const absLeft=(er.left-fr.left)+visibleLeft;
-        const p=1+Math.max(0,Math.floor((absLeft+2)/w));
-        chapterPageIndices[si]=Math.min(textPages,p);
-      });
-      for(let p=1;p<=textPages;p++){
-        let sec=0;for(let i=0;i<chapterPageIndices.length;i++){if(p>=chapterPageIndices[i])sec=i;else break;}pageSections[p]=sec;
-      }
-      layoutReady=true;
-      if(anchorToRestore) current=Math.min(textPages,pageForAnchor(anchorToRestore));
-      else current=Math.max(0,Math.min(current,totalPages-1));
-      buildChapters();render('next',false,false);updateResumeBanner();
+    const f=flow(),c=flowContent();if(!f||!c)return;
+    const w=columnWidth();c.style.columnWidth=w+'px';
+    // Read after column layout has settled, without an asynchronous render of an old page.
+    textPages=Math.max(1,Math.ceil((c.scrollWidth-1)/w));totalPages=textPages+2;
+    const visibleLeft=f.scrollLeft,fr=f.getBoundingClientRect();
+    flowWidth=f.clientWidth;flowHeight=c.clientHeight;
+    chapterPageIndices=[];
+    RAW.sections.forEach((_,si)=>{
+      const chapter=$('chapter-'+si),el=chapter&&(chapter.querySelector('.chapter-illustration')||chapter);
+      const absLeft=(el.getBoundingClientRect().left-fr.left)+visibleLeft;
+      chapterPageIndices[si]=Math.min(textPages,1+Math.max(0,Math.floor((absLeft+2)/w)));
+    });
+    layoutReady=true;
+    current=anchorToRestore?Math.min(textPages,pageForAnchor(anchorToRestore)):Math.max(0,Math.min(current,totalPages-1));
+    buildChapters();render('next',false,false);updateResumeBanner();
+  }
+  function scheduleLayout(anchor='',force=false){
+    if(anchor)layoutAnchor=anchor;
+    else if(layoutFrame===null)layoutAnchor=captureVisibleAnchor()||savedAnchor;
+    layoutForced=layoutForced||force;
+    if(layoutFrame!==null)return;
+    layoutFrame=requestAnimationFrame(()=>{
+      layoutFrame=null;
+      const a=layoutAnchor,forced=layoutForced;layoutAnchor='';layoutForced=false;
+      syncViewportMetrics();
+      const f=flow(),c=flowContent();
+      if(!f||!c)return; // A viewport change never mounts or replaces the cover.
+      if(forced||f.clientWidth!==flowWidth||c.clientHeight!==flowHeight)recalcLayout(a);
     });
   }
-  function scheduleReflow(){
-    clearTimeout(reflowTimer); const a=captureVisibleAnchor()||savedAnchor;
-    reflowTimer=setTimeout(()=>{
-      if(current>=1&&current<=textPages){ pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow(); }
-      recalcLayout(a);
-    },90);
-  }
+  function scheduleReflow(){scheduleLayout(captureVisibleAnchor()||savedAnchor,true);}
 
   function buildCoverPage(){
     return '<div class="cover-hero">'+
@@ -1742,12 +1682,14 @@ body.on-cover #pageCounter{display:none!important}
 
   function render(direction='next',save=true,animate=true){
     current=Math.max(0,Math.min(totalPages-1,current));
-    const turnClass=(animate && pageEl.dataset.rendered==='1')?(direction==='prev'?'turn-prev':'turn-next'):'';
+    const turnClass=(animate && !fullscreenActive() && pageEl.dataset.rendered==='1')?(direction==='prev'?'turn-prev':'turn-next'):'';
     document.body.classList.toggle('on-cover', current===0);
-    if(current===0){pageEl.className='page cover-page '+turnClass;pageEl.innerHTML=buildCoverPage();}
+    if(current===0){
+      if(!pageEl.classList.contains('cover-page')){pageEl.className='page cover-page '+turnClass;pageEl.innerHTML=buildCoverPage();}
+    }
     else if(current===totalPages-1){localStorage.setItem('visage-v2-second-reading-unlocked','1');pageEl.className='page end-page '+turnClass;pageEl.innerHTML=buildEndPage();bindEndPage();}
     else{
-      if(!flow()){pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow();requestAnimationFrame(()=>recalcLayout(savedAnchor));return;}
+      if(!flow()){pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow();recalcLayout(savedAnchor);return;}
       pageEl.className='page text-flow-page coldcase-frame '+turnClass;
       const f=flow();f.scrollLeft=(current-1)*columnWidth();
     }
@@ -1775,7 +1717,10 @@ body.on-cover #pageCounter{display:none!important}
       const img=CHAPTER_IMAGES[i]||FRONT;
       b.innerHTML='<img class="chapter-thumb" src="'+esc(img)+'" alt="" loading="lazy"><strong>'+esc(s.label)+'</strong><span class="chapter-name">'+esc(s.title)+'</span><span class="chapter-status" aria-hidden="true">✓</span>';
       b.setAttribute('aria-label',s.label+' — '+s.title+(completedSections.has(i)?' — terminé':''));
-      b.addEventListener('click',()=>{if(!layoutReady){showToast('Mise en page en cours…');return;}goTo(chapterPageIndices[i]||1,'next');closeDrawers();});
+      b.addEventListener('click',()=>{
+        if(!flow()){current=1;render('next',false,false);}
+        goTo(chapterPageIndices[i]||1,'next');closeDrawers();
+      });
       list.appendChild(b);
       if(i===1){
         const special=document.createElement('button');special.type='button';special.className='chapter-link second-reading-link';
@@ -2002,35 +1947,32 @@ body.on-cover #pageCounter{display:none!important}
   function restartNarrationCurrent(){if(!narration.active)return;speechGeneration++;if(hdAudio)hdAudio.pause();narration.paused=false;setTimeout(speakNarrationParagraph,50);updateAudioUI();}
 
   function nativeFullscreenElement(){return document.fullscreenElement||document.webkitFullscreenElement||null;}
-  function fullscreenActive(){return !!nativeFullscreenElement()||immersiveFallback;}
+  function fullscreenActive(){return !!nativeFullscreenElement()||document.body.classList.contains('immersive-fallback');}
   function updateFullscreenButton(){const active=fullscreenActive(),btn=$('fullscreenBtn');updateMusicUI();if(active){btn.innerHTML='✕ <span class="fs-label">Quitter</span>';}else{btn.innerHTML='<img src="/assets/icons/Logopleinecran.jpg?v=37" alt="Plein écran">';}btn.setAttribute('aria-label',active?'Quitter le plein écran':'Plein écran');btn.title=active?'Quitter le plein écran':'Plein écran';}
-  async function enterNativeFullscreen(){const t=document.documentElement;if(t.requestFullscreen){try{await t.requestFullscreen({navigationUI:'hide'});}catch(_){await t.requestFullscreen();}return true;}if(t.webkitRequestFullscreen){t.webkitRequestFullscreen();return true;}return false;}
   async function exitNativeFullscreen(){if(document.exitFullscreen){await document.exitFullscreen();return true;}if(document.webkitExitFullscreen){document.webkitExitFullscreen();return true;}return false;}
-  let fullscreenAnchor='';
+  function syncFullscreenState(anchor=''){
+    pageEl.classList.remove('turn-next','turn-prev');
+    if(nativeFullscreenElement())document.body.classList.remove('immersive-fallback');
+    updateFullscreenButton();scheduleLayout(anchor);
+  }
   async function leaveFullscreen(){
-    fullscreenAnchor=captureVisibleAnchor()||savedAnchor;
+    const anchor=captureVisibleAnchor()||savedAnchor;
     if(nativeFullscreenElement()){try{await exitNativeFullscreen();}catch(_){}}
-    immersiveFallback=false;
     document.body.classList.remove('immersive-fallback');
-    updateFullscreenButton();
+    syncFullscreenState(anchor);
   }
   async function toggleFullscreen(){
-    fullscreenAnchor=captureVisibleAnchor()||savedAnchor;
     closeDrawers();
     if(fullscreenActive()){await leaveFullscreen();return;}
-    immersiveFallback=true;
+    const anchor=captureVisibleAnchor()||savedAnchor;
     document.body.classList.add('immersive-fallback');
-    updateFullscreenButton();
+    syncFullscreenState(anchor);
   }
-  function onFullscreenChange(){
-    if(nativeFullscreenElement()){immersiveFallback=false;document.body.classList.remove('immersive-fallback');}
-    updateFullscreenButton();
-    syncViewportMetrics();
-    fullscreenAnchor='';
-  }
+  function onFullscreenChange(){syncFullscreenState();}
   function updateResumeBanner(){const b=$('resumeBanner');if(b){b.classList.remove('show');b.hidden=true;}}
 
   prevBtn.addEventListener('click',prev);nextBtn.addEventListener('click',next);
+  pageEl.addEventListener('animationend',e=>{if(e.target===pageEl)pageEl.classList.remove('turn-next','turn-prev');});
   function populateChapterJump(){const sel=$('chapterJumpSelect');if(!sel)return;sel.innerHTML='';RAW.sections.forEach((s,i)=>{const o=document.createElement('option');o.value=String(i);o.textContent=s.label+' — '+s.title;sel.appendChild(o);});const sec=currentSection();if(sec>=0)sel.value=String(sec);}
   pageCounter.addEventListener('click',()=>{if(!layoutReady)return;populateChapterJump();const modal=$('pageJumpModal');modal.classList.add('open');modal.setAttribute('aria-hidden','false');});
   function closePageJump(){$('pageJumpModal').classList.remove('open');$('pageJumpModal').setAttribute('aria-hidden','true');}
@@ -2053,9 +1995,9 @@ body.on-cover #pageCounter{display:none!important}
   $('notifyClose').addEventListener('click',()=>{$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');});
   $('notifyModal').addEventListener('click',e=>{if(e.target===$('notifyModal'))$('notifyClose').click();});
   $('notifySave').addEventListener('click',()=>{const name=$('notifyName').value.trim(),contact=$('notifyContact').value.trim(),consent=$('notifyConsent').checked;if(!name||!contact){showToast('Indiquez votre prénom ou pseudo et votre contact');return;}if(!consent){showToast('Votre accord est nécessaire pour vous inscrire');return;}localStorage.setItem('scribe.release.subscription',JSON.stringify({name,contact,consent:true,updatedAt:new Date().toISOString()}));$('notifyModal').classList.remove('open');$('notifyModal').setAttribute('aria-hidden','true');showToast('Inscription enregistrée');});
-  $('fullscreenBtn').addEventListener('click',toggleFullscreen);$('fsExitBtn').addEventListener('click',leaveFullscreen);$('fsAudioToggle').addEventListener('click',()=>{if(narration.active)toggleNarrationPause();else startNarration();});$('musicToggle').addEventListener('click',toggleMusic);$('fsMusicToggle').addEventListener('click',toggleMusic);$('musicVolume').value=String(Math.round(musicVolume*100));$('musicVolumeValue').textContent=String(Math.round(musicVolume*100));$('musicVolume').addEventListener('input',e=>{musicVolume=Math.max(0,Math.min(1,Number(e.target.value)/100));$('musicVolumeValue').textContent=e.target.value;localStorage.setItem(STORAGE.musicVolume,String(musicVolume));setMusicLevel();});document.addEventListener('visibilitychange',()=>{if(document.hidden&&musicEnabled)localStorage.setItem(STORAGE.musicTime,String(ambienceAudio.currentTime));});
+  $('fullscreenBtn').addEventListener('click',toggleFullscreen);$('fsExitBtn').addEventListener('click',leaveFullscreen);$('fsAudioToggle').addEventListener('click',()=>{if(narration.active)toggleNarrationPause();else startNarration();});$('musicToggle').addEventListener('click',toggleMusic);$('fsMusicToggle').addEventListener('click',toggleMusic);$('musicVolume').value=String(Math.round(musicVolume*100));$('musicVolumeValue').textContent=String(Math.round(musicVolume*100));$('musicVolume').addEventListener('input',e=>{musicVolume=Math.max(0,Math.min(1,Number(e.target.value)/100));$('musicVolumeValue').textContent=e.target.value;localStorage.setItem(STORAGE.musicVolume,String(musicVolume));setMusicLevel();});document.addEventListener('visibilitychange',()=>{if(document.hidden&&musicEnabled)localStorage.setItem(STORAGE.musicTime,String(ambienceAudio.currentTime));if(!document.hidden)scheduleLayout();});
   $('fsPrevEdge').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();prev();});
-  document.addEventListener('fullscreenchange',onFullscreenChange);document.addEventListener('webkitfullscreenchange',onFullscreenChange);
+  document.addEventListener('onfullscreenchange' in document?'fullscreenchange':'webkitfullscreenchange',onFullscreenChange);
   $('backdrop').addEventListener('click',closeDrawers);document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',closeDrawers));
   document.querySelectorAll('[data-theme]').forEach(b=>b.addEventListener('click',()=>{setTheme(b.dataset.theme);showToast('Fond de lecture enregistré');}));
   $('fontSize').addEventListener('input',e=>setSize(e.target.value,true));$('lineHeight').addEventListener('input',e=>setLine(e.target.value,true));$('lexSearch').addEventListener('input',e=>renderLexicon(e.target.value));
@@ -2094,17 +2036,16 @@ body.on-cover #pageCounter{display:none!important}
   $('speechRate').value=String(speechRate);$('speechRateValue').textContent=speechRate.toFixed(2).replace('.',',');
   $('speechRate').addEventListener('input',e=>{speechRate=Math.max(.75,Math.min(1.2,Number(e.target.value)||.92));$('speechRateValue').textContent=speechRate.toFixed(2).replace('.',',');localStorage.setItem(STORAGE.speechRate,String(speechRate));restartNarrationCurrent();});
   
-  const handleViewportChange=()=>{clearTimeout(resizeTimer);syncViewportMetrics();if(current===0)return;const a=fullscreenAnchor||captureVisibleAnchor()||savedAnchor;resizeTimer=setTimeout(()=>{if(current!==0)recalcLayout(a)},360);};
+  const handleViewportChange=()=>scheduleLayout();
   window.addEventListener('resize',handleViewportChange,{passive:true});
+  window.addEventListener('pageshow',handleViewportChange);
   if(window.visualViewport){window.visualViewport.addEventListener('resize',handleViewportChange,{passive:true});}
 
   if(completedSections.size===0&&savedAnchor){const parts=savedAnchor.split('-').map(Number),savedSec=parts[0];if(Number.isInteger(savedSec)&&savedSec>0){for(let i=0;i<savedSec;i++)completedSections.add(i);saveCompleted();}}
   syncViewportMetrics();setTheme(savedTheme);setSize(savedSize,false);setLine(savedLine,false);renderLexicon();updateFullscreenButton();
   buildChapters();
-  pageCounter.textContent='Couverture';
-  chapterLabel.textContent='Couverture';
-  pageEl.className='page text-flow-page'+(current>0?' coldcase-frame':'');pageEl.innerHTML=buildFlow();
-  requestAnimationFrame(()=>requestAnimationFrame(()=>{current=0;recalcLayout('');}));
+  // Mount the cover immediately. Paginate the novel only when the reader opens it.
+  render('next',false,false);
   let deferredInstallPrompt=null;
   const installBtn=$('installBtn');
   const isStandalone=()=>window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches;
@@ -2124,7 +2065,7 @@ body.on-cover #pageCounter{display:none!important}
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-46',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261005-layout-47',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
