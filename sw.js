@@ -1,4 +1,4 @@
-const CACHE_NAME = 'les-morts-v2-ui-pass03-33';
+const CACHE_NAME = 'les-morts-v2-ui-pass03-34';
 const CORE = [
   './',
   './index.html',
@@ -96,16 +96,15 @@ self.addEventListener('fetch', event => {
 
   if (isImage) {
     event.respondWith(
-      caches.match(req).then(cached => {
-        if (cached) return cached;
-        return fetch(req).then(response => {
+      fetch(req, { cache: 'no-store' })
+        .then(response => {
           if (response && response.ok) {
             const copy = response.clone();
             event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.put(req, copy)));
           }
           return response;
-        });
-      })
+        })
+        .catch(() => caches.match(req))
     );
     return;
   }
