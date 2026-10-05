@@ -1278,6 +1278,38 @@ body{background:#07090c}
   }
 }
 
+
+/* TOPBAR FINAL V5 — logos légèrement réduits + plein écran chemin exact */
+@media(max-width:640px){
+  .topbar{
+    height:62px!important;
+    min-height:62px!important;
+    max-height:62px!important;
+    padding:2px 3px!important;
+  }
+  .topbar .actions.ui-final-topbar{
+    height:58px!important;
+    grid-template-columns:repeat(6,minmax(0,1fr))!important;
+    gap:2px!important;
+  }
+  #chaptersBtn,#lexiconBtn,#indicesBtn,#audioBtn,#fullscreenBtn,#settingsBtn{
+    height:58px!important;
+    min-height:58px!important;
+    max-height:58px!important;
+  }
+  #chaptersBtn img,#lexiconBtn img,#indicesBtn img,#audioBtn img,#fullscreenBtn img,#settingsBtn img{
+    width:50px!important;
+    height:50px!important;
+    min-width:50px!important;
+    min-height:50px!important;
+    max-width:50px!important;
+    max-height:50px!important;
+    object-fit:cover!important;
+    border-radius:50%!important;
+    clip-path:circle(49% at 50% 50%)!important;
+  }
+}
+
 </style>
 </head>
 <body class="theme-ivory">
@@ -1289,7 +1321,7 @@ body{background:#07090c}
       <button class="icon-btn ui-final-icon" id="lexiconBtn" aria-label="Lexique" title="Lexique"><img src="assets/icons/Logolexique.jpg?v=31" alt=""></button>
       <button class="icon-btn ui-final-icon" id="indicesBtn" aria-label="Enquête" title="Enquête"><img src="assets/icons/Logoenquete.jpg?v=31" alt=""></button>
       <button class="icon-btn ui-final-icon" id="audioBtn" aria-label="Podcast / lecture vocale" title="Podcast"><img src="assets/icons/Logopodcast.jpg?v=31" alt=""></button>
-      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/plein-ecran-final.jpg?v=32" alt=""></button>
+      <button class="icon-btn ui-final-icon" id="fullscreenBtn" aria-label="Plein écran" title="Plein écran"><img src="assets/icons/Logopleinecran.jpg?v=33" alt=""></button>
       <button class="icon-btn ui-final-icon" id="settingsBtn" aria-label="Réglages" title="Réglages"><img src="assets/icons/Logoreglage.jpg?v=31" alt=""></button>
       <button class="icon-btn" id="installBtn" aria-label="Installer l’application" hidden><span class="ui-aa">↓</span><span class="install-label">Installer</span></button>
     </div>
