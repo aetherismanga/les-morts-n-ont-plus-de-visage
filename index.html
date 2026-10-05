@@ -2082,7 +2082,8 @@ body.on-cover #pageCounter{display:none!important}
   $('speechRate').value=String(speechRate);$('speechRateValue').textContent=speechRate.toFixed(2).replace('.',',');
   $('speechRate').addEventListener('input',e=>{speechRate=Math.max(.75,Math.min(1.2,Number(e.target.value)||.92));$('speechRateValue').textContent=speechRate.toFixed(2).replace('.',',');localStorage.setItem(STORAGE.speechRate,String(speechRate));restartNarrationCurrent();});
   
-  const handleViewportChange=()=>{clearTimeout(resizeTimer);const a=fullscreenAnchor||captureVisibleAnchor()||savedAnchor;syncViewportMetrics();resizeTimer=setTimeout(()=>recalcLayout(a),360);};
+  let nativeShareOpen=false;
+  const handleViewportChange=()=>{if(nativeShareOpen)return;clearTimeout(resizeTimer);const a=fullscreenAnchor||captureVisibleAnchor()||savedAnchor;syncViewportMetrics();resizeTimer=setTimeout(()=>{if(!nativeShareOpen)recalcLayout(a)},360);};
   window.addEventListener('resize',handleViewportChange,{passive:true});
   if(window.visualViewport){window.visualViewport.addEventListener('resize',handleViewportChange,{passive:true});}
 
@@ -2112,7 +2113,7 @@ body.on-cover #pageCounter{display:none!important}
       swReloaded=true;
       location.reload();
     });
-    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-41',{updateViaCache:'none'}).then(reg=>{
+    navigator.serviceWorker.register('sw.js?v=20261005-cachefix-42',{updateViaCache:'none'}).then(reg=>{
       reg.update().catch(()=>{});
       if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});
       reg.addEventListener('updatefound',()=>{
@@ -2135,11 +2136,11 @@ if (shareBtn) shareBtn.addEventListener('click', async () => {
   shareBtn.dataset.sharing = '1';
   const shareData = { title: 'Les Morts n’ont plus de visage', text: 'Découvre le thriller interactif « Les Morts n’ont plus de visage »', url: location.origin + location.pathname };
   try {
-    if (navigator.share) { await navigator.share(shareData); }
+    if (navigator.share) { nativeShareOpen=true; clearTimeout(resizeTimer); await navigator.share(shareData); }
     else if (navigator.clipboard) { await navigator.clipboard.writeText(shareData.url); if (typeof showToast === 'function') showToast('Lien copié'); }
     else { window.prompt('Copiez ce lien :', shareData.url); }
   } catch (err) { if (err && err.name !== 'AbortError' && typeof showToast === 'function') showToast('Partage indisponible'); }
-  finally { setTimeout(() => { shareBtn.dataset.sharing = '0'; }, 250); }
+  finally { nativeShareOpen=false; syncViewportMetrics(); setTimeout(() => { shareBtn.dataset.sharing = '0'; }, 350); }
 });
 </script>
 </body>
